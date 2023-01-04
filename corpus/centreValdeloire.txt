@@ -1,0 +1,1569 @@
+{{Redirect|Région Centre|Centre|CVL}}
+{{Infobox Région de France
+ | nom                       = Centre-Val de Loire
+ | logo                      = Logo_Centre_Val_Loire_2015.svg
+ | légende= Logo.
+ | blason= 
+ | légende blason= 
+ | drapeau                   = 
+ | légende drapeau           = 
+ | préfecture                = [[Orléans]]
+ | départements              = [[Cher (département)|Cher]] (18)<br>[[Eure-et-Loir]] (28)<br>[[Indre (département)|Indre]] (36)<br>[[Indre-et-Loire]] (37)<br>[[Loir-et-Cher]] (41)<br>[[Loiret (département)|Loiret]] (45)
+ | arrondissements           = 20
+ | cantons                   = 102
+ | communes                  = 1757
+ | conseil régional          = [[Conseil régional du Centre-Val de Loire]]
+ | président                 = [[François Bonneau (homme politique, 1953)|François Bonneau]] ([[Parti socialiste (France)|PS]])
+ | présidente                = 
+ | mandat                    = [[Élections régionales françaises de 2021|2021]]-2028
+ | site web                  = [https://www.centre-valdeloire.fr/ centre-valdeloire.fr]
+ | préfet                    = 
+ | préfète                   = [[Régine Engström]]
+ | superficie                = 39151
+ | rang superficie           = {{7e}} sur 18
+ | population                = {{Population de France/dernière_pop}}<!-- Insertion automatique, ne pas modifier -->
+ | année_pop                 = {{Population de France/dernière_année}}<!-- Insertion automatique, ne pas modifier -->
+ | rang population           = {{12e}} sur 18
+ | gentilé                   = 
+ | langue                    = [[Angevin]], [[francien]], [[occitan]] ([[Limousin (dialecte)|limousin]]) dans l'extrême-sud de l'Indre et du Cher, [[normand]] dans quelques localités d'Eure-et-Loir
+}}
+
+Le '''Centre-Val de Loire'''{{Prononciation|Fr-Centre Val de Loire.wav}} (appelé '''Centre''' jusqu'au {{Date-|16 janvier 2015}}<ref name="loi-renommage"/>) est une [[Région française|région administrative]] du Centre Ouest de la [[France]] qui regroupe trois [[Anciennes provinces de France|provinces historiques]] : le [[Berry]], l'[[Orléanais]] et la [[Touraine]]. L'extrémité sud-est du territoire faisait partie d'une quatrième province : le [[Duché de Bourbon|Bourbonnais]]. Une partie de la région se situe dans la région naturelle du [[Val de Loire]].
+
+Septième région par sa superficie, le Centre-Val de Loire s'étend sur {{unité|39151 km2}} et compte {{nobr|2,58 millions}} d'habitants au {{date-|1 janvier 2014}}, soit 4 % de la population métropolitaine. Sa densité de population est de {{unité|66 hab/km2}}, soit moitié moindre que celle de la [[France métropolitaine]], ce qui en fait une région peu peuplée. La densité de population est plus forte sur l'axe [[Loire|ligérien]] où vit la moitié de la population.
+
+La [[Région (collectivité territoriale française)|région]] est composée de six départements : le [[Cher (département)|Cher]], l'[[Eure-et-Loir]], l'[[Indre (département)|Indre]], l'[[Indre-et-Loire]], le [[Loir-et-Cher]] et le [[Loiret (département)|Loiret.]] Elle ne compte que deux communes de plus de {{unité|100000|habitants}} : [[Tours]], classée {{26e}} parmi les communes les plus peuplées de France avec {{unité|135787|habitants}} en 2017, et la préfecture régionale [[Orléans]], au {{34e|rang}} avec {{unité|114644|habitants}}. Les autres préfectures des départements, [[Bourges]], [[Blois]], [[Châteauroux]] et [[Chartres]], comptent une population comprise entre {{unité|38000|et=67000|habitants}}.
+
+== Géographie ==
+{{Article détaillé|Géographie du Centre-Val de Loire}}
+
+La composition de la région en départements est la suivante.
+{{Composition Division de France
+ | charte = région
+ | région = Centre-Val de Loire
+ | liste de = départements
+}}
+Les six départements composant le Centre-Val de Loire regroupent {{nobr|20 arrondissements}}, {{nobr|102 cantons}} et {{nobr|1 757 communes}} pour une superficie de {{unité|39151 km2}} :
+{| class="wikitable sortable" 
+|-
+!Département||Code<br> Insee||Chef-lieu||Arrondissements||Cantons||Communes
+|-
+|[[Cher (département)|Cher]]||18||[[Bourges]]||[[Liste des arrondissements du Cher|3]]||[[Liste des cantons du Cher|19]]||[[Liste des communes du Cher|287]]
+|-
+|[[Eure-et-Loir]]||28||[[Chartres]]||[[Liste des arrondissements d'Eure-et-Loir|4]]||[[Liste des cantons d'Eure-et-Loir|15]]||[[Liste des communes d'Eure-et-Loir|365]]
+|-
+|[[Indre (département)|Indre]]||36||[[Châteauroux]]||[[Liste des arrondissements de l'Indre|4]]||[[Liste des cantons de l'Indre|13]]||[[Liste des communes de l'Indre|241]]
+|-
+|[[Indre-et-Loire]]||37||[[Tours]]||[[Liste des arrondissements d'Indre-et-Loire|3]]||[[Liste des cantons d'Indre-et-Loire|19]]||[[Liste des communes d'Indre-et-Loire|272]]
+|-
+|[[Loir-et-Cher]]||41||[[Blois]]||[[Liste des arrondissements de Loir-et-Cher|3]]||[[Liste des cantons de Loir-et-Cher|15]]||[[Liste des communes de Loir-et-Cher|267]]
+|-
+|[[Loiret (département)|Loiret]]||45||[[Orléans]]||[[Liste des arrondissements  du Loiret|3]]||[[Liste des cantons du Loiret|21]]||[[Liste des communes du Loiret|325]]
+|-
+|'''Centre-Val de Loire'''||||||'''20'''||'''102'''||'''{{formatnum:1757}}'''
+|-
+|}
+Le Centre-Val de Loire est limitrophe des régions [[Auvergne-Rhône-Alpes]], [[Bourgogne-Franche-Comté]], [[Île-de-France]], [[Nouvelle-Aquitaine]], [[Normandie (région administrative)|Normandie]] et [[Pays de la Loire]]. La région est la {{7e}} de [[France]] en superficie.
+{{Carte interactive
+ |latitude={{Wikidata|property=P625|displayformat=latitude}}
+ |longitude={{Wikidata|property=P625|displayformat=longitude}}
+ |zoom=7
+ |align=center
+ |texte=<center>Carte de départements du Centre-Val de Loire.</center>
+ |query=SELECT ?id
+        ?idLabel
+#        ?image
+        (if(?id = wd:{{#invoke:wikidata|getEntityIdForCurrentPage}}, '#FFF7F0', '#f0f0cc') as ?fill)
+        (if(?id = wd:{{#invoke:wikidata|getEntityIdForCurrentPage}}, 1, 1) as ?stroke_width)
+        (concat('[[:fr:', substr(str(?link),31,500),  '{{!}}', ?idLabel, ']]') as ?title)
+#        (concat('[[File:', substr(str(?image), 52, 500), '{{!}}200px]]') as ?description)
+        WHERE { 
+          { { ?id wdt:P31 wd:Q6465 }                                      # département 
+          ?id wdt:P131 wd:Q13947 }                                        # Centre-Val de Loire
+#          ?id wdt:P18 ?image.
+          FILTER NOT EXISTS { ?id wdt:P582 ?dateFin }                      # existantes
+          FILTER NOT EXISTS { ?id p:P31 [ pq:P582 ?pqfin ] }
+          FILTER NOT EXISTS { ?id p:1P31 [ pq:P582 ?pqfin ] }
+          SERVICE wikibase:label {
+            bd:serviceParam wikibase:language 'fr'.
+          }
+          OPTIONAL {
+            ?link schema:about ?id .
+            ?link schema:isPartOf <https://fr.wikipedia.org/> .
+          }
+        }
+}}
+
+=== Géologie du Centre-Val de Loire : un aperçu ===
+Le Centre-Val de Loire présente une multitude de régions naturelles dont le [[val de Loire]] constitue l'axe structurant. Géologiquement<ref name=":0">{{Ouvrage|auteur1=Charles N.|titre=Guide géologique du Val de Loire. De Sancerre à Saumur|lieu=Montreuil/Orléans|éditeur=Omniscience-BRGM Editions|année=2015|pages totales=256|isbn=978-2-916097-63-3}}</ref>{{,}}<ref>{{Ouvrage|auteur1=Alcaydé G. |et al.=oui|titre=Val de Loire (Anjou, Touraine, Orléanais, Berry)|sous-titre=Guide géologique régional|éditeur=Masson 2e édition|année=1990|pages totales=199|isbn=}}</ref>, cette région, majoritairement de plaine, couvre la partie sud du Bassin parisien ([[Beauce (France)|Beauce]], [[Berry]], [[Brenne (région naturelle)|Brenne]], [[Drouais]], [[Gâtinais]], [[Orléanais]], [[Pays-Fort]], [[Perche (région naturelle)|Perche]], [[Puisaye (région naturelle)|Puisaye]], [[Sancerrois]]<ref name=":0" />{{,}}<ref>{{Ouvrage|auteur1=Boulay T.|titre=Les Terroirs du Sancerrois|sous-titre=Un héritage géologique, culturel et immatériel|lieu=Villemur-sur-Tarn/31-Villematier|éditeur=Editions Loubatières|année=2020|pages totales=272|isbn=978-2-86266-774-4}}</ref>, [[Sologne]], [[Thymerais|Thimerais]], [[Touraine]]<ref>{{Ouvrage|auteur1=Macaire J.-J. |auteur2= Bréhéret J.-G.|titre=Curiosités géologiques de Touraine|lieu=Orléans/impr. en Belgique|éditeur=BRGM Editions|année=2018|pages totales=120|isbn=978-2-7159-2672-1}}</ref>) et une petite partie du nord du [[Massif central]] ({{page h'|Boischaut}}, Marche). Les terrains sont âgés du Paléozoïque ([[chaîne varisque]]) au Quaternaire, en passant par le [[Mésozoïque]] et le [[Cénozoïque]].
+
+Les formations géologiques les plus récentes sont les alluvions fluviatiles quaternaires de la Loire et de ses affluents ([[Beuvron (Yonne)|Beuvron]], [[Cher (rivière)|Cher]], [[Cosson]], [[Indre (rivière)|Indre]], [[Sauldre]]) ainsi que des autres cours d'eau ([[Anglin]], [[Arnon]], [[Claise]], [[Creuse (affluent de la Vienne)|Creuse]], [[Sauldre]], [[Yèvre (Cher)|Yèvre]]). S'ajoutent aussi les dépôts de lœss en [[Beauce (France)|Beauce]], synonymes de sols fertiles propices à l'agriculture céréalière intensive.
+
+Les formations du Cénozoïque présentent une variété de roches sédimentaires d'origine marine et continentale (lacustre, fluviatile, altérites) occupant majoritairement les régions naturelles de la [[Beauce (France)|Beauce]], de la [[Sologne]], de la [[Brenne (région naturelle)|Brenne]] et des Gâtines.
+
+Les formations du Mésozoïque englobent également des roches sédimentaires d'origine marine et continentale dont les âges évoluent du sud vers le nord, des roches les plus anciennes du Trias ([[Boischaut Sud|Boischaut]], Marche, [[Val de Germigny]]) aux plus récentes du Crétacé ([[Drouais]], [[Gâtinais]], [[Pays-Fort]], [[Perche (région naturelle)|Perche]], [[Touraine]]) en passant par celles du Jurassique ([[Berry]], [[Blancois]], [[Richelais (région naturelle)|Richelais]], [[Sancerrois]]).
+
+Enfin, les formations du [[Paléozoïque]] sont composées de roches magmatiques et métamorphiques ([[Boischaut Sud|Boischaut]], Marche) appartenant au [[Massif central]] et formées au cours de l'[[orogenèse varisque]].
+
+La [[géodiversité]] de la région Centre-Val de Loire a largement influencé les différents paysages, ces derniers ayant été aménagés par l'Homme au fil des siècles. Par exemple, le sous-sol argilo-sableux de la [[Sologne]] a favorisé l'implantation de milliers d'étangs artificiels, tout comme en [[Brenne (région naturelle)|Brenne]]. L'Homme a aussi su mettre à profit les ressources minérales du sous-sol régional avec la célèbre pierre de tuffeau<ref>{{Ouvrage|auteur1=Le Doussal C.|titre=Découverte géologique du Loir-et-Cher|éditeur=CDPNE|année=2015|pages totales=200|isbn=978-2-906514-06-5}}</ref>{{,}}<ref>{{Ouvrage|auteur1=Mulder T. |auteur2= Charles N. |auteur3= Le Doussal C.|titre=Curiosités géologiques en Loir-et-Cher|lieu=Orléans/impr. en Belgique|éditeur=BRGM Editions-CDPNE|année=2018|pages totales=120|isbn=978-2-7159-2661-5}}</ref>, les faluns de Touraine, le calcaire de Beauce<ref>{{Ouvrage|auteur1=Lorain J.-M.|titre=Les utilisations du calcaire de Beauce|éditeur=Bulletin de l’Association des Naturalistes Orléanais|année=1986|isbn=}}</ref>, les silex du Grand-Pressigny ou les « [[Platine à silex|pierres à fusil]] » de la vallée du Cher ([[Meusnes]], [[Couffy]]). Du pétrole est toujours exploité dans le [[Loiret (département)|Loiret]] au sein de sables du Crétacé à environ {{unité|600|m}} de profondeur<ref>{{Ouvrage|auteur1=Charles N. |auteur2= Graviou P.|titre=Curiosités géologiques du Loiret|lieu=Orléans|éditeur=BRGM Editions|année=2016|pages totales=92|isbn=978-2-7159-2633-2}}</ref>.
+
+Comme toutes les régions françaises, le Centre-Val de Loire bénéficie d'un inventaire en continu des sites géologiques d'intérêt patrimonial, dans le cadre de l'Inventaire National du [[Patrimoine géologique|Patrimoine Géologique]] (INPG)<ref>{{Lien web |auteur institutionnel=DREAL Centre-Val de Loire |titre=INPG Centre-Val de Loire |url=http://www.centre-val-de-loire.developpement-durable.gouv.fr/inventaire-national-du-patrimoine-geologique-inpg-r1054.html}}.</ref>. La géodiversité couplée à la [[biodiversité]] constituent le patrimoine naturel. À ce jour, {{nobr|127 sites}} géologiques d'intérêt patrimonial ont été recensés par la Commission Régionale du Patrimoine Géologique du Centre-Val de Loire (CRPG)<ref>{{Article |auteurs=Graviou P., Charles N., Binon M., Le Doussal C., Guillemin C., Macaire J.-J., Saumet R., Megerlin N., Gendry D. et Greffié C. |titre=L’inventaire du patrimoine géologique de la région Centre – Val de Loire |périodique=Actes du Colloque INPG de Chambéry |date=2018 }}</ref>. La liste des sites est consultable sur le site de l'[[Inventaire national du patrimoine naturel]] (INPN)<ref>{{Lien web |auteur institutionnel=INPN |titre=Inventaire National du Patrimoine Naturel |url=https://inpn.mnhn.fr/site/inpg/recherche}}.</ref>.
+
+=== Topographie et hydrographie ===
+[[Image:La Loire à Orléans.jpg|vignette|Bords de [[Loire]] à [[Orléans]].]]
+Le relief qui se dessine de part et d'autre de son lit est constitué de plaines et de plateaux aux caractéristiques géographiques différentes. Au plateau calcaire légèrement ondulé de la [[Champagne berrichonne (région naturelle)|Champagne berrichonne]], au sud-est, succèdent la [[Brenne (région naturelle)|Brenne]] (pays « aux mille étangs »), et les plateaux argileux de la [[Touraine]] dans le sud-ouest.
+
+Au sud et à l'est se dessinent des [[cuesta]]s avec des plateaux calcaires et des dépressions argileuses en bordure du [[Massif central]] ([[Motte d'Humbligny]] (collines du Sancerrois), {{unité|431 m}}). Au nord et au centre s'étendent les plateaux de [[Beauce (France)|Beauce]], de la [[Sologne]] et de la forêt d'Orléans. En [[Sologne]], la nature des sols a favorisé l'implantation de milliers d'étangs artificiels, ainsi que des landes et des taillis. C'est le paradis des oiseaux et du gibier.
+
+Le Centre-Val de Loire est traversé par le plus long fleuve de [[France]] (la [[Loire]], {{unité|1013 km}}) qui connaît des débits les plus irréguliers. De plus, de nombreux et divers affluents viennent s’y greffer.
+
+Le Centre-Val de Loire est soumis à trois types de crues, dont certaines ont marqué l'histoire de la région (ex. 1856, 1866) :
+* les crues d’origine océanique caractérisées par une lente montée des eaux issue de dépressions provenant de l’ouest ;
+* les crues d’origine cévenoles caractérisées par des précipitations intenses et longues se produisant sur les hauts bassins de la [[Loire]] et de l’[[Allier (rivière)|Allier]] ;
+* les crues dites « mixtes » mêlant les deux origines.
+
+=== Environnement ===
+[[Image:Le Chêne Fauteuil rond de Condé forêt de Senonches Eure-et-Loir (France)..JPG|vignette|La [[forêt de Senonches]] au sein du [[Parc naturel régional du Perche|parc naturel du Perche]].]]
+
+Le territoire régional abrite trois [[parc naturel régional de France|parcs naturels régionaux]] : la [[Parc naturel régional de la Brenne|Brenne]], [[Parc naturel régional Loire-Anjou-Touraine|Loire-Anjou-Touraine]] et le [[Parc naturel régional du Perche|Perche]]. Au-delà des images de grandes étendues céréalières, le Centre-Val de Loire dispose d’une grande diversité de paysages et de milieux naturels : forêts, étangs, pelouses calcaires sèches, landes, tourbières, et la Loire et ses bancs de sable et forêts alluviales.
+
+23 % du territoire régional<ref name="onf">{{Lien web|titre=ONF - Le domaine géré|url=http://www.onf.fr/centre_ouest_auvergne_limousin/sommaire/onf/domaine_gere/@@index.html|éditeur=[[Office national des forêts]]|consulté le=21/01/2015}}.</ref>, soit {{nobr|900 000 hectares}}, est couvert par les forêts et les autres boisements, principalement la forêt d’Orléans, la Sologne et l’est de la [[forêt du Perche]]. Les forêts sont en très grande majorité privées (85 %)<ref name="onf"/>. La juxtaposition de milieux fermés et ouverts favorise une grande diversité biologique, depuis les grands mammifères comme le [[cerf élaphe]], le [[chevreuil]], le [[sanglier]], les oiseaux des bois comme l’[[engoulevent d'Europe]], le [[pic noir]] et le [[pic cendré]].
+
+De plus, {{référence souhaitée|la région accueille plus de 5 % des zones humides connues sur le territoire national}} concentrées surtout en [[Brenne (région naturelle)|Brenne]] avec ses 1300 étangs et en [[Sologne]] avec ses 3000 étangs. Ces zones humides recèlent une grande diversité d’insectes et constituent une ressource importante pour les nombreuses espèces des cinq classes de vertébrés. Au cours des dix dernières années, plus de 10 % des zones de marais ou de tourbières ont néanmoins disparu.
+
+Les aménagements fluviaux perturbent la dynamique fluviale avec à terme une disparition des zones humides et des vallées alluviales. Les zones d’extraction de granulats ont augmenté par exemple de 30 % en dix ans (16 % au niveau national). Cette disparition entraîne la réduction de la biodiversité de la région. Les peuplements piscicoles reflètent la dégradation du milieu aquatique et restent majoritairement (61 %) perturbés ou dégradés.
+
+La région abrite la plus grande forêt domaniale de France, la [[forêt d'Orléans]] qui s’étend sur plus de {{unité|35000 ha}} au nord de la Loire et d’Orléans. La forêt accueille depuis les années 1980 la nidification du [[balbuzard pêcheur]], marquant le retour du rapace en France après des décennies de déclin<ref>{{Lien web|url=http://www.loiret.com/cgloiret/staticcontent/balbuzard.php|titre=À la rencontre du balbuzard pêcheur|auteur institutionnel=Conseil général du Loiret|éditeur=[[Loiret (département)|Département du Loiret]]|consulté le=14 janvier 2008}}.</ref>. Disparu du territoire métropolitain au cours du {{s-|XIX|e}}, le rapace avait trouvé un dernier refuge en Corse où il ne subsistait que trois couples en 1974.
+
+La région est [[Fragmentation (écologie)|écologiquement très fragmentée]]. En 2010, la [[Direction régionale de l'Environnement, de l'Aménagement et du Logement|DREAL]] et la Région ont lancé<ref>[[Ministère de l'Écologie (France)|Ministère de la Transition écologique et solidaire]], [http://www.centre.developpement-durable.gouv.fr/lancement-de-l-elaboration-schema-regional-de-a764.html Lancement de l’élaboration du Schéma Régional de Cohérence Écologique (SRCE)], {{date-|21 janvier 2010}}.</ref> l’élaboration du [[Schéma régional de cohérence écologique]] (SRCE), visant à restaurer dans la région un [[réseau écologique]] plus fonctionnel. En 2001, une première cartographie de la [[trame verte et bleue]] et des milieux naturels a été réalisée qui permettra de préparer le SRCE, traduction administrative du projet de [[Trame verte et bleue]] européenne ([[Réseau écologique paneuropéen]], national et régional pour les six départements de cette région, dans le cadre de la loi Grenelle II et de la nouvelle [[Stratégie nationale pour la biodiversité (France)|Stratégie nationale pour la biodiversité]] (2010-2011).
+
+==== Flore ====
+Bien qu’encore incomplets selon les départements, les inventaires floristiques du Centre-Val de Loire font état d’une grande diversité des milieux, de grands espaces forestiers comme la [[Sologne]] aux grandes plaines comme la [[Beauce (France)|Beauce]]. Le département du Loiret, par exemple, abrite presque un tiers de la flore française avec plus de {{unité|1450 espèces}}<ref>{{Lien web
+|url=http://cbnbp.mnhn.fr/cbnbp/actions/pdf/Doc_corres_45_2005.pdf|format=pdf|titre=Inventaire de la flore du Loiret, document des correspondants 2005|auteur institutionnel=Conservatoire botanique national du bassin parisien, délégation Centre|année=2005|éditeur=[[Muséum national d'histoire naturelle]]|consulté le=14 janvier 2008}}.</ref>.
+
+=== Axes de communication et transports ===
+De nombreuses autoroutes traversent le Centre-Val de Loire et relient - [[Paris]] à [[Lyon]] ([[Autoroute A6 (France)|A6]]) - à [[Bordeaux]] ([[Autoroute A10 (France)|A10]]) - à [[Clermont-Ferrand]] ([[Autoroute A71 (France)|A71]]) - à [[Rennes]] et à [[Nantes]] ([[Autoroute A11 (France)|A11]]) - à [[Nevers]] ([[Autoroute A77 (France)|A77]]) - à [[Toulouse]] ([[Autoroute A20 (France)|A20]]). Trois autoroutes transversales, [[Orléans]]-[[Sens (Yonne)|Sens]] ([[Autoroute A19 (France)|A19]]), [[Vierzon]]-[[Tours]]-[[Angers]] ([[Autoroute A85 (France)|A85]]) et [[Tours]]-[[Le Mans]]-[[Rouen]] ([[Autoroute A28 (France)|A28]]), complètent le réseau.
+
+Côté transport par voie ferrée, le conseil régional finance le réseau [[TER Centre-Val de Loire]], dont il délègue la gestion à la [[SNCF]].
+
+=== Tourisme ===
+La [[cathédrale de Chartres]] est l'une des attractions majeures de la région, et peut être observée au loin par les randonneurs en raison du relief très peu accidenté. Elle est visible du [[vélorail]] du Pays Chartrain, un trajet de 12,5 km aller-retour sur une ancienne ligne ferriviaire du Centre-Val-de-Loire<ref name="Oùfaire">"Où faire du vélorail dans votre région ?" par Jean-Marc De Jaeger le 01/06/202 ''[[Le Figaro]]'' [https://www.lefigaro.fr/voyages/ou-faire-du-velorail-dans-votre-region-1-20200601] </ref>, l'axe Paris-Chartres par Gallardon<ref name=Oùfaire/>. Le [[vélorail]] du Pays Chartrain a participé à l'engouement pour {{cita|moyen de transport original et ludique}} qui a le {{cita|vent en poupe}}<ref>"LE TOP 5 DES VÉLO-RAILS" le 15 juin 2022 dans ''La lettre du cheminot'' [https://www.lettreducheminot.fr/voyage/le-top-5-des-velo-rails/]</ref>. La ville de [[Châteaudun]] dispose de d'atouts touristique avec son Château, ses grottes, son musée des beaux arts et d'histoire naturelle et ses brocantes<ref>{{Lien web |langue=fr |titre=Châteaudun. Le camping attire les touristes étrangers |url=https://actu.fr/centre-val-de-loire/chateaudun_28088/chateaudun-le-camping-attire-les-touristes-etrangers_53241399.html |site=actu.fr |consulté le=2022-12-30}}</ref>
+
+== Histoire ==
+[[Fichier:Anciennes provinces Centre-Val de Loire.png|thumb|Les anciennes provinces composant l'actuelle région Centre-Val de Loire.]]
+{{Article détaillé|Histoire du Centre-Val de Loire}}
+
+Historiquement, les départements du Centre-Val de Loire ont été constitués globalement à partir de trois [[Anciennes provinces de France|provinces historiques]] :
+* l'[[Orléanais]] ([[Loiret (département)|Loiret]], [[Eure-et-Loir]], [[Loir-et-Cher]]) ;
+* le [[Berry]] ([[Cher (département)|Cher]] et [[Indre (département)|Indre]]) ;
+* la [[Touraine]] ([[Indre-et-Loire]]).
+Celles-ci sont entrées très tôt dans le [[domaine royal]] ([[Orléans]] ayant, avec [[Paris]], constitué le noyau d'origine de ce domaine), à la formation duquel elles contribuèrent très largement : les [[châteaux de la Loire]] — de [[Château de Gien|Gien]] à [[Forteresse royale de Chinon|Chinon]], en passant par [[Château de Chambord|Chambord]], [[Château de Blois|Blois]], [[Château de Chenonceau|Chenonceau]], [[Château d'Azay-le-Rideau|Azay-le-Rideau]], [[Château de La Ferté-Saint-Aubin|La Ferté-Saint-Aubin]]… témoignent d'un héritage commun.
+
+La région a vu naître ou a accueilli de nombreuses célébrités littéraires : [[Honoré de Balzac]], [[René Descartes]], [[François Rabelais]], [[Pierre de Ronsard]], [[George Sand]], [[Charles Péguy]], [[Marcel Proust]], [[Jules Romains]], [[Anatole France]], [[Max Jacob]], [[Maurice Genevoix]], [[Gaston Couté]], [[François Villon]], [[Alain-Fournier]], Étienne Dolet, [[Guillaume de Lorris]], Patrice de la Tour du Pin, Alfred de Vigny, Voltaire, Jean-Jacques Rousseau, Beaumarchais, etc.
+
+=== Controverse identitaire ===
+[[Fichier:Région Centre (logo).svg|vignette|180px|Logo de la région avant le changement de nom en 2015.]]
+
+L'histoire du Centre-Val de Loire est marquée par une problématique identitaire. Elle se compose en effet d'anciennes [[Anciennes provinces de France|provinces]] hétérogènes ([[Berry]]-[[Orléanais]]-[[Touraine]]).
+
+Ces différences eurent une répercussion d'abord sur le choix de la [[Région française|préfecture régionale]], puis sur le nom de la région.
+
+La préfecture fut attribuée à [[Orléans]] en 1964, bien que [[Tours]] soit plus peuplée. La raison de ce choix s'expliquerait notamment par une rivalité compliquée entre [[Jean Royer (homme politique)|Jean Royer]] et [[Michel Debré]], tous deux ministres [[gaullisme|gaullistes]], et respectivement maires de deux villes de Touraine que sont Tours et [[Amboise]]. On prête également à Michel Debré d'avoir influé sur le choix d'Orléans, à la suite de son échec personnel lors des [[Élections législatives françaises de 1962|élections législatives de 1962]] en Indre-et-Loire<ref>Falga Pierre et Feltin Michel, [http://www.lexpress.fr/informations/deux-villes-deux-strategies_650838.html Deux villes, deux stratégies], ''[[L'Express]]'', {{date-|6 mars 2003}}.</ref>. Ce choix anima les crispations entre ces deux villes.
+
+Baptisée « Région Centre » en [[1956]] par les services du ministère de l'Intérieur, l'appellation de la région fit aussi débat. Si ce nom avait l'avantage de ne pas mettre en avant l'une ou l'autre province, il ne revêtait aucune identité et était ambigu puisque la région ne se situe pas tout à fait au centre de la [[France]]. En [[1990]], les élus régionaux ambitionnent un changement de nom plus évocateur en France et à l'étranger. Quatre propositions sont faites : « Val de France », « [[Val de Loire]] », « Cœur de France » et « Centre-Val-de-Loire ». À l'automne [[1994]], les élus votent pour le nom « Centre-Val-de-Loire »<ref>http://www.monde-diplomatique.fr/2001/12/MILIEU/15968 Identité de la région Centre.</ref>. Cependant la loi dispose que tout changement de nom d'une région est soumis à l'accord des autres régions. L’opposition du président de la région des [[Pays de la Loire]] à l'utilisation du nom de « [[Loire]] », interdit alors le changement du nom de la région Centre.
+
+[[Fichier:2010 France Régions Proposition Balladur.gif|vignette|Proposition de réforme des régions par le comité Balladur (la région Val de Loire en vert) en 2010.]]
+Ce n'est que par la loi du {{date-|16 janvier 2015}} relative à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral, que le nom de « Centre-Val de Loire » sera officialisé pour la région<ref name="loi-renommage">V de l’article 2 de la [[Loi relative à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral|loi {{numéro|2015-29}} du 16 janvier 2015 relative à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral]] : « V. – À compter de la publication de la présente loi, la région Centre est dénommée « Centre-Val de Loire ». Dans l’ensemble des dispositions législatives en vigueur, les références à la région Centre sont remplacées par les références à la région Centre - Val-de-Loire. » {{Lien web|titre=Fac-similé JO du 17/01/2015, texte 1|url=http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150117&numTexte=1&pageDebut=00777&pageFin=00783|site=[[Légifrance]]|date=17/01/2015|consulté le=21/01/2015}}.</ref>. Pour résoudre ce problème d'identité et d'image, il avait été évoqué en 2014 de créer une région [[Val de Loire]] associée avec le [[Maine-et-Loire]], la [[Sarthe (département)|Sarthe]] et la [[Mayenne (département)|Mayenne]]. Ce découpage correspondait au nom de la région naturelle, aux [[châteaux de la Loire]] et aux [[Vignoble de la vallée de la Loire|vignobles de la vallée de la Loire]]<ref>{{Article|titre=Nantes doit-elle redevenir bretonne ?|périodique=[[L'Obs]]|date=2014|lire en ligne=http://tempsreel.nouvelobs.com/societe/20140418.OBS4422/nantes-doit-elle-redevenir-bretonne.html|consulté le=2017-11-08}}.</ref>{{,}}<ref>{{Article|auteur institutionnel=''[[Le Monde]]'' et l'[[École publique de journalisme de Tours]]|titre=Le Centre-Val de Loire, une identité à concevoir (1)|périodique=Blog [[Le Monde]], Centre - Val-de-Loire : les régions en campagne|date=2015|lire en ligne=http://centre2015.blog.lemonde.fr/2015/11/23/le-centre-val-de-loire-une-identite-a-concevoir-1/|consulté le=2018-04-28}}.</ref>.
+
+Désormais, la cohabitation au sein de la région est apaisée, les universités d'Orléans et de Tours s'étant, par exemple, réunies pour créer [[Communauté d'universités et établissements Centre-Val de Loire|Centre - Val de Loire Université]].
+
+<gallery>
+Flag of Orléanais.svg|Drapeau de l'[[Orléanais]].
+Berry flag.svg|Drapeau du [[Berry]].
+Flag of Touraine.svg|Drapeau de la [[Touraine]]. 
+</gallery>
+
+== Politique et administration ==
+{{Article détaillé|Politique en Centre-Val de Loire|Conseil régional du Centre-Val de Loire}}
+
+=== Tendances politiques et élections ===
+
+==== Récapitulatif des résultats électoraux récents ====
+{{Article détaillé|Élections régionales de 2015 en Centre-Val de Loire|Élections régionales de 2021 en Centre-Val de Loire}}
+{| class="wikitable centre" style="text-align:center"
+! rowspan="2" scope="col" |Scrutin
+! rowspan="2" |Département
+! colspan="13" scope="col" |{{1er}} tour
+! colspan="13" scope="col" |{{2nd}} tour
+|-
+! colspan="2" scope="col" |{{1er}}
+! scope="col" |%
+! colspan="2" scope="col" |{{2e}}
+! scope="col" |%
+! colspan="2" scope="col" |{{3e}}
+! scope="col" |%
+! colspan="2" scope="col" |{{4e}}
+! scope="col" |%
+!Abs
+! colspan="2" scope="col" |{{1er}}
+! scope="col" |%
+! colspan="2" scope="col" |{{2e}}
+! scope="col" |%
+! colspan="2" scope="col" |{{3e}}
+! scope="col" |%
+! colspan="2" |{{4e}}
+!%
+!Abs
+|-
+! rowspan="7" |[[Élection présidentielle française de 2012|Présidentielle 2012]]
+!Centre-Val de Loire
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+!UMP
+!27,90
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+!PS
+!26,64
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!FN
+!19,37
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+!FG
+!10,51
+!18,13
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+!UMP
+!50,56
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+!PS
+!49,44
+| colspan="3" rowspan="7" |''Pas de {{3e}}''
+| colspan="3" rowspan="7" |''Pas de {{4e}}''
+!18,05
+|-
+!18
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|26,76
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|24,96
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|19,73
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[Front de gauche (France)|FG]]
+|13,81
+!19,62
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|54,04
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|45,96
+!19,82
+|-
+!28
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|29,39
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|25,71
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|20,72
+| {{Infobox Parti politique français/couleurs|MODEM}} |<br />
+|[[Mouvement démocrate (France)|MODEM]]
+|9,22
+!19,00
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|53,47
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|46,53
+!18,72
+|-
+!36
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|29,87
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|24,16
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|19,55
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[Front de gauche (France)|FG]]
+|11,26
+!18,03
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|55,66
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|44,34
+!17,88
+|-
+!37
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|28,24
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|28,10
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|15,98
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[Front de gauche (France)|FG]]
+|10,93
+!17,28
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|51,23
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|48,77
+!17,10
+|-
+!41
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|28,35
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|25,01
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|20,88
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[Front de gauche (France)|FG]]
+|9,85
+!17,19
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|52,43
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|47,57
+!17,34
+|-
+!45
+| {{Infobox Parti politique français/couleurs|LR}} |
+|[[Union pour un mouvement populaire|UMP]]
+|29,31
+| {{Infobox Parti politique français/couleurs|PS}} |
+|[[Parti socialiste (France)|PS]]
+|25,45
+| {{Infobox Parti politique français/couleurs|FN}} |
+|[[Rassemblement national|FN]]
+|20,58
+| {{Infobox Parti politique français/couleurs|FI}} |
+|[[Front de gauche (France)|FG]]
+|9,31
+!18,11
+| {{Infobox Parti politique français/couleurs|LR}} |
+|[[Union pour un mouvement populaire|UMP]]
+|54,03
+| {{Infobox Parti politique français/couleurs|PS}} |
+|[[Parti socialiste (France)|PS]]
+|45,97
+!18,03
+|-
+! rowspan="7" scope="row" |[[Élections européennes de 2014 en France|Européennes 2014]]
+!Centre-Val de Loire
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!FN
+!26,52
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+!UMP
+!21,14
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+!PS
+!12,82
+| {{Infobox Parti politique français/couleurs|MODEM}} |<br />
+!MODEM
+!10,73
+!55,12
+| colspan="13" rowspan="7" |''Tour unique''
+|-
+!18
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|27,50
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|20,85
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|11,61
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[Front de gauche (France)|FG]]
+|10,35
+!56,39
+|-
+!28
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|27,12
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|23,22
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|11,64
+| {{Infobox Parti politique français/couleurs|MDM}} |<br />
+|[[Mouvement démocrate (France)|MODEM]]
+|10,26
+!57,12
+|-
+!36
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|27,80
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|20,82
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|14,44
+| {{Infobox Parti politique français/couleurs|MDM}} |<br />
+|[[Mouvement démocrate (France)|MODEM]]
+|9,36
+!54,80
+|-
+!37
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|22,30
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|20,65
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|14,12
+| {{Infobox Parti politique français/couleurs|MODEM}} |<br />
+|[[Mouvement démocrate (France)|MODEM]]
+|12,76
+!54,32
+|-
+!41
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|28,50
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|18,82
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|12,98
+| {{Infobox Parti politique français/couleurs|MODEM}} |<br />
+|[[Mouvement démocrate (France)|MODEM]]
+|11,64
+!53,62
+|-
+!45
+| {{Infobox Parti politique français/couleurs|FN}} |
+|[[Rassemblement national|FN]]
+|28,05
+| {{Infobox Parti politique français/couleurs|LR}} |
+|[[Union pour un mouvement populaire|UMP]]
+|21,86
+| {{Infobox Parti politique français/couleurs|PS}} |
+|[[Parti socialiste (France)|PS]]
+|12,23
+| {{Infobox Parti politique français/couleurs|MDM}} |
+|[[Mouvement démocrate (France)|MODEM]]
+|9,98
+!54,80
+|-
+! rowspan="7" scope="row" |[[Élections régionales de 2015 en Normandie|Régionales 2015]]
+!Centre-Val de Loire
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!FN
+!30,48
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+!UDI
+!26,25
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+!PS
+!24,31
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+!EELV
+!6,60
+!50,46
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+!PS
+!35,42
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+!UDI
+!34,58
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!FN
+!30,00
+| colspan="3" rowspan="7" |''Pas de {{4e}}''
+!40,78
+|-
+!18
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|31,82
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|22,73
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|21,84
+| {{Infobox Parti politique français/couleurs|PCF}} |<br />
+|[[Parti communiste français|PCF]]
+|9,52
+!51,97
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|36,66
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|31,87
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|31,48
+!42,62
+|-
+!28
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|32,01
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|31,48
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|20,28
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|5,85
+!51,82
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|39,72
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|31,35
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|28,93
+!42,30
+|-
+!36
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|30,21
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|26,57
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|25,77
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|5,95
+!49,47
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|36,51
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|33,65
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|29,84
+!39,49
+|-
+!37
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|27,35
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|26,18
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|25,61
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|8,28
+!50,65
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|40,64
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|33,77
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|25,59
+!40,26
+|-
+!41
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|32,34
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|25,70
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|23,87
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|6,44
+!48,41
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|34,08
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|33,73
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|32,19
+!39,15
+|-
+!45
+| {{Infobox Parti politique français/couleurs|FN}} |
+|[[Rassemblement national|FN]]
+|31,92
+| {{Infobox Parti politique français/couleurs|UDI}} |
+|[[Union des démocrates et indépendants|UDI]]
+|25,38
+| {{Infobox Parti politique français/couleurs|PS}} |
+|[[Parti socialiste (France)|PS]]
+|24,97
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|[[Europe Écologie Les Verts|EELV]]
+|6,33
+!50,09
+| {{Infobox Parti politique français/couleurs|PS}} |
+|[[Parti socialiste (France)|PS]]
+|34,63
+| {{Infobox Parti politique français/couleurs|UDI}} |
+|[[Union des démocrates et indépendants|UDI]]
+|34,17
+| {{Infobox Parti politique français/couleurs|FN}} |
+|[[Rassemblement national|FN]]
+|31,20
+!40,68
+|-
+! rowspan="7" scope="row" |[[Élection présidentielle française de 2017|Présidentielle 2017]]
+!Centre-Val de Loire
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!FN
+!23,08
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+!EM
+!22,68
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+!LR
+!21,04
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+!LFI
+!17,67
+!19,74
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+!EM
+!63,32
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!FN
+!36,68
+| colspan="3" rowspan="7" |''Pas de {{3e}}''
+| colspan="3" rowspan="7" |''Pas de {{4e}}''
+!23,30
+|-
+!18
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|24,18
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|22,05
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|19,51
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|19,09
+!22,23
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|61,17
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|38,83
+!25,34
+|-
+!28
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|25,08
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|21,84
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|21,74
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|16,20
+!20,06
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|60,27
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|39,73
+!23,62
+|-
+!36
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|24,43
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|20,85
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|19,46
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|19,05
+!20,49
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|60,98
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|39,02
+!23,42
+|-
+!37
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|24,47
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|21,24
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|19,40
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|18,98
+!18,69
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|69,23
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|30,77
+!22,97
+|-
+!41
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|25,12
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|22,07
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|20,98
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|16,30
+!18,88
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|60,47
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|39,53
+!22,25
+|-
+!45
+| {{Infobox Parti politique français/couleurs|FN}} |
+|[[Rassemblement national|FN]]
+|23,53
+| {{Infobox Parti politique français/couleurs|EM}} |
+|[[La République en marche|EM]]
+|23,48
+| {{Infobox Parti politique français/couleurs|LR}} |
+|[[Les Républicains|LR]]
+|21,28
+| {{Infobox Parti politique français/couleurs|FI}} |
+|[[La France insoumise|LFI]]
+|16,35
+!19,44
+| {{Infobox Parti politique français/couleurs|EM}} |
+|[[La République en marche|EM]]
+|63,16
+| {{Infobox Parti politique français/couleurs|FN}} |
+|[[Rassemblement national|FN]]
+|36,84
+!22,90
+|-
+! rowspan="7" scope="row" |[[Élections européennes de 2019 en France|Européennes 2019]]
+!Centre-Val de Loire
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!RN
+!25,44
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+!LREM
+!21,56
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+!EELV
+!11,48
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+!UDC
+!9,13
+!47,33
+| colspan="13" rowspan="7" |''Tour unique''
+|-
+!18
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|27,43
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|20,23
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|9,84
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UDC]]
+|8,48
+!48,03
+|-
+!28
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|27,88
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|20,56
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|10,09
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UDC]]
+|9,75
+!48,50
+|-
+!36
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|28,42
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|19,23
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|9,85
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UDC]]
+|9,03
+!45,99
+|-
+!37
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|LREM
+|23,34
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|20,79
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|14,13
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UDC]]
+|8,97
+!47,37
+|-
+!41
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|27,15
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|20,48
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|11,16
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UDC]]
+|9,09
+!44,84
+|-
+!45
+| {{Infobox Parti politique français/couleurs|FN}} |
+|[[Rassemblement national|RN]]
+|25,26
+| {{Infobox Parti politique français/couleurs|EM}} |
+|[[La République en marche|LREM]]
+|22,63
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|[[Europe Écologie Les Verts|EELV]]
+|11,54
+| {{Infobox Parti politique français/couleurs|UCD}} |
+|[[Union de la droite et du centre|UDC]]
+|9,27
+!48,01
+|-
+! rowspan="7" |[[Élections régionales françaises de 2021|Régionales 2021]]
+!Centre-Val de Loire
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+!UG
+!24,81
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!RN
+!22,24
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+!UCD
+!18,82
+| {{Infobox Parti politique français/couleurs|DVC}} |<br />
+!UC
+!16,65
+!67,26
+| {{Infobox Parti politique français/couleurs|UGE}} |<br />
+!UGE
+!39,15
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+!UCD
+!22,61
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!RN
+!22,24
+| {{Infobox Parti politique français/couleurs|DVC}} |<br />
+!UC
+!16,00
+!66,87
+|-
+!18
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|27,01
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|23,82
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UCD]]
+|20,42
+| {{Infobox Parti politique français/couleurs|DVC}} |<br />
+|[[Union du centre (nuance politique)|UC]]
+|13,17
+!67,13
+| {{Infobox Parti politique français/couleurs|UGE}} |<br />
+|[[Union de la gauche|UGE]]
+|39,92
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UCD]]
+|23,96
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|23,65
+| {{Infobox Parti politique français/couleurs|DVC}} |<br />
+|[[Union du centre (nuance politique)|UC]]
+|12,47
+!66,03
+|-
+!28
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|25,46
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|21,38
+| {{Infobox Parti politique français/couleurs|DVC}} |<br />
+|[[Union du centre (nuance politique)|UC]]
+|17,85
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UCD]]
+|17,67
+!68,19
+| {{Infobox Parti politique français/couleurs|UGE}} |<br />
+|[[Union de la gauche|UGE]]
+|33,24
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|26,67
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UCD]]
+|21,93
+| {{Infobox Parti politique français/couleurs|DVC}} |<br />
+|[[Union du centre (nuance politique)|UC]]
+|18,16
+!67,63
+|-
+!36
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UCD]]
+|28,60
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|23,71
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|21,33
+| {{Infobox Parti politique français/couleurs|DVC}} |<br />
+|[[Union du centre (nuance politique)|UC]]
+|10,95
+!64,35
+| {{Infobox Parti politique français/couleurs|UGE}} |<br />
+|[[Union de la gauche|UGE]]
+|36,47
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UCD]]
+|33,57
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|20,13
+| {{Infobox Parti politique français/couleurs|DVC}} |<br />
+|[[Union du centre (nuance politique)|UC]]
+|9,83
+!64,30
+|-
+!37
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|25,77
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UCD]]
+|18,91
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|18,46
+| {{Infobox Parti politique français/couleurs|DVC}} |<br />
+|[[Union du centre (nuance politique)|UC]]
+|16,18
+!70,63
+| {{Infobox Parti politique français/couleurs|UGE}} |<br />
+|[[Union de la gauche|UGE]]
+|44,03
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UCD]]
+|22,38
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|17,88
+| {{Infobox Parti politique français/couleurs|DVC}} |<br />
+|[[Union du centre (nuance politique)|UC]]
+|15,71
+!68,78
+|-
+!41
+| {{Infobox Parti politique français/couleurs|DVC}} |<br />
+|[[Union du centre (nuance politique)|UC]]
+|23,98
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|22,16
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|21,40
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UCD]]
+|15,48
+!64,33
+| {{Infobox Parti politique français/couleurs|UGE}} |<br />
+|[[Union de la gauche|UGE]]
+|35,50
+| {{Infobox Parti politique français/couleurs|DVC}} |<br />
+|[[Union du centre (nuance politique)|UC]]
+|22,91
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|22,40
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UCD]]
+|19,19
+!64,37
+|-
+!45
+| {{Infobox Parti politique français/couleurs|DVG}} |
+|[[Union de la gauche|UG]]
+|27,52
+| {{Infobox Parti politique français/couleurs|FN}} |
+|[[Rassemblement national|RN]]
+|23,20
+| {{Infobox Parti politique français/couleurs|UCD}} |
+|[[Union de la droite et du centre|UCD]]
+|16,73
+| {{Infobox Parti politique français/couleurs|DVC}} |
+|[[Union du centre (nuance politique)|UC]]
+|16,02
+!67,46
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|[[Union de la gauche|UGE]]
+|41,37
+| {{Infobox Parti politique français/couleurs|FN}} |
+|[[Rassemblement national|RN]]
+|23,33
+| {{Infobox Parti politique français/couleurs|UCD}} |
+|[[Union de la droite et du centre|UCD]]
+|20,19
+| {{Infobox Parti politique français/couleurs|DVC}} |
+|[[Union du centre (nuance politique)|UC]]
+|15,10
+!67,22
+|-
+! rowspan="7" |[[Élection présidentielle française de 2022|Présidentielle 2022]]
+!Centre-Val de Loire
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+!LREM
+!28,53
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!RN
+!25,86
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+!LFI
+!18,68
+| {{Infobox Parti politique français/couleurs|REC}} |<br />
+!REC
+!6,58
+!25,01
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+!LREM
+!56,44
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!RN
+!43,56
+| colspan="3" rowspan="7" |''Pas de {{3e}}''
+| colspan="3" rowspan="7" |''Pas de {{4e}}''
+!25,26
+|-
+!18
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|27,89
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|27,10
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|17,38
+| {{Infobox Parti politique français/couleurs|REC}} |<br />
+|[[Reconquête (parti politique)|REC]]
+|6,74
+!26,63
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|52,56
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|47,44
+!26,84
+|-
+!28
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|28,16
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|27,21
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|18,42
+| {{Infobox Parti politique français/couleurs|REC}} |<br />
+|[[Reconquête (parti politique)|REC]]
+|6,73
+!25,98
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|53,29
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|46,71
+!26,19
+|-
+!36
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|28,53
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|26,03
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|17,32
+| {{Infobox Parti politique français/couleurs|REC}} |<br />
+|[[Reconquête (parti politique)|REC]]
+|6,15
+!24,93
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|51,40
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|48,60
+!24,82
+|-
+!37
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|30,99
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|21,54
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|20,77
+| {{Infobox Parti politique français/couleurs|REC}} |<br />
+|[[Reconquête (parti politique)|REC]]
+|6,09
+!23,96
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|62,72
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|37,28
+!24,73
+|-
+!41
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|27,92
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|27,77
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|16,80
+| {{Infobox Parti politique français/couleurs|REC}} |<br />
+|[[Reconquête (parti politique)|REC]]
+|7,03
+!24,25
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|53,81
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|46,19
+!23,88
+|-
+!45
+| {{Infobox Parti politique français/couleurs|EM}} |
+|[[La République en marche|LREM]]
+|28,92
+| {{Infobox Parti politique français/couleurs|FN}} |
+|[[Rassemblement national|RN]]
+|25,59
+| {{Infobox Parti politique français/couleurs|FI}} |
+|[[La France insoumise|LFI]]
+|18,93
+| {{Infobox Parti politique français/couleurs|REC}} |
+|[[Reconquête (parti politique)|REC]]
+|6,82
+!25,02
+| {{Infobox Parti politique français/couleurs|EM}} |
+|[[La République en marche|LREM]]
+|57,57
+| {{Infobox Parti politique français/couleurs|FN}} |
+|[[Rassemblement national|RN]]
+|42,43
+!25,30
+|}
+
+==== Circonscriptions législatives ====
+Le Centre-Val de Loire compte au total 23 circonscriptions (soit une moyenne de {{nombre|111877|habitants}} par circonscription) :
+{|
+! scope="col" |[[Cher (département)|Cher]]
+! scope="col" |[[Eure-et-Loir]]
+! scope="col" |[[Indre (département)|Indre]]
+! scope="col" |[[Indre-et-Loire]]
+! scope="col" |[[Loir-et-Cher]]
+![[Loiret (département)|Loiret]]
+|-
+| valign="top" |
+* [[Première circonscription du Cher|{{1re}} circonscription]]
+* [[Deuxième circonscription du Cher|{{2e}} circonscription]]
+* [[Troisième circonscription du Cher|{{3e}} circonscription]]
+| valign="top" |
+* [[Première circonscription d'Eure-et-Loir|{{1re}} circonscription]]
+* [[Deuxième circonscription d'Eure-et-Loir|{{2e}} circonscription]]
+* [[Troisième circonscription d'Eure-et-Loir|{{3e}} circonscription]]
+* [[Quatrième circonscription d'Eure-et-Loir|{{4e}} circonscription]]
+| valign="top" |
+* [[Première circonscription de l'Indre|{{1re}} circonscription]]
+* [[Deuxième circonscription de l'Indre|{{2e}} circonscription]]
+| valign="top" |
+* [[Première circonscription d'Indre-et-Loire|{{1er}} circonscription]]
+* [[Deuxième circonscription d'Indre-et-Loire|{{2e}} circonscription]]
+* [[Troisième circonscription d'Indre-et-Loire|{{3e}} circonscription]]
+* [[Quatrième circonscription d'Indre-et-Loire|{{4e}} circonscription]]
+* [[Cinquième circonscription d'Indre-et-Loire|{{5e}} circonscription]]
+| valign="top" |
+* [[Première circonscription de Loir-et-Cher|{{1er}} circonscription]]
+* [[Deuxième circonscription de Loir-et-Cher|{{2e}} circonscription]]
+* [[Troisième circonscription de Loir-et-Cher|{{3e}} circonscription]]
+|
+* [[Première circonscription du Loiret|{{1er}} circonscription]]
+* [[Deuxième circonscription du Loiret|{{2e}} circonscription]]
+* [[Troisième circonscription du Loiret|{{3e}} circonscription]]
+* [[Quatrième circonscription du Loiret|{{4e}} circonscription]]
+* [[Cinquième circonscription du Loiret|{{5e}} circonscription]]
+* [[Sixième circonscription du Loiret|{{6e}} circonscription]]
+|}
+{| class="wikitable" style="text-align:center; width:100%;"
+! rowspan="2" |Circonscription
+! colspan="18" |Députés par département
+|-
+| colspan="3" |[[Cher (département)|'''Cher''']]
+| colspan="3" |'''[[Eure-et-Loir]]'''
+| colspan="3" |[[Indre (département)|'''Indre''']]
+| colspan="3" |'''[[Indre-et-Loire]]'''
+| colspan="3" |'''[[Loir-et-Cher]]'''
+| colspan="3" |[[Loiret (département)|'''Loiret''']]
+|-
+|'''<small>Première</small>'''
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|<small>[[Groupe Renaissance|RE]]</small>
+|[[François Cormier-Bouligeon|François Cornier-Bouligeon]]<sup>[a]</sup>
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|<small>[[Groupe Renaissance|RE]]</small>
+|[[Guillaume Kasbarian]]
+| {{Infobox Parti politique français/couleurs|Horizons}} |<br />
+|<small>[[Groupe Horizons et apparentés|Hor]].</small>
+|[[François Jolivet]]
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|<small>[[Groupe écologiste (Assemblée nationale)|ECO]]</small>
+|[[Charles Fournier (homme politique, 1968)|Charles Fournier]]
+| {{Infobox Parti politique français/couleurs|MODEM}} |<br />
+|<small>[[Groupe démocrate, MoDem et indépendants|MODEM]]</small>
+|[[Mathilde Desjonquères]]
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|<small>[[Groupe Renaissance|RE]]</small>
+|[[Stéphanie Rist]]
+|-
+|<small>'''Deuxième'''</small>
+| {{Infobox Parti politique français/couleurs|PCF}} |<br />
+|<small>[[Groupe communiste (Assemblée nationale)|GDR]]</small>
+|[[Nicolas Sansu]]
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Groupe Les Républicains (Assemblée nationale)|<small>LR</small>]]
+|[[Olivier Marleix]]
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Groupe Les Républicains (Assemblée nationale)|<small>LR</small>]]
+|[[Nicolas Forissier]]
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|<small>[[Groupe Renaissance|RE]]</small>
+|[[Daniel Labaronne]]
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|<small>[[Groupe Rassemblement national|RN]]</small>
+|[[Roger Chudeau]]
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|<small>[[Groupe Renaissance|RE]]</small>
+|[[Caroline Janvier]]
+|-
+|'''<small>Troisième</small>'''
+| {{Infobox Parti politique français/couleurs|Horizons}} |<br />
+|<small>[[Groupe Horizons et apparentés|Hor.]]</small>
+|[[Loïc Kervran]]
+| {{Infobox Parti politique français/couleurs|Horizons}} |<br />
+|<small>[[Groupe Horizons et apparentés|Hor]].</small>
+|[[Luc Lamirault]]
+|
+|
+|
+| {{Infobox Parti politique français/couleurs|Horizons}} |<br />
+|<small>[[Groupe Horizons et apparentés|Hor]].</small>
+|[[Henri Alfandari]]
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|<small>[[Groupe Renaissance|RE]]</small>
+|[[Christophe Marion]]
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|<small>[[Groupe Rassemblement national|RN]]</small>
+|[[Mathilde Paris]]
+|-
+|'''<small>Quatrième</small>'''
+|
+|
+|
+| {{Infobox Parti politique français/couleurs|MDM}} |<br />
+|<small>[[Groupe démocrate, MoDem et indépendants|MODEM]]</small>
+|[[Philippe Vigier (homme politique)|Philippe Vigier]]
+|
+|
+|
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|<small>[[Groupe Renaissance|RE]]</small>
+|[[Fabienne Colboc]]
+|
+|
+|
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|<small>[[Groupe Rassemblement national|RN]]</small>
+|[[Thomas Ménagé]]
+|-
+|'''<small>Cinquième</small>'''
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| {{Infobox Parti politique français/couleurs|MDM}} |<br />
+|<small>[[Groupe démocrate, MoDem et indépendants|MODEM]]</small>
+|[[Sabine Thillaye]]
+|
+|
+|
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|<small>[[Groupe Renaissance|RE]]</small>
+|[[Anthony Brosse]]
+|-
+|'''<small>Sixième</small>'''
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| {{Infobox Parti politique français/couleurs|MDM}} |
+|<small>[[Groupe démocrate, MoDem et indépendants|MODEM]]</small>
+|[[Richard Ramos]]
+|}
+<small><sup>[a]</sup> : En suppléance de [[Marc Fesneau]], entré au gouvernement<ref>{{Lien web |langue=fr |titre=Nouveau gouvernement : Marc Fesneau nommé ministre de l'Agriculture et de la souveraineté alimentaire |url=https://www.francebleu.fr/infos/politique/marc-fesneau-nomme-ministre-de-l-agriculture-et-de-la-souverainete-alimentaire-du-gouvernement-borne-1653058977 |site=ici, par France Bleu et France 3 |date=2022-05-20 |consulté le=2022-08-11}}</ref>.</small>
+
+=== Coopération décentralisée ===
+Le Centre-Val de Loire et la [[région de Mopti]] ([[Mali]]) ont signé un accord de coopération décentralisée en décembre 2005. Dans le cadre de cette coopération, le projet « Loire-Niger ».
+
+Un autre accord a été signé avec la région du [[Gorgol]] en [[Mauritanie]]<ref>[https://www.centre-valdeloire.fr/comprendre/europe-et-international/projets-dans-le-monde/gorgol-en-mauritanie La région du Gorgol en Mauritanie].</ref>.
+
+== Économie ==
+{{Article détaillé|Économie du Centre-Val de Loire|Industrie pharmaceutique dans le Centre-Val de Loire|Cosmetic Valley|Chambre de commerce et d'industrie de région Centre-Val de Loire}}
+
+Le Centre-Val de Loire est la première région céréalière en Europe et la sixième région industrielle française.
+
+Une agence de développement économique, appelée Centréco, a été créée en 1994 par le Conseil régional du Centre pour favoriser la venue d'investissements et l’implantation de nouvelles entreprises en région Centre-Val de Loire. Celle-ci assure une mission d’information et de promotion économique en France et à l’international, d’accompagnement d’entreprises régionales à l’export et de valorisation des produits régionaux via une signature régionale, du Centre.
+
+Le groupe allemand, [[Vorwerk (entreprise)|Vorwerk]] a choisi de localiser le second site de production dans l’agglomération du Grand '''[[Châteaudun]]''', renforçant ainsi un engagement sur le territoire dont se félicitent les différents acteurs locaux qui ont soutenu le projet. <ref>{{Lien web |langue=fr |titre=Vorwerk ouvre une seconde usine de Thermomix® en Eure-et-Loir, injecte 57 millions d'euros et crée 74 emplois |url=https://actu.fr/centre-val-de-loire/donnemain-saint-mames_28132/vorwerk-ouvre-une-seconde-usine-de-thermomix-en-eure-et-loir-injecte-57-millions-d-euros-et-cree-74-emplois_52346634.html |site=actu.fr |consulté le=2022-12-28}}</ref>
+
+Depuis le samedi 1er octobre 2022, l’agglo du Grand [[Châteaudun]] devient officiellement propriétaire et gestionnaire de la plate-forme aéronautique qui a abrité durant des décennies la [[Base aérienne 279 – Lieutenant Marcel-Beau]] pour engagé un projet ambitieux qui sera de transformé l'ancienne base en petit aéroport. Ce projet engagé par Fabien Verdier, Maire de Châteaudun, est un projet structurant pour la région.<ref>{{Lien web |langue=fr |titre=Châteaudun est maintenant aux manettes de l'ancienne Base aérienne et ça redécolle déjà ! |url=https://actu.fr/centre-val-de-loire/chateaudun_28088/chateaudun-est-maintenant-aux-manettes-de-l-ancienne-base-aerienne-et-ca-redecolle-deja_54150343.html |site=actu.fr |consulté le=2022-12-28}}</ref>
+
+En 2022, Julien Cohen installe la première [[Maison des Brocanteurs]] de la région à l'Hôtel-Dieu de [[Châteaudun]].
+
+=== Économie verte ===
+Le Centre-Val de Loire totalise {{nombre|6913|personnes}} exerçant une profession verte et {{formatnum:141562}} une profession verdissante, selon le rapport "Économie verte en Centre-Val de Loire" publié en juin 2022<ref>{{Article|langue=français|auteur1=Devup Centre-Val de Loire|titre=Etude "Economie verte" 2022|périodique=an|date=juin 2022|url=https://www.devup-centrevaldeloire.fr/media/2022/etude_economie_verte_centre_loire_devup.pdf|format=pdf|pages=3}}</ref>.
+
+Une énorme centrale solaire va installer [[Châteaudun]] en territoire à énergie positive. Des chiffres qui donnent le tournis, 83 ha de surface, 196000 panneaux solaires, 106 MW... la ferme solaire du Grand Châteaudun va alimenter 52000 habitants en énergie verte.<ref>{{Lien web |langue=fr |titre=L'énorme centrale solaire qui va installer Châteaudun en territoire à énergie positive |url=https://actu.fr/centre-val-de-loire/chateaudun_28088/l-enorme-centrale-solaire-qui-va-installer-chateaudun-en-territoire-a-energie-positive_55714354.html |site=actu.fr |consulté le=2022-12-29}}</ref>
+
+=== Énergie ===
+[[Image:Saint-Laurent des Eaux Centrale (1).jpg|vignette|La [[centrale nucléaire de Saint-Laurent-des-Eaux]].]]
+La principale production d’énergie du Centre-Val de Loire est d’origine nucléaire et ne sert pas exclusivement le niveau régional. Quatre centrales — [[Centrale nucléaire de Chinon|Chinon]], [[Centrale nucléaire de Saint-Laurent-des-Eaux|Saint-Laurent-des-Eaux]], [[Centrale nucléaire de Belleville|Belleville]] et [[Centrale nucléaire de Dampierre|Dampierre]] — représentent la quasi-totalité{{référence souhaitée}} de la production énergétique régionale et produisent 15 % de l’[[énergie nucléaire]] française. La proximité de l'[[Île-de-France]], forte consommatrice d’électricité a justifié l’implantation de ces centrales{{référence souhaitée}}. Pour le transport de l'énergie, un réseau dense de lignes électriques de hautes et très hautes tensions est présent sur tout le territoire régional ({{unité|4382 km}} au {{date-|1 janvier 2002}}). Il y a trois barrages [[Énergie hydroélectrique|hydroélectriques]] sur l’[[Indre (rivière)|Indre]].
+
+La consommation régionale représente 4 % de la consommation d’énergie nationale ce qui reste proportionnel à la population. La tendance globale est à l’augmentation de la consommation liée, entre autres, à l’évolution des comportements individuels.
+
+Les ressources utilisées sont les produits pétroliers, le gaz naturel et l’électricité nucléaire. La consommation de gaz naturel et d’énergie nucléaire a presque doublé en seize ans (pour la période 1982/1998){{référence souhaitée}}.
+
+Le potentiel d’énergies renouvelables disponibles a été estimé à plus de {{unité|900000 tep/an}} ([[tonne d'équivalent pétrole]]/an), sachant que la consommation totale est évaluée à six millions de tep.
+
+Le bois est le premier gisement d’énergie renouvelable du Centre-Val de Loire. Le taux de boisement atteint 22 % et a connu un accroissement de 40 % en un siècle. La région compte {{nobr|650 entreprises}} d’exploitation ou de scierie. L’usage de la paille peut également être associé à la filière bois.
+
+La région est la première productrice de [[colza]], elle produit également du diester (additif du gazole à hauteur de 5 %) et de l’[[éthanol]] (à partir de blé ou de betterave) permettant la création de biocarburants.
+
+Il existe par ailleurs une petite production de pétrole dans le département du Loiret, d'environ {{unité|45000 tonnes}} par an (soit moins de {{unité|1000 barils}} par jour)<ref>[[Loiret (département)|Département du Loiret]], [http://www.loiret.com/cgloiret/index.php?page=display&class=coeureconomie&object=r57_petrole&method=e_display_full Jean-Marc Falcone succède à Nacer Meddah comme préfet du Centre-Val de Loire].</ref>.
+
+{{Passage à actualiser|En 2006, le Centre-Val de Loire est la première région pour la production d'électricité [[Énergie éolienne|éolienne]] avec une capacité de près de {{unité|244 MW}}. L'[[Eure-et-Loir]] représente près de 67 % de ce total avec {{unité|77 éoliennes}} installées|date=24 février 2018}}<ref>''[[La République du Centre]]'', {{date-|30 janvier 2007}}, {{p.|III}}.</ref>.
+
+En 2017, selon [[RTE (entreprise)|RTE]], la région Centre-Val de Loire possède une capacité éolienne de {{unité|1016.9|MW}}<ref>{{Lien web|titre=L’éolien : Bilan électrique 2017|url=http://bilan-electrique-2017.rte-france.com/territoire-et-regions/leolien-en-region/#|site=bilan-electrique-2017.rte-france.com|consulté le=2018-05-22}}.</ref>.
+
+
+== Population et société ==
+[[Image:Cité Bords de Loire Lamartine Tours 4.jpg|vignette|Logements sociaux des années 1920 du [[quartier Lamartine]] à [[Tours]].]]
+=== Démographie ===
+{{Article détaillé|Démographie du Centre-Val de Loire}}
+
+Le Centre-Val de Loire a connu une forte [[Accroissement démographique|croissance démographique]]. La population de l'axe ligérien est près de dix fois supérieure à celle du siècle dernier{{Référence souhaitée}}. Environ 10 % de la population de la région habite en zone inondable. [[Orléans]], par exemple, s'est développée beaucoup plus vite en zone inondable qu'en zone non inondable. Une crue similaire à la grande crue de 1856 provoquerait en région des dommages estimés à cinq milliards d'euros touchant {{nobr|300 000 personnes}}, {{nobr|13 600 entreprises}} sur {{nobr|110 000 hectares}}.
+
+Lors du recensement partiel de [[2004]], le Centre-Val de Loire a gagné {{nobr|40 000 habitants}} par rapport au chiffre de [[1999]], pour atteindre {{unité|2480000 habitants}}. Le taux de croissance reste stable autour de 0,32 %, inférieur aux chiffres nationaux. Au niveau population, la région est la douzième (sur 13).
+
+Le recensement de 2007 dénombre dans la région {{unité|2526919|habitants}}.
+<center>
+{{Composition en communes division de France
+|charte=région
+|titre=Liste des 10 communes les plus peuplées de la région Centre-Val de Loire
+|commune 1  = Tours
+|commune 2  = Orléans
+|commune 3  = Bourges
+|commune 4  = Blois
+|commune 5  = Châteauroux
+|commune 6  = Chartres
+|commune 7  = Joué-lès-Tours
+|commune 8  = Dreux
+|commune 9  = Vierzon
+|commune 10 = Olivet (Loiret)
+}}
+</center>
+
+=== Éducation ===
+L'[[académie d'Orléans-Tours]] regroupe six inspections académiques représentant les départements de la région : [[Cher (département)|Cher]], [[Eure-et-Loir]], [[Indre (département)|Indre]], [[Indre-et-Loire]], [[Loir-et-Cher]] et [[Loiret (département)|Loiret]].
+
+L'enseignement supérieur est délivré par l'[[université d'Orléans]], l'[[université de Tours]], l'[[Institut national des sciences appliquées Centre Val de Loire|INSA Centre Val de Loire]], le [[centre hospitalier régional d'Orléans]] - en cours de transformation à compter de 2022 en centre hospitalier universitaire, décision saluée et soutenus par la plupart des élus nationaux et locaux du Loiret et de la région de tous bords<ref>[https://www.larep.fr/orleans-45000/actualites/l-annonce-d-une-fac-de-medecine-a-orleans-met-tous-les-politiques-regionaux-d-accord_14089802/ L'annonce d'une fac de médecine à Orléans met tous les politiques régionaux d'accord], larep.fr, 23 février 2022</ref> -, le [[centre hospitalier régional universitaire de Tours]] entre autres.
+
+== Patrimoine culturel ==
+=== Patrimoine architectural historique ===
+[[Fichier:Westfassade Chartres.jpg|alt=La façade occidentale, le portail royal et le parvis. |vignette|redresse|La façade occidentale de la [[Cathédrale Notre-Dame de Chartres|cathédrale de Chartres]], le portail royal et le parvis.]]
+[[Image:Cathédrale Saint-Etienne de Bourges-.jpg|vignette|La [[Cathédrale Saint-Étienne de Bourges]].]]
+
+La [[cathédrale Notre-Dame de Chartres]], l'une des plus grandes cathédrales de France, connue pour ses [[Vitraux de Chartres|vitraux]] et sa nef gothique, est construite au début du {{s-|XIII}} et inscrite au [[Patrimoine mondial|Patrimoine mondial de l'UNESCO]] depuis 1979.
+
+La [[cathédrale Saint-Étienne de Bourges]], dont la construction a débuté en 1183 et duré trois siècles, est également inscrite depuis {{date-|décembre 1992}} sur la liste du patrimoine mondial de l'UNESCO. Seule cathédrale française à six travées, elle est la clé de la ''[[route Jacques-Cœur]]'', qui rassemble les 18 plus beaux monuments du Cher. Elle est aussi le point de rassemblement des ''Riches Heures du Duc du Berry'' et des palais et châteaux des princes et rois de la famille d'Orléans, avec plus de deux cents châteaux de la Loire et du Cher, alliant de superbes châteaux historiques du Berry à la Touraine, bâtis pour la plupart de 920 après J.-C. à 1870.
+
+Les cathédrales d'[[Cathédrale Sainte-Croix d'Orléans|Orléans]] et de [[Cathédrale Saint-Gatien de Tours|Tours]] sont d’autres exemples d'art gothique (celle d'[[Orléans]], bien qu'en grande partie détruite en 1568 par les protestants lors des [[Guerres de Religion (France)|guerres de Religion]], conserve des éléments des {{XIIIe|s}}-{{s-|XV}}s (chapelles rayonnantes du chœur) mais a été en grande partie reconstruite « à l'identique » aux {{XVIIe|s}}, {{XVIIIe|s}} et {{s-|XIX}}s sous l'impulsion des Bourbons Henri IV, Louis XIV, Louis XV{{etc.}}).
+
+Dès le {{s-|XV}}, et avec l'accélération des rois de la [[Renaissance]], dont [[François Ier (roi de France)|François {{Ier}}]], mécène de [[Léonard de Vinci]], les châteaux de la Loire reçoivent toute la Cour et les princes dans de somptueux écrins de pierre, destinés aussi à profiter des douceurs de la Loire et des forêts giboyeuses. Parmi ces très nombreux châteaux et les forteresses médiévales, le plus connu est le [[château de Chambord]], entouré de {{unité|300|ha}} de bois et forêts. On peut également citer les châteaux de [[Château de Blois|Blois]], [[Château de Chenonceau|Chenonceau]], Azay-le-Rideau, [[Château de Cheverny|Cheverny]], Villandry, [[Château de Valençay|Valençay]], [[Château de Loches|Loches]], [[Château d'Amboise|Amboise]], [[Château-Gaillard (Amboise)]], [[Forteresse royale de Chinon|Chinon]], [[Château d'Ussé|Ussé]], [[Château de Chaumont-sur-Loire|Chaumont-sur-Loire]], Blet, [[Ainay-le-Vieil]], Bourges, [[Château de Châteaudun|Châteaudun]], [[Château de Langeais|Langeais]], Le Rivau, [[Château de Chamerolles|Chamerolles]], [[Château de Sully-sur-Loire|Sully-sur-Loire]], [[Château de Gien|Gien]], [[Château de Beauregard (Loir-et-Cher)|Beauregard]], [[Château de Villesavin|Villesavin]], [[Château de Talcy|Talcy]], [[Château de Gizeux|Gizeux]]{{etc.}}
+
+Le [[palais Jacques-Cœur]] à [[Bourges]], du {{s-|XV}}, construit par l'un des plus riches citoyens du {{s-|XV}} en France, préfigure les hôtels particuliers qui fleuriront à la Renaissance.
+
+Construit entre [[1515]] et [[1521]], le [[château de Chenonceau]] compte parmi les plus anciens bâtiments de la Loire. Il était fameux en raison de ses fêtes pendant le {{s-|XVI}}. Les « femmes de Chenonceau » sont bien connues : [[Catherine de Médicis]] et [[Diane de Poitiers]] (respectivement épouse et favorite de [[Henri II (roi de France)|{{nobr|Henri II}}]]).
+
+Moins connus sont l'[[oratoire carolingien de Germigny-des-Prés]] ({{s-|IX}}), l'[[Abbaye de Saint-Benoît-sur-Loire|abbaye de Fleury]] à [[Saint-Benoît-sur-Loire]] ({{s-|XI}}), la [[Basilique Notre-Dame de Cléry|basilique de Cléry-Saint-André]] ({{s-|XV}}), près d'Orléans, qui sont les témoins encore subsistants du rayonnement architectural et culturel majeur de la région.
+
+== Notes et références ==
+{{Références|taille=30}}
+
+== Voir aussi ==
+=== Bibliographie ===
+* {{article |format=pdf|auteur=Stéphane Leroy|url=http://www.mgm.fr/PUB/Mappemonde/M200/Leroy.pdf |titre=La région Centre en modèles|année=2000 |périodique=Mappemonde |numéro=58 |pages=36-40}}.
+
+=== Articles connexes ===
+* [[Val de Loire]]
+
+=== Liens externes ===
+* {{Autorité}}
+* {{Dictionnaires}}
+* {{Bases}}
+* [https://www.centre-valdeloire.fr/ Conseil régional]
+* [http://www.prefectures-regions.gouv.fr/centre-val-de-loire Préfecture de région]
+
+{{Palette|Régions et territoires de France}}
+{{Portail|Centre|régions de France}}
+
+[[Catégorie:Centre-Val de Loire|*]]
+[[Catégorie:Graphie du COG non conforme aux règles de typographie]]
+[[Catégorie:Division administrative fondée en 1956]]
+

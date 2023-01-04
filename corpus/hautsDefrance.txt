@@ -1,0 +1,1563 @@
+{{Filtrage|filtre=29}}
+{{Voir homonymes|HDF}}
+{{Infobox Région de France
+ | nom                       = Hauts-de-France
+ | logo                      = Région Hauts-de-France logo 2016.svg
+ | légende                   = [[Logo]] de la région.
+ | blason                    = 
+ | légende blason            = 
+ | drapeau                   = 
+ | légende drapeau           = 
+ | préfecture                = [[Lille]]
+ | départements              = [[Aisne (département)|Aisne]] (02)<br />[[Nord (département français)|Nord]] (59)<br />[[Oise (département)|Oise]] (60)<br /> [[Pas-de-Calais]] (62)<br />[[Somme (département)|Somme]] (80)
+ | arrondissements           = 26
+ | cantons                   = 145
+ | communes                  = 3788
+ | conseil régional          = [[Conseil régional des Hauts-de-France]]
+ | président                 = [[Xavier Bertrand]] ([[Les Républicains|LR]])
+ | présidente                = 
+ | mandat                   = [[Élections régionales françaises de 2021|2021]]-2028
+ | site web                 = {{url|https://www.hautsdefrance.fr}}
+ | préfet                    = [[Georges-François Leclerc]]
+ | préfète                   = 
+ | superficie                = 31806
+ | rang superficie           = {{9e}} sur 18
+ | population                = {{Population de France/dernière_pop}}<!-- Insertion automatique, ne pas modifier -->
+ | année_pop                 = {{Population de France/dernière_année}}<!-- Insertion automatique, ne pas modifier -->
+ | rang population           = {{4e}} sur 18
+ | gentilé                   = ''Pas de gentilé''<!-- Toute insertion non étayée par une source sérieuse, ou basée sur de simples interprétations personnelles, sera supprimée. -->
+ | langue                    = [[Picard]], [[flamand occidental]], [[francien]], [[normand]] (quatre localités de la Somme)
+}}
+
+Les '''Hauts-de-France''' ({{MSAPI|/o də fʁɑ̃s/}}<ref>Prononciation en [[français standard]] retranscrite phonémiquement selon la norme [[Alphabet phonétique international|API]].</ref>) sont une [[Région française|région]] administrative du nord de la [[France]], créée par la [[Loi relative à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral|réforme territoriale de 2014]]. Résultat de la fusion du [[Nord-Pas-de-Calais]] et de la [[Picardie (ancienne région administrative)|Picardie]] (elles-mêmes créées en 1972), elle s'est d'abord appelée provisoirement « Nord-Pas-de-Calais-Picardie ».
+
+Elle s'étend sur {{unité|31806 km 2}} et compte cinq départements : l'[[Aisne (département)|Aisne]], le [[Nord (département français)|Nord]], l'[[Oise (département)|Oise]], le [[Pas-de-Calais]] et la [[Somme (département)|Somme]]. Elle est présidée par [[Xavier Bertrand]] depuis le {{date|4 janvier 2016}} et son chef-lieu est [[Lille]], principale ville de la région et auparavant déjà chef-lieu du Nord-Pas-de-Calais. [[Amiens]], chef-lieu de l'ancienne Picardie, est la deuxième ville de la région.
+
+La région est limitrophe de l'[[Île-de-France]] située au sud, de la [[Normandie (région administrative)|Normandie]] à l'ouest et du {{nobr|[[Grand Est]]}} à l'est. De plus, elle est [[Frontière entre la Belgique et la France|frontalière]] de la [[Belgique]] sur toute sa partie nord-est, et est bordée par la [[Manche (mer)|Manche]] et la [[mer du Nord]], à l'ouest et au nord.
+
+Située au cœur de l'[[Europe de l'Ouest|Europe]], avec {{Nombre|{{Population de France/dernière_pop}}|habitants}} en {{date-|{{Population de France/dernière_année}}}}, et une densité de population de {{unité|189 hab/km 2}}, elle représente la {{3e|région}} la plus peuplée de France et la {{2e}} la plus densément peuplée de [[France métropolitaine]] après l'[[Île-de-France]].
+
+== Toponymie ==
+En [[picard]], le nom de la région est ''[[:pcd:Heuts-d'Franche|Heuts-d'Franche]]''.
+
+== Histoire ==
+=== Le territoire avant les Hauts-de-France ===
+[[Fichier:Hauts-de-France.svg|vignette|redresse=1.5|Carte de la région avec ses départements, montrant les provinces qui existaient sur son territoire au {{s|XVIII}}.<br/>
+{{Début de colonnes|nombre=2}}
+{{Légende/Début}}
+{{Légende|#84b7ca|[[Picardie (province de France)|Picardie]]}}
+{{Légende|#a3d283|[[Île-de-France]]}}
+{{Légende|#b9b983|[[Artois]]}}
+{{Légende|#efb3c7|[[Flandre française]]}}
+{{Légende|#8bd9c5|[[Hainaut français]]}}
+{{Légende|#838a9d|[[Cambrésis]]}}
+{{Légende|#e1c44a|[[Champagne (province)|Champagne]]}}
+{{Légende|#b98ab9|[[Normandie (région administrative)|Normandie]]}}
+{{Légende/Fin}}{{fin de colonnes}}]]
+
+Il s'agit d'un territoire avec des origines assez contrastées. Jusqu'au {{s-|XVIII}}, il est divisé en plusieurs [[Territoires du royaume de France#Liste des anciennes provinces de France|provinces]] dont les principales sont la [[Picardie (province de France)|Picardie]] (autour d'[[Amiens]], [[Saint-Quentin]], [[Boulogne-sur-Mer|Boulogne]] et [[Calais]]), la [[Flandre française|Flandre]] (autour de [[Lille]] et [[Dunkerque]]) et l'[[Artois]] (autour d'[[Arras]], [[Lens (Pas-de-Calais)|Lens]] et [[Béthune]]), tandis que l'[[Île-de-France]] s'étendait jusqu'à [[Beauvais]], [[Compiègne]] et [[Laon]]. Encore aujourd'hui, les différences géographiques, culturelles et économiques se retrouvent dans cette délimitation historique et certaines de ces appellations sont encore couramment utilisées. La [[Révolution française]] marque la création des départements actuels.
+
+La position frontalière des Hauts-de-France en a fait une place économique et militaire stratégique. De tous temps, elle fut au cœur d'importants conflits.
+
+=== Création de la région ===
+==== Idée de fusion de la Picardie avec la Champagne-Ardenne ====
+Dans sa tribune du {{date|3|juin|2014}}, le [[président de la République française|président]] [[François Hollande]] pose les bases de la [[Loi relative à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral|réforme territoriale de 2014]]. Il propose alors de passer de {{unité|22|à=14|[[région française|régions]]}} [[France métropolitaine|métropolitaines]]. La carte jointe à la tribune indique que le [[Nord-Pas-de-Calais]] resterait en l'état tandis que la [[Picardie (ancienne région administrative)|Picardie]] fusionnerait avec la [[Champagne-Ardenne]]<ref>{{Lien web|langue=fr|titre=Réformer les territoires pour réformer la France|url=http://www.elysee.fr/communiques-de-presse/article/reformer-les-territoires-pour-reformer-la-france/|site=elysee.fr|date=3 juin 2014|consulté le=24-12-2014}}.</ref>.
+
+Le [[Parti socialiste (France)|socialiste]] [[Claude Gewerc]], [[Conseil régional de Picardie|président du conseil régional de Picardie]], se dit alors « très surpris » du mariage annoncé de sa région avec sa voisine champenoise. Il rajoute que des trois possibilités de rassemblement ([[Normandie (région administrative)|Normandie]], Nord-Pas-de-Calais et Champagne-Ardenne), cette dernière n'avait pas « [sa] préférence »<ref name="F3_030614">{{Lien web|langue=fr|titre=Réforme territoriale: les réactions politiques à la fusion Picardie-Champagne-Ardenne|url=https://france3-regions.francetvinfo.fr/picardie/2014/06/03/reforme-territoriale-les-reactions-politiques-la-fusion-picardie-champagne-ardenne-490241.html|site=france3-regions.francetvinfo.fr|date=03-06-2014|consulté le=24-12-2014}}.</ref>. Christophe Coulon, président du groupe [[Union pour un mouvement populaire|UMP]] au conseil régional, critique pour sa part la réforme et constate, malgré des points communs, qu'il n'y a ni flux « économique » ni flux « humain » entre les deux régions<ref name=F3_030614/>. Plusieurs élus du parti ont également demandé l'organisation d'un [[référendum]], notamment [[Xavier Bertrand]]<ref>{{Lien web|langue=fr|titre=Fusion Picardie-Champagne-Ardenne: Xavier Bertrand veut un référendum|url=https://france3-regions.francetvinfo.fr/picardie/2014/06/05/fusion-picardie-champagne-ardenne-xavier-bertrand-veut-un-referendum-491809.html|site=france3-regions.francetvinfo.fr|date=05-06-2014|consulté le=24-12-2014}}.</ref>.
+
+[[Barbara Pompili]], coprésidente du groupe [[Europe Écologie Les Verts|écologiste]] à l'[[Assemblée nationale (France)|Assemblée nationale]] et députée de la [[Somme (département)|Somme]], estime que la non-fusion entre Picardie et Nord-Pas-de-Calais résulte de la volonté de François Hollande de ne pas donner « une grande région à [[Marine Le Pen]] ». Elle ajoute que la fusion avec le Nord-Pas-de-Calais « ce ne serait pas dans la joie, mais ce serait dans une logique »<ref>{{Lien web|langue=fr|auteur institutionnel=[[Agence France-Presse|AFP]]|titre=Fusion des régions Picardie et Champagne-Ardenne : Hollande a-t-il coupé l'herbe sous le pied de Marine Le Pen ?|url=http://www.lepoint.fr/politique/fusion-des-regions-picardie-et-champagne-ardenne-hollande-a-t-il-coupe-l-herbe-sous-le-pied-de-marine-le-pen-03-06-2014-1830676_20.php|éditeur=[[Le Point]]|date=3 juin 2014|consulté le=24-12-2014}}.</ref>. Les élus [[Front national (France)|FN]] du conseil régional picard ont eux aussi critiqué la réforme et indiqué que le non-mariage entre la Picardie et le Nord-Pas-de-Calais était une volonté « politico-électorale » du président afin d'éviter la prise de la nouvelle région par le parti<ref>{{Lien web|langue=fr|titre=Les élus du Front national au conseil régional de Picardie s’opposent à la réforme !|url=http://www.frontnational.com/2014/06/les-elus-du-front-national-au-conseil-regional-de-picardie-sopposent-a-la-reforme/|site=frontnational.com|date=24 juin 2014|consulté le=24-12-2014}}.</ref>.
+
+Du côté nordiste, à l'image de [[Daniel Percheron]], l'ensemble de la [[conseil régional du Nord-Pas-de-Calais|majorité régionale]] se félicite de l'autonomie de la région : l'entité étant suffisamment grande aux yeux des responsables politiques. Cette position est également défendue par Philippe Rapeneau, chef de l'opposition régionale. Les frontistes nordistes rejoignent pour leur part leurs collègues picards<ref>{{Lien web|langue=fr|titre=Fusion des régions : le Nord-Pas-de-Calais, autonome et fier de l’être|url=http://www.lavoixdunord.fr/region/fusion-des-regions-le-nord-pas-de-calais-autonome-et-ia0b0n2184426|éditeur=[[La Voix du Nord]]|date=4 juin 2014|consulté le=24-12-2014}}.</ref>.
+
+Le {{date|18|juin|2014}}, le [[projet de loi en France|projet de loi]] est déposé par le [[Ministère de l'Intérieur (France)|ministre de l'Intérieur]], [[Bernard Cazeneuve]], au [[Sénat (France)|Sénat]], alors à majorité de gauche<ref>{{Lien web|langue=fr|format=pdf|titre=Projet de loi relatif à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral|url=http://www.senat.fr/leg/pjl13-635.html|site=senat.fr|date=18 juin 2014|consulté le=24-12-2014}}.</ref>. La carte proposée par le ministère est la même que celle de la tribune. Le {{date|10|juillet|2014}}, [[Carlos Da Silva (homme politique)|Carlos Da Silva]] présente au nom de la [[Commission des Lois constitutionnelles, de la Législation et de l'Administration générale de la République|commission des Lois]] de l'Assemblée nationale un nouveau texte de loi. La carte qui l'accompagne présente une nouvelle fois la fusion de la Picardie avec la région Champagne-Ardenne et l'autonomie du Nord-Pas-de-Calais<ref>{{Lien web|langue=fr|format=pdf|titre=Rapport au nom de la Commission des lois sur le projet de loi adopté par le Sénat relatif à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral|url=http://www.assemblee-nationale.fr/14/pdf/rapports/r2120.pdf|site=assemblee-nationale.fr|date=10 juillet 2014|consulté le=24-12-2014}}.</ref>.
+
+==== Idée de fusion de la Picardie avec le Nord-Pas-de-Calais ====
+Le découpage des régions est amendé lors des travaux préparatoires de la chambre basse et, le {{date-|15|juillet|2014}}, l'article {{1er}} proposé au vote entraîne la fusion du Nord-Pas-de-Calais avec la Picardie, tandis que la [[Champagne-Ardenne]] rejoint la [[Lorraine (ancienne région administrative)|Lorraine]] et l'[[Alsace]].
+
+Ce mariage provoque immédiatement une levée de boucliers de la part des principaux élus socialistes du département du [[Nord (département français)|Nord]]. Ainsi, dans un communiqué de presse, la maire de Lille [[Martine Aubry]] et la majorité des députés socialistes du département définissent cette union comme une « aberration économique et sociale »<ref>{{Lien web|langue=fr|titre=Martine Aubry sort de son silence pour critiquer la réforme territoriale|url=http://www.lexpress.fr/actualite/politique/martine-aubry-sort-de-son-silence-pour-critiquer-la-reforme-territoriale_1559742.html#yJFRgyUE6CzSmtlj.99|site=lexpress.fr|date=16 juillet 2014|consulté le=24-12-2014}}.</ref>. Cette position est défendue par le [[Les Républicains|républicain]] [[Éric Woerth]], maire de [[Chantilly]] dans l'Oise, qui estime que les intérêts de son département sont à [[Paris]] et non à Lille<ref name=PAF_160714/>.
+
+En revanche, de nombreux élus se montrent davantage enthousiastes. La réunion de deux régions culturellement et économiquement proches, ainsi que la réunification de la Picardie historique sont soulignés. Pour Claude Gewerc, c'est « déjà une meilleure solution » que celle proposée précédemment<ref name="PAF_160714">{{Lien web|langue=fr|titre=Réforme territoriale : la Picardie se dirige vers le Nord-Pas-de-Calais|url=http://www.leparisien.fr/espace-premium/oise-60/la-picardie-se-dirige-vers-le-nord-pas-de-calais-16-07-2014-4003813.php|site=leparisien.fr|date=16 juillet 2014|consulté le=27-12-2014}}.</ref>. À droite, [[Gérald Darmanin]], maire de [[Tourcoing]], [[Daniel Fasquelle]], maire du {{nobr|[[Le Touquet-Paris-Plage|Touquet-Paris-Plage]]}}, et Xavier Bertrand, ont indiqué être favorables à l'union des deux régions<ref>{{Lien web|langue=fr|titre=Plaidoyer pour une fusion entre le Nord-Pas-de-Calais et la Picardie|url=https://www.20minutes.fr/lille/1418973-20140715-20140715-plaidoyer-fusion-entre-nord-pas-de-calais-picardie|site=20minutes.fr|date=15 juillet 2014|consulté le=27-12-2014}}.</ref>{{,}}<ref>{{Lien web|langue=fr|titre=La montagne va accoucher d'une souris|url=http://www.lepoint.fr/chroniqueurs-du-point/jerome-cordelier/xavier-bertrand-sur-la-reforme-territoriale-la-montagne-va-accoucher-d-une-souris-17-07-2014-1846982_244.php|site=lepoint.fr|date=17 juillet 2014|consulté le=27-12-2014}}.</ref>. Tout en étant opposés à la réforme territoriale, les élus du Front national, à l'instar de [[Florian Philippot]], se sont déclarés satisfaits de la fusion qui leur offrirait une victoire « quasi assurée » lors des prochaines régionales<ref>{{Lien web|langue=fr|titre=Nord-Pas de Calais/Picardie : Philippot prédit la victoire du FN|url=http://www.leparisien.fr/politique/interactif-nord-pas-de-calais-picardie-philippot-predit-la-victoire-du-fn-21-07-2014-4017549.php|site=leparisien.fr|date=21 juillet 2014|consulté le=27-12-2014}}.</ref>.
+
+En dépit de plusieurs amendements restaurant l'autonomie des deux régions déposés, entre autres par [[Bernard Roman]]<ref>{{Lien web|langue=fr|titre=Amendement N° 110 au texte N° 2358 - ART. PREMIER (Rejeté)|url=http://www.nosdeputes.fr/14/amendement/2358/110|site=nosdeputes.fr|date=17-07-2014|consulté le=27-12-2014}}.</ref>, l'Assemblée nationale vote en première lecture le projet de loi le {{date|23|juillet|2014}} lors du vote solennel<ref>{{Lien web|langue=fr|titre=Scrutin public sur l'ensemble du projet de loi relatif à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral|url=http://www2.assemblee-nationale.fr/scrutins/detail/%28legislature%29/14/%28num%29/898|site=assemblee-nationale.fr|date=23 juillet 2014|consulté le=27-12-2014}}.</ref>. Ni le passage devant les deux assemblées en seconde lecture, ni en [[commission mixte paritaire]], ni en nouvelle lecture devant les deux chambres, ni en lecture définitive à l'Assemblée nationale n'ayant modifié l'union entre les deux régions, le mariage est officiellement entériné par le vote du {{date|17|décembre|2014}}<ref>{{Lien web|langue=fr|titre=Projet de loi relatif à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral|url=http://www.assemblee-nationale.fr/14/ta/ta0455.asp|site=assemblee-nationale.fr|date=17 décembre 2014|consulté le=27-12-2014}}.</ref>{{,}}<ref>{{Lien web|langue=fr|titre=Scrutin public sur l'ensemble du projet de loi relatif à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral (lecture définitive)|url=http://www2.assemblee-nationale.fr/scrutins/detail/%28legislature%29/14/%28num%29/997|site=assemblee-nationale.fr|date=17 décembre 2014|consulté le=27-12-2014}}.</ref>. Le [[conseil constitutionnel (France)|conseil constitutionnel]] n'ayant pas censuré la loi<ref>{{Lien web|langue=fr|titre=Décision n° 2014-709 DC du 15 janvier 2015 quant à la loi relative à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral|url=http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2015/2014-709-dc/decision-n-2014-709-dc-du-15-janvier-2015.143021.html|site=conseil-constitutionnel.fr|date=15 janvier 2015|consulté le=19 janvier 2015}}.</ref>, la promulgation de celle-ci au [[Journal officiel de la République française|journal officiel]] le {{date|17|janvier|2015}}<ref>{{Lien web|langue=fr|titre=LOI n° 2015-29 du 16 janvier 2015 relative à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral|url=http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030109622|site=legifrance.gouv.fr|date=17 janvier 2015|consulté le=19 janvier 2015}}.</ref> entérine la naissance de la région « Nord-Pas-de-Calais-Picardie » le {{date|1|janvier|2016}}, dont le chef-lieu est [[Lille]]<ref name="DoffJO2016929">[https://www.legifrance.gouv.fr/eli/decret/2016/9/28/INTB1617943D/jo/texte Décret {{numéro|2016-1265}} du {{Date-|28 septembre 2016}} portant fixation du nom et du chef-lieu de la région Hauts-de-France, publié au Journal Officiel du {{Date-|29 septembre 2016}}].</ref>.
+
+==== Origine du nom ====
+Le nom « Nord-Pas-de-Calais-Picardie » n'avait pas vocation à être définitif. Juxtaposant les noms des anciennes régions par ordre alphabétique, il était celui retenu par la loi en attendant qu'un nouveau nom soit choisi par [[décret en Conseil d'État]] sur proposition du [[Conseil régional (France)|conseil régional]] de la région fusionnée, décision devant intervenir avant le {{date|1|juillet|2016}}<ref>{{Lien web|langue=fr|titre=Carte de France à 13 régions : Comment vont-elles s'appeler ?|url=https://www.20minutes.fr/societe/1504275-20141218-carte-france-13-regions-comment-vont-elles-appeler|site=20minutes.fr|date=2014-12-18}}.</ref>. Le but était de choisir un nom simple et court, pouvant s'exporter à l'étranger et être facilement enregistré par tous les Français, tout en prenant en compte l'importante diversité des territoires de la région<ref>[http://www.bfmtv.com/breves-et-depeches/le-1er-janvier-la-france-passe-a-13-regions-en-metropole-940129.html Le {{1er|janvier}}, la France passe à 13 régions en métropole] sur le site de [[BFM TV]], le {{date-|30 décembre 2015}}.</ref>. Certains{{qui}} recommandaient également d'écarter toutes les désignations comportant un nom de point cardinal (Nord, Grand Est, Sud-Ouest) afin de ne pas les « confisquer » au français courant (ce qui a, par ailleurs, toujours fait défaut au département du Nord).
+
+Du 22 au {{date|29|février|2016}}, une consultation est organisée dans les lycées et les centres d'apprentissage de la région pour proposer un nouveau nom. À l'issue de cette consultation, trois noms sont sélectionnés par le conseil régional : « Hauts-de-France », « Nord-de-France » et « Terres-du-Nord »<ref>[http://www.rtl.fr/actu/societe-faits-divers/hauts-de-france-terres-du-nord-nord-de-france-la-region-nord-pas-de-calais-picardie-bientot-rebaptisee-7782320244 Hauts-de-France, Terres-du-Nord, Nord-de-France : la région Nord-Pas-de-Calais-Picardie bientôt rebaptisée] consulté le 19/03/2016, sur [http://www.rtl.fr rtl.fr].</ref>. La notion de « haut » de la carte de France comme synonyme du nord du pays attire leur{{qui}} attention. Pour choisir entre ces trois propositions, le conseil régional a mis en place une consultation en ligne, à laquelle tous les habitants de la région pouvaient participer. Sur les {{unité|55000|participants}}, {{formatnum:21151}} (soit 38,4 %) ont choisi ''Hauts-de-France''<ref>{{lien web|url=http://www.hautsdefrance.fr/hauts-de-france-nord-pas-de-calais-picardie-un-nom-pour-la-nouvelle-region/|titre=« Hauts-de-France » – Nord Pas de Calais-Picardie : un nom pour la nouvelle région|site=hautsdefrance.fr|date=14 mars 2016|consulté le=5 septembre 2018}}.</ref>.
+
+Lors de la séance plénière de l'assemblée régionale du {{date|14|mars|2016}}, le conseil régional adopte l’appellation « Hauts-de-France »<ref>{{Lien web|langue=fr|titre=La Région a voté et s'appelle désormais Hauts-de-France|url=http://www.lavoixdunord.fr/region/la-region-a-vote-et-s-appelle-desormais-hauts-de-france-ia0b0n3385042|site=[[La Voix du Nord|lavoixdunord.fr]]|date=14 mars 2016|consulté le=14 mars 2016}}.</ref>{{,}}<ref>[http://www.liberation.fr/france/2016/03/14/hauts-de-france-nouveau-nom-choisi-par-le-conseil-regional-de-nord-pas-de-calais-picardie_1439478 «Hauts-de-France», nouveau nom choisi par le conseil régional de Nord-Pas-de-Calais-Picardie], consulté le 19/03/2013, sur [http://www.liberation.fr liberation.fr] </ref>. Ce nom est validé par le [[Conseil d'État (France)|Conseil d'État]] le {{Date|28|septembre|2016}}<ref name="DoffJO2016929" />.
+
+Il est néanmoins critiqué par de nombreux historiens (car excluant toute mention des territoires historiques) et géographes (le terme « haut » se rapportant normalement à l'[[Cours d'eau#Amont et aval|amont d'un fleuve]] ou à l'altitude d'une région, tandis que le point culminant de cette nouvelle collectivité territoriale du nord de la France ne dépasse pas les 300 mètres d’altitude)<ref>{{Lien web |auteur=Laurent Warlouzet |titre="Hauts-de-France", un nom de région incohérent. Il fallait assumer et revendiquer le Nord |url=https://leplus.nouvelobs.com/contribution/1495649-hauts-de-france-un-nom-de-region-incoherent-il-fallait-assumer-et-revendiquer-le-nord.html |site=leplus.nouvelobs.com |date=16 mars 2016 |consulté le=2021-03-19}}.</ref>{{,}}<ref>{{Ouvrage |auteur1=Pierre Deslais |titre=Les Hauts-de-France, géographie curieuse et insolite |éditeur=éditions Ouest-France |date=2018 |pages totales=142 |isbn=978-27373-7757-0}}.</ref>{{,}}<ref>{{Lien web |titre=«Hauts-de-France» moqué sur Twitter |url=https://www.20minutes.fr/insolite/1806123-20160314-hauts-france-nouveau-nom-region-nord-calais-picardie-fait-rire-twitter |site=20minutes.fr |date=14 mars 2016 |consulté le=2021-03-19}}.</ref>.
+
+== Géographie ==
+=== Situation ===
+[[Fichier:0 Escalles - Le Cap Blanc-Nez (2).JPG|vignette|Le [[Grand Site des Deux Caps]], au plus près des côtes anglaises.]]
+La région est située dans le nord du territoire de la [[France]] : la commune de [[Bray-Dunes]] ({{coord|51|05|N|2|32|E}}) en est le [[Liste de points extrêmes de la France|point le plus septentrional]], tous territoires confondus. Étendue entre les [[49e parallèle nord|{{49e}}]] et [[51e parallèle nord|{{51e|parallèles}} nord]], la région s'étend sur {{unité|31806 km 2}} de superficie, soit 5,8 % du territoire français. Comme le reste de la [[France métropolitaine]], elle se situe sur le [[fuseau horaire]] de l'[[heure normale d'Europe centrale]] ([[UTC+01:00]]) et lors du passage à l'[[heure d'été]], elle se situe sur le fuseau horaire de l'[[heure d'été d'Europe centrale]] ([[UTC+02:00]])<ref>{{Lien web|langue=en|url=http://wwp.greenwichmeantime.com/time-zone/europe/european-union/france/lille/time.htm|titre=What's the time in Lille Time Zone now?|site=greenwichmeantime.com|consulté le=1 janvier 2016}}.</ref>.
+
+Elle est bordée au nord par la [[mer du Nord]] sur {{unité|45 kilomètres}} et à l'ouest par la [[Manche (mer)|Manche]] sur plus de {{unité|120 kilomètres}}. [[Frontière entre la France et le Royaume-Uni|De l'autre côté]] se situe le [[Kent]] au [[Royaume-Uni]] à {{unité|35 kilomètres}} au minimum. Du côté terrestre, la région est [[Frontière entre la Belgique et la France|frontalière]] de la [[Belgique]] (province de [[Province de Hainaut|Hainaut]] et de [[Flandre Occidentale]]) au nord-est, de [[Bray-Dunes]] à [[Watigny]], sur plus de {{unité|350 kilomètres}}. Elle est également limitrophe de la [[Normandie (région administrative)|Normandie]], à l'ouest, de l'[[Île-de-France]], au sud, et du [[Grand Est]], à l'est.
+
+=== Reliefs ===
+Le relief est assez faible : l'altitude moyenne est d'environ {{unité|98 mètres}}, ce qui place la région au {{11e|rang}} parmi les 13 de France métropolitaine. L'altitude maximale est de {{unité|295 mètres}}, atteinte à [[Watigny]] dans l'Aisne, non loin du plateau ardennais<ref>{{Lien web|titre=80 "sommets" des Hauts-de-France|url=https://france3-regions.francetvinfo.fr/nord-pas-de-calais/80-sommets-des-hauts-de-france-956049.html|site=France 3 Nord Pas-de-Calais|date=20 mars 2016|consulté le=2016-04-22}}.</ref>. Celui-ci est néanmoins assez varié, partagé entre les très bas reliefs de la [[plaine de Flandre]], des bas plateaux assez plats ([[Santerre]], [[Cambraisis]]) et divers plateaux un peu plus hauts entaillés de nombreuses vallées, comme dans le [[Soissonais]], le [[Valois (région)|Valois]], l'[[Omois]], les bassins versants des fleuves côtiers de Picardie et d'Artois (bassin de la [[Somme (fleuve)|Somme]], la [[Bresle]], l'[[Authie (fleuve)|Authie]], la [[Canche (fleuve)|Canche]] avec le [[pays des Sept Vallées]], l'[[Aa (fleuve)|Aa]]), ainsi que d'autres paysages vallonnés comme le [[Boulonnais]], l'[[Avesnois]], la [[Thiérache]], le [[Laonnois]], le [[Noyonnais]], le [[Beauvaisis]], etc.
+
+=== Géologie ===
+La région occupe essentiellement des portions de vastes [[bassin sédimentaire|bassins sédimentaires]] : une partie du [[bassin parisien]] notamment, et une partie du bassin de Flandre. Il n'y a pas de séparation entre les deux en surface, ces deux bassins sont en continuité pour une partie des séries géologiques qui les composent. La limite conventionnelle en surface est constituée par les collines de l'Artois et le seuil de [[Bapaume]].
+
+[[Fichier:Escaudain - Terril n° 153, Audiffret Sud (A).JPG|vignette|Un [[terril]] à [[Escaudain]], au cœur du [[Bassin minier du Nord-Pas-de-Calais|bassin minier]] près de [[Valenciennes]].]]
+
+Le [[Sous-sol (géologie)|sous-sol]] de la région est dominé par des formations du [[Crétacé]]. Le [[Crétacé supérieur]], qui couvre de loin la plus large superficie, est marqué par une roche [[calcaire]] particulière : la [[craie]]. Elle est cependant souvent dissimulée sous une couche de limon ([[lœss]]), déposée au [[Quaternaire]], qui favorise la richesse de l'agriculture. La craie fut autrefois utilisée comme pierre à bâtir et pierre à chaux dans une grande partie de la région, de nombreuses carrières souterraines en témoignent. Ces formations s'ouvrent à l'ouest sur les formations du Crétacé inférieur et du [[Jurassique]] sous-jacentes (et ponctuellement du [[Paléozoïque]]) dans les [[Boutonnière (géologie)|boutonnières]] du [[Boulonnais]] et du [[pays de Bray]], où des substrats plus variés affleurent, dont des argiles de qualité qui ont alimenté une production de céramique dans ces deux contrées. Le Jurassique émerge aussi en [[Thiérache]], mais il s'agit cette fois de l’extrémité nord de l'auréole jurassique du Bassin parisien qui pointe dans la région. Il y a deux domaines importants couverts par des sédiments du [[Tertiaire (géologie)|Tertiaire]] : la [[plaine de Flandre]] dans le nord-est de la région où l'on trouve principalement des [[argile]]s et des [[sable]]s (qui ont servi à produire les briques qui caractérisent fortement l'architecture de cette partie de la région), et dans le sud (ancienne Île-de-France) où les substrats sont variés selon les couches qui affleurent : argiles, sables, grès, et les [[calcaire lutétien|calcaires du Lutétien]]. Les calcaires lutétiens sont exploités à grande échelle depuis des siècles pour la production de [[pierre de taille]], c'est la principale pierre à bâtir historiquement utilisée dans le sud de la région et à Paris (dont la [[pierre de Saint-Leu]] de la vallée de l'Oise), puis dans le reste de la région où elle fut exportée à partir du {{s-|XIX}} jusqu'à Lille pour remplacer la craie dans les constructions. Le Tertiaire forme aussi des [[butte témoin|buttes témoins]] souvent sableuses (avec parfois du grès dur, ayant servi à produire des pavés et utilisé dans l'architecture ancienne pour les fondations et les soubassements), dispersées sur les terrains du Crétacé<ref>''Guide de la géologie en France'', éditions Belin, 2008, chapitres "Nord-Pas-de-Calais" et "Picardie".</ref>.
+
+Le [[Paléozoïque]], situé sous les terrains plus récents, a été massivement exploité en profondeur pour sa [[houille]] dans le [[bassin minier du Nord-Pas-de-Calais]] (autour de Lens et Douai) entre la fin du {{s mini-|XVII}} et la fin du {{s-|XX}}.
+
+L'[[Avesnois]] ainsi qu'une petite portion de la [[Thiérache]] attenante forment un territoire géologiquement différencié du reste de la région. Des roches du [[Paléozoïque]] plus ou moins déformées y affleurent : grès, [[schiste]]s, calcaires durs (la [[pierre bleue (calcaire)|pierre bleue]], utilisée dans l'architecture locale), etc. On n'est plus ici dans les bassins sédimentaires proprement dits mais dans les contreforts de l'[[Ardenne]].
+
+=== Climat ===
+Le climat de la région Hauts-de-France est un climat de [[Climat océanique|type océanique]]. D'un bout à l'autre de la région, ce climat présente des nuances dans le déroulement des saisons et dans ses variétés locales où se combinent altitudes, plaines et vallées, versants abrités ou exposés, proximité ou éloignement du littoral, etc.
+
+Sur les côtes de la [[Manche (mer)|Manche]] et de la [[mer du Nord]], le caractère océanique est très marqué. Les [[Amplitude thermique|amplitudes thermiques]] sont faibles, ce qui donne des [[hiver]]s relativement doux et peu enneigés et des [[été]]s frais. Le temps est variable à cause des [[vent]]s, très fréquents et parfois violents, qui influencent le climat en fonction de leur direction<ref>{{Lien web|url=http://www.meteo59-62.com/index.php5?page=climat-nord-pas-de-calais|titre=Une terre de contrastes où règne en maître le temps dit « variable »|auteur=Emmanuel Wesolek|site=meteo59-62.com|consulté le=1er janvier 2016}}.</ref>.
+
+En s'éloignant des côtes, le climat garde les mêmes caractéristiques que celui des côtes, tout en se rapprochant progressivement du [[climat continental]], avec moins de vent, des écarts de température plus marqués et des jours de [[Gelée blanche|gelée]] et de [[neige]] plus nombreux.
+
+Les températures enregistrées dans les Hauts-de-France augmentent en moyenne au rythme de + 0,29 °C par décennie<ref name=":0">{{Lien web |langue=fr |auteur=Didier Harpagès |nom=Reporterre |titre=Dans les Hauts-de-France, Xavier Bertrand fait la chasse aux écologistes |url=https://reporterre.net/Dans-les-Hauts-de-France-Xavier-Bertrand-fait-la-chasse-aux-ecologistes |site=Reporterre |date=2 mars 2018 }}</ref>.
+
+{| class="wikitable"
+|+Données climatiques relevées dans les Hauts-de-France (entre 1981 et 2010<ref>[http://www.lameteo.org/index.php/climatologie/normales-climatiques Normales climatiques 1981-2010 en France] sur ''www.lameteo.org''.</ref>) :
+|-
+! rowspan="2" | Station
+! rowspan="2" | Température<br />min. en hiver<br />(en °C)
+! rowspan="2" | Température<br />max. en été<br />(en °C)
+! rowspan="2" | Précipitations<br />mars-août<br />(en mm)
+! rowspan="2" | Précipitations<br />sept-févr<br />(en mm)
+! rowspan="2" | Ensoleillement<br />par an<br />(en heures)
+! colspan="4" scope=col | Nombre de<br />jours de :<br />
+|-
+! <small>Brouillard</small>
+! <small>Orage</small>
+! <small>Neige</small>
+! {{abréviation|<small>Vent</small>|Supérieur à 57,6 km/h}}
+|-align="center"
+![[Abbeville]]
+| 2,0
+| 21,2
+| 363,6
+| 417,7
+| 1678
+| 35
+| 25
+| 17
+| 28
+|-align="center"
+![[Beauvais]]
+| 1,3
+| 22,9
+| 322,9
+| 343,7
+| 1706
+| 52
+| 18
+| 15
+| 55
+|-align="center"
+![[Boulogne-sur-Mer]]
+| 3,2
+| 19,7
+| 292,6
+| 410,0
+| 1678
+| 43
+| 12
+| 8
+| 119
+|-align="center"
+![[Dunkerque]]
+| 3,5
+| 20,3
+| 309,7
+| 370,0
+|
+| 34
+| 10
+| 11
+| 101
+|-align="center"
+![[Lille]]
+| 1,6
+| 22,3
+| 368,5
+| 372,9
+| 1628
+| 62
+| 19
+| 18
+| 65
+|-align="center"
+![[Saint-Quentin]]
+| 1,0
+| 22,3
+| 356,5
+| 346,1
+| 1660
+| 73
+| 17
+| 15
+| 57
+|}
+
+=== Environnement ===
+La [[pollution atmosphérique]] génère dans la région 6 500 décès prématurés par an et une perte d’espérance de vie entre 11 et 16 mois selon la [[Fédération Atmo France]]. Dans le [[bassin Artois-Picardie]], moins d’un quart des cours d’eau présente un bon état écologique et chimique et moins du tiers des eaux souterraines présente un bon état chimique. Au cours de la période 1995-2014, les populations d’oiseaux des milieux agricoles du Nord-Pas-de-Calais ont chuté de 50 %<ref name=":0" />.
+
+=== Axes de communication et transports ===
+[[Fichier:Carte Infrastructure Train Autoroute NPDCP.svg|vignette|droite|Carte des autoroutes et des principales liaisons ferroviaires de la région.]]
+La région fait la jonction entre l'[[Île-de-France]] et la [[Belgique]] ''via'' un [[réseau routier]] et [[Chemin de fer|ferré]] important, mais aussi avec l'[[Angleterre]] ''via'' le [[tunnel sous la Manche]] et de grands ports maritimes tels que ceux de [[Calais]] et [[Dunkerque]].
+
+La région abrite plusieurs aéroports dont les principaux sont ceux de [[Aéroport de Paris-Beauvais|Beauvais-Tillé]] et de [[Aéroport de Lille-Lesquin|Lille-Lesquin]].
+
+==== Réseau routier ====
+La région est traversée par {{nobr|3 axes}} [[Réseau autoroutier français|autoroutiers]] majeurs : l'[[Autoroute A1 (France)|A1]] relie [[Paris]] à [[Lille]], desservant le secteur de [[Creil]]/[[Compiègne]] puis [[Arras]] et le bassin minier. L'[[Autoroute A16 (France)|A16]] relie le nord de la région parisienne à la frontière [[Belgique|belge]] en desservant [[Beauvais]], [[Amiens]], [[Abbeville]], [[Boulogne-sur-Mer]], [[Calais]] et [[Dunkerque]]. Enfin, l'[[Autoroute A26 (France)|A26]] réalise la liaison entre Calais et [[Troyes]] via Arras, [[Saint-Quentin]] et [[Laon]].
+
+D'autres autoroutes relient entre elles des agglomérations de la région ou à proximité : l'[[Autoroute A2 (France)|A2]] se sépare de l'A1 au nord de [[Péronne (Somme)|Péronne]] pour rejoindre [[Bruxelles]] en desservant [[Cambrai]] et [[Valenciennes]], l'[[Autoroute A21 (France)|A21]] traverse le bassin minier, l'[[Autoroute A28 (France)|A28]] lie Abbeville à [[Rouen]] en suivant la côte, et l'[[Autoroute A29 (France)|A29]] met en communication [[Reims]] et [[Le Havre]] en passant par Amiens et Saint-Quentin. Enfin, outre l'A1, quatre autoroutes rejoignent Lille : l'[[Autoroute A22 (France)|A22]], l'[[Autoroute A23 (France)|A23]], [[Autoroute A25 (France)|A25]] et [[Autoroute A27 (France)|A27]]. Elles permettent respectivement d'aller, depuis Lille, à [[Courtrai]] (via [[Tourcoing]]), Valenciennes, Dunkerque et [[Tournai]].
+
+==== Réseau ferré ====
+{{Article détaillé|TER Hauts-de-France|Hauts-de-France Mobilités}}Le réseau ferré est bien développé. La [[LGV Nord|ligne grande vitesse Nord]] relie Paris à Lille (via la [[gare TGV Haute-Picardie]]) et permet de rejoindre [[Londres]] (via la [[Gare de Calais - Fréthun|gare de Calais]]) et [[Bruxelles]]. Le [[TERGV]], créé dans la région en 2000, lie certaines villes en utilisant les lignes et les véhicules prévus pour les TGV. Les habitants disposent également de deux lignes [[Intercités]] (Paris-Amiens-Boulogne et Paris-Creil-Compiègne-St Quentin-Cambrai) et de nombreuses lignes [[Transport express régional|TER]].
+
+== Population ==
+=== Démographie ===
+La région compte {{unité|6003815 habitants}}<ref>{{Lien web |titre=Populations légales des régions en 2017 − Populations légales 2017|url=https://www.insee.fr/fr/statistiques/4265384?sommaire=4265511 |site=insee.fr |consulté le=2020-08-30}}.</ref> (addition des populations municipales au {{date-|1er janvier 2017}}). La population est essentiellement concentrée dans le Nord-Est de la région : dans la métropole lilloise et l'ancien bassin minier.
+{| class="wikitable"
+|+Population régionale classée par départements
+!Département
+!Population départementale en 2017
+|-
+|Nord
+|{{formatnum:2604361}}<ref name="+1">{{Lien web |titre=Populations légales des départements en 2017 − Populations légales 2017|url=https://www.insee.fr/fr/statistiques/4265390?sommaire=4265511 |site=insee.fr |consulté le=2020-08-30}}.</ref>
+|-
+|Pas-de-Calais
+|{{formatnum:1468018}}<ref name="+1" />
+|-
+|Oise
+|{{formatnum:824503}}<ref name="+1" />
+|-
+|Somme
+|{{formatnum:572443}}<ref name="+1" />
+|-
+|Aisne
+|{{formatnum:534490}}<ref name="+1" />
+|}
+
+Avec un habitant sur trois de moins de {{nobr|25 ans}}, les Hauts-de-France constituent avec l'Île-de-France la région la plus jeune de France métropolitaine<ref>{{Lien web|titre=Territoire - Population−La France et ses territoires - Insee Références - Édition 2015|url=http://www.insee.fr/fr/statistiques/1372998?sommaire=1373022|site=insee.fr|consulté le=2016-12-29}}.</ref>.
+
+Selon l'[[Insee]] en 2017, si les tendances se poursuivent, la population de la région pourrait atteindre 6,2 millions d'habitants en 2050. Le nombre de naissances restera supérieur à celui des décès mais le [[solde migratoire]] fera que la région perdra une bonne partie des personnes qui y sont nées, la faisant passer de la troisième région la plus peuplée en 2015 (derrière l'[[Île-de-France]] et l'[[Auvergne-Rhône-Alpes]]) à une probable cinquième place (derrière ces mêmes régions, l'[[Occitanie (région administrative)|Occitanie]] et la [[Nouvelle-Aquitaine]])<ref name=insee2017/>. Le solde migratoire attendu serait négatif d'environ {{nombre|10000|personnes/an}}, tendance qui pourrait perdurer plusieurs décennies, en particulier dans le département de l'Aisne (sauf si le contexte économique changeait). Le vieillissement progressera : ''{{Citation|En 2050, les plus de {{nobr|65 ans}} seront 1,6 million alors qu'ils sont moins d'un million actuellement. Et le nombre de centenaires va passer de {{formatnum:1800}} à {{formatnum:12000}}}}''<ref name=insee2017/>. Une dynamique migratoire favorable est attendue dans la Somme, mais expliquée par l'immigration de jeunes retraités dans ce département<ref name="insee2017">Durant Gilles, [https://www.20minutes.fr/lille/2096327-20170629-population-hauts-france-2050 Démographie: Pourquoi les Hauts-de-France ne seront plus la 3e région de France en 2050 ?], dans ''[[20 minutes (France)|20 minutes]]'', le {{date-|29 juin 2017}}.</ref>.
+
+{| align="center" rules="all" width="800" cellspacing="0" cellpadding="4" style="border: 1px solid #999; border-right: 2px solid #999; border-bottom:2px solid #999; background: #f3fff3"
+|+ style="font-weight: bold; font-size: 1.1em; margin-bottom: 0.5em"| Évolution démographique de la région Hauts-de-France
+|-style="background: #ddffdd"
+! [[1968]] !! [[1975]] !! [[1982]] !! [[1990]] !! [[1999]] !! [[2006]] !! [[2009]] !! [[2011]] !! [[2014]] !! [[2015]] !! [[2016]] !! [[2017]] !! [[2018]] !! [[2019]] !! [[2020]]
+|-
+| align=center| {{formatnum:5394354}} || align=center| {{formatnum:5592417}} || align=center| {{formatnum:5673260}} || align=center| {{formatnum:5775745}} || align=center| {{formatnum:5854069}} || align=center| {{formatnum:5912999}} || align=center| {{formatnum:5944354}} || align=center| {{formatnum:5960170}} || align=center| {{formatnum:6006156}} || align=center| {{formatnum:6009976}} || align=center| {{formatnum:6006870}} || align=center| {{formatnum:6003815}} || align=center| {{formatnum:6004108}} || align=center| {{formatnum:5995908}} || align=center| {{formatnum:5987795}}
+|-
+| colspan="15" align="center" | <small>Sources : 1968-2020 recensements [http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=TER&millesime=2012&typgeo=REG&search=32 Source : Insee]</small><ref>{{Lien web |titre=Estimation de la population au 1ᵉʳ janvier 2021 {{!}} Insee |url=https://www.insee.fr/fr/statistiques/1893198 |site=www.insee.fr |consulté le=2021-04-05}}</ref><small>. </small>
+|}
+
+=== Communes les plus peuplées ===
+{{Début d'illustration|right}}
+{{Début de carte}} [[Fichier:{{Géolocalisation/Hauts-de-France|image}}|300px]]
+{{G|Hauts-de-France|50.64|3.07|'''[[Lille]]'''|Localité sans lien|s|}}
+{{G|Hauts-de-France|49.90|2.29|'''[[Amiens]]'''|Localité sans lien|s|}}
+{{G|Hauts-de-France|51.04|2.38|[[Dunkerque]]|Site sans lien|s|}}
+{{G|Hauts-de-France|50.95|1.86|[[Calais]]|Site sans lien|s|}}
+{{G|Hauts-de-France|49.43|2.10|[[Beauvais]]|Site sans lien|s|}}
+{{G|Hauts-de-France|49.85|3.29|[[Saint-Quentin]]|Site sans lien|e|}}
+{{G|Hauts-de-France|50.72|1.61|[[Boulogne-sur-Mer]]|Site sans lien|s|}}
+{{G|Hauts-de-France|50.36|3.52|[[Valenciennes]]|Site sans lien|n|}}
+{{G|Hauts-de-France|50.37|3.08|[[Douai]]|Site sans lien|s|}}
+{{G|Hauts-de-France|50.29|2.78|[[Arras]]|Site sans lien|o|}}
+{{G|Hauts-de-France|49.41|2.82|[[Compiègne]]|Site sans lien|n|}}
+{{G|Hauts-de-France|50.44|2.84|[[Lens (Pas-de-Calais)|Lens]]|Site sans lien|no|}}
+{{G|Hauts-de-France|49.26|2.48|[[Creil]]|Site sans lien|e|}}
+{{G|Hauts-de-France|50.18|3.24|[[Cambrai]]|Site sans lien|s|}}
+{{G|Hauts-de-France|50.42|2.78|[[Liévin]]|Site sans lien|o|}}
+{{G|Hauts-de-France|50.28|3.97|[[Maubeuge]]|Site sans lien|s|}}
+{{Fin de carte}}
+{{Fin d'illustration
+|{{Géolocalisation/Hauts-de-France||image}}
+|Carte des communes les plus peuplées des Hauts-de-France (hors banlieue de Lille).}}
+
+<center>
+{{Composition en communes division de France
+|charte=région
+|titre=Liste des communes de plus de {{unité|30000|habitants}}
+|commune 1 = Lille
+|commune 2 = Amiens
+|commune 3 = Tourcoing
+|commune 4 = Roubaix
+|commune 5 = Dunkerque
+|commune 6 = Calais
+|commune 7 = Villeneuve-d'Ascq
+|commune 8 = Beauvais
+|commune 9 = Saint-Quentin
+|commune 10 = Valenciennes
+|commune 11 = Arras
+|commune 12 = Wattrelos
+|commune 13 = Boulogne-sur-Mer
+|commune 14 = Compiègne
+|commune 15 = Douai
+|commune 16 = Marcq-en-Barœul
+|commune 17 = Creil
+|commune 18 = Lens (Pas-de-Calais)
+|commune 19 = Cambrai
+|commune 20 = Liévin
+}}
+</center>
+
+=== Aires urbaines ===
+{| class="wikitable sortable centre" style="text-align: right;"
+|+Liste des [[Liste des aires urbaines de France|aires urbaines]] ayant plus de {{unité|50000 habitants}} (population au {{date-|1 janvier 2014}})<ref>[https://www.insee.fr/fr/statistiques/2570143?sommaire=2570158 « La population des territoires du Nord-Pas-de-Calais-Picardie au {{date-|1 janvier 2014}} », ''Insee Dossier Nord-Pas-de-Calais-Picardie'', {{date-|2 janvier 2017}}], consulté le {{date-|8 février 2017}}.</ref>
+|- align="center" style="background:#efefef;"
+!Rang || Ville-centre || [[Aire urbaine (France)|Aire urbaine]]<br/>(habitants) || [[Pôle urbain]] <br/>(habitants)
+|-
+| 1 ||align="left" | [[Lille]] || {{formatnum:1182127}} || {{formatnum:1037939}}
+|-
+| 2 ||align="left" | [[Douai]] - [[Lens (Pas-de-Calais)|Lens]] || {{formatnum:539870}} || {{formatnum:504796}}
+|-
+| 3 ||align="left" | [[Béthune]] || {{formatnum:370564}} || {{formatnum:355764}}
+|-
+| 4 ||align="left" | [[Valenciennes]] || {{formatnum:369326}} || {{formatnum:335582}}
+|-
+| 5 ||align="left" | [[Amiens]] || {{formatnum:295055}} || {{formatnum:162106}}
+|-
+| 6 ||align="left" | [[Dunkerque]] || {{formatnum:258030}} || {{formatnum:177542}}
+|-
+| 7 ||align="left" | [[Boulogne-sur-Mer]] || {{formatnum:132031}} || {{formatnum:87557}}
+|-
+| 8 ||align="left" | [[Calais]] || {{formatnum:130989}} || {{formatnum:100997}}
+|-
+| 9 ||align="left" | [[Arras]] || {{formatnum:130722}} || {{formatnum:87173}}
+|-
+| 10 ||align="left" | [[Maubeuge]] || {{formatnum:129965}} || {{formatnum:112199}}
+|-
+| 11 ||align="left" | [[Beauvais]] || {{formatnum:126182}} || {{formatnum:58616}}
+|-
+| 12 ||align="left" | [[Creil]] || {{formatnum:119723}} || {{formatnum:119214}}
+|-
+| 13 ||align="left" | [[Saint-Quentin]] || {{formatnum:111095}} || {{formatnum:65259}}
+|-
+| 14 ||align="left" | [[Compiègne]] || {{formatnum:98418}} || {{formatnum:70670}}
+|-
+| 15 ||align="left" | [[Saint-Omer (Pas-de-Calais)|Saint-Omer]] || {{formatnum:90997}} || {{formatnum:61977}}
+|-
+| 16 ||align="left" | [[Armentières]] || {{formatnum:78333}} || {{formatnum:78333}}
+|-
+| 17 || align="left" | [[Cambrai]] || {{formatnum:66456}} || {{formatnum:47453}}
+|-
+| 18 ||align="left" | [[Soissons]] || {{formatnum:63484}} || {{formatnum:42842}}
+|-
+| 19 ||align="left" | [[Berck (Pas-de-Calais)|Berck]] || {{formatnum:57090}} || {{formatnum:44950}}
+|-
+| 20 ||align="left" | [[Laon]] || {{formatnum:52706}} || {{formatnum:28689}}
+|-
+|}
+
+== Politique et administration ==
+{{à recycler|date=avril 2017|thème=politique}}
+Avant la fusion, les deux anciennes régions [[Nord-Pas-de-Calais]] et [[Picardie (ancienne région administrative)|Picardie]] ont connu des évolutions politiques divergentes. La région Nord-Pas-de-Calais est historiquement acquise au [[Parti socialiste (France)|Parti Socialiste]], qui a dirigé la région de sa création en 1972 à la fusion, à l'exception d'une brève parenthèse écologiste de [[1992]] à [[1998]], et qui y réalise des très bons scores à chaque élection. La Picardie, elle n'est pas acquise à un parti comme le montre l'évolution de son conseil régional dirigé par le centre de [[1974]] à [[1978]] ([[Centre national des indépendants et paysans|CNIP]] et [[Union pour la démocratie française|UDF]]), la gauche de [[1978]] à [[1979]] ([[Parti social-démocrate (France)|PSD]]), la droite de [[1979]] à [[1980]] ([[Divers droite|DVD]]), le parti communiste de [[1980]] à [[1981]], le parti socialiste de [[1981]] à [[1985]], le centre de [[1985]] à [[2004]] ([[Union pour la démocratie française|UDF]]) puis de nouveau le [[Parti socialiste (France)|Parti Socialiste]] jusqu'à la fusion.
+
+Les dernières élections de 2014 et de 2015 bouleversent le paysage politique locale. La gauche perd quatre des cinq conseils départementaux et doit se retirer de l'élection régionale pour faire barrage au front national. Pour la première fois, la gauche, qui a longtemps dirigé les deux anciennes régions, en est absente. Le front national augmente quant à lui fortement son nombre d'élus locaux et remporte la ville [[Hénin-Beaumont|d'Hénin-Beaumont]] en 2014 faisant des Hauts-de-France l'un de ses bastions électoraux<ref>{{Lien web|langue=fr|auteur1=Alexandre Piquard|titre=Le FN progresse partout, dans ses bastions et au-delà|url=https://www.lemonde.fr/politique/article/2011/03/21/le-fn-progresse-partout-dans-ses-bastions-et-au-dela_1496462_823448.html|site=lemonde.fr|date=21-03-2011}}.</ref>.
+
+=== Récapitulatif des résultats électoraux récents<ref>{{Lien web |titre=Résultats des élections |url=https://www.interieur.gouv.fr/Elections/Les-resultats |site=www.interieur.gouv.fr}}</ref> ===
+{| class="wikitable centre" style="text-align:center"
+! rowspan="2" scope="col" |Scrutin
+! rowspan="2" |Département
+! colspan="13" scope="col" |{{1er}} tour
+! colspan="10" scope="col" |{{2nd}} tour
+|-
+! colspan="2" scope="col" |{{1er}}
+! scope="col" |%
+! colspan="2" scope="col" |{{2e}}
+! scope="col" |%
+! colspan="2" scope="col" |{{3e}}
+! scope="col" |%
+! colspan="2" scope="col" |{{4e}}
+! scope="col" |%
+!Abs
+! colspan="2" scope="col" |{{1er}}
+! scope="col" |%
+! colspan="2" scope="col" |{{2e}}
+! scope="col" |%
+! colspan="2" scope="col" |{{3e}}
+! scope="col" |%
+!Abs
+|-
+! rowspan="6" |[[Élection présidentielle française de 2012|Présidentielle 2012]]
+!Hauts de France
+| {{Infobox Parti politique français/couleurs|PS}} |
+!PS
+!27,90
+| {{Infobox Parti politique français/couleurs|LR}} |
+!UMP
+!24,09
+| {{Infobox Parti politique français/couleurs|FN}} |
+!FN
+!23,85
+| {{Infobox Parti politique français/couleurs|FI}} |
+!FG
+!11,62
+!20,58
+| {{Infobox Parti politique français/couleurs|PS}} |
+!PS
+!53,10
+| {{Infobox Parti politique français/couleurs|LR}} |
+!UMP
+!46,90
+| colspan="3" rowspan="6" |''Pas de 3<sup>e</sup>''
+!20,66
+|-
+!02
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|27,10
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|26,33
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|24,20
+| {{Infobox Parti politique français/couleurs|FI}} |
+|FG
+|10,19
+!19,39
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|52,40
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|47,60
+!19,68
+|-
+!59
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|27,97
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|24,70
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|21,91
+| {{Infobox Parti politique français/couleurs|FI}} |
+|FG
+|12,62
+!22,12
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|52,88
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|47,12
+!22,11
+|-
+!60
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|26,59
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|25,08
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|24,90
+| {{Infobox Parti politique français/couleurs|FI}} |
+|FG
+|10,11
+!19,07
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|52,66
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|47,34
+!19,32
+|-
+!62
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|29,44
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|25,53
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|21,86
+| {{Infobox Parti politique français/couleurs|FI}} |
+|FG
+|11,54
+!20,13
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|56,18
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|43,82
+!20,36
+|-
+!80
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|28,37
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|23,90
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|23,77
+| {{Infobox Parti politique français/couleurs|FI}} |
+|FG
+|11,00
+!18,15
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|54,41
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|45,59
+!17,88
+|-
+! rowspan="6" scope="row" |[[Élections européennes de 2014 en France|Européennes 2014]]
+!Hauts de France
+| {{Infobox Parti politique français/couleurs|FN}} |
+!FN
+!36,24
+| {{Infobox Parti politique français/couleurs|LR}} |
+!UMP
+!17,44
+| {{Infobox Parti politique français/couleurs|PS}} |
+!PS
+!11,20
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+!MODEM
+!9,44
+!57,85
+| colspan="10" rowspan="6" |''Tour unique''
+|-
+!02
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|40,02
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|20,73
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|10,79
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+|MODEM
+|6,75
+!56,32
+|-
+!59
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|32,80
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|17,11
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+|MODEM
+|11,54
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|11,29
+!59,70
+|-
+!60
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|38,26
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|20,03
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|9,69
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+|MODEM
+|7,64
+!56,51
+|-
+!62
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|38,89
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|15,41
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|12,19
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+|MODEM
+|8,00
+!57,13
+|-
+!80
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|37,15
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|17,15
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|10,72
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+|MODEM
+|9,55
+!54,82
+|-
+! rowspan="6" scope="row" |[[Élections régionales de 2015 en Normandie|Régionales 2015]]
+!Hauts de France
+| {{Infobox Parti politique français/couleurs|FN}} |
+!FN
+!40,64
+| {{Infobox Parti politique français/couleurs|LR}} |
+!LR
+!24,97
+| {{Infobox Parti politique français/couleurs|PS}} |
+!PS
+!18,12
+| {{Infobox Parti politique français/couleurs|PCF}} |
+!PCF
+!5,32
+!45,19
+| {{Infobox Parti politique français/couleurs|LR}} |
+!LR
+!57,77
+| {{Infobox Parti politique français/couleurs|FN}} |
+!FN
+!42,23
+| {{Infobox Parti politique français/couleurs|PS}} |
+! rowspan="6" |PS
+! rowspan="6" |Retrait
+!38,76
+|-
+!02
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|43,55
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|29,02
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|23,81
+| {{Infobox Parti politique français/couleurs|PCF}} |
+|PCF
+|4,04
+!44,56
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|53,76
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|46,24
+| {{Infobox Parti politique français/couleurs|PS}} |
+!38,27
+|-
+!59
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|37,04
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|26,01
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|19,42
+| {{Infobox Parti politique français/couleurs|PCF}} |
+|PCF
+|6,09
+!47,05
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|61,84
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|38,16
+| {{Infobox Parti politique français/couleurs|PS}} |
+!40,22
+|-
+!60
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|42,08
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|26,81
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|14,72
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|EELV
+|5,07
+!46,36
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|55,88
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|44,12
+| {{Infobox Parti politique français/couleurs|PS}} |
+!39,23
+|-
+!62
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|44,38
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|20,58
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|19,52
+| {{Infobox Parti politique français/couleurs|PCF}} |
+|PCF
+|5,16
+!42,99
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|54,12
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|45,88
+| {{Infobox Parti politique français/couleurs|PS}} |
+!37,49
+|-
+!80
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|41,02
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|26,33
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|17,27
+| {{Infobox Parti politique français/couleurs|PCF}} |
+|PCF
+|4,90
+!41,79
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|56,37
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|43,63
+| {{Infobox Parti politique français/couleurs|PS}} |
+!35,48
+|-
+! rowspan="6" scope="row" |[[Élection présidentielle française de 2017|Présidentielle 2017]]
+!Hauts de France
+| {{Infobox Parti politique français/couleurs|FN}} |
+!FN
+!31,04
+| {{Infobox Parti politique français/couleurs|FI}} |
+!LFI
+!19,59
+| {{Infobox Parti politique français/couleurs|EM}} |
+!EM
+!19,50
+| {{Infobox Parti politique français/couleurs|LR}} |
+!LR
+!16,13
+!21,81
+| {{Infobox Parti politique français/couleurs|EM}} |
+!EM
+!52,94
+| {{Infobox Parti politique français/couleurs|FN}} |
+!FN
+!47,06
+| colspan="3" rowspan="6" |''Pas de {{3e}}''
+!25,00
+|-
+!02
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|35,67
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|17,94
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|16,99
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|16,30
+!21,34
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|52,91
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|47,09
+!24,15
+|-
+!59
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|28,22
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|21,28
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|19,85
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|16,75
+!23,11
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|56,90
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|43,10
+!26,76
+|-
+!60
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|30,88
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|19,80
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|17,68
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|17,54
+!20,15
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|53,28
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|46,72
+!23,79
+|-
+!62
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|34,35
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|19,13
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|18,45
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|14,29
+!18,37
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|52,06
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|47,94
+!24,05
+|-
+!80
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|30,37
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|21,75
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|18,61
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|16,22
+!19,68
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|54,22
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|45,78
+!22,15
+|-
+! rowspan="6" scope="row" |[[Élections européennes de 2019 en France|Européennes 2019]]
+!Hauts de France
+| {{Infobox Parti politique français/couleurs|FN}} |
+!RN
+!33,55
+| {{Infobox Parti politique français/couleurs|EM}} |
+!LREM
+!17,95
+| {{Infobox Parti politique français/couleurs|EELV}} |
+!EELV
+!10,31
+| {{Infobox Parti politique français/couleurs|FI}} |
+!LFI
+!7,05
+!48,51
+| colspan="10" rowspan="6" |''Tour unique''
+|-
+!02
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|39,88
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|15,65
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|EELV
+|7,83
+| {{Infobox Parti politique français/couleurs|DVD}} |
+|UDC
+|7,19
+!47,41
+|-
+!59
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|29,56
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|19,11
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|EELV
+|12,06
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|7,37
+!50,42
+|-
+!60
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|32,93
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|18,30
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|EELV
+|9,93
+| {{Infobox Parti politique français/couleurs|DVD}} |
+|UDC
+|8,01
+!48,57
+|-
+!62
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|38,07
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|16,05
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|EELV
+|9,46
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|6,92
+!46,89
+|-
+!80
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|33,37
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|19,69
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|8,51
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|EELV
+|8,06
+!45,24
+|-
+! rowspan="6" |[[Élections régionales françaises de 2021|Régionales 2021]]
+!Hauts de France
+| {{Infobox Parti politique français/couleurs|DVD}} |
+!UD
+!41,42
+| {{Infobox Parti politique français/couleurs|FN}} |
+!RN
+!24,37
+| {{Infobox Parti politique français/couleurs|UGE}} |
+!UGE
+!18,97
+| {{Infobox Parti politique français/couleurs|DVC}} |
+!UC
+!9,13
+!67,16
+| {{Infobox Parti politique français/couleurs|DVD}} |
+!UD
+!52,37
+| {{Infobox Parti politique français/couleurs|FN}} |
+!RN
+!25,64
+| {{Infobox Parti politique français/couleurs|UGE}} |
+!UGE
+!21,98
+!66,82
+|-
+!02
+| {{Infobox Parti politique français/couleurs|DVD}} |
+|UD
+|48,75
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|25,94
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|13,40
+| {{Infobox Parti politique français/couleurs|DVC}} |
+|UC
+|6,45
+!65,08
+| {{Infobox Parti politique français/couleurs|DVD}} |
+|UD
+|57,22
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|27,17
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|15,61
+!64,96
+|-
+!59
+| {{Infobox Parti politique français/couleurs|DVD}} |
+|UD
+|38,93
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|22,69
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|22,53
+| {{Infobox Parti politique français/couleurs|DVC}} |
+|UC
+|10,15
+!69,66
+| {{Infobox Parti politique français/couleurs|DVD}} |
+|UD
+|50,65
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|25,73
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|23,62
+!68,99
+|-
+!60
+| {{Infobox Parti politique français/couleurs|DVD}} |
+|UD
+|41,94
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|25,45
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|17,90
+| {{Infobox Parti politique français/couleurs|DVC}} |
+|UC
+|9,04
+!67,61
+| {{Infobox Parti politique français/couleurs|DVD}} |
+|UD
+|53,23
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|26,43
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|20,34
+!67,19
+|-
+!62
+| {{Infobox Parti politique français/couleurs|DVD}} |
+|UD
+|41,24
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|26,40
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|16,74
+| {{Infobox Parti politique français/couleurs|DVC}} |
+|UC
+|8,67
+!64,94
+| {{Infobox Parti politique français/couleurs|DVD}} |
+|UD
+|51,81
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|28,42
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|19,78
+!64,96
+|-
+!80
+| {{Infobox Parti politique français/couleurs|DVD}} |
+|UD
+|44,08
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|22,67
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|17,74
+| {{Infobox Parti politique français/couleurs|DVC}} |
+|UC
+|8,99
+!63,22
+| {{Infobox Parti politique français/couleurs|DVD}} |
+|UD
+|55,07
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|23,84
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|21,09
+!63,42
+|-
+! rowspan="6" |[[Élection présidentielle française de 2022|Présidentielle 2022]]
+!Hauts de France
+| {{Infobox Parti politique français/couleurs|FN}} |
+!RN
+!33,34
+| {{Infobox Parti politique français/couleurs|EM}} |
+!LREM
+!25,40
+| {{Infobox Parti politique français/couleurs|FI}} |
+!LFI
+!18,98
+| {{Infobox Parti politique français/couleurs|REC}} |
+!REC
+!5,90
+!26,94
+| {{Infobox Parti politique français/couleurs|FN}} |
+!RN
+!52,14
+| {{Infobox Parti politique français/couleurs|EM}} |
+!LREM
+!47,86
+| colspan="3" rowspan="6" |''Pas de {{3e}}''
+!26,70
+|-
+!02
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|39,25
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|22,09
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|15,49
+| {{Infobox Parti politique français/couleurs|REC}} |
+|REC
+|6,87
+!27,06
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|59,91
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|40,09
+!26,22
+|-
+!59
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|29,27
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|26,37
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|21,95
+| {{Infobox Parti politique français/couleurs|REC}} |
+|REC
+|5,74
+!28,34
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|52,83
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|47,17
+!28,72
+|-
+!60
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|32,27
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|24,30
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|19,30
+| {{Infobox Parti politique français/couleurs|REC}} |
+|REC
+|7,37
+!25,19
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|52,73
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|47,27
+!25,72
+|-
+!62
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|38,68
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|24,61
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|15,78
+| {{Infobox Parti politique français/couleurs|REC}} |
+|REC
+|5,16
+!26,18
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|57,50
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|42,50
+!25,03
+|-
+!80
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|32,79
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|27,80
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|17,51
+| {{Infobox Parti politique français/couleurs|REC}} |
+|REC
+|5,65
+!25,04
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|51,00
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|49,00
+!24,02
+|}
+
+== Économie ==
+=== Emploi ===
+{{...}}
+Avec un [[taux de chômage]] de 10,4 % au deuxième trimestre 2019, les Hauts-de-France sont la région la plus touchée de France métropolitaine<ref>{{lien web|url=http://hauts-de-france.direccte.gouv.fr/Taux-de-chomage-au-2eme-trimestre-2019-en-Hauts-de-France|auteur=Direccte Hauts-de-France|titre=Taux de chômage au 2ème trimestre 2019 en Hauts-de-France|date=2 octobre 2019|consulté le=04/11/2020}}.</ref>.
+
+=== Agriculture ===
+{{...}}
+
+Les Hauts-de-France sont la première région de France pour les productions végétales. La région produit 10 % du lait français et 10 % du [[Champagne (AOC)|champagne]] français. Chaque jour, les agriculteurs des Hauts-de-France assurent la moitié de la production nationale de sucre avec leurs betteraves et cultivent près de 75 % des [[Pomme de terre|pommes de terre]] françaises. La région assure également la production de la quasi-totalité des [[endive]]s et [[Chou de Bruxelles|choux de Bruxelles]] français<ref>{{lien web|url=http://www.hautsdefrance.fr/agriculture/|titre=Les Hauts-de-France, première région agricole de France|site=hautsdefrance.fr|date=24 novembre 2015}}.</ref>.
+
+La législation européenne autorisant, depuis 2016, la plantation de vignes sur le territoire français, pour produire du [[vin sans indication géographique]] (VSIG), et le [[Réchauffement climatique en France|réchauffement climatique]], ont permis la plantation des premiers cépages de [[Chardonnay (cépage)|chardonnay]] et de [[Pinot noir (cépage)|pinot]] dans le département du [[Nord (département français)|Nord]] et du [[Pas-de-Calais]]<ref>{{Article
+|auteur1=Antoine Maes
+|photographe=Sami Belloumi
+|titre=Le Nord et le Pas-de-Calais bientôt terres de vins ? « On peut faire des trucs géniaux »
+|périodique=''[[La Voix du Nord]]''
+|date= 22 septembre 2022
+|lire en ligne=https://www.lavoixdunord.fr/1231719/article/2022-09-22/le-nord-et-le-pas-de-calais-bientot-terres-de-vins-peut-faire-des-trucs-geniaux
+|consulté le=26 septembre 2022
+}}.</ref>{{,}}<ref>{{Article
+|auteur1=Antoine Maes
+|photographe=Florent Moreau
+|titre=Un million de bouteilles par an « made in Hauts-de-France »: le projet de Ternovéo sur les rails
+|périodique=''[[La Voix du Nord]]''
+|date= 22 septembre 2022
+|lire en ligne=https://www.lavoixdunord.fr/1231734/article/2022-09-22/un-million-de-bouteilles-par-made-hauts-de-france-le-projet-de-ternoveo-sur-les
+|consulté le=26 septembre 2022
+}}.</ref>{{,}}<ref>{{Article
+|auteur1=Antoine Maes
+|photographe=Baziz Chibane
+|titre=« La vigne est un très bon indicateur du changement climatique »
+|périodique=''[[La Voix du Nord]]''
+|date= 22 septembre 2022
+|lire en ligne=https://www.lavoixdunord.fr/1231728/article/2022-09-22/la-vigne-est-un-tres-bon-indicateur-du-changement-climatique
+|consulté le=26 septembre 2022
+}}.</ref>.
+
+=== Énergie ===
+{{...}}
+
+La politique régionale freine le développement de nouveaux [[parc éolien|parcs éoliens]] mais soutient les unités de [[méthanisation]], notamment agricoles (plus de 50 en activité en 2020), et les [[centrale solaire photovoltaïque|centrales solaires photovoltaïques]], notamment sur des [[friche]]s industrielles désaffectées<ref>{{lien web|url=https://www.lesechos.fr/pme-regions/hauts-de-france/le-nord-de-la-france-parie-sur-la-methanisation-et-le-solaire-1261580|site=lesechos.fr|titre=Le nord de la France parie sur la méthanisation et… le solaire|auteur=Guillaume Roussange|date=03/11/2020|consulté le=04/11/2020}}.</ref>.
+
+=== Tourisme ===
+Le tourisme représente 4,3 % du [[Produit intérieur brut|PIB]] régional. {{unité|70000 emplois}} y sont consacrés. Les touristes étrangers viennent principalement de [[Belgique]]. Les [[nuitée]]s étrangères sont représentées principalement par les [[Grande-Bretagne|britanniques]] (en particulier sur la Côte d'Opale et les environs d'Arras)<ref>Nicolas André, [http://www.lavoixdunord.fr/163093/article/2017-05-15/les-hauts-de-france-seule-region-avec-la-corse-ou-le-tourisme-progresse Les Hauts-de-France, seule région, avec la Corse, où le tourisme progresse], ''[[La Voix du Nord]]'', {{date-|15 mai 2017}}.</ref>{{,}}<ref>[http://www.insee.fr/fr/statistiques/2659120 Le tourisme dans les Hauts-de-France : un secteur dynamique et en croissance pour l'emploi] [[Institut national de la statistique et des études économiques|Insee]], {{date-|15 mars 2017}}.</ref>. La région Hauts-de-France a tenté l'expérience d'une attraction touristique nouvelle, le rando-rail du Pays de Lumbres, qui comporte uneo option à assistance électrique, via deux parcours de 9 kilomètres à travers les bois et le bocage boulonnais, et les vallons de l'Artois<ref name="Oùfaire">"Où faire du vélorail dans votre région ?" par Jean-Marc De Jaeger le 01/06/202 ''[[Le Figaro]]'' [https://www.lefigaro.fr/voyages/ou-faire-du-velorail-dans-votre-region-1-20200601] </ref>.
+==== Le Comité du tourisme régional ====
+
+== Patrimoine ==
+=== Patrimoine naturel ===
+==== Réserves naturelles nationales ====
+* la [[réserve naturelle nationale de la baie de Somme]] ;
+* la [[réserve naturelle nationale de la baie de Canche]] ;
+* la [[réserve naturelle nationale de l'étang Saint-Ladre]] ;
+* la [[réserve naturelle nationale des grottes et des pelouses d'Acquin-Westbécourt et des coteaux de Wavrans-sur-l'Aa]] ;
+* la [[réserve naturelle nationale des landes de Versigny]] ;
+* la [[réserve naturelle nationale des marais d'Isle]] ;
+* la [[réserve naturelle nationale du marais de Vesles-et-Caumont]] ;
+* la [[réserve naturelle nationale du Platier d'Oye]] ;
+* la [[réserve naturelle nationale de la dune Marchand]] ;
+* la [[réserve naturelle nationale des étangs du Romelaëre]].
+
+==== Parcs naturels régionaux ====
+* le [[parc naturel régional de la Baie de Somme Picardie Maritime]] ;
+* le [[parc naturel marin des estuaires picards et de la mer d'Opale]] ;
+* le [[parc naturel régional des caps et marais d'Opale]] ;
+* le [[parc naturel régional Scarpe-Escaut]] ;
+* le [[parc naturel régional Oise-Pays de France]] ;
+* le [[parc naturel régional de l'Avesnois]] ;
+
+==== Sites naturels ====
+[[Fichier:Le Hourdel02.jpg|vignette|La [[baie de Somme]], l'anse du Hourdel.]]
+* '''Aisne'''
+** [[Réserve naturelle régionale du coteau de Chartèves|Coteau de Chartèves]]
+
+* '''Nord'''
+** [[Réserve naturelle du Jardin écologique du Vieux-Lille|Jardin écologique du Vieux-Lille]]
+** [[Réserve naturelle régionale du marais de Wagnonville|Marais de Wagnonville]]
+** [[Réserve naturelle régionale des Annelles, Lains et Pont Pinnet|Annelles, Lains et Pont Pinnet]]
+** [[Réserve naturelle régionale des prairies du val de Sambre|Prairies du val de Sambre]]
+** [[Réserve naturelle régionale des prairies du Schoubrouck|Prairies du Schoubrouck]]
+** [[Réserve naturelle régionale de la tourbière de Vred|Tourbière de Vred]]
+** [[Réserve naturelle régionale du pré des Nonnettes|Pré des Nonnettes]]
+** [[Réserve naturelle régionale des monts de Baives|Mont de Baives]]
+** [[Réserve naturelle régionale de l'Escaut-rivière|Réserve de l'Escaut-rivière]]
+
+* '''Oise'''
+** [[Mont Ganelon]]
+** [[Mont César]]
+** [[Réserve naturelle régionale des larris et tourbières de Saint-Pierre-es-Champs|Larris et tourbières de Saint-Pierre-es-Champs]]
+
+* '''Pas-de-Calais'''
+** [[Image:LogoGSF marque brun 181.jpg|20px]] [[Cap Blanc-Nez]]
+** [[Image:LogoGSF marque brun 181.jpg|20px]] [[Cap Gris-Nez]]
+** [[Réserve naturelle régionale du marais de Condette|Marais de Condette]]
+** [[Dunes d'Écault]]
+** [[Baie d'Authie]]
+** [[Marais audomarois]]
+
+* '''Somme'''
+** [[Image:LogoGSF marque brun 181.jpg|20px]] [[Baie de Somme]]
+** [[Hâble d'Ault]]
+** [[Hortillonnages d'Amiens]]
+** [[Montagne d'Eclusier-Vaux]]
+** [[Montagne de Frise]]
+** [[Montagne de Montenoy]]
+** [[Grand Marais de La Queue]]
+** [[Étangs de La Barette]]
+
+==== Forêts ====
+Avec {{unité|428000 [[hectare]]s}} de forêt (privée à 72 %) produisant {{unité|4000000 m 3/an}} de bois, la région est la dernière de France en superficie forestière (13,4 % de l'espace) mais la {{5e|région}} en consommation de bois.
+
+Hors boisements [[Office national des forêts|ONF]], la forêt est détenue par un peu plus de {{unité|120000 propriétaires}}, souvent détenteurs de petites parcelles (seuls {{unité|1900 d'entre-eux}} possèdent un massif de {{nobr|25 hectares}} ou plus). Cette forêt mobilise pour sa gestion et son exploitation environ {{unité|8800 entreprises}} ({{unité|42000 emplois}}) selon la filière Nord-Picardie Bois en 2017.
+
+Après une longue phase de régression du [[haut Moyen Âge]] à la [[révolution industrielle]], cette forêt a regagné du terrain et est encore en expansion (+10 % en quinze ans vers 2000-2010). Elle est feuillue à plus de 90 %, l'[[enrésinement]] y étant pour l'essentiel artificiel. Les [[peupleraie]]s y sont nombreuses, également artificielles, et essentiellement dans les vallées humides<ref>Centre National de la Propriété Forestière, [http://www.cnpf.fr/hautsdefrance/n/la-foret-des-hauts-de-france/n:88 La forêt des Hauts-de-France].</ref>{{,}}<ref>[[Ministère de l'Agriculture et de l'Alimentation (France)|Ministère de l'Agriculture et de l'Alimentation]], [http://www.agreste.agriculture.gouv.fr/IMG/pdf/foret2014T1bssef.pdf Enquête sur la structure de la forêt privée en 2012], novembre 2014.</ref>{{,}}<ref>Réseau Bois&Vous, [http://www.bois-et-vous.fr/foret-regionale/caracteristiques-foret-regionale Caractéristiques de la forêt régionale].</ref>.
+
+Les forêts de plus de {{unité|1000 ha}} sont :
+{{Colonnes|nombre=3|
+* [[Forêt d'Andigny]]
+* [[Forêt domaniale de Boulogne (Pas-de-Calais)|Forêt de Boulogne]]
+* [[Forêt de Chantilly]]
+* [[Forêt de Compiègne]]
+* [[Forêt de Crécy]]
+* [[Forêt domaniale de Desvres|Forêt de Desvres]]
+* [[Forêt d'Ermenonville]]
+* [[Forêt d'Halatte]]
+* [[Forêt d'Hesdin]]
+* [[Forêt de Hez-Froidmont]]
+* Forêt d'Hirson - Forêt de Saint-Michel-en-Thiérache
+* [[Forêt de Laigue]]
+* [[Forêt de Mormal]]
+* [[Forêt de Nieppe]]
+* [[Forêt d'Ourscamp-Carlepont]]
+* [[Forêt de Raismes-Saint-Amand-Wallers]]
+* [[Forêt de Retz]]
+* [[Forêt domaniale de Rihoult Clairmarais|Forêt de Rihoult-Clairmarais]]
+* [[Forêt de Saint-Gobain]]
+* [[Forêt de Thelle]]
+}}
+
+=== Monuments et sites historiques ===
+==== Inscrits au patrimoine mondial de l'Unesco ====
+La région compte plusieurs sites et ensembles de sites faisant partie du [[patrimoine mondial]] de l'[[Organisation des Nations unies pour l'éducation, la science et la culture|Unesco]] :
+* la [[cathédrale Notre-Dame d'Amiens]] pour la cohérence du plan, la beauté de l'élévation intérieure à trois niveaux et l'agencement d'un programme sculpté extrêmement savant à la façade principale et au bras sud du transept<ref>{{lien web |titre=Cathédrale d’Amiens |url=http://whc.unesco.org/fr/list/162 |site=UNESCO Centre du patrimoine mondial |consulté le=26-06-2020}}.</ref> puis en tant que monument du [[Chemins de Compostelle en France]] {{Patrimoine mondial|1981|1998}} ;
+* l'[[église Saint-Jacques-le-Majeur-et-Saint-Jean-Baptiste de Folleville]] en tant que monument du [[Chemins de Compostelle en France]] {{Patrimoine mondial|1998}} ;
+* l'[[église Saint-Jacques de Compiègne]] en tant que monument du [[Chemins de Compostelle en France]] {{Patrimoine mondial|1998}} ;
+* les [[beffrois de Belgique et de France|beffrois du Nord, du Pas-de-Calais et de la Somme]] (au nombre de 23) {{Patrimoine mondial|2005}} ;
+* la [[citadelle d'Arras]], qui fait partie du [[réseau des sites majeurs de Vauban]] {{Patrimoine mondial|2008}} ;
+* le [[bassin minier du Nord-Pas-de-Calais]] ([[Liste des biens du bassin minier du Nord-Pas-de-Calais classés au patrimoine mondial de l'Unesco|{{unité|353|éléments}} répartis sur {{unité|109|sites}}]] comprenant [[charbonnage]]s, [[chevalement]]s, [[terril]]s, [[Cité ouvrière|cités minières]], [[manoir]]s, églises et divers monuments) {{Patrimoine mondial|2012}}.
+
+<gallery mode="packed">
+Bethune beffroi 2.jpg|Le [[beffroi de Béthune]].
+Calais hotel de ville face.jpg|L'[[hôtel de ville de Calais]] avec son beffroi.
+Douai - Beffroi (01).JPG|Le [[beffroi de Douai]].
+Loos-en-Gohelle - Terrils n° 74, 74A et 74B, 11 - 19 de Lens Est, Ouest et Nouveau (047).JPG|Les [[terril]]s de la [[Fosse n° 11 - 19 des mines de Lens|fosse {{n°}}11 - 19]] des [[Compagnie des mines de Lens|mines de Lens]].
+Wallers - Fosse Arenberg, les trois chevalements (E).jpg|Les [[chevalement]]s de la [[fosse Arenberg|fosse minière Arenberg]].
+Cathédrale, AmiensTP.JPG|La [[cathédrale Notre-Dame d'Amiens]].
+</gallery>
+
+==== Les monuments gothiques ====
+Le territoire de la région a été l'un des lieux où l'[[architecture gothique]] parvint à son apogée, aux {{s2-|XII|XIII}}, notamment dans le sud de la région (qui faisait partie du domaine royal). Ce style a ensuite rayonné dans toute l'Europe. Plusieurs grandes [[cathédrale]]s sont des témoins prestigieux de cette aventure architecturale. Le gothique primitif est illustré par les cathédrales de [[Cathédrale de Noyon|Noyon]], de [[Cathédrale de Laon|Laon]] et de [[Cathédrale de Senlis|Senlis]], tandis que les principales cathédrales gothiques du nord de la région, celles d'[[Cathédrale Notre-Dame-en-Cité d'Arras|Arras]], de [[Cathédrale Notre-Dame de Cambrai|Cambrai]] et de [[Histoire de Thérouanne|Thérouanne]], qui appartenaient également en grande partie au gothique primitif, ont aujourd'hui disparu. Le gothique classique et le gothique rayonnant, c'est-à-dire l'apogée de l'architecture gothique, sont marqués dans la région par une course à la légèreté architecturale et au gigantisme, bien représentée chronologiquement par les cathédrales de [[Cathédrale de Soissons|Soissons]], d'[[Cathédrale d'Amiens|Amiens]] et de [[Cathédrale de Beauvais|Beauvais]]<ref>revue ''Pays du Nord'', numéro hors série "''Cathédrales, 10 siècles d'histoire régionale''", 2007.</ref>{{,}}<ref>''Les cathédrales du Nord'', éditions La Voix du Nord, 2009.</ref>{{,}}<ref>''L'art gothique, Architecture, sculpture, peinture'', sous la direction de Rolf Toman, éditions h.f.ullmann. 2004 (2007 pour l'édition en français).</ref>. La [[Basilique Saint-Quentin de Saint-Quentin|basilique de Saint-Quentin]] a les dimensions d'une cathédrale. Il faut aussi évoquer l’existence de nombreuses abbayes, collégiales et églises paroissiales plus modestes qui illustrent cette architecture dans toute la région. En Picardie maritime le gothique flamboyant est bien représenté par l'[[église Saint-Vulfran d'Abbeville]], la [[chapelle du Saint-Esprit de Rue]] et l'[[abbatiale de Saint-Riquier]]. Le groupe des [[Liste des édifices gothiques de brique du Nord de la France|églises gothiques flamandes en brique]] et celui plus tardif des [[églises fortifiées de Thiérache]] participent à l'originalité des pays locaux.
+
+<gallery mode="packed">
+Cathédrale Notre-Dame de Laon at night-5675.jpg|La [[cathédrale Notre-Dame de Laon]].
+Soissons cathedral.jpg|Nef de la [[cathédrale Saint-Gervais-et-Saint-Protais de Soissons]].
+Senlis - general view 002.jpg|La [[cathédrale Notre-Dame de Senlis]] avec sa flèche du {{s-|XIII}}.
+20121007 Beauvais CathedralStPierre DSC00756 PtrQs a.jpg|Chœur de la [[cathédrale Saint-Pierre de Beauvais]].
+File:Abbeville 23-09-2008 15-22-11.JPG|L'[[église Saint-Vulfran d'Abbeville]].
+</gallery>
+
+==== Les citadelles et villes fortifiées ====
+Du fait de sa position frontalière, la région abrite de nombreuses fortifications de diverses époques. La partie nord de la région compte notamment un bel ensemble de [[fortification|fortifications bastionnées]]. Les plus anciennes remontent au règne de [[François Ier (roi de France)|François {{Ier}}]] au {{s-|XVI}} : les citadelles de [[Citadelle de Montreuil|Montreuil-sur-Mer]], de [[citadelle de Doullens|Doullens]] et d'[[citadelle d'Amiens|Amiens]]. Elles ont été transformées par [[Jean Errard]] au début du {{s-|XVII}}. Au {{s-|XVII}}, [[Louis XIV]] agrandit la France dans le Nord par ses conquêtes et charge son célèbre ingénieur militaire, [[Vauban]], de fortifier le « [[pré carré]] » le long de la frontière avec les Pays-Bas d'alors. Ce dernier construisit de remarquables places fortes dont certaines sont bien conservées : les villes fortifiées de [[Enceinte de Bergues|Bergues]], de [[Enceinte de Gravelines|Gravelines]], du [[Enceinte du Quesnoy|Quesnoy]], de [[Condé-sur-l'Escaut]] et de [[Enceinte de Maubeuge|Maubeuge]], les citadelles de [[Citadelle de Lille|Lille]], d'[[Citadelle d'Arras|Arras]] et de [[Citadelle de Calais|Calais]], le [[fort d'Ambleteuse]], etc. Mais la région compte aussi des villes fortifiées à l'époque gallo-romaine et au Moyen Âge, dont on peut citer [[Remparts de Senlis|Senlis]], [[Ville fortifiée de Boulogne-sur-Mer|Boulogne-sur-Mer]], et [[Enceinte de Laon|Laon]].
+
+<gallery mode="packed">
+Image:Montreuil-sur-Mer et sa citadelle.jpg|La [[citadelle de Montreuil-sur-Mer|citadelle de Montreuil]].
+Le Quesnoy (Nord) (9600276654).jpg|Douves et remparts de l'[[enceinte du Quesnoy]].
+</gallery>
+
+==== Les châteaux ====
+Le sud de la région conserve quelques châteaux remarquables du [[Moyen Âge]] comme les châteaux de [[château de Coucy|Coucy]], de [[Château de Septmonts|Septmonts]], de [[château de Fère-en-Tardenois|Fère-en-Tardenois]] et de [[Château de La Ferté-Milon|La Ferté-Milon]]. Le [[château de Pierrefonds]] a, quant à lui, été entièrement restauré sous le [[Second Empire]] par [[Eugène Viollet-le-Duc|Viollet-le-Duc]]. D'autres châteaux ont connu un développement important à l'époque moderne comme le [[château de Compiègne]], reconstruit en style classique pour [[Louis XV]], et qui fut une demeure impériale. Celui-ci abrite un vaste jardin à l'anglaise et deux musées nationaux : le musée du Second-Empire et celui de la voiture et du tourisme. Le [[château de Chantilly]] est le siège du [[musée Condé]], qui conserve un riche patrimoine, et dispose d'un jardin conçu par [[Le Nôtre]] et de remarquables écuries du {{s-|XVIII}}, qui abritent le [[musée du Cheval]]. Le [[château de Blérancourt]] abrite un musée franco-américain.
+
+Dans la Somme, le [[château de Rambures]] du {{s-|XV}}, est bien conservé. Dans le Pas-de-Calais, on peut mentionner le [[château d'Hardelot]], de [[style néo-tudor]] et dédié aujourd'hui aux relations franco-britanniques, le [[château de Boulogne-sur-Mer]], qui abrite un musée d'archéologie antique et d'ethnographie, et le château médiéval d'[[château d'Olhain|Olhain]].
+
+<gallery mode="packed">
+Parc-du-Château-de-Chantilly.JPG|Le [[château de Chantilly]] dans son parc.
+Chateau de Pierrefonds, France - April 2012.jpg|Le [[château de Pierrefonds]].
+Compiègne, the château.JPG|Le [[Château de Compiègne]].
+</gallery>
+
+=== Villes et Pays d'Art et d'Histoire ===
+==== Villes d'Art et d'Histoire ====
+* [[Beauvais]] (Oise)
+* [[Boulogne-sur-Mer]] (Pas-de-Calais)
+* [[Calais]] (Pas-de-Calais)
+* [[Cambrai]] (Nord)
+* [[Chantilly]] (Oise)
+* [[Laon]] (Aisne)
+* [[Lille]] (Nord)
+* [[Noyon]] (Oise)
+* [[Roubaix]] (Nord)
+* [[Saint-Quentin]] (Aisne)
+* [[Soissons]] (Aisne)
+* [[Tourcoing]] (Nord)
+
+<gallery mode="packed">
+Laon Cathedral View from Gallery 01.JPG|La vielle ville perchée de [[Laon]] vue de la cathédrale.
+Arras Place des Héros 16.jpg|Maisons de la [[Place des Héros (Arras)|place des Héros]] d'[[Arras]].
+Boulogne-sur-Mer - Ville Haute - Rampart of Fortifications - View NW on Basilica of Notre-Dame de Boulogne & Le Château Comtal.jpg|[[Château-musée de Boulogne-sur-Mer|Château musée]] et [[basilique Notre-Dame-de-l'Immaculée-Conception de Boulogne-sur-Mer|basilique]] de [[Boulogne-sur-mer]].
+Lille vue place theatre.jpg|[[Place du Théâtre (Lille)|Place du Théâtre]] de Lille.
+</gallery>
+
+==== Pays d'Art et d'Histoire ====
+* [[Communauté d'agglomération Amiens Métropole|Amiens Métropole]] (Somme)
+* [[Pays de Saint-Omer]] et de la [[Communauté de communes de la Morinie|Morinie]] (Pas-de-Calais)
+* [[Communaupole de Lens-Liévin|Pays de Lens-Liévin]] (Pas-de-Calais)
+* Pays de [[Senlis (Oise)|Senlis]] à [[Ermenonville]] (Oise)
+
+== Festivals ==
+=== Cinéma ===
+* [[Festival international du film d'Amiens]], depuis 1980
+* [[Festival du cinéma européen de Lille]] depuis 1984
+* [[Festival du film d'archéologie d'Amiens]] depuis 1990
+* [[Festival international du film animalier d'Albert]], depuis 1991
+* [[Arras Film Festival]], depuis 2000
+* [[Festival du film de Compiègne]] depuis 2001
+* Fête-Anim, [[Fête de l'animation de Lille|Festival de film d'animation]] de Lille-Tourcoing-Valenciennes depuis 2004. Combinée avec les récompenses des [[Emile Awards]].
+* [[Festival International du Court Métrage]] de Lille, depuis 2000. Et classé, depuis 2005, en catégorie 1 par le [[Centre national du cinéma et de l'image animée|CNC]] (parmi les 12 festivals français importants pour la profession).
+
+=== Bande dessinée ===
+* [[Rendez-vous de la bande dessinée d'Amiens]], depuis 1996
+* [[Festival BD de Boulogne-sur-Mer]]
+* Festival les « Journées BD » de Saint-Quentin
+
+=== Musique ===
+[[Image:Mika at the Main Square Festival in 2008.jpg|vignette|[[Mika (chanteur)|Mika]] au [[Main Square Festival]] d'Arras, l'un des principaux festivals musicaux de France.]]
+* [[Main Square Festival]] depuis 2004 à Arras
+* [[Le Jardin Électronique]] depuis 2014 à Lille
+* [[Le jardin électronique|Le Jardin d'Hiver]] depuis 2020 à Lille
+* [[Festival de la Côte d'Opale]] (variétés, musique classique, jazz, blues, world music) à Boulogne-sur-Mer, depuis 1976
+* [[Festival de Saint-Riquier]] (musique classique), depuis 1985
+* [[Festival des forêts]] (musique classique), forêts de Laigue et de Compiègne, depuis 1992
+* [[Festival de l'Abbaye de Saint-Michel]] (musique baroque)
+* [[Blues autour du Zinc]] à Beauvais
+* [[N.A.M.E festival]] depuis 2005 à Lille, Dunkerque, Maubeuge, Tourcoing
+* Poulpaphone à Boulogne-sur-Mer depuis 2005
+* Les Nuits Secrètes, Aulnoye-Aymeries depuis 2001
+* [[BetiZFest]] à Cambrai
+* Festival des Vers solidaires depuis 2004 à Saint-Gobain.
+
+=== Théâtre ===
+* [[Festival théâtral de Coye-la-Forêt]], au mois de mai, dans le sud de l'Oise, depuis 1982
+
+=== Séries télévisées ===
+* [[Festival Séries Mania]], depuis 2018, au printemps, principalement à Lille
+
+== Personnalités liées aux Hauts-de-France ==
+
+* [[Jenny Zillhardt]] (1857-1939), [[artiste peintre]], née à Saint-Quentin ;
+* [[Madeleine Zillhardt]] (1863-1950), écrivaine, née à [[Saint-Quentin]];  
+* [[Léon Bronchart]] (1896-1986), résistant, syndicaliste français, cheminot, héros de la Seconde Guerre mondiale et [[Juste parmi les Nations]], né à [[Bapaume]];  
+* [[Martha Desrumaux]]  (1897-1982), résistante, née à [[Comines (Nord)|Comines]];
+* [[Pierre Mauroy]] (1928-2013), homme d'État français;
+* [[Martine Aubry]] (1950-), ministre et maire de Lille.
+
+== Identité visuelle ==
+<gallery caption="Logotype">
+Logo Provisoire NPDCP.png|Logo provisoire, de {{Date-|décembre 2015}} à {{Date-|mars 2016}}.
+Hauts-de-France Logo.png|Logo transitoire, de {{Date-|mars 2016-}} à {{Date-|juillet 2016}}.
+Région Hauts-de-France logo 2016.svg|Logo depuis {{Date-|juillet 2016}}, représentant un cœur entrelacé dans une carte de France<ref>{{Citation|Après {{Unité|85|propositions}} d’étudiants, {{Unité|20|écoles}} mobilisées, {{Unité|174|créations}} proposées par les habitants de la région, {{Unité|2|jurys}}, {{Unité|7|présélections}} et {{Unité|62215|votes}} en ligne}}, la région adopte ce logo le {{Date-|8 juillet 2016}}. {{Citation|D’une seule ligne entrelacée, il évoque le lien affectif qui unit les habitants à leur région, ainsi que le lien qui unit la région au pays. Symbole universel, le cœur exprime ici les qualités des habitants du Nord de la France : générosité, accueil, chaleur humaine}}. Les deux couleurs utilisées sont le vert, pour représenter la campagne (et l'ancienne [[Picardie (ancienne région administrative)|Picardie]]), et le bleu, qui symbolise le littoral. {{Cf.|maj}} {{Lien web|url=https://www.hautsdefrance.fr/nouveau-logo-region/|titre=Nouveau logo de la Région Hauts-de-France : les habitants ont du cœur !|site=hautsdefrance.fr|consulté le=17 juin 2019}}.</ref>.
+</gallery>
+
+<gallery caption="Drapeau et armoiries">
+Proposed design for a flag of Hauts-de-France.svg|Dessin proposé pour le drapeau des Hauts-de-France.
+Escutcheon fr region Hauts-de-France.svg|Dessin proposé pour les armoiries des Hauts-de-France<ref>{{Article |auteur1=Béatrice Quintin |titre=Violences conjugales «Les gendarmes veulent des preuves, les victimes être écoutées» |périodique=La Voix du Nord |champ libre=Blason visible sur le kakemono de communication de la gendarmerie |photographe=La Voix du Nord |date=15/05/2018 |issn=0999-2189 |lire en ligne=https://www.lavoixdunord.fr/377097/article/2018-05-15/les-gendarmes-veulent-des-preuves-les-victimes-etre-ecoutees |consulté le=31-12-2020}}.</ref>.
+</gallery>
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+{{Autres projets|wikt=Hauts-de-France}}
+
+=== Articles connexes ===
+* [[Nord-Pas-de-Calais]]
+* [[Picardie (ancienne région administrative)]]
+* [[Région française]]
+* [[Conseil régional des Hauts-de-France]]
+* [[Élections régionales de 2015 en Nord-Pas-de-Calais-Picardie]]
+
+=== Liens externes ===
+{{Liens}}
+* [http://www.prefectures-regions.gouv.fr/hauts-de-france Préfecture de région]
+
+{{Palette|Régions et territoires de France|Géographie des régions et territoires français}}
+{{Portail|Hauts-de-France|Nord-Pas-de-Calais|Picardie|régions de France}}
+
+[[Catégorie:Hauts-de-France|*]]
+[[Catégorie:Division administrative fondée en 2016]]
+

@@ -1,0 +1,1250 @@
+{{2autres|la région historique|la région administrative créée en 2016|Normandie (région administrative)|les autres significations|Normandie (homonymie)}}
+{{Infobox Subdivision administrative
+ | modèle                   = Infobox Bretagne<!--Paramètre obligatoire pour un modèle-->
+ | nom divers               = [[Devise (phrase)|Devises]] <small>(''de facto'')</small>
+ | divers démographie2      = <small>{{formatnum:107800}} hab. (est. 2019)</small>
+ | gentilé                  = [[Normands|Normand]], [[Normands|Normande]]
+ | superficie               = 30100
+ | superficie ha            = non
+ | nom divers géo           = {{nobr|&nbsp;<small> - Région Normandie</small>}}
+ | divers géo               = <small>{{Unité|29906|km|2}}</small>
+ | nom divers géo2          = {{nobr|&nbsp;<small> - Bailliage de Jersey</small>}}
+ | divers géo2              = <small>{{Unité|123|km|2}}</small>
+ | divers                   = [[#Devises|« ''Viriliter et Sapienter'' »]] (Courage et Sagesse)<br>[[#Devises|« ''Dex Aïe !'' »]] (Dieu, à l'aide !)
+ | divers démographie       = <small>{{formatnum:3327477}} hab. (2018)</small>
+ | nom divers3              = Langues
+ | divers3                  = Continent : [[français]], [[normand]], [[francien]], [[cauchois]]<br>[[îles Anglo-Normandes|Îles]] : [[anglais]], [[français]], [[jersiais]], [[guernesiais]]
+ | nom divers4              = Domaine internet
+ | divers4                  = [[îles Anglo-Normandes|Îles]] : [[.gg]], [[.je]]
+ | nom divers géo3          = {{nobr|&nbsp;<small> - Bailliage de Guernesey</small>}}
+ | nom divers démographie3  = {{nobr|&nbsp;<small> - Bailliage de Guernesey</small>}}
+ | divers géo3              = <small>{{Unité|78|km|2}}</small>
+ | nom divers démographie2  = {{nobr|&nbsp;<small> - Bailliage de Jersey</small>}}
+ | nom divers démographie   = {{nobr|&nbsp;<small> - Région Normandie</small>}}
+ | couleur                  = BBDEFD
+ | légende                  = Localisation de la Normandie
+ | nom                      = Normandie
+ | autres noms              = ''Normaundie'' {{nrm}}<br />''Normandy'' {{en}}
+ | drapeau                  = Flag of Normandie.svg
+ | légende drapeau          = [[Drapeau normand|Détail]]
+ | blason                   = Blason duche fr Normandie.svg
+ | légende blason           = [[Drapeau normand|Détail]]
+ | blason sous image        = non
+ | image                    = Normandía.PNG
+ | pays2                    = {{drapeau|France}} [[France]]<br/>{{drapeau|UK}} [[Dépendances de la Couronne]]
+ | année_pop                = 2017
+ | nom de division          = Statut
+ | division                 = [[Région historique|Entité géographique et culturelle]]
+ | nom de division2         = Territoires actuels
+ | division2                = {{drapeau|Normandie}} [[Normandie (région administrative)|Région Normandie]]<br /> {{drapeau|Jersey}} [[Bailliage de Jersey]]<br />{{drapeau|Guernesey}} [[Bailliage de Guernesey]]
+ | nom de division3         = Villes principales
+ | division3                = Capitales historiques : [[Rouen]]<ref>[http://www.historia.fr/special/103/caen-capitale-politique-01-09-2006-57456 ''Historia''], « Caen, capitale politique : choisie par Guillaume et son épouse Mathilde, la ville nouvelle s'épanouit sous la tutelle de ses deux abbayes. Centre intellectuel autant que pôle économique, elle est promise à un bel avenir. » consulté le {{date-|22|juin|2011}}.</ref>{{,}}<ref>[http://www.historia.fr/search/apachesolr_search/capitale%20normandie%20Rouen%20Caen Historia]«...seconde capitale de Normandie, après Rouen… »</ref> [[Caen]]<ref>[http://www.ville-caen.fr/mdn/visites/pedago/Ressources/Dossiers/chateau/chateau3.htm Musée de Normandie - Le château], « Le nom de Guillaume le Conquérant est étroitement associé à celui de Caen, ville qu'il a créée en la faisant passer du rang de gros bourg commerçant à celui de deuxième capitale du duché de Normandie, après Rouen. », consulté le {{date-|13|décembre|2010}}.</ref><br>Capitales administratives : [[Rouen]], [[Caen]], [[Saint-Hélier]], [[Saint-Pierre-Port]]
+ | nom de code1             = [[ISO 3166-2:FR|ISO 3166-2]]
+ | code1                    = <code>FR-NOR</code><br /><code>JEY</code><br /><code>GGY</code>
+ | population               = 3499280
+ | divers démographie3      = <small>{{formatnum:67334}} hab. (est. 2016)</small>
+}}
+
+La '''Normandie''' (en [[normand]] : ''Normaundie'', en [[anglais]] : ''{{langue|en|Normandy}}''<ref group="Note">L'anglais est une langue parlée en Normandie insulaire, à savoir les [[îles Anglo-Normandes|îles de la Manche]] ou [[îles Anglo-Normandes]].</ref>) est une [[Région historique|entité géographique et culturelle]], située dans le Nord-Ouest de la [[France]] et bordée par la [[Manche (mer)|Manche]] ; elle a traversé différentes époques [[histoire|historiques]], malgré une absence de reconnaissance administrative entre la [[Révolution française]] de 1789 et la [[Loi relative à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral|réforme territoriale]] de 2015. Les frontières continentales historiques de la province de l'[[Ancien Régime]] épousent assez fidèlement celles de la [[Normandie (région administrative)|région administrative contemporaine]].
+
+Fondé en [[Neustrie]] par [[Rollon]], le [[duché de Normandie]] occupe à partir de 911 la basse vallée de la [[Seine]], puis le [[Bessin]], le [[pays d'Auge]] et l'[[Comté d'Hiémois|Hiémois]] en 924, le [[Cotentin]], l’[[Avranchin]] et les [[Îles Anglo-Normandes|îles de la Manche]] en 933. En 1066, le [[Liste des ducs de Normandie|duc de Normandie]] [[Guillaume le Conquérant]] conquiert l'[[Angleterre]] et en devient [[Liste des monarques d'Angleterre|roi]]. Un siècle et demi plus tard, en 1204, le [[roi de France]] [[Philippe II Auguste|Philippe Auguste]] envahit le [[Fief|duché]] et l'intègre au [[Domaine royal français|domaine royal]], à l'exception de sa partie insulaire, qui forme les [[Bailliage et sénéchaussée|bailliages]] de [[Bailliage de Jersey|Jersey]] et de [[Bailliage de Guernesey|Guernesey]], sous dépendance de la [[Couronne (Commonwealth)|Couronne britannique]]. La partie continentale devient dès lors [[Territoires du royaume de France|province]] [[France|française]], jusqu'en 1790, tandis que les [[îles Anglo-Normandes]] restent sous la [[souveraineté]] des [[Liste des monarques britanniques|monarques de Grande-Bretagne]] sous le titre de « [[Liste des ducs de Normandie|duc de Normandie]]<ref name="cij">[http://www.icj-cij.org/docket/index.php?p1=3&p2=3&code=fuk&case=17&k=19 Site de la Cour internationale de Justice - décision îlots des Écréhous et des Minquiers], consulté le {{date-|6|mai|2008}}.</ref> ».
+
+À la création des régions en 1956, la Normandie continentale est séparée en deux [[Collectivité territoriale en France|collectivités territoriales]], qui portent le nom en partage : les [[Région française|régions administratives]] de [[Haute-Normandie]] et de [[Basse-Normandie]]. Leur [[réunification de la Normandie|réunification]] au sein d'une seule [[Normandie (région administrative)|région Normandie]] est votée par l'[[Assemblée nationale (France)|Assemblée nationale]] le {{date-|17|décembre|2014}} et est appliquée au {{date-|1|janvier|2016}}, après les [[Élections régionales françaises de 2015|élections régionales de décembre 2015]].
+
+Très stables, les frontières continentales de l'ancienne province concordent assez fidèlement avec celles de la [[Normandie (région administrative)|région administrative contemporaine]], hormis quelques territoires incorporés aux actuels départements d'[[Eure-et-Loir]], de la [[Mayenne (département)|Mayenne]], de l'[[Oise (département)|Oise]] et de la [[Sarthe (département)|Sarthe]], lors de la création des [[Généralité (France)|généralités]], et quelques [[commune (France)|communes]] enclavées échangées avec la [[Mayenne (département)|Mayenne]] après la création des [[Département français|départements]] à la [[Révolution française|Révolution]], avec le [[Calvados (département)|Calvados]], l’[[Eure (département)|Eure]], la [[Manche (département)|Manche]], l’[[Orne (département)|Orne]] et la [[Seine-Maritime]] (anciennement Seine-Inférieure).
+
+La population de la [[Normandie (région administrative)|région Normandie]] est de {{unité|3328364|habitants}} (les Normands) en 2013 d'après l'[[Institut national de la statistique et des études économiques|Insee]], auxquels s'ajoutent environ {{nombre|164000|habitants}} sur les [[îles Anglo-Normandes]].
+
+{{Sommaire|niveau=2}}
+
+== Origine du nom ==
+Le nom ''Normandie'' est dérivé du terme ''normand'', avec le suffixe d'origine [[latin]]e ''-ie'' (cf. ''Germania'' « Germanie », ''Italia'' « Italie », etc.). ''Normand'' est lui-même un emprunt au [[Vieux-francique|francique]] ''*{{langue|frk|nortman}}''<ref>[[Albert Dauzat]], [[Jean Dubois (linguiste)|Jean Dubois]], [[Henri Mitterand]], ''Nouveau Dictionnaire étymologique et historique'', Paris, Larousse, [[1971]], {{p.}}497.</ref> ou au [[vieux norrois]] ''{{langue|non|norðmaðr}}''<ref>[http://www.cnrtl.fr/etymologie/normand Site du CNRTL : étymologie de ''Normand''].</ref>{{,}}<ref>Jan de Vries, ''Altnordisches etymologisches Wörterbuch'', 3. Aufl., Brill, Leiden, [[1977]].</ref>, qui signifient tous deux « homme du Nord ». ''Nortmannus'' est attesté pour la première fois en [[latin médiéval]] dès la fin du {{IXe siècle}}<ref>[[Charles du Fresne, sieur du Cange]], ''Glossarium''.</ref>{{,}}<ref>CNRTL, ''ibidem''.</ref>. Quant à ''Normand'' (écrit ''Norman''), il figure dans la ''[[Chanson de Roland]]''<ref>Vers 3794 « ''Baivier e Saisne sunt alet à cunseill, e Peitevin e Norman e Franceis ; asez i as Alemans e Tiedeis'' » (« Saxons et Bavarois sont entrés en conseil, avec les Poitevins, les Normands et les Français ; les Alémaniques et les Thiois sont en nombre).</ref>. La Normandie est donc étymologiquement le « pays des hommes du Nord ».
+
+L'expression ''Norðmannaland'', équivalent germanique de ''Normandie'', est trouvée en [[vieil anglais]] à la fin du {{s-|IX}} dans ''Orosius'' et se réfère au « [[Danemark]] », pays alors aux contours difficiles à définir<ref>Janet Bately, ''The Old English Orosius, Early English Text Society Supplementary'', Series 6, Oxford: Oxford University Press, 1980, {{p.|196}}.</ref>.
+
+== Histoire ==
+{{Article détaillé|Histoire de la Normandie}}
+=== Préhistoire, protohistoire et antiquité ===
+La présence humaine dans la région n'est pas antérieure à la fin du [[paléolithique inférieur]] (auparavant cette région était extrêmement froide). Au [[paléolithique moyen]], elle est attestée par de nombreuses trouvailles d’[[industrie lithique]]. Mais, au [[paléolithique supérieur]], la région est occupée par la [[toundra]], peu propice à la vie humaine. Cependant, elle sera à nouveau habitée, comme le montre la [[grotte de Gouy]] près de [[Rouen]], qui, du fait de ses [[Art pariétal|gravures pariétales]] datées du [[magdalénien]], se trouve être la grotte ornée la plus septentrionale d’Europe. Par ailleurs, de nombreux [[mégalithe]]s encore visibles parsèment d’une façon assez régulière la campagne normande<ref>Vincent Carpentier, Emmanuel Ghesquière et [[Cyril Marcigny]], ''[[Archéologie]] en Normandie'', éditions Ouest-France, Edilarge, 2007 {{ISBN|9782737341649}}.</ref>. Le [[site archéologique du Rozel]] présente des traces exceptionnelles de pas et de mains d{{'}}''[[Homo neanderthalensis]]''.
+
+Mais ce n'est véritablement qu'à l'[[âge du bronze]] (entre [[-2300|2300]] et [[-800|800]] av. J.-C.) que la Normandie va être mise en valeur. À cette époque, des fermes, des systèmes parcellaires et de vastes nécropoles sont implantés dans le territoire, formant un premier maillage de sites couvrant l'ensemble des terroirs normands<ref>[[Cyril Marcigny]], Cécile Colonna, Emmanuel Ghesquière et Guy Verron (dir.), ''La Normandie à l’aube de l’histoire : les découvertes archéologiques de l’âge du bronze 2300-800 {{av JC}}'', Paris, Somogy, 2005 {{ISBN|2850569194}}.</ref>.
+
+La découverte d’objets comme le [[casque celtique|casque gaulois]] doré d’[[Amfreville-sous-les-Monts]] ({{-s|IV}}) ou celui, en fer, du [[musée de Louviers]], ainsi que de sites comme la grande [[nécropole de Pîtres]]<ref>[http://ville2pitres.free.fr/donnees_village/drac_pitres_v2.pdf Bilan archéologique de la Drac] - Pîtres.</ref> ([[Eure (département)|Eure]]), avec ses urnes à incinération, ses épées enroulées et des traces de [[tombe à char du monde celtique|tombes à char]], ou la [[nécropole]] d'[[Ifs]] ([[Calvados (département)|Calvados]]), qui date de la fin de la [[Civilisation de Hallstatt|période de Hallstatt]] ou du début de celle de [[la Tène]], témoignent de la présence celtique en Normandie. Les peuples [[celtes]] de l'actuelle Normandie faisaient partie de l'[[Armorique]], confédération de peuples proches culturellement sur les rivages de la [[Manche (mer)|Manche]] et de l'[[Océan Atlantique|Atlantique]], de l'[[Réserve naturelle nationale de l'estuaire de la Seine|estuaire de la Seine]] à [[Estuaire de la Loire|celui de la Loire]].
+
+Le peuple celte des [[Belges]] s’installe en Normandie entre le {{-s mini|VI}} et le {{-s|III}} Le témoignage de [[Jules César]] (dans [[Commentaires sur la Guerre des Gaules|''La Guerre des Gaules'']]) nous permet d’identifier les différents groupes [[Gaulois (peuples)|gaulois]] occupant la région. En [[-56|56]] ou [[-57|57 {{av JC}}]], ces populations se regroupent pour résister à l’invasion des [[Légion romaine|légions romaines]]. Après la défaite gauloise d’[[Siège d'Alésia|Alésia]], les peuples de Normandie continuent quelque temps la lutte mais, en [[-51|51 {{av JC}}]], toute la Gaule est soumise à Rome.
+[[Fichier:Mosaîc Lillebonne Orphée.jpg|vignette|gauche|[[Grande mosaïque de Lillebonne]], en [[Seine-Maritime]], conservée au musée départemental des Antiquités de Rouen.]]
+Entre {{Date|||27 av. J.-C.|avJC=non}} et {{Date|||15 av. J.-C.}}<ref>{{Ouvrage|langue=fr|prénom1=Christian|nom1=Goudineau|titre=Regard sur la Gaule|sous-titre=Chapitre IV, Les provinces de Gaule : problèmes d'histoire et de géographie|éditeur=[[Actes Sud]]|année=2007|mois=Octobre|pages totales=576|isbn=978-2-7427-6924-7|présentation en ligne=http://www.actes-sud.fr/catalogue/prehistoire-protohistoire/regard-sur-la-gaule}}.</ref>, l’empereur [[Auguste]] réorganise le territoire gaulois et fait passer les [[Calètes]] et les [[Véliocasses]] dans la province de [[Gaule lyonnaise]], dont la capitale est [[Lyon]]. La romanisation de la Normandie, comme ailleurs en Occident, passe par la construction de routes et de villes.
+
+On connaît de nombreuses [[villa romaine|villas gallo-romaines]] sur le territoire normand. Les constructeurs utilisaient les matériaux locaux : [[silex]], [[craie]], [[calcaire]], [[Brique (matériau)|brique]], [[torchis]]. Le chauffage des bains ou de certaines pièces emprunte le procédé de l’[[hypocauste]] romain (villa suburbaine de [[Vieux-la-Romaine]])<ref>[[Michel de Boüard]], ''Histoire de la Normandie'', Toulouse, Privat, 1970.</ref>.
+
+L’agriculture fournit du [[blé]] et du [[lin cultivé|lin]], d'après [[Pline l'Ancien|Pline l’Ancien]]. Enfin, dans les campagnes normandes de l’[[Antiquité]], les [[fanum|''fana'']] (petits temples à plan centré, en général carré, de tradition celtique) sont nombreux. On en situe un exemple à l’ouest d’[[Harfleur]]. Les fouilles ont aussi révélé la présence de nombreuses statuettes de déesses-mères en [[terre cuite]], dans les tombes et les maisons normandes. Ainsi, au [[Gisacum|Vieil-Évreux]], il existe un des plus importants centres de pèlerinage d’Europe, qui comprenait un [[Forum romain|forum]], des [[thermes romains]], une [[Basilique (christianisme)|basilique]] monumentale, deux ''fana'' et le deuxième plus grand [[théâtre romain antique|théâtre]] de [[Gaule]]<ref>[http://www.normandie-heritage.com/ Normandie Héritage - Histoire, Tradition et Patrimoine Normand].</ref>.
+
+À partir du deuxième tiers du {{s|III}}, les raids « barbares » dévastent de nombreux lieux de la région normande. Le littoral doit faire face à la piraterie maritime des [[Saxons]], mais aussi des [[Francs]] et des [[Frisons]]. Des contingents germaniques sont donc recrutés par l'armée romaine pour lutter contre d'autres Germains<ref group="Note">Des éléments non germaniques comme les [[Alains|Alano]]-[[Sarmates]] y sont aussi mêlés, comme l'indique la présence de mobilier pontico-danubien à [[Saint-Martin-de-Fontenay]], mais la ''Notitia dignitatum'' n'en fait pas état pour la Lyonnaise seconde, et aucune trace toponymique ni lexicale ne peut leur être attribuée dans cette province.</ref> et ces immigrants reçoivent l'autorisation de s'établir dans l'Empire<ref>[[Michel Reddé]], ''L'armée romaine en Gaule'', Paris, Éditions Errance, 1996, {{ISBN|978-2-87772-119-6}}.</ref>.
+
+À l’occasion des réformes de l’empereur [[Dioclétien]] ([[285]]-[[305]]), la future Normandie s'individualise en devenant la [[Gaule lyonnaise|Lyonnaise seconde]], dont les limites préfigurent celles de la Normandie ducale sept siècles plus tard : elle s'étend du [[Couesnon]] à la [[Bresle]] et est bornée au sud par les cours supérieurs de la [[Sarthe (rivière)|Sarthe]] et de l'[[Avre (affluent de l'Eure)|Avre]]. Seule différence significative, la Lyonnaise seconde inclut le futur [[Vexin français]], le pays des [[Véliocasses]] restant alors indivis.
+
+C’est aussi à cette époque que commence la [[christianisation]] de la province : les historiens savent qu’en [[314]], [[Rouen]] a déjà un [[Liste des évêques et archevêques de Rouen|évêque]]<ref>[http://www.histoire-normandie.fr/la-normandie-avant-les-normands/la-decomposition-de-lempire-romain Les Romains en difficulté sur Histoire-normandie.fr].</ref>. À partir de [[406]], les peuples [[germaniques]] et [[Alains|alano]]-[[Huns|hunniques]] déferlent sur l’Occident. Des Saxons viennent s’installer sur les côtes normandes, dans la région de [[Bayeux]], ainsi que sur les [[îles Anglo-Normandes]]. De leur côté, de nombreux Francs occupent le [[pays de Bray]] et une partie du [[pays de Caux]], parfois comme soldats romains, puis, après la victoire de [[Clovis Ier|Clovis]] sur le « royaume romain » de [[Syagrius]], comme soldats du nouveau pouvoir franc.
+
+=== Les Francs et les invasions scandinaves ===
+{{Article connexe|Royaumes francs|Neustrie|Empire carolingien|Francie occidentale|Vikings|Normands}}
+Dès [[486]], le Nord de la Gaule passe sous le contrôle du chef [[francs|franc]] [[Clovis Ier|Clovis]]. La colonisation franque fut assez dense dans la partie est et quasiment nulle dans la partie ouest de l'actuelle Normandie. La christianisation amorcée au [[Bas-Empire romain]] se poursuit dans la région : construction de [[cathédrale]]s, édification d’[[église (édifice)|églises]], oratoires sur les routes{{etc.}} L’établissement des [[paroisse]]s se réalise progressivement. À [[Carolingiens|l’époque carolingienne]], les tombes des villageois se regroupent autour de l’église paroissiale.
+
+Le [[monachisme]] normand se développe à partir du {{VIe siècle}}, surtout dans l’ouest de la région, plus isolé. Au {{VIIe siècle}}, des nobles d'origine franque fondent plusieurs abbayes dans la vallée de la Seine. Ces [[Liste des abbayes normandes|abbayes normandes]] adoptèrent la [[règle de saint Benoît]]. Elles possédaient de grands domaines fonciers, dispersés en France, dont elles tiraient des revenus élevés.
+
+Le royaume franc dirigé par [[Charlemagne]] connaît un raid dès [[799]] : c'est le point de départ d'une longue série d'attaques [[vikings]], dont la plus connue est sans doute le [[siège de Paris (885-887)|siège de Paris]] de novembre [[885]] à mai [[887]]. Les chroniques des monastères nous apprennent que la Seine charria des flottes scandinaves en [[841]], en [[Siège de Paris (845)|845]], en [[851]], en [[852]], en [[Siège de Paris (856-857)|856]]<ref>[[Élisabeth Deniaux]], [[Claude Lorren]], [[Pierre Bauduin]], [[Thomas Jarry]], ''op. cit., {{p.|372-374}}.</ref> et en [[Siège de Paris (861)|861]]. À partir de [[851]], ils hivernent en Basse-Seine.
+
+Si des mesures défensives sont rapidement prises après l'événement de 799, il n’en demeure pas moins que les incursions vikings restent d’une redoutable efficacité tout au long du {{s|IX}}. Ce succès s’explique d’abord par la vitesse d’exécution de la machine militaire viking, efficace et novatrice. Par ailleurs, la décadence politique de l'[[Empire carolingien]] après [[830]] rend certainement plus aisée la tâche des assaillants. En outre, un certain nombre d'abbayes normandes ont été construites à proximité de la Seine, facilitant grandement leur pillage et leur destruction.
+
+=== La Normandie ducale ===
+{{Article détaillé|Duché de Normandie}}
+{{Article connexe|Normands|Conquête normande de l'Italie du Sud}}
+[[Fichier:Map Kingdom of Brittany 845-867-fr.svg|thumb|L'[[Avranchin]] et le [[Cotentin]], attribués à la [[Bretagne]] au [[Traité de Compiègne (867)|traité de Compiègne]], rejoignent le giron normand.]]
+[[Fichier:Effigy of Rollo of Normandy, Notre-Dame de Rouen-8542.jpg|vignette|Tombeau de Rollon, [[cathédrale Notre-Dame de Rouen|cathédrale de Rouen]].]]
+[[Fichier:Normans possessions 12century-fr.png|thumb|Le monde normand au {{s-|XII}}.]]
+En [[911]], le chef viking [[Rollon]] conclut un accord avec le [[Carolingiens|carolingien]] [[Charles III le Simple|Charles le Simple]]. Aux termes du [[traité de Saint-Clair-sur-Epte]] et comme proposé lors du [[concile de Trosly]], le roi lui remet la garde du [[comté de Rouen]] (dont on ne connaît pas réellement l'étendue), en échange d’un serment de vassalité et d'un engagement à se faire baptiser. Rollon doit également protéger l’estuaire de la Seine et [[Rouen]], la nouvelle capitale normande, des [[Vikings|incursions scandinaves]].
+
+Les [[Liste des évêques et archevêques de Rouen|archevêques de Rouen]], responsables de la [[province ecclésiastique de Rouen]], poussent les princes normands à élargir leurs possessions. À la suite de conquêtes, le territoire sous souveraineté normande s’agrandit jusqu’à faire à peu près coïncider l’une et l’autre :
+* en [[924]], avec les [[Bessin]], [[pays d'Auge]] et [[Comté d'Hiémois|Hiémois]] ;
+* en [[933]], les Vikings de Normandie s'approprient le [[Cotentin]], l’[[Avranchin]] et les îles, aujourd’hui « [[Îles Anglo-Normandes|Anglo-Normandes]] », aux dépens des Vikings de [[Bretagne]] commandés par [[Incon de Nantes|Incon]] ;
+* vers [[1009]], les terres entre [[Sélune]] et [[Couesnon]], appartenant auparavant à la Bretagne, sont rattachées à la Normandie, faisant définitivement du [[mont Saint-Michel]] une île normande.
+
+La Normandie est un important [[Duché de Normandie|duché]] du [[royaume de France]] de [[911]] à [[1204]], sur lequel l’autorité du roi demeura cependant toute théorique. Selon [[René Musset]], {{citation|la Normandie est née d'un hasard historique : le don d'un territoire à un chef de bande scandinave, Rollon, mais d'un territoire qui, de longue date, se dessinait<ref>René Musset, ''La Normandie'', 1960.</ref>}}.
+
+Les [[Normands]] essaiment et administrent des territoires parfois éloignés. Ils fondent notamment des royaumes et des principautés en [[Mer Méditerranée|Méditerranée]]. Ainsi, en [[1057]], [[Robert Guiscard]] et [[Roger Ier de Sicile|Roger de Hauteville]] jettent les fondations du futur [[royaume de Sicile]]. En [[1098]], [[Bohémond de Tarente]] fonde la [[principauté d'Antioche]], dont le territoire se situe dans les actuelles [[Turquie]] et [[Syrie]]. En [[1129]], [[Robert Burdet]] fonde une principauté en [[Espagne]], après avoir pris [[Tarragone]] aux [[musulman]]s.
+
+Compte tenu du poids de la toponymie et, dans une moindre mesure, de la patronymie scandinaves dans le [[Cotentin]], des chercheurs britanniques de l'[[Université de Leicester|université de]] [[Leicester]] ont collecté en juin [[2015]] des centaines d'échantillons de salive afin d'en savoir davantage sur la colonisation viking de la Normandie<ref>{{en}} [http://www2.le.ac.uk/projects/impact-of-diasporas/projects-1/the-historical-genetics-of-the-cotentin-peninsula « The historical genetics of the Cotentin peninsula »], Leicester university in [[Angleterre|England]].</ref>.
+
+==== L’œuvre de Guillaume le Conquérant ====
+{{Article connexe|Conquête normande de l'Angleterre}}
+[[Fichier:Flotte normande.jpg|thumb|Conquête normande de l'Angleterre.]]
+
+Descendant de [[Rollon]], [[Guillaume le Conquérant]] complète les limites de la Normandie historique par la conquête du [[Domfrontais|Passais]] sur le [[Maine (province)|Maine]] en [[1050]]. Surtout, il envahit en [[1066]] l’[[Angleterre]], dont il devient le souverain, sous le nom de Guillaume {{Ier}} d’Angleterre. Il fait de [[Caen]], simple bourgade, sa capitale politique et judiciaire. Cependant, [[Rouen]] reste la capitale économique et religieuse, l'archevêché de Normandie s'y trouvant<ref>{{Article|auteur1=[[François Neveux]]|titre=La constitution d’un réseau urbain en Normandie|périodique=Les villes normandes au Moyen Âge|lieu=Caen|éditeur=[[Presses universitaires de Caen]]|date=2006|lire en ligne=http://books.openedition.org/puc/9445|pages=45-60}}.</ref>.
+
+La conquête normande de l’Angleterre a permis le rayonnement de la [[anglo-normand (langue)|langue anglo-normande]], dialecte d’[[Langue d'oïl|oïl]], c'est-à-dire de la langue-toit plus couramment dénommée [[ancien français]], qui a donné naissance à quelques-uns des chefs-d’œuvre de la [[littérature française du Moyen Âge]] (voir [[littérature anglo-normande]]). Ceci explique également que la langue anglaise contient de très nombreux [[emprunt lexical|emprunts lexicaux]] d’origine [[latin]]e ou [[Langues scandinaves|scandinave]] par le truchement de l’[[Anglo-normand (langue)|anglo-normand]] et de l’[[ancien français]].
+
+==== Institutions et droit normand ====
+{{Article connexe|Coutume de Normandie|Échiquier de Normandie|parlement de Normandie|Charte aux Normands}}
+Institué par [[Rollon]], premier duc de Normandie au commencement du {{Xe siècle}}, l’[[Échiquier de Normandie]] est la cour souveraine de Normandie. Rassemblant les notables de la province, c'est un parlement ambulatoire, qui se tient deux fois par an.
+
+La [[coutume de Normandie]] est le système juridique apparu en Normandie au début du {{Xe siècle}} qui est resté en vigueur dans les [[îles Anglo-Normandes]] après la promulgation du [[Code civil (France)|Code civil]] français.
+
+La [[charte aux Normands]] est un acte, octroyé le {{date-|19|mars|1315}}, conférant certains droits ou privilèges aux Normands<ref>[[Louis Halphen]], [https://books.google.fr/books?id=PcJnAAAAMAAJ&q=%22charte+aux+Normands,+conc%C3%A9d%C3%A9e+le+19-mars-1315%22&dq=%22charte+aux+Normands,+conc%C3%A9d%C3%A9e+le+19-mars-1315%22&pgis=1 ''Classiques de l’histoire de France au Moyen Âge''] 1974, {{p.}}239.</ref>. Il est signé par le [[Liste des monarques de France|roi de France]] [[Louis X|Louis le Hutin]], lequel, en répondant aux barons normands impatients, en confirme tous les termes en juillet 1315<ref>[[Jean-Chrétien-Ferdinand Hœfer|Ferdinand Hœfer]], [https://books.google.fr/books?id=tScAAAAAQAAJ&pg=RA6-PA783&dq=%22Charte+aux+Normands%22+19-mars+juillet+1315 ''Nouvelle biographie universelle générale''], {{p.}}783.</ref>. Cette charte, faisant écho à la ''[[Magna Carta]]'' ou la [[charte des libertés]] des [[Angleterre|Anglais]], est considérée jusqu'en [[1789]] comme le symbole du particularisme normand. Elle offre à la province des garanties en matière juridique, fiscale et judiciaire. Longtemps respectée, cette charte cesse d’être appliquée à la fin du {{XVIe siècle}} et n'est réellement abolie que sous [[Louis XIV]]. Elle continue néanmoins de figurer dans les ordonnances et les privilèges du roi jusqu'en [[1789]].
+
+Au début du {{s|XVI}}, l'Échiquier est transformé en [[parlement de Normandie]]. On l'appelle aussi [[parlement (Royaume de France)|parlement]] de [[Rouen]], parce qu'un édit royal l'a institué dans cette ville, alors que son prédécesseur pouvait se tenir dans différentes villes de cette province.
+
+=== La Normandie française au Moyen Âge ===
+{{Article connexe|Rattachement de la Normandie au domaine royal français|Guerre de Cent Ans en Normandie}}
+
+Le {{date-|25|mai|1199}}, le roi d'Angleterre [[Jean sans Terre]] se fait couronner duc de Normandie à Rouen. Il rend [[Hommage féodal|hommage]] au [[roi de France]] et des négociations aboutissent au [[traité du Goulet]], formalisant la paix entre les deux pays. En 1200, Jean sans Terre épouse de force [[Isabelle d'Angoulême|Isabelle Taillefer]], promise à [[Hugues IX de Lusignan]], [[Vassalité|vassal]] du roi de France. Ce dernier, se sentant lésé, fait appel à la justice de son [[suzeraineté|suzerain]] [[Philippe II Auguste|Philippe Auguste]] qui prononce la [[commise]] des [[fief]]s de Jean sans Terre, à cause de son absence. Autrement dit, le seigneur français confisque les terres de son vassal, en application du [[droit féodal]], et donne ces domaines au neveu du [[Maison Plantagenêt|Plantagenêt]], {{souverain3|Arthur Ier de Bretagne}}, à part la Normandie qu’il se réserve. À l’été 1202, Philippe Auguste s’empare du [[pays de Bray]]. Jean sans Terre fait assassiner Arthur de Bretagne, son neveu ; ses barons normands, influencés par le roi de France, l’abandonnent. À l’été 1203, [[Siège de Château-Gaillard|Château-Gaillard]] est assiégé et tient bon jusqu’au {{date-|6|mars|1204}}. Le {{date-|21 mai 1204-}}, la ville de [[Caen]] tombe aux mains des Français. Enfin, le {{date-|24 juin 1204}}, les troupes de Philippe Auguste entrent à [[Siège de Rouen (1204)|Rouen]], après avoir vaincu la résistance de ses habitants. Le roi a conquis la Normandie, qui est incorporée au [[domaine royal français]] : cela signifie que le roi disposera de nouveaux revenus et imposera ses officiers dans l’ancien duché<ref>Anne-Marie Flambard Héricher et Véronique Gazeau (dir.), ''1204, La Normandie entre Plantagenêts et Capétiens'', Caen, CRAHM, 2007 {{ISBN|978-2-902685-35-6}}, {{p.|56}}.</ref>. Les « îles Anglo-Normandes » ne seront en revanche jamais conquises, et restent sous l'administration des souverains anglais, bien que ne faisant pas partie du royaume d'Angleterre. En 1230, {{souverain-|Foulques III}} [[Famille Paynel|Paynel]] et d'autres seigneurs normands tentent de se dégager de la tutelle française et demandent l'aide du roi d'Angleterre {{souverain2|Henri III (roi d'Angleterre)}}. Ils échouent ; la Normandie reste sous le contrôle français<ref>{{chapitre |auteur1=[[Georges Bernage]] |titre chapitre=Saint-Lois, Coutançais, Avranchin|titre ouvrage=La Normandie médiévale |sous-titre ouvrage=10 itinéraires |collection=La France Médiévale |éditeur=[[Éditions Heimdal]] |année=1980 |pages totales=174 |passage=54 |isbn=2-902171-18-8}}.</ref>.
+
+Administrativement, la partie continentale reste un [[duché]] à part entière. La Normandie joue un rôle important durant la [[guerre de Cent Ans]] (1337-1453). Si elle n'est pas à l'origine du conflit, elle devient rapidement un enjeu entre le roi d'Angleterre et le roi de France. La richesse de la Normandie, son passé commun avec ses ducs-rois, sa proximité géographique avec l’île expliquent cette situation particulière.
+
+Dans un premier temps, les Anglais se contentent de lancer des [[chevauchée]]s destructrices à travers la région. Puis ils occupent la région pendant plus de trois décennies (1417-1450). En 1420, le [[traité de Troyes]] fait du roi d’Angleterre l’héritier du royaume de France. La Normandie apparaît alors comme l’élément central de la France anglaise. Finalement, le roi de France {{souverain2|Charles VII (roi de France)}} reconquiert la riche province et pardonne aux Normands qui ont collaboré avec l’ennemi. La Normandie retrouve la paix mais sort très affaiblie du conflit. La reconquête française s'étant arrêtée à [[Cherbourg-Octeville|Cherbourg]], les [[îles Anglo-Normandes]] restent propriété de la couronne d'Angleterre. Elles ne seront en revanche jamais intégrées à proprement parler au royaume d'Angleterre, pas plus qu'au [[Royaume-Uni]] par la suite.
+
+Loin de ces conflits, le Normand [[Jean de Béthencourt]] conquiert les [[îles Canaries]] en 1402.
+
+En 1466, le duché de Normandie est partagé en [[bailliage]]s, subdivisés en [[vicomté]]s remontant à l’époque féodale et supprimés en 1744 seulement. Plus tard, un nouveau découpage en [[élection]]s fiscales apparaît, qui divise la Normandie en deux, puis trois [[généralité]]s : celles de [[Généralité de Rouen|Rouen]] et de [[Généralité de Caen|Caen]] en 1542, puis celle d’[[Généralité d'Alençon|Alençon]] en 1636. La partie insulaire demeure partagée en deux [[bailliage]]s de [[Bailliage de Jersey|Jersey]] et [[Bailliage de Guernesey|Guernesey]]. Dépendances autonomes de la [[Couronne (Commonwealth)|couronne britannique]] (le souverain britannique détenant parmi ses titres celui de duc de Normandie), elles ont gardé des traditions et des [[Coutume de Normandie|lois normandes]].
+
+À l’est du Cotentin, les [[îles Saint-Marcouf]], devenues un repaire de pirates, furent concédées à la France par la couronne britannique en 1802.
+
+=== La Renaissance et le Grand Siècle ===
+Après la [[guerre de Cent Ans]], la Normandie se reconstruit et connaît une période faste dans la première moitié du {{s|XVI}} : les campagnes se sont couvertes de [[manoir]]s et la prospérité a modifié le visage des villes. Les « Grands » ont construit de magnifiques hôtels urbains en adoptant rapidement le [[Style Renaissance|style de la Renaissance]]. Après [[1550]], les [[Guerres de Religion (France)#Première guerre de religion (1562-1563)|guerres de religion]], puis l’alourdissement des impôts, mettent cependant un frein à cette prospérité.
+
+Les ports normands sont des points de départ des explorateurs et colonisateurs français. [[Samuel de Champlain]] quitte le port d'[[Honfleur]] en [[1604]] et, avec [[Pierre Dugua de Mons]], participe à la fondation de l'[[Acadie]] de l'autre côté de l'[[océan Atlantique]]. Quatre ans plus tard, il fonde la ville de [[Québec (ville)|Québec]]. En [[1625]], le Normand [[Pierre Belain d'Esnambuc]] prend possession de la [[Martinique]], de la [[Guadeloupe]], de [[Saint-Christophe (île)|Saint-Christophe]] et de [[Marie-Galante]]. L'armateur [[Jean Ango|Jehan Ango]] fait partir de [[Dieppe (Seine-Maritime)|Dieppe]] de nombreuses expéditions maritimes. Ami de {{François Ier}}, il lança plusieurs grandes expéditions comme celle vers [[Terre-Neuve-et-Labrador|Terre-Neuve]] (1508), conduite par Thomas Aubert et [[Giovanni da Verrazzano]] sur le navire « La Pensée » ; puis vers la Nouvelle-Angoulême (1524) avec Giovanni da Verrazzano et enfin vers Sumatra (1529) avec les frères [[Jean et Raoul Parmentier]].
+
+Vers [[1650]], la Normandie connaît une petite période de prospérité. Mais, à partir de [[1689]], la guerre reprend contre l'[[Angleterre]] et le littoral normand subit plusieurs attaques. En [[1694]], [[Le Havre]] et [[Bombardement de Dieppe (1694)|Dieppe]] sont bombardés.
+
+Les Normands participent activement à l'exploration française du [[Nouveau Monde]] : en [[1678]], [[René-Robert Cavelier de La Salle]] voyage dans les régions des [[Grands Lacs (Amérique du Nord)|Grands Lacs]] et découvre le [[Mississippi (fleuve)|Mississippi]] ; en [[1699]], [[Pierre Le Moyne d'Iberville]] et son frère [[Jean-Baptiste Le Moyne de Bienville]] fondent la [[Louisiane]], [[Biloxi (Mississippi)|Biloxi]], [[Mobile (Alabama)|Mobile]] et [[La Nouvelle-Orléans]]. Les territoires localisés entre Québec et le [[delta du Mississippi]] sont ouverts à l'établissement de colonies, le [[Canada (Nouvelle-France)|Canada]] et la [[Louisiane (Nouvelle-France)|Louisiane]]. Les colons de la Normandie étaient les premiers et parmi les plus actifs en [[Nouvelle-France]].
+
+=== La mutation des campagnes et l’industrialisation ===
+[[Fichier:Normandie et provinces.svg|thumb|right|Carte de la région Normandie avec ses cinq départements, montrant les provinces qui existaient sur son territoire au {{s|XVIII}}.<br>
+{{Début de colonnes|nombre=1}}
+{{Légende/Début}}
+{{Légende|#7dc5b9|Normandie}}
+{{Légende|#c896a9|[[Perche (province)|Perche]]}}
+{{Légende|#e08f2f|Communes historiquement normandes et situées dans d'autres régions.}}
+{{Légende/Fin}}{{fin de colonnes}}]]
+À partir du {{s|XVIII}}, l’industrialisation et la modernisation de l’agriculture transforment l’économie de la province. Mais la proximité de l’[[Angleterre]], avec laquelle la [[France]] est souvent en guerre entre [[1689]] et [[1815]], fait de la Normandie une terre d’affrontements. La province de Normandie française forme un [[gouvernement militaire]], exception faite d’un gouvernement particulier au [[Le Havre|Havre]].
+
+À la suite de la [[Révolution française]], en [[1790]], la province française est partagée en cinq [[département français|départements]] : le [[Calvados (département)|Calvados]], la [[Manche (département)|Manche]], l’[[Orne (département)|Orne]], l’[[Eure (département)|Eure]] et la Seine-Inférieure (devenue en [[1955]] [[Seine-Maritime]]).
+
+Les Normands réagissent peu aux nombreux bouleversements politiques qui caractérisent le {{s|XIX}} ([[Premier Empire]], [[Restauration (histoire de France)|Restauration]], [[Monarchie de Juillet]], [[Deuxième République (France)|Deuxième République]], [[Second Empire]], [[Troisième République (France)|Troisième République]]) ; seule la [[chouannerie normande]] agite de [[1793]] à [[1800]] le [[bocage normand]]. Globalement, les campagnes normandes se dépeuplent car les fermiers normands se mettent à produire du lait et ses dérivés, activité moins demandeuse en main-d'œuvre que la [[céréale|culture céréalière]], tandis que croissent les villes en pleine [[révolution industrielle]]. Cette activité est principalement le fait des villes de la vallée de la [[Seine]] : [[Le Havre]] surtout, [[Rouen]] et sa banlieue, [[Elbeuf]].
+
+Les [[houillères de Littry]] alimentent les [[Four à chaux|fours à chaux]] et développent le réseau routier, permettant ainsi la croissance de l'activité agricole du [[Bessin]] et des environs au {{s-|XIX}}<ref>{{lien web|url=http://www.cier14.org/actualites/article/la-mine-de-charbon-de-littry-hier|titre=La mine de charbon de Littry, hier et aujourd'hui|auteur=Philippe Bernouis|date=11 octobre 2014}}.</ref>.
+
+La Normandie tient une place importante dans le mouvement artistique. Le peintre [[Richard Parkes Bonington]], d'origine anglaise, y voyage en 1821 pour peindre les paysages côtiers, motif de prédilection de la peinture naturaliste, ignoré des peintres français à cette époque. {{référence nécessaire | [[Théodore Rousseau]] choisit d'y aller peindre, en compagnie de [[Paul Huet]]}}, jusqu'à l'embouchure de la Seine. Huet y séjournera à nouveau en 1828 avec Bonington et Rousseau y revient en 1832, rejoint par [[Charles Laberge|La Berge]]. Au Salon suivant, Rousseau peut présenter ''Vue pris des côtes, à [[Granville]]'', ainsi qu'une étude<ref>« Rousseau : 7 rue Chaptal », [http://salons.musee-orsay.fr/index/exposant/69464 Fiches exposant Salon 1833], base salons du musée d'Orsay.</ref>. Après 1848, [[Paul Huet]] y pratiquera la [[peinture sur le motif]]. La toile peinte lors d'un séjour au Havre par [[Claude Monet]] en [[1872]], ''[[Impression, soleil levant]]'', donne son nom au mouvement [[Impressionnisme|impressionniste]]<ref>[http://www.normandie-impressionniste.fr/fr/page/4/l-impressionnisme-est-ne-en-normandie « L'impressionnisme est né en Normandie »], normandie-impressionniste.fr.</ref>.
+
+
+<gallery style="text-align:center" mode="packed" heights="150px" caption="Les Peintres du {{s-|XIX|e}} en Normandie">
+Richard Parkes Bonington - Sunset in the Pays de Caux - WGA02432.jpg|<center>''Coucher de soleil dans le [[Pays de Caux]]''<br>[[Richard Parkes Bonington]] (1828)<br>[[Londres]], [[Wallace Collection (musée)|Wallace Collection]]</center>
+Théodore Rousseau - Market-Place in Normandy - WGA20165.jpg|<center>''Place du marché en Normandie''<br>[[Théodore Rousseau]], vers 1830<br>[[Musée de l'Ermitage]], [[Saint-Pétersbourg]]</center>
+Paul Huet, Chaumière normande, vieux Trouville (Louvre RF 1062) n01.jpg|<center>''Chaumière normande, vieux Trouville''<br>[[Paul Huet]], Années 1830<br>[[Musée du Louvre]]</center> 
+Granville by by Théodore Rousseau - Hermitage.jpg|<center>''Vue sur les abords de [[Granville]]''<br>Théodore Rousseau, 1833<br>[[Musée de l'Ermitage]], [[Saint-Pétersbourg|Saint-Petersbourg]]</center>
+Claude Monet, Impression, soleil levant.jpg|<center>''Impression, soleil levant''<br>[[Claude Monet]], 1872<br>Musée Marmottan Monet</center> 
+</gallery>
+
+
+La Normandie est également le berceau de grands écrivains du {{s|XIX}} ([[Guy de Maupassant]], [[Gustave Flaubert]], [[Alphonse Allais]], [[Maurice Leblanc]], [[Henri de Régnier]], [[Jean de La Varende]]).
+
+Lors de la [[guerre franco-allemande de 1870]], les [[Prussiens]] entrent en Normandie au cours des mois d'[[octobre]] et de {{date-|novembre 1870}}. De nombreux combats ont lieu. L'occupation se passe très mal et prend fin en septembre [[1873]]. Le sentiment d'une [[revanchisme|revanche à prendre]] s'amplifie<ref>{{Article |auteur1=Anne Vandenbroucke |titre=La mémoire de la guerre de 1870-1871 en Seine-Inférieure |périodique=Mémoire de maîtrise préparé sous la direction de M. Boudon |année=2001-2002 |pages= |lire en ligne=https://web.archive.org/web/20090212110808/http://lettres-histoire.ac-rouen.fr/histgeo/en_seine-inferieure.htm |consulté le=23 décembre 2014 }}.</ref>.
+
+=== La Normandie dans les deux guerres mondiales ===
+{{Article connexe|Occupation des îles Anglo-Normandes|Bataille de Normandie}}
+
+Les combats de la [[Première Guerre mondiale]] épargnent territorialement la Normandie, bien que [[Sainte-Adresse]] accueille le {{date-|13|octobre|1914}} le gouvernement de la [[Belgique]], et [[Rouen]] devient une base [[Angleterre|anglaise]]. La mise à feu le {{date-|29|août|1917}} du haut-fourneau de [[Colombelles]] permet de réduire les conséquences de l'occupation des régions industrielles. Les régiments normands prennent leur part, et au-delà, à l'effort de la nation.
+
+Les lendemains sont difficiles. Aux morts de la guerre s'ajoute la chute du taux de natalité déjà commencée au {{s-|XIX}}. La production rurale, faute de main-d'œuvre suffisante, baisse considérablement, ainsi que la production industrielle, qui manque d'ouvriers qualifiés.
+
+En [[1936]], le [[front populaire (France)|Front populaire]] permet à des millions de salariés de partir en congés pour la première fois, démultipliant l'activité du [[tourisme]] : la Normandie et ses plages vont désormais recevoir des Français qui n'avaient jamais vu la mer.
+
+[[Fichier:NormandySupply edit.jpg|thumb|Débarquement des troupes alliées en juin 1944 en Normandie.]]
+La Normandie est par contre occupée pendant la [[Seconde Guerre mondiale]]. Les [[îles Anglo-Normandes]] sont les seuls [[Occupation des îles Anglo-Normandes|territoires dépendant de la couronne britannique occupés]] par l'[[Troisième Reich|Allemagne]] durant le conflit. [[Guernesey (île)|Guernesey]] est le théâtre en [[1940]] de l'[[opération Ambassador|opération ''Ambassador'']], un des premiers [[Liste des opérations lors de la Seconde Guerre mondiale|raids réalisés par les commandos britanniques]] contre [[Troisième Reich|l'occupant allemand]].
+
+En août 1942 a lieu à Dieppe un raid anglo-canadien ('''''[[Raid de Dieppe|opération Jubilee]])''''' qui est une répétition du débarquement de juin 1944.
+
+La Normandie est un des points de départ de la reconquête de l'Europe par les [[Alliés de la Seconde Guerre mondiale|Alliés]]. Le {{date-|6|juin|1944}} est lancée l’[[Débarquement de Normandie|opération Neptune]], la phase d'assaut de l'[[opération Overlord|opération ''Overlord'']], la plus grande opération amphibie de toute l’histoire militaire mondiale, menée simultanément sur plusieurs [[Plages du débarquement allié en Normandie|plages]] du [[Calvados (département)|Calvados]] et de la [[Manche (département)|Manche]].
+
+De nombreuses agglomérations sont détruites lors des [[Bombardement de la Normandie|bombardements alliés]]. Le souvenir de la bataille est partout présent en Normandie, notamment avec les [[Cimetières militaires de la Seconde Guerre mondiale#Normandie|nombreux et vastes cimetières militaires]], les ''[[casemate|blockhaus]]'' qui défient le temps qui passe, les musées dont le grand [[mémorial de Caen]], des rues qui portent le nom des acteurs alliés ou des régiments ayant participé à la libération de la région, ou encore les caissons de béton qui ont composé les digues du [[Port Mulberry|port artificiel]] au large d'[[Arromanches-les-Bains|Arromanches]].
+
+=== La Normandie depuis la Libération ===
+[[Fichier:Le Havre vue de la plage.JPG|thumb|Le front de mer reconstruit du Havre.]]
+{{Article connexe|Reconstruction de Caen|Centre-ville reconstruit du Havre}}
+
+Lors de la difficile période d'[[après-guerre]], de nombreuses villes dévastées doivent [[Reconstruction en France après la Seconde Guerre mondiale|être reconstruites]], notamment [[Caen]] et [[Le Havre]].
+
+En [[1956]], la France se dote d'un nouvel échelon administratif : les [[Région française|régions]]. Le [[Calvados (département)|Calvados]], la [[Manche (département)|Manche]] et l’[[Orne (département)|Orne]] sont regroupés dans la région de [[Basse-Normandie]] tandis que l’[[Eure (département)|Eure]] et la [[Seine-Maritime]] le sont dans celle de [[Haute-Normandie]]. Cette séparation ne fait pas l'unanimité et la [[réunification de la Normandie]], par le regroupement des cinq départements normands, devient un sujet récurrent de la politique locale.
+
+Comme d'autres régions françaises, les deux régions normandes développent leurs économies à la faveur des plans de [[Décentralisation industrielle (France)|décentralisation industrielle]], avec notamment l'implantation d'usines liées à l'industrie automobile.
+
+La réunification des deux régions en une unique [[Normandie (région administrative)|Normandie]] est actée le {{date-|17|décembre|2014}} pour une entrée en vigueur le {{date-|1|janvier|2016}}.
+
+== Géographie ==
+{{Article détaillé|Géographie de la Haute-Normandie|Géographie de la Basse-Normandie}}
+[[Fichier:Cartenormandie2.PNG|thumb|upright=1.5|Limites de la Normandie après la conquête du [[Passais]] sur le [[Maine (affluent de la Loire)|Maine]] par [[Guillaume le Conquérant]] en [[1050]].]]
+=== Situation ===
+La Normandie se trouve à l’ouest du continent européen et au nord-ouest de la France.
+
+Ses deux façades maritimes (au nord et à l'ouest), de {{unité|603|km}} de longueur, font face à la [[Manche (mer)|Manche]]. À l'ouest de la [[Cotentin|péninsule du Cotentin]] se trouvent les [[îles Anglo-Normandes]]. Les territoires limitrophes sont, en commençant par le sud-ouest et en allant vers l'est : la [[Bretagne]] ([[Ille-et-Vilaine]]), les [[Pays de la Loire]] ([[Mayenne (département)|Mayenne]], [[Sarthe (département)|Sarthe]]), le [[Centre-Val de Loire]] ([[Eure-et-Loir]]), l'[[Île-de-France]] ([[Yvelines]], [[Val-d'Oise]]) et les [[Hauts de France]] ([[Oise (département)|Oise]], [[Somme (département)|Somme]]).
+
+Sa superficie est de {{unité|29906|km|2}}<ref group="Note">[[Haute-Normandie]], {{unité|12317|km|2}} + [[Basse-Normandie]], {{unité|17589|km|2}} = {{unité|29906|km|2}}.</ref>  ({{unité|30100|km|2}}<ref group="Note">[[Haute-Normandie]], {{unité|12317|km|2}} + [[Basse-Normandie]], {{unité|17589|km|2}} + [[Bailliage de Guernesey|Guernesey]], {{unité|78|km|2}} + [[Bailliage de Jersey|Jersey]], {{unité|116|km|2}} = {{unité|30100|km|2}}.</ref> avec les îles Anglo-Normandes), elle s'étend entre {{déc|50|07}} et {{déc|48|17}} de [[latitude]] nord, et entre -{{déc|1|94}} (-{{déc|2|67}} avec les îles Anglo-Normandes) et {{déc|1|79}} de [[longitude]] ouest.
+
+La partie continentale est située dans le [[fuseau horaire]] de l'[[Heure normale d'Europe centrale]], [[UTC+01:00]] et les îles sont dans le [[temps moyen de Greenwich]], [[UTC±00:00]]. Plus anecdotiquement, la [[pointe de Barfleur]] se situe exactement aux [[Point antipodal|antipodes]] des [[îles des Antipodes]].
+
+=== Îles Anglo-Normandes ===
+{{Article détaillé|Îles Anglo-Normandes}}
+[[Fichier:Channel Islands location map-fr.svg|thumb|upright=0.7|Îles Anglo-Normandes.]]
+[[Archipel]] de [[Manche (mer)|la Manche]] à l'ouest de la [[Cotentin|péninsule du Cotentin]], les îles Anglo-Normandes font partie du [[massif armoricain]]. Jersey, Guernesey, [[Aurigny]], [[Sercq]] et [[Herm (île)|Herm]] sont les principales îles, auxquelles il faut ajouter un nombre important d'[[îlot]]s et d'écueils qui se découvrent à [[marée basse]]. Ces îles, souvent bordées de côtes abruptes, ont des paysages variés.
+
+=== Îles normandes ===
+Le plus célèbre des îlots français, le [[mont Saint-Michel]], baigne dans la [[baie du Mont-Saint-Michel]], entre la [[Bretagne]] et la [[Cotentin|péninsule du Cotentin]] en compagnie de [[Tombelaine]]. Plus au large, l'[[archipel]] de [[Chausey]] comporte, à marée haute, {{nombre|52|îles}} d'une superficie totale de {{unité|6.5|km|2}}, dont une seule, la Grande-Île, comporte des habitations occupées par une petite population permanente de {{nombre|30|personnes}}.
+
+Au large de [[Cherbourg-Octeville|Cherbourg]], l'[[île Pelée]] soutient la digue est de la [[rade de Cherbourg]]. Au nord-est du [[Cotentin]], [[Tatihou]], en face de [[Saint-Vaast-la-Hougue]] est une [[Île accessible à marée basse|île accessible à pied à certaines marées basses]]. À l'est de la péninsule du Cotentin, l'[[îles Saint-Marcouf|archipel Saint-Marcouf]] inclut l'[[île du Large]] et l'[[île de Terre]].
+
+=== Littoral ===
+Les côtes maritimes normandes présentent des aspects très divers. Le long de la [[côte d'Albâtre]], les hautes falaises du [[pays de Caux]], au pied desquelles s’étendent des plages de [[galet]]s, sont de véritables murs verticaux de [[craie]] et de [[silex]], parfois échancrées par des [[valleuse]]s abritant quelques ports, notamment [[Dieppe (Seine-Maritime)|Dieppe]] et [[Fécamp]]. La [[côte Fleurie]] et la [[côte de Nacre]] offrent de nombreuses [[station balnéaire|stations balnéaires]] et de vastes plages de sable fin ([[Deauville]], [[Trouville-sur-Mer|Trouville]], [[Courseulles-sur-Mer]]). La [[Manche (département)|Manche]] présente à la fois des promontoires cristallins élevés dans le nord du Cotentin ([[La Hague (région naturelle)|La Hague)]] et des parties de littoral bas et sablonneux (vers [[Saint-Vaast-la-Hougue|Saint-Vaast]] et le [[mont Saint-Michel]]).
+
+La Manche connaît, par son attractivité, des stations balnéaires. On désigne la station balnéaire "typique" par le fait que sa fréquentation double durant la période d'été, et que - le plus généralement - elle comporte divers lieux (naturels ou créés par l'homme) que l'on aime fréquenter lorsqu'on est en vacances. C'est notamment le cas de Granville, avec son casino et la mer. Granville, aussi surnommée "La Monaco du Nord" est l'une des plus importantes stations balnéaires de la communauté de communes Granville Terre et Mer - voir même de la Manche - : sa fameuse promenade du "Plat Gousset" qui l'a largement fait connaître vient du fait que les touristes - ayant utilisé tout leur argent au casino - n'avait d'autre choix que de se promener sur le bord de la mer avec leur gousset (nom d'une petite bourse ou poche servant de porte-monnaie) vide. On peut également voir, sur la Promenade du Plat Gousset, le Théâtre de l'Archipel, un lieu de culture et d'animation rythmant la vie des habitants comme celle des touristes.
+
+<gallery>
+Aiguille1.jpg|[[Pays de Caux]].
+Arromanches Beach.JPG|[[Bessin]].
+</gallery>
+
+La Normandie connaît une importante [[érosion]] de son littoral qui est en grande partie liée à l’[[anthropisation]]. Environ 60 % des plages de la région ont tendance à reculer<ref name="Galus">Christiane Galus, « L’érosion touche plus du quart du littoral français ». dans ''[[Le Monde]]'' du 12-08-2007, {{Lire en ligne|lien=https://www.lemonde.fr/web/article/0,1-0@2-3244,36-943702@51-853716,0.html}}.</ref>. L’érosion la plus active concerne le littoral compris entre la baie du Mont-Saint-Michel et le [[La Hague (région naturelle)|cap de la Hague]], à l’ouest du département de la [[Manche (département)|Manche]] : le recul peut aller jusqu'à cinq mètres par an en moyenne<ref name="Galus"/>. Sur les falaises de craie de Seine-Maritime, le recul est de {{unité|20|cm}}/an en moyenne<ref name="Galus"/>.
+
+=== Régions naturelles ===
+Le contraste entre le [[Massif armoricain]] et le [[Bassin parisien]] est marqué<ref>{{Lien web |langue=fr |titre=Paysages et Substratum Géologique |url=https://geologie.discip.ac-caen.fr/themes/paysage/index.htm |site=[[Université de Caen|Lithothèque de Normandie]] |date= }}.</ref>. Le paysage normand est surtout caractérisé par des [[bocage]]s ([[bocage normand]], [[pays d'Auge]], [[pays de Bray]]) et des plaines ([[Plaine de Caen|de Caen]], [[Campagne de Falaise|de Falaise]], [[plaine d'Argentan|d'Argentan]], [[campagne d'Alençon|d'Alençon]], [[campagne de Saint-André|de Saint-André]] et [[campagne du Neubourg|du Neubourg]]). 
+
+==== Nord de la Seine ====
+[[Fichier:Royon picard 1000.jpg|thumb|[[Restanque#Rideaux|Rideaux]] de culture dans le [[pays de Caux]].]]
+Le [[pays de Caux]] est la partie la plus septentrionale de la Normandie. Son sous-sol est constitué d’une grande épaisseur de [[craie]], couverte d’une couche d’[[argile]] à [[silex]] et d’un [[limon (roche)|limon]] fertile<ref name="Ragot6">J. Ragot, M. Ragot, ''Guide de la nature en pays de Caux'', 2005, {{p.|6}}.</ref>, le tout surmonté par un vaste plateau à la surface légèrement ondulée.
+
+À cheval sur les [[Département français|départements]] de [[Seine-Maritime]] et d'[[Oise (département)|Oise]], le [[pays de Bray]], créé à partir de l'érosion d'un [[anticlinal]], est une région de [[bocage]], qui se caractérise par un [[Sol (pédologie)|sol]] [[argile]]ux, favorable aux herbages pour l'[[élevage bovin]] laitier. Le [[Vexin normand]], délimité par les vallées de l'[[Epte]], de l'[[Andelle]] et de la [[Seine]], se présente comme un plateau calcaire dont les [[méandre]]s de la Seine ont creusé par endroits des [[falaise]]s de craie abruptes.
+
+==== Sud de la Seine ====
+[[Fichier:Vernier6.jpg|thumb|left|[[Marais-Vernier (région)|Le Marais-Vernier]].]]
+Le long de la [[Seine]], le [[Marais-Vernier (région)|Marais-Vernier]], dans le [[Roumois]], offre des paysages pour partie agraire à [[Champ (agriculture)|champs]] ouverts ([[openfield|''openfields'']]), où les cultures céréalières se mêlent à l'élevage bovin. La [[campagne du Neubourg]], [[Plateau (géographie)|plateau]] de [[craie]] et d'[[argile|argile à silex]], recouvert d'une épaisse couche de [[lœss]], possède de vastes étendues découvertes et plates, largement dominées par les cultures céréalières. La monotonie du paysage est rompue, de manière ponctuelle, par quelques rares boisements. La [[campagne de Saint-André]] (ou d’Évreux) est un plateau presque entièrement voué à de grande culture céréalière, qui évoque beaucoup la [[Beauce (France)|Beauce]] voisine. Le [[plateau de Madrie]], situé entre la Seine et l’[[Eure (rivière)|Eure]], a un sol sableux qui permet la céréaliculture. Le [[Lieuvin]] et le [[pays d'Ouche]] sont des régions aux paysages de [[bocage]] ; elles annoncent le [[pays d'Auge]] situé à cheval sur les départements du [[Calvados (département)|Calvados]], de l'[[Orne (département)|Orne]] et de l'[[Eure (département)|Eure]]. Le pays d'Auge est vallonné, bocagé, parsemé de nombreux bois ou forêts.
+
+==== Centre ====
+[[Fichier:Falaise, aux Monts d'Eraines3.jpg|thumb|[[Campagne de Falaise]].]]
+La partie [[jurassique]] du Bassin parisien a un sol argileux qui favorise la pâture et l'élevage. Au nord-ouest du Calvados, le [[Bessin]] désignait à l'origine le territoire compris entre l'[[Orne (fleuve)|Orne]] et la [[Vire (fleuve)|Vire]]<ref name=lepelley>[[René Lepelley]], ''Dictionnaire étymologique des noms de communes de Normandie'', Condé-sur-Noireau - Caen, Éditions Charles Corlet - Presses universitaires de Caen, 1996, {{p.}}25.</ref>. Depuis le {{s|XIX}} et la disparition des haies [[Bocage|bocagères]], le Bessin oriental est devenu la [[plaine de Caen]], terre vouée principalement à l'[[agriculture en France|agriculture]] (en particulier les cultures [[céréale|céréalières]]). La plaine de Caen est peu à peu gagnée par l'[[urbanisation]] et la [[périurbanisation]]. Plus au sud, mais encore dans le [[Calvados (département)|Calvados]], s'étend la [[campagne de Falaise]], puis dans l'[[Orne (département)|Orne]], l’[[Comté d'Hiémois|Hiémois]], la [[plaine d'Argentan]], la [[campagne d'Alençon]] et enfin, au sud-est de l'Orne, le [[Perche (région naturelle)|Perche]], des collines duquel de nombreux cours d'eau se dispersent pour aller rejoindre la [[Manche (mer)|Manche]] ([[Touques (fleuve)|Touques]], [[Dives (fleuve)|Dives]], [[Orne (fleuve)|Orne]]) ou la [[Seine]] ([[Eure (rivière)|Eure]], [[Avre (rivière de Picardie)|Avre]], [[Iton]], [[Risle]]).
+
+==== Massif armoricain ====
+[[Fichier:Clécy vue partielle 01.jpg|thumb|left|[[Clécy]] en [[Suisse normande]].]]
+À l'ouest de la Normandie, le Massif armoricain, au sol souvent acide, offre de nombreux [[bocage]]s. La région n'a pas vu pénétrer les systèmes d'[[assolement]] que l'on a rencontrés dans les [[openfield|''openfields'']] de l'Est. Ces réseaux imbriqués de [[Prairie (agriculture)|prairies]], [[haie]]s, talus et fossés jouent un rôle de [[corridors biologiques]] et empêchent l'érosion des sols.
+
+La [[péninsule]] du [[Cotentin]] est divisée en quatre « pays » historiques : au nord-ouest, la [[La Hague (région naturelle)|Hague]] ; au nord-est, le [[Val de Saire]] ; au centre, le [[Plain (Manche)|Plain]] (qui fait néanmoins partie du Bassin parisien), région de bocage ; au sud, la passe du Cotentin ou [[Bauptois]], zone de [[marais]] et de [[lande]]s. Au sud-ouest du département de la [[Manche (département)|Manche]], l’[[Avranchin]] est tourné vers la [[baie du mont Saint-Michel|baie du Mont Saint-Michel]] ; au sud-est, le [[Mortainais]] a un paysage de bocage sur un flanc granitique et gréseux. Le [[bocage virois]] correspond au bassin de [[Vire]] et à la partie du [[synclinal]] bocain<ref>[http://www.basse-normandie.ecologie.gouv.fr/pdf/UP_741.pdf].</ref>{{,}}<ref>[http://bernard.langellier.pagesperso-orange.fr/bnorm/zobo.html Géologie de la zone bocaine].</ref> parcourue par la [[Vire (fleuve)|Vire]] et la [[Souleuvre]]. La Suisse normande, à cheval sur le [[Calvados (département)|Calvados]] et l’[[Orne (département)|Orne]], a un relief accidenté et verdoyant, avec des gorges sculptées par l’[[Orne (fleuve)|Orne]] et ses affluents, par érosion dans le Massif armoricain. Les berges du fleuve offrent un relief escarpé et un espace forestier important. Sur les collines, les champs, de taille modeste et pentus, sont très souvent bordés d’épaisses haies ou de murets en [[granite]] avec une végétation dense. Le [[pays d'Houlme]] est la partie occidentale de l’actuel département de l’[[Orne (département)|Orne]]. Le [[Domfrontais]] ou Passais est une région bocagère située dans le sud-ouest du département de l'[[Orne (département)|Orne]], à l'est de laquelle se trouve la [[forêt d'Andaine]].
+
+=== Relief ===
+[[Fichier:FranceNormandieStPhilbertSurOrneRocheDOetre.jpg|thumb|Le site de la [[Roche d'Oëtre]].]]
+Le [[signal d'Écouves]], d'une altitude de {{unité|413|m}}, est le point culminant de la Normandie. Façonné dans le [[grès (géologie)|grès]] armoricain (gros bancs de [[quartzite]] très durs), il est entièrement recouvert par la forêt. Le panorama se restreint aux collines proches.
+
+En [[Suisse normande]], le point le plus élevé du département du [[Calvados (département)|Calvados]] est le [[mont Pinçon]] qui culmine à {{unité|362|m}} d’altitude, tandis que la [[roche d'Oëtre]], dans l'[[Orne (département)|Orne]], avec {{unité|118|mètres}} de hauteur, est un des plus prestigieux belvédères naturels de l’[[Grand Ouest français|ouest de la France]].
+
+Au sud-ouest de l'Orne, [[Saint-Céneri-le-Gérei]], avec une altitude maximum de {{unité|193|m}}, est hissé sur un piton rocheux granitique et irrégulier des [[Alpes mancelles]].
+
+À [[Mortain]] ({{unité|327|m}} d'altitude), des gorges profondes ont été creusées par les cours d'eau. On y trouve notamment les plus grandes cascades du [[Massif armoricain]]. Le belvédère de la Petite Chapelle Saint-Michel offre un très beau panorama donnant sur le mont Saint-Michel situé à {{unité|42|km}} de Mortain.
+
+=== Climat ===
+Le climat de la Normandie est un climat de type [[Climat océanique|océanique]] et tempéré, similaire au climat des côtes des Hauts-de-France, de la Belgique, des Pays-Bas ou encore de la Grande-Bretagne. Il est marqué par une amplitude thermique relativement faible et une pluviométrie importante. Il existe naturellement des contrastes locaux, liés à l’altitude ou encore à la proximité de l’espace maritime. La Normandie peut également connaître ponctuellement des événements exceptionnels comme des périodes de grand froid ou des épisodes de sécheresse, événements qui relèvent de la variabilité climatique et non d'une situation générale<ref name="Septmbre2013_SGAR">{{Ouvrage|auteur institutionnel=SGAR de Haute et Basse Normandie|titre=L'adaptation aux effets du changement climatique en Haute et Basse-Normandie|sous-titre=étude|lieu=Paris|éditeur=DATAR|date=septembre 2013|pages totales=30|passage=p. 1, 12, 14, 16, 18, 20, 22 et 26|isbn=}}.</ref>. Les précipitations sont relativement abondantes, avec 123 jours de pluie par an en moyenne<ref name="Météo-France">[http://climat.meteofrance.com/chgt_climat2/climat_france?71397.path=climat%252FFRANCE Météo-France] Moyenne des stations d'Alençon, Caen, Évreux et Rouen.</ref>. L'ensoleillement annuel moyen est d'environ {{nombre|1586|heures}}<ref name="Météo-France" />.
+
+Une analyse des températures pour la période 1971-2000 réalisée par la [[Délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale|DATAR]] en 2013 fait apparaître que la Normandie se caractérise par une certaine homogénéité en termes de températures moyennes annuelles, comprises entre 9,5 et 11,5 °C. Cette faible amplitude thermique saisonnière s’explique par un relief assez peu marqué et par la proximité de l’océan. Le contraste de température entre le littoral et l’intérieur des terres est dû, pour l’essentiel, à un relief un peu plus marqué au sud du Calvados et dans l’Orne (collines de Normandie et Suisse Normande), ainsi qu’en Seine-Maritime (pays de Caux et de Bray). L’analyse des moyennes de températures hivernales sur la même période souligne un contraste thermique net entre le littoral, marqué par des températures douces (jusqu’à 7 °C en moyenne), et l’intérieur des terres plus froid (jusqu’à 3,5 °C en moyenne). En revanche, l’analyse des moyennes de températures estivales ne révèle pas de contraste territorial majeur<ref name="Septmbre2013_SGAR" />.
+
+En ce qui concerne les cumuls de précipitations en Normandie, des contrastes territoriaux se dégagent. Ainsi, le département de la Manche reçoit les plus forts cumuls (jusqu'à {{unité|1600|mm}}/an) dans la mesure où la presqu’île du Cotentin et les collines normandes forment un obstacle face aux dépressions atlantiques. Il en va de même pour les reliefs du pays d'Auge et des pays de Caux et de Bray mais dans de moindres proportions (jusqu'à {{unité|1100|mm/an}}). En revanche, la plaine de Caen-Argentan et la partie sud-est de l’Eure sont moins arrosées (entre 600 et 800 mm/an)<ref name="Septmbre2013_SGAR" />.
+
+{| class="wikitable alternance centre" style="text-align:right;"
+|+ Données climatiques de quelques villes normandes
+|-
+! rowspan="2" scope=col | 
+! colspan="2" scope=col | Température<br>(Moyenne annuelle)<br>(en °C)
+! rowspan="2" scope=col | Précipitations<br>par an<br>(en mm)
+! rowspan="2" scope=col | Ensoleillement<br>par an<br>(en heures)
+|-
+! scope=col | Min.
+! scope=col | Max.
+|-
+! scope=row | [[Alençon#Climat|Alençon]]<ref>[http://climat.meteofrance.com/jsp/site/Portal.jsp?page_id=14034&CLIMAT_PORTLET.path=climatstation%2F61001001 Météo-France, Alençon].</ref>
+| 6,4
+| 16,1
+| 738,4
+| 1615
+|-
+! scope=row | [[Caen#Climat|Caen]]<ref>[http://climat.meteofrance.com/chgt_climat2/climat_france?CLIMAT_PORTLET.path=climatstation/14137001 Météo-France, Caen Carpiquet].</ref>
+| 7,1
+| 15,7
+| 723,2
+| 1624
+|-
+! scope=row | [[Rouen#Climat|Rouen]]<ref>[http://climat.meteofrance.com/chgt_climat2/climat_france?CLIMAT_PORTLET.path=climatstation/76116001 Météo-France, Rouen Boos].</ref>
+| 6,2
+| 16,9
+| 820,6
+| 1518
+|-
+! scope=row | [[Évreux#Climat|Évreux]]<ref>[http://www.meteofrance.com/climat/france/evreux/27347001/normales Météo-France, Évreux].</ref>
+| 7,2
+| 17,8
+| 818,6
+| 1628
+|}
+
+=== Hydrographie ===
+{{Article détaillé|Liste des cours d'eau normands}}
+Les cours d’eau de la Normandie sont la [[Seine]] et ses tributaires : [[Epte]], [[Andelle]], [[Eure (rivière)|Eure]], [[Sainte-Gertrude (rivière)|Sainte-Gertrude]], [[Risle]], ainsi que de nombreux petits [[fleuve côtier|fleuves côtiers]] : [[Bresle]], [[Touques (fleuve)|Touques]], [[Dives (fleuve)|Dives]], [[Orne (fleuve)|Orne]], [[Vire (fleuve)|Vire]], [[Sée]], [[Sélune]], [[Couesnon]], Gerfleur. La [[Veules]], plus petit [[fleuve]] de France, se jette à [[Veules-les-Roses]], entre [[Dieppe (Seine-Maritime)|Dieppe]] et [[Saint-Valery-en-Caux]], en [[Seine-Maritime]]. Les bordures sud de la province, drainées par la [[Mayenne (rivière)|Mayenne]], la [[Sarthe (rivière)|Sarthe]] et leurs affluents, appartiennent au bassin de la [[Loire]].
+
+Le [[Conseil régional de Normandie]] met en œuvre {{Citation|une stratégie régionale "Normandie Terre-Mer" pour relever les deux défis majeurs liés à la qualité des eaux, des milieux aquatiques terrestres et marins, et l’adaptation du littoral au changement climatique}}<ref>{{Lien web|langue=fr|titre=Milieux aquatiques, eaux et littoral|url=https://www.normandie.fr/milieux-aquatiques-eaux-et-littoral|site=La Région Normandie|consulté le=2019-06-20}}.</ref>.
+
+<gallery>
+Couesnon Sperrtor.jpg|Le [[Couesnon]].
+Petit-andely-depuis-chateau-gaillard.jpg|La [[Seine]] aux [[Les Andelys|Andelys]].
+La Bresle canalisée entre Eu et Le Tréport.jpg|La [[Bresle]] canalisée entre [[Eu (Seine-Maritime)|Eu]] et [[Le Tréport]].
+FranceNormandieRabodangesLac.jpg|La retenue d'eau sur l'[[Orne (fleuve)|Orne]] à [[Rabodanges]].
+</gallery>
+
+=== Géologie ===
+[[Fichier:Geologic map Armorican Massif FR.svg|thumb|Carte géologique du massif armoricain.]]
+[[Fichier:NezJobourg.jpg|thumb|[[Nez de Jobourg]] dans [[La Hague (région naturelle)|la Hague]].]]
+{{Article détaillé|Massif armoricain|Bassin parisien}}
+
+La Normandie appartient à la [[plaque eurasiatique]]. D'un point de vue [[Géologie|géologique]], la géographie de la Normandie peut se scinder selon une ligne transversale allant de [[Bayeux]] à [[Alençon]], l'ouest faisant partie intégrante du [[Massif armoricain]], et l'[[est]] du [[Bassin parisien]], deux grandes régions naturelles de formations très différentes. Cette répartition ne correspond d’ailleurs pas à la division entre Haute et Basse-Normandie car la limite traverse du nord au sud les départements du [[Calvados (département)|Calvados]] et de l’[[Orne (département)|Orne]].
+Les rivières découpent des vallées profondes.
+
+L'[[Cycle icartien|orogenèse icartienne]] a intéressé la [[La Hague (région naturelle)|Hague]], où affleurent les plus vieilles roches de [[France]] (à l'instar du [[Trégor]] mais surtout du [[bailliage de Guernesey]] qui comprend [[Sercq]] et [[Aurigny]]). Il y a 600 millions d'années, seule la partie [[Cycle cadomien|cadomienne]] du [[Massif armoricain]] est émergée. Il y a 200 millions d'années, durant le [[jurassique inférieur]], alors que le Massif armoricain est émergé, ce qui deviendra le [[Bassin parisien]] est une mer. Au [[miocène]] (il y a 5 à 20 millions d'années), le réseau hydrographique actuel, dont la [[Seine]], est mis en place. Le bassin est alors une vaste plaine dominant à peine le niveau de la mer.
+
+À l’ouest ([[Manche (département)|Manche]], sud-ouest du [[Calvados (département)|Calvados]], ouest de l’[[Orne (département)|Orne]]), le Massif armoricain consiste en lambeaux de l'ancienne chaîne cadomienne, constituée de [[roche plutonique|roches plutoniques]] [[granite|granitiques]], accompagnées pour la plupart de [[Roche détritique|roches détritiques terrigènes]] auxquelles se sont ajoutés des [[sédiment]]s [[paléozoïque]]s et qui ont été légèrement plissés durant l'[[orogenèse]] [[Chaîne varisque|hercynienne]]. Les lignes de crêtes armoricaines sont approximativement orientées est-ouest et sont constituées de « grès armoricain » ([[quartzite]]) très dur. La partie armoricaine alterne forêts et prairies.
+
+Au centre (à l’est et au nord du Calvados et à l’est de l’Orne), les couches calcaires [[jurassique]]s du Bassin parisien sont très propices aux cultures céréalières.
+
+À l'est ([[Haute-Normandie]]), le Bassin parisien est une vaste [[Dépression (géographie)|dépression]] où se sont accumulées des roches [[roche sédimentaire|sédimentaires]] d'origine [[mer|marine]], [[lac|lacustres]], lagunaires et fluviatiles<ref>Jacques Debelmas, ''Géologie de la France'', Éd. Doin, 1974 ; Francis Doré, ''Guides géologiques régionaux Normandie'', Éd. Masson.</ref>. Les paysages de [[plaine]]s et de [[plateau (géographie)|plateaux]] de faible hauteur ([[pays de Caux]]) attestent la présence du [[calcaire]] ou de la [[craie]]. Les couches de [[silex]] aident la résistance à l'érosion. Les surfaces y sont presque horizontales ou très peu ondulées. Le sol, argileux, favorise la pâture et l'[[élevage]] ; cependant, le sud-est de la Haute-Normandie constitue le prolongement du plateau céréalier de la [[Beauce (France)|Beauce]].
+
+La diversité géologique a pour conséquence une certaine diversité des paysages, malgré tout limitée par la communauté de climat, tempéré et humide. De ce fait, certains paysages ([[Prairie (agriculture)|prairies]], [[bocage]]s) se retrouvent à l’identique dans nombre de parties de la Normandie qui comprend un certain nombre de « pays » bien caractérisés.
+
+=== Environnement ===
+{{Article détaillé|Environnement en Normandie}}
+
+==== Les parcs naturels régionaux ====
+{{Section à déplacer|Normandie (région administrative)|date=juin 2019}}<!--Le Perche ne fait pas partie de la Normandie historique-->
+
+La Normandie compte quatre [[parc naturel régional de France|parcs naturels régionaux]] : le [[parc naturel régional des Boucles de la Seine normande]], le [[parc naturel régional Normandie-Maine]], le [[parc naturel régional des Marais du Cotentin et du Bessin]] et le [[parc naturel régional du Perche]], qui occupent près de 23% du territoire régional<ref>{{Lien web|langue=fr|titre=Parcs Naturels Régionaux|url=https://www.normandie.fr/parcs-naturels-regionaux|site=La Région Normandie|consulté le=2019-06-20}}.</ref>. Ils présentent des richesses très variées, qu’il s’agisse du patrimoine culturel ou du patrimoine naturel.
+
+===== Réserves naturelles =====
+La Normandie comporte neuf réserves nationales : le coteau de Mesnil-Soleil dans la campagne de [[Falaise (Calvados)|Falaise]] (Calvados), le domaine de Beauguillot sur la commune de [[Sainte-Marie-du-Mont (Manche)|Sainte-Marie-du-Mont]] (Manche), l'estuaire de la [[Seine]], l'un des trois plus grands estuaires de la France avec la Loire et la Gironde, dans les départements de l'Eure et de la Seine-Maritime, la [[Réserve naturelle nationale de la falaise du Cap-Romain|falaise du Cap-Romain]], sur les côtes du Calvados, la forêt domaniale de Cerisy, à cheval sur les départements du Calvados et de la Manche, le [[Marais-Vernier (Eure)|marais Vernier]], situé dans un ancien méandre de la Seine dans le département de l'Eure, la [[Réserve naturelle nationale de la mare de Vauville|mare de Vauville]] dans la Manche, le marais de la Sangsurière et de l'Adriennerie, à [[Doville]] au cœur des marais du Cotentin et du Bessin et la tourbière de Mathon, au cœur des landes de [[Lessay]] dans la [[Cotentin|presqu'île du Cotentin]]<ref name="reserves">{{Lien web|titre=Normandie {{!}} Réserves naturelles de France|url=http://www.reserves-naturelles.org/normandie|site=www.reserves-naturelles.org|consulté le=2019-06-20}}</ref>.
+
+La région compte en outre six réserves régionales : les anciennes carrières d'Orival dans le Calvados, la clairière forestière de [[Bresolettes]] au cœur de la [[forêt du Perche]], la côte de la Fontaine en Seine-Maritime, la carrière des Vaux sur la commune de [[Saint-Hilaire-la-Gérard]] dans le département de l'Orne, le marais de la Taute dans les marais du Cotentin et du Bessin et les pierriers de Normandie sur la commune de [[Bagnoles de l'Orne Normandie]]<ref name="reserves"/>.
+
+==== Flore ====
+{{Article connexe|Liste des forêts normandes}}
+La forêt couvre 14 % du territoire. Il s'agit là d'un faible couvert forestier, comparé à la moyenne nationale (28 %), mais compensé par les « forêts linéaires » que forment les [[haie]]s bocagères.
+
+Les [[lande]]s recouvrent les sols pauvres, acides mais humides du département de la Manche.
+
+Le catalogue de la flore vasculaire de Normandie, fusion des listes de Haute et Basse-Normandie, édité en 2017, regroupe {{Unité|3194|taxons}}<ref>{{Lien web|titre=Les référentiels faune/flore|url=https://biodiversite.normandie.fr/node/10|site=Observatoire diversité Normandie|date=|consulté le=20 juin 2019}}.</ref>.
+
+==== Faune ====
+[[Fichier:vachesnormandes.jpg|thumb|[[Normande|Vache normande]].]]
+[[Fichier:Basset artezyjsko-normandzki. Umbra z Romiszówki.jpg|thumb|[[Basset artésien normand]].]]
+
+Du fait d'une [[tradition]] agricole ancestrale, la Normandie est la région d'origine de nombreuses races animales d'[[élevage]] ou de compagnie. Bien que surtout connue pour son cheptel bovin grâce à la célèbre [[Normande|vache normande]], la faune de Normandie est constituée d'une multitude de races.
+* asins et équins : [[âne normand]], [[âne du Cotentin]], [[percheron]], [[cob normand]], [[Augeron (cheval)|augeron]], [[Anglo-normand (cheval)|anglo-normand]] (originaire du [[Plain (Manche)|Plain]]), [[âne andalou]] ou anko du Perche, [[selle français]] (issu du cheval anglo-normand), [[trotteur français]] (issu du carrossier normand) ;
+* bovins : [[normande]], [[jersiaise]] ;
+* ovins et caprins : [[roussin de la Hague]], [[Cotentin (race ovine)|cotentin]], [[Avranchin (race ovine)|avranchin]], [[chèvre des fossés]] ;
+* porcins : [[porc de Bayeux]], [[porc blanc de l'Ouest]] ;
+* [[Volailles de Normandie|volailles]] : poule courtes-pattes, [[Poule Le Merlerault|poule du Merlerault]], [[poule de Dampierre]], [[poule de Crèvecœur]], [[poule de Gournay]], [[poule de Caumont]], [[poule de Pavilly]], [[poule de Caux]], coucou de France, cotentine, [[canard de Rouen]], oie normande, oie de Bavent, dindon noir de Normandie ;
+* animaux domestiques :
+**[[basset artésien normand]], [[chien de chasse]] ou de compagnie ;
+** [[Chartreux (chat)|chartreux]], [[chat]] très populaire en Normandie, trouvant ses origines dans le Nord-Ouest de la France ;
+** [[épagneul de Pont-Audemer]], chien à poil frisé et légèrement bourru, de couleur marron ou marron et gris chiné, originaire du [[Marais-Vernier (région)|Marais-Vernier]].
+
+Les [[zone humide|zones humides]] ([[marais]], [[Schorre|prés-salés]], [[tourbière]]s, [[Baie (géographie)|baies]]) sont des refuges pour de nombreux [[amphibien]]s et une multitude d'[[Oiseau nicheur|oiseaux nicheurs]] ou [[Migration des oiseaux|migrateurs]] ([[râle des genêts]], [[spatule blanche]], [[avocette]], [[héron butor]], etc.).
+
+=== Transports ===
+[[Fichier:Reliefkarte Normandie.png|vignette|Normandie : géographie et transport.]]
+
+==== Le réseau routier ====
+{{CarteInsécuritéRoutièreFrance|nom_région=Normandie|wikidata_région_id=Q18677875|frame-lat=49.0|frame-long=0.3|zoom=6}}
+{{Article détaillé|Liste des infrastructures routières en Normandie}}
+La Normandie dispose d'un réseau routier dense qui maille tout son territoire. Ce maillage a été renforcé par la construction des ponts de [[Pont de Brotonne|Brotonne]], de [[Pont de Tancarville|Tancarville]], de [[Pont de Normandie|Normandie]], et du [[pont Gustave-Flaubert|pont Gustave Flaubert]] à [[Rouen]].
+
+Des autoroutes relient [[Rouen]], [[Le Havre]] et [[Caen]] entre elles et également à [[Paris]], [[Lille]], [[Rennes]] ou [[Angers]] ainsi qu'au reste du réseau autoroutier européen<ref>[http://www.eve-basse-normandie.fr/pdf-portrait.php?id_menu=273 Espace de valorisation économique].</ref>{{,}}<ref>[http://www.cesdefrance.fr/pdf/6345.pdf?PHPSESSID=cd7f1fbb065b95b053fb08c08206f397 Conseil économique et social régional de Haute-Normandie].</ref>.
+
+En aval de Rouen, plusieurs [[bac (bateau)|bacs]] permettent la traversée de la Seine.
+
+Outre les applications nationales comme BlaBlacar & Blablacar Daily, la région Normandie a notamment développé l'application KAROS, une application de covoiture - et plus particulièrement de courtvoiturage (Pour les petits trajets).
+
+==== Le réseau ferroviaire ====
+{{Article connexe|Intercités Normandie}}
+[[Fichier:Train, Gare Saint-Lazare, 24 September 2011 Paris 003.jpg|vignette|Voitures Intercités Normandie en gare de Paris Saint-Lazare.]]
+Les trains de la [[Normandie (région administrative)|région Normandie]] sont exploités sous la marque [[Transport express régional|TER]] Normandie<ref>
+http://cdn.ter.sncf.com/medias/PDF/basse_normandie/Carte%20r%C3%A9seau%20TER%20Normandie_tcm53-11192_tcm53-68136.pdf.
+</ref>.
+
+Depuis [[2002]] la [[Normandie (région administrative)|région Normandie]] est responsable de l'organisation des transports ferroviaires TER qui sont d’intérêt régional. Cela concerne 24 lignes sur lesquelles circulent 350 trains par jour, sur une distance de {{unité|1267|kilomètres}} qui desservent 116 gares et haltes<ref>
+https://www.normandie.fr/trains-et-bus.
+</ref>.
+
+La Normandie est desservie par quatre lignes nationales. Trois relient la Normandie à [[Paris]], vers [[Ligne de Paris-Saint-Lazare au Havre|Rouen et Le Havre]], [[Ligne de Mantes-la-Jolie à Cherbourg|Caen et Cherbourg]], et [[Ligne de Paris à Granville|Argentan et Granville]], et une relie [[Ligne de Caen à Tours|Caen à Tours]], via [[Alençon]] et [[Le Mans]].
+
+Plusieurs lignes régionales existent par ailleurs, entre [[Ligne de Lison à Lamballe|Lison et Pontorson]] (liaison Caen - Rennes), [[Serquigny]] et [[Oissel]] (liaison Caen - Rouen), [[Ligne de Malaunay - Le Houlme à Dieppe|Rouen et Dieppe]], Rouen et [[Abancourt (Oise)|Abancourt]] ([[Ligne de Saint-Roch à Darnétal-Bifurcation|liaison Rouen - Amiens]]), entre Abancourt et [[Le Tréport]] ([[Ligne de Saint-Denis à Dieppe|liaison Paris - Dieppe]]), entre [[Bréauté]] et Fécamp, entre Le Havre et [[Rolleville]] et entre [[Ligne de Lisieux à Trouville - Deauville|Lisieux et Trouville - Deauville]].
+
+En plus de ces lignes ouvertes au trafic des voyageurs, certaines sont réservées au [[Transport de marchandises|fret]] (par exemple la desserte d’Honfleur) ou bien fermées. Parmi ces dernières, on peut citer le cas de la ligne [[Ligne de Caen à Cerisy-Belle-Étoile|Caen - Flers]], qui traverse la [[Suisse normande]].
+
+La gouvernance des trains Intercités normands va être transférée à la [[Normandie (région administrative)|région de Normandie]]<ref>[http://www.paris-normandie.fr/detail_article/articles/5587214/manuel-valls-pret-a-transferer-la-gouvernance-des-trains-intercites-en-normandie-a-la-region# Intercités en Normandie] site web Paris-Normandie.</ref>.
+
+On peut aussi mentionner l’existence de quelques [[Liste des chemins de fer touristiques de France#Normandie|trains touristiques]].
+
+Les trains qui circulent sur le réseau normand sont :
+* des [[Voiture Corail|voitures corail]] tractées par des [[BB 15000|BB15000]]. Des [[BB 26000|BB26000]] sont également utilisées mais uniquement sur l'axe Paris-Caen-Cherbourg afin d'assurer les pointes à 200km/h ;
+* des [[Z 24500|TER à 2 niveaux de nouvelle génération]] ;
+* des [[Voiture à 2 niveaux SNCF|V2N]] tractées par des BB15000 ;
+* des [[Voiture omnibus à deux niveaux|VO2N]] tractées par des BB15000 ;
+* des [[Régiolis]] de 328 places ;
+* des [[autorail grande capacité|autorails à grande capacité]] bimode-bicourant de 240 places ;
+* des [[X 73500|autorails X73500]] de 80 places<ref>https://www.normandie.fr/materiel-roulant.</ref>.
+À partir de janvier 2020, 40 rames [[Regio 2N|Omnéo Premium]] (Bombardier) remplaceront progressivement le matériel roulant actuellement en service sur les lignes Paris-Caen-Cherbourg / Trouville-Deauville et Paris-Rouen-Le Havre. Tout comme les BB26000, ces rames à deux niveaux permettront d'atteindre une vitesse commerciale de 200km/h sur les portions de voies le permettant. Bien qu’utilisant la plateforme des [[Regio 2N|Regio2n]], ces rames de 10 caisses disposeront d'un haut niveau de confort.
+
+La coopérative [[Railcoop]] caresse de nombreux projets qui pourraient concerner la région : il s'agirait des relations [[Brest]]-Caen-[[Massy (Essonne)|Massy]], [[Nantes]]-Caen-[[Lille]] et Caen-[[Toulouse]]<ref>{{Lien web |langue=fr |titre=Voici les nouvelles lignes de train prévues par la société Railcoop dans l’Ouest |url=https://www.ouest-france.fr/economie/transports/transports-ces-nouvelles-lignes-de-train-prevues-par-railcoop-dans-l-ouest-27c04db4-6c9d-11ec-9358-fadecc207d8a |site=[[Ouest-France]] |date=2022-01-04 }}.</ref>{{,}}<ref>{{Lien web |langue=fr |titre=Carte Railcoop |url=https://www.lejdc.fr/photoSRC/Gw--/railcoop_5889402.jpeg |format=JPEG |site=[[Le Journal du Centre]] |date=2022 }}.</ref>.
+
+==== Le réseau maritime ====
+[[Fichier:PhareHagueCoucher.jpg|thumb|[[Phare de la Hague]], [[Cotentin]].]]
+Avec {{unité|600|km}} de côtes le long de la Manche, la Normandie dispose de l’axe maritime le plus fréquenté du monde<ref>{{Lien web|titre=Géographie de la Normandie {{!}} La préfecture et les services de l'État en région Normandie|url=http://www.prefectures-regions.gouv.fr/normandie/Region-et-institutions/Portrait-de-la-region/Geographie/Geographie-de-la-Normandie|site=www.prefectures-regions.gouv.fr|consulté le=2019-06-20}}</ref>. Elle constitue le troisième complexe portuaire européen et le premier complexe portuaire français avec cinq ports, dont les deux grands ports internationaux du [[Le Havre|Havre]] et de [[Rouen]] et les ports de [[Cherbourg-Octeville|Cherbourg]], [[Caen]] et [[Dieppe (Seine-Maritime)|Dieppe]]. La moitié des transports internationaux maritimes de [[France]] et 60 % du trafic de conteneurs français passent par ses ports.
+
+La liaison avec la Grande-Bretagne et l’[[Irlande (île)|Irlande]] est assurée par les ports de Cherbourg ({{unité|593000|passagers}}), du Havre ({{unité|822000|passagers}}), Caen-Ouistreham ({{unité|970000|passagers}}) et Dieppe ({{unité|278000|passagers}})<ref>[http://www.onml.fr/onml_f/fiche_infographie.php?id_fiche=117&auth=NOK Observatoire national de la mer et du littoral en ligne (mesure de 2014)].</ref>.
+
+La desserte des îles Anglo-Normandes est assurée depuis les ports de [[Granville]], [[Barneville-Carteret|Carteret]] et [[Tréauville|Diélette]], vers [[Jersey]] ([[Gouray]] et [[Saint-Hélier]]), [[Guernesey (île)|Guernesey]] ([[Saint-Pierre-Port]]), [[Aurigny]] et [[Sercq]].
+
+==== Le réseau fluvial ====
+La Normandie représente 10 % du trafic fluvial français : 13 millions de tonnes de marchandises transitent sur la [[Seine]] entre [[Le Havre]] et la région parisienne.
+
+==== Le réseau aérien ====
+Il y a cinq aéroports internationaux en Normandie continentale :
+* [[aéroport de Deauville-Normandie]], [[Saint-Gatien-des-Bois]] ([[Calvados (département)|14]]) : {{nombre|149300|passagers}} en [[2015]], avec deux lignes saisonnières vers [[Londres]] ([[Ryanair]]) et [[Héraklion]] ([[Aegean Airlines]]) ; son trafic provient majoritairement des vols charters vers la Méditerranée. Cet aéroport est largement subventionné par les pouvoirs publics<ref name="L’aéroport de Deauville confirme sa suprématie dans les airs normands">{{Lien web |url=http://normandinamik.cci.fr/218270-laeroport-de-deauville-confirme-sa-suprematie-dans-les-airs-normands |titre= L’aéroport de Deauville confirme sa suprématie dans les airs normands  |site=www.normandinamik.cci.fr |consulté le=20 mai 2016}}.</ref> ;
+* [[aéroport de Caen-Carpiquet]], [[Carpiquet]] ([[Calvados (département)|14]]) : {{Unité|274011|passagers}} en [[2018]] (+51,46% sur l'année) ; son trafic est porté par ses lignes régulières vers Londres ([[Flybe]]), [[Lyon]] ([[Air France Hop]]), [[Marseille]] et [[Toulouse]] (depuis avril [[2017]]) ([[Volotea]])<ref>{{Lien web |url=http://caen.aeroport.fr/chiffres-clés |titre= Chiffres clés aéroport de Carpiquet  |site=www.caen.aeroport.fr |consulté le=20 mai 2016}}.</ref> et ses lignes saisonnières vers la [[Corse]], [[Aéroport de Nice-Côte d'Azur|Nice-Côte d'Azur]], [[Aéroport de Pau-Pyrénées|Pau-Pyrénées]] et [[Palma|Palma de Majorque]] ;
+* [[aéroport du Havre-Octeville]], [[Octeville-sur-Mer]] ([[Seine-Maritime|76]]) : {{nombre|6200|passagers}} commerciaux en 2015<ref name="L’aéroport de Deauville confirme sa suprématie dans les airs normands" />, sans ligne régulière ; cet aéroport est passé près de la fermeture avant qu'un voyagiste n'annonce des vols charters pour 2016<ref>{{Lien web |url=http://www.paris-normandie.fr/detail_article/articles/4866271/un-rayon-de-soleil-sur-l-aeroport-du-havre-octeville#.Vz45dseo49Y |titre= un rayon de soleil sur l'aéroport du Havre  |site=www.paris-normandie.fr |consulté le=20 mai 2016}}.</ref> ;
+* [[aéroport Rouen Vallée de Seine]], [[Boos (Seine-Maritime)|Boos]] ([[Seine-Maritime|76]]) : {{nombre|5200|passagers}} commerciaux en 2015<ref name="L’aéroport de Deauville confirme sa suprématie dans les airs normands" />, sans ligne régulière ; il accueille principalement des vols d'affaires, des vols sanitaires en relation avec le CHU de Rouen, des vols militaires, vols de formation et vols de loisir liés à l’activité de ses bases<ref>{{Lien web |url=http://www.rouen.aeroport.fr/gp/L-Aeroport/644 |titre= Accueil aéroport Rouen Vallée de Seine  |site=www.rouen.aeroport.fr |consulté le=20 mai 2016}}.</ref> ;
+* [[aéroport de Cherbourg - Maupertus|Aéroport de Cherbourg-Maupertus]], [[Maupertus-sur-Mer]] ([[Manche (département)|50]]) : {{nombre|4800|passagers}} commerciaux en 2015<ref name="L’aéroport de Deauville confirme sa suprématie dans les airs normands" />, sans ligne régulière ; il accueille principalement des vols d'affaire et des vols charters pour des voyagistes.
+
+L'aéroport de Deauville tentait depuis les [[années 2010]] à s'imposer comme l'aéroport de référence de la région<ref>{{Lien web |url=http://www.normandie-actu.fr/les-elus-militent-pour-un-aeroport-unique-en-normandie_75823/ |titre= Les élus militent pour un aéroport unique en Normandie  |site=normandie-actu.fr |date=21 avril 2014 |consulté le=24 décembre 2014}}.</ref>, mais le Conseil régional préfère désormais chercher à constituer une autorité aéroportuaire commune aux aéroports de la région pour faire jouer leur complémentarité<ref>{{Lien web |url=http://www.entreprises.ouest-france.fr/article/aeroports-nouveau-plan-pour-cinq-aeroports-normands-27-03-2016-261033 |titre= Aéroports. Un nouveau plan pour les cinq aéroports normands  |site=www.entreprises.ouest-france.fr |consulté le=20 mai 2016}}.</ref>.
+
+Les îles Anglo-Normandes, quant à elles, disposent de trois aéroports, qui les relient à la Grande-Bretagne et au continent. Ils se caractérisent par un trafic d'une toute autre importance :
+* [[aéroport de Jersey]], [[Saint-Pierre (Jersey)|Saint-Pierre]], [[Jersey]] : {{nombre|1554390|passagers}} commerciaux en 2015, nombreuses liaisons vers le Royaume-Uni, Guernesey, [[Paris-Orly]], [[Rotterdam]], [[Amsterdam]], [[Anvers]], [[Berlin]], [[Munich]]<ref>{{Lien web |url=http://www.jerseyairport.com/flight/PublishingImages/Pages/WhereWeFly/Download%20Summer%20Timetable%202016.pdf |titre= Summer 2016 Destinations: Scheduled & Charter Services  |site=www.jerseyairport.com |consulté le=20 mai 2016}}.</ref> ;
+* [[aéroport de Guernesey]], [[La Forêt (Guernesey)|La Forêt]], [[Guernesey (île)|Guernesey]] : {{nombre|894602|passagers}} commerciaux en 2015 ;
+* [[aéroport d'Aurigny]], [[Sainte Anne (Aurigny)|Sainte-Anne]], [[Aurigny]] : {{nombre|59843|passagers}} commerciaux en 2015.
+
+== Administrations et politiques ==
+{{Article détaillé|Politique en Basse-Normandie|Conseil régional de Normandie}}
+
+=== Administration ===
+==== Normandie française ====
+La Normandie est répartie, de 1956 à 2015, entre deux [[Région française|régions administratives]], la [[Haute-Normandie]] et la [[Basse-Normandie]], dont les préfectures régionales étaient respectivement [[Rouen]] et [[Caen]]. Depuis janvier 2016 la Normandie forme une seule [[région administrative]] dont la préfecture est [[Rouen]] et dont la capitale politique, siège du [[Conseil régional de Normandie]], est [[Caen]]. [[Le Havre]] est la commune la plus peuplée et [[Cherbourg-Octeville|Cherbourg]] est la [[Préfecture#Préfectures maritimes|préfecture maritime]] de la [[Manche (mer)|Manche]] et de la [[mer du Nord]].
+
+Les régions françaises sont gérées par un [[conseil régional (France)|conseil régional]] élu pour six ans au suffrage universel direct, qui ne possède pas de compétence législative, mais dispose d'un pouvoir réglementaire<ref name="const-art72">[[Article 72 de la Constitution de la Cinquième République française|Article 72 de la Constitution]].</ref>, notamment dans le domaine de l'action économique. Les conseillers régionaux élisent le [[Président du conseil régional (France)|président du conseil régional]]. Ce dernier préside l'assemblée et dispose du [[pouvoir exécutif]]. Il est chargé de faire voter et exécuter les décisions budgétaires, il est autorisé à recruter du personnel pour constituer ses services. Chaque région possède également un [[préfet de région]], nommé par le gouvernement, dont le rôle est de représenter l'État et de s'assurer du bon fonctionnement des [[Déconcentration|services déconcentrés]], comme la coordination des services de police.
+
+==== Îles Anglo-Normandes ====
+Les îles Anglo-Normandes sont divisées en deux [[Bailliage et sénéchaussée|bailliages]] [[dépendances de la Couronne|dépendant de la Couronne]] [[Couronne (Commonwealth)|britannique]], [[Bailliage de Jersey|Jersey]] et [[Bailliage de Guernesey|Guernesey]], dont les capitales sont [[Saint-Hélier]] et [[Saint-Pierre-Port]]. Ils jouissent d'une autonomie interne, sauf pour la défense et la diplomatie. Ils ne font pas formellement partie du [[Royaume-Uni]]<ref>{{Ouvrage|langue=fr|prénom1=Dominique|nom1=Auzias|prénom2=Jean-Paul|nom2=Labourdette|et al.=oui|titre=Normandie 2015|éditeur=Petit Futé|année=2015|pages totales=576|passage=30|isbn=978-2-7469-8344-1|lire en ligne=https://books.google.com/books?id=mGXjBwAAQBAJ|consulté le=2015-12-09}}.</ref>. Une loi du [[Royaume-Uni]] ne s'applique à un bailliage que sur la demande d'un gouvernement insulaire. Dans le cadre du bailliage de Guernesey, [[Sercq]] et [[Aurigny]] sont elles-mêmes autonomes, chacune ayant son propre parlement et son administration locale.
+
+Le souverain britannique nomme deux [[Lieutenant-gouverneur#Îles Anglo-Normandes|lieutenant-gouverneurs]], un pour chaque bailliage. Ils sont les représentants de la [[Couronne (Commonwealth)|Couronne britannique]]. Les lieutenants-gouverneurs sont de fait chefs d'État ; ils approuvent et promulguent (au nom de la Couronne) les lois votées par leur parlement en accord avec leur constitution. Leurs fonctions sont principalement diplomatiques et cérémonielles. Les [[bailli]]s, nommés également par la [[Couronne (État)|Couronne]], sont les premiers dirigeants civils. Ils tiennent leur poste jusqu'à leur retraite. Ils président en tant que juge la Cour royale ; ils gouvernent les États et représentent la Couronne aux occasions civiques. Les baillis doivent être des hommes de loi qualifiés.
+
+Le bailliage de Jersey inclut les [[Minquiers]], les [[Écréhou]], les [[Dirouilles]] et les [[Pierres de Lecq]] (ou ''Paternosters'' en anglais)<ref name="cij" /> et le bailliage de Guernesey les îles d’Aurigny, [[Brecqhou]], Sercq, [[Herm (île)|Herm]], [[Ortac]], [[Jéthou]], [[Lihou]], [[Burhou]] et les [[Casquets]].
+
+{| class="wikitable alternance centre"
+|+Chiffres clés des administrations de Normandie
+|-
+! colspan="2"|
+! Superficie (km{{2}})
+! Population
+! Préfecture<br>ou capitale
+! Sous-préfecture
+! Densité (hab/km{{2}})
+|-
+!
+|'''Normandie'''||style="text-align:right"|{{formatnum:30100}}||style="text-align:right"|{{formatnum:3450388}}||  Rouen (Préfecture)
+
+Caen (Conseil Régional)
+|  ||114
+|-
+! 76
+|[[Seine-Maritime]]||style="text-align:right"|{{formatnum:6278}}||style="text-align:right"|{{formatnum:1248580}}||[[Rouen]]||[[Arrondissement de Dieppe|Dieppe]] et [[Arrondissement du Havre|Le Havre]]||199
+|-
+! 27
+|[[Eure (département)|Eure]]||style="text-align:right"|{{formatnum:6040}}||style="text-align:right"|{{formatnum:577087}}||[[Évreux]]||[[Arrondissement de Bernay|Bernay]] et [[Arrondissement des Andelys|Les Andelys]]||96
+|-
+! 14
+|[[Calvados (département)|Calvados]]||style="text-align:right"|{{formatnum:5548}}||style="text-align:right"|{{formatnum:678303}}||[[Caen]]||[[Arrondissement de Bayeux|Bayeux]], [[Arrondissement de Lisieux|Lisieux]] et [[Arrondissement de Vire|Vire]]||122
+|-
+! 50
+|[[Manche (département)|Manche]]||style="text-align:right"|{{formatnum:5938}}||style="text-align:right"|{{formatnum:496937}}||[[Saint-Lô]]||[[Arrondissement d'Avranches|Avranches]], [[Arrondissement de Cherbourg|Cherbourg]] et [[Arrondissement de Coutances|Coutances]]||84
+|-
+! 61
+|[[Orne (département)|Orne]] ||style="text-align:right"|{{formatnum:6103}}||style="text-align:right"|{{formatnum:292282}}||[[Alençon]]||[[Arrondissement d'Argentan|Argentan]] et [[Arrondissement de Mortagne-au-Perche|Mortagne-au-Perche]]||48
+|-
+! GBG
+|'''[[Bailliage de Guernesey|Guernesey]]'''||style="text-align:right"|78||style="text-align:right"|{{formatnum:65573}}||[[Saint-Pierre-Port]]||  ||836
+|-
+! GBJ
+|'''[[Bailliage de Jersey|Jersey]]'''||style="text-align:right"|116||style="text-align:right"|{{formatnum:91626}}||[[Saint-Hélier]]||  ||790
+|}
+
+=== Politique ===
+==== Élections régionales ====
+Lors des [[élections régionales françaises de 2010|élections régionales de 2010]], les [[Conseil régional (France)|conseils régionaux]] des deux régions normandes sont dominés par les listes de gauche, menées par le [[Parti socialiste (France)|Parti socialiste]]. La Basse-Normandie, dirigée depuis [[1986]] par l'[[Union pour un mouvement populaire|UMP]] [[René Garrec]], est [[Élection régionale de 2010 en Basse-Normandie|remportée]] par [[Laurent Beauvais]]. En Haute-Normandie, [[Alain Le Vern]], qui a pris la région au [[Rassemblement pour la République|RPR]] [[Antoine Rufenacht]] en [[1998]], est réélu. Il démissionne pourtant en [[2013]] et se trouve remplacé par [[Nicolas Mayer-Rossignol]]. En janvier 2016, c'est [[Hervé Morin]] qui a été élu président de la [[Normandie (région administrative)]] réunifiée.<references group="A"/>
+
+==== Régionalisme ====
+{{Article connexe|Réunification de la Normandie|Parti fédéraliste (France)|Mouvement normand}}
+L’activité du régionalisme normand vise essentiellement à mettre fin à la partition de la Normandie datant de la création des [[Région française|régions administratives françaises]] en [[1956]] et d’obtenir la réunification des actuelles régions de Haute et de Basse-Normandie. La [[réunification de la Normandie]] est un thème récurrent, notamment aux moments des élections régionales. Il est notamment défendu par le [[Mouvement normand]]. Cette réunification est actée en 2014 dans le cadre du redécoupage des régions décidé en 2014 sous la [[Président de la République|présidence]] de [[François Hollande]] dans le cadre de l'[[Acte III de la décentralisation]].
+
+Il existe aussi plusieurs mouvements régionalistes se réclamant de l'[[autonomisme]] (le Parti Fédéraliste de Normandie, l'Action Normande, le Normanring, Mouve Tei, etc.), dont les objectifs sont, outre la réunification normande, l'autonomie de la Normandie, la défense de sa langue, de ses sports, jeux, danses et musiques traditionnels. Ces derniers domaines sont également défendus par plusieurs associations culturelles (TecNor, Terroir Histoire et Tradition de Normandie, Les Haches du Cotentin, Magène, Association Régionaliste Alfred Rossel, Le p'tit capé d'Brix, Société Jèrriaise, Société Guernesiaise, etc.).
+
+== Emblèmes et symboles ==
+=== Héraldique ===
+{{Article détaillé|Drapeau_normand#Les_léopards_sur_les_armoiries_des_ducs_de_Normandie{{!}}Armoiries de Normandie}}
+{{Blason-ville-fr
+ | img1     = Blason_duche_fr_Normandie.svg
+ | legende1 = Les armoiries de la Normandie
+ | texte    = '''Les armoiries de la Normandie se blasonnent ainsi : '''<br />
+* ''De gueules à deux léopards d'or''
+}}
+
+Ce blason reprend l'animal présent au {{s-|XII}} sur les premières armoiries des ducs de Normandie. [[Henri II Plantagenêt]] portait déjà un écu à deux [[Lion_(héraldique)#Léopard_et_léopard_lionné|léopards]]<ref>{{Ouvrage|langue=Français|auteur1=Robert Viel|titre=Les Origines Symboliques du Blason|passage=page 69|éditeur=|date=1972|isbn=9782900269237|lire en ligne=}}</ref> ; son fils, [[Richard Cœur de Lion]], en ajouta un troisième en 1195<ref>{{Ouvrage|auteur1=Michel Pastoureau|titre=Richard Cœur de Lion, roi d'Angleterre, duc de Normandie, 1157-1199, Actes du colloque international de Caen, 6-9 avril 1999|passage=page 262|éditeur=|date=2004|isbn=9782860140997|lire en ligne=}}</ref> ; son successeur, [[Jean sans Terre]], conservera ces armes mais sera dépossédé de la Normandie continentale en 1204.
+
+Jusqu'alors, la Normandie ne possédait pas d'emblème spécifique, seuls ses ducs en possédaient. C'est probablement à la fin du {{s-|XIII}} qu'apparaissent les armes à deux léopards d'or sur fond rouge pour identifier la Normandie<ref>{{Ouvrage|langue=Français|auteur1=Malherbe Normandy Kop|titre=Les Drapeaux de Normandie|passage=56|éditeur=|date=2021|pages totales=94|isbn=979-10-699-6523-2|lire en ligne=}}</ref> (on en trouve notamment un exemple sur le sceau de la nation normande gravé vers 1300, ainsi que dans plusieurs armoriaux médiévaux<ref>{{Ouvrage|auteur1=Jean-Luc Chassel et Christophe Maneuvrier|titre=Sur les pas de Lanfranc, du Bec à Caen - Cahier des Annales de Normandie nº37|passage=page 550|éditeur=|date=2018|isbn=978-2-902239-40-5|lire en ligne=}}</ref>).
+
+Ce choix, pour la Normandie, d'adopter un blason à deux léopards peut-être interprété comme une manière de rappeler les grandes heures du duché<ref>{{Ouvrage|auteur1=Alfred Canel|titre= Armorial des villes et corporations de la Normandie|passage=page 11|éditeur=|date=1863|lire en ligne=}}</ref>. En s'inspirant des armes des derniers ducs-rois (à trois léopards) sans les reprendre à l'identique, la Normandie crée ainsi sa propre identité<ref>{{Ouvrage|langue=Français|auteur1=Malherbe Normandy Kop|titre=Les Drapeaux de Normandie|passage=32|éditeur=|date=2021|pages totales=94|isbn=979-10-699-6523-2|lire en ligne=}}</ref>.
+
+Depuis, les deux léopards ne cessent d'être utilisés lorsqu'il s'agît de représenter la Normandie. On les retrouve ainsi sur différents sceaux (notamment ceux utilisés par les Anglais, durant la [[guerre de Cent Ans]], quand ils contrôlaient la Normandie<ref>{{Ouvrage|langue=Français|auteur1=Malherbe Normandy Kop|titre=Les Drapeaux de Normandie|passage=34-35|éditeur=|date=2021|pages totales=94|isbn=979-10-699-6523-2|lire en ligne=}}</ref>), armoriaux, insignes militaires, cartes géographiques, livres d'histoire normande<ref>{{Ouvrage|langue=Français|auteur1=Malherbe Normandy Kop|titre=Les Drapeaux de Normandie|passage=38|éditeur=|date=2021|pages totales=94|isbn=979-10-699-6523-2|lire en ligne=}}</ref>...
+
+[[Jersey]] et [[Guernesey]] font chacun usage d'armoiries à trois léopards (surmontées d'une branche pour Guernesey). En 1279, le roi d'Angleterre fait parvenir aux baillis des îles anglo-normandes un sceau sur lequel apparaissent trois léopards. Si ces trois léopards sont bien là pour représenter le roi d'Angleterre et non les îles, la population s'appropriera petit à petit ces armes, désormais considérées également comme celles des deux bailliages<ref>{{Article |langue=anglais |auteur1=Norman Victor Lacey Rybot |titre=The leopards of England and the Channel Islands |périodique=Société Jersiaise - Bulletin Annuel - Volume XIV, Part IV |date=1943 |lire en ligne=https://societe-jersiaise.org/digital-publications/bulletin?file=../bulletin-pdfs/ABSJ1943-1944-web.pdf |pages= }}</ref>.
+
+=== Drapeaux ===
+{{Article détaillé|Drapeau normand}}
+[[Fichier:Flag_of_Normandie.svg|vignette|upright=1.25|left|[[Drapeau de la Normandie]]]]
+Le drapeau normand reprend fidèlement les armoiries normandes multicentenaires, ''de gueules à deux léopards d'or''. On retrouve déjà des exemples de l'emblème normand sous forme de drapeau dans des manuscrits des {{s mini-|XIV}}<ref>{{Ouvrage|langue=Français|auteur1=Malherbe Normandy Kop|titre=Les Drapeaux de Normandie|passage=27|éditeur=|date=2021|pages totales=94|isbn=979-10-699-6523-2|lire en ligne=}}</ref> et {{s mini-|XV}} siècles<ref>{{Lien web |langue=Francais |titre=La Normandie dans l'armorial de la Toison d'Or |url=https://gallica.bnf.fr/ark:/12148/btv1b55009806h/f111.item |site=Gallica |date= }}</ref>.
+
+Hissé par de nombreuses mairies et collectivités, il s'agit du symbole le plus utilisé pour représenter la Normandie. Depuis 2016, il est visible sur le logotype officiel de la Région Normandie.
+
+
+Dans certains milieux culturels ou régionalistes, d'autres drapeaux sont parfois utilisés pour représenter la Normandie, comme le [[Drapeau_normand#Drapeau_normand_à_trois_léopards|Treis Cats]] (drapeau à trois léopards inspiré des armes de Richard Cœur-de-Lion) ou la [[Drapeau_normand#La_croix_de_Saint-Olaf|Croix de Saint-Olaf]] (inspirée des drapeaux scandinaves). Pour pallier son manque de notoriété en tant qu'emblème normand, des léopards sont parfois insérés dans le premier canton de ce drapeau normand à [[Croix_scandinave|croix nordique]].
+
+
+Depuis les années 80, les bailliages de Jersey et de Guernesey possèdent également des drapeaux spécifiques<ref>{{Lien web |langue=anglais |auteur=BBC News Guernsey |titre=25 years under the Guernsey flag |url=http://news.bbc.co.uk/local/guernsey/hi/people_and_places/history/newsid_8622000/8622080.stm |date=2010 }}</ref>.
+
+
+
+<gallery>
+Trois-léopards-drapeau.png|[[Drapeau_normand#Drapeau_normand_à_trois_léopards|Treis Cats]]
+Flag_of_Normandy.svg|[[Drapeau_normand#La_croix_de_Saint-Olaf|Croix de Saint-Olaf]]
+Flag of Jersey.svg|[[Drapeau de Jersey]]
+Flag of Guernsey.svg|[[Drapeau de Guernesey]]
+</gallery>
+
+=== Devises ===
+==== ''Viriliter et Sapienter'' ====
+
+La locution latine « ''Viriliter et Sapienter'' » (signifiant « ''Courage et Sagesse'' ») est parfois considérée comme la devise de la Normandie<ref>{{Article|langue=Français|auteur1=Paul Lesigne|titre=Les priorités de Guillaume Lericolais|périodique=Ouest-France|date=2020|lire en ligne=https://actu.fr/normandie/lisieux_14366/les-priorites-de-guillaume-lericolais-le-nouveau-sous-prefet-de-lisieux_37511977.html}}</ref>.
+
+Ces termes apparaissent au-dessus d'une scène de la [[Tapisserie de Bayeux]] dans laquelle les Normands chargent les Anglais : « ''Hic Willelm dux alloquitur suis militibus ut præparent se viriliter et sapienter ad prelium'' » (''Ici, le duc Guillaume harangue ses soldats pour qu'ils se préparent à la bataille avec courage et sagesse'').
+[[Fichier:Viriliter-et-sapienter-bayeux.png|upright=3|vignette|centre|<center>''Viriliter et Sapienter'' sur la Tapisserie de Bayeux</center>]]
+
+==== ''Dex Aie'' ====
+« ''Dex Aie'' » (parfois orthographié ''Diex Aie'', ''Dex Aye'' ou ''Dieus Aie'') était le cri de ralliement des ducs de Normandie<ref>{{Article|langue=Français|auteur1=René Lepelley|titre=Dex Aïe : « l'enseigne au duc de Normandie »|périodique=Annales de Normandie - Année 1987 - 37-2|date=1987|lire en ligne=https://www.persee.fr/doc/annor_0003-4134_1987_num_37_2_1749|pages=101}}</ref>, signifiant « ''Dieu, à l'aide !'' »
+
+Si on en croit les écrits de [[Wace]] ({{s-|XII}}), ce cri était déjà proféré par le deuxième duc de Normandie [[Guillaume Ier de Normandie|Guillaume Longue-Épée]]  et l'était encore lors des batailles de [[Bataille du Val-ès-Dunes|Val-ès-Dune]] et d'[[Bataille d'Hastings|Hastings]]<ref>{{Article|langue=Français|auteur1=René Lepelley|titre=Dex Aïe : « l'enseigne au duc de Normandie »|périodique=Annales de Normandie - Année 1987 - 37-2|date=1987|lire en ligne=https://www.persee.fr/doc/annor_0003-4134_1987_num_37_2_1749|pages=103}}</ref>. Benoit, trouvère normand du {{s-|XII}}, écrit également que ''Dex aie'' était le cri de guerre du duc [[Richard II de Normandie|Richard II]]<ref>{{Article|langue=Français|auteur1=René Lepelley|titre=Dex Aïe : « l'enseigne au duc de Normandie »|périodique=Annales de Normandie - Année 1987 - 37-2|date=1987|lire en ligne=https://www.persee.fr/doc/annor_0003-4134_1987_num_37_2_1749|pages=104}}</ref>.
+
+Selon le linguiste [[René Lepelley]], la prononciation de cette devise a évolué, passant de « ''diéws ahie'' » au {{s-|XI}} à « ''dyoews ahie'' » au {{s mini-|XII}} puis « ''dyeuss ' ahie'' » au {{s mini-|XIII}}<ref>{{Article|langue=Français|auteur1=René Lepelley|titre=Dex Aïe : « l'enseigne au duc de Normandie »|périodique=Annales de Normandie - Année 1987 - 37-2|date=1987|lire en ligne=https://www.persee.fr/doc/annor_0003-4134_1987_num_37_2_1749|pages=103 & 108}}</ref>.
+
+==== ''Thor Aie'' ====
+« ''Thor Aie »'' (traduit en « ''[[Thor]], à l'aide ! »'') est une devise qu'auraient prononcée, selon la légende, les insurgés normands lors de la [[Bataille du Val-ès-Dunes|bataille de Val-ès-Dune]], clamant ainsi le cri de guerre de leurs ancêtres vikings en opposition au « ''Dex Aie »'' de leurs adversaires chrétiens<ref>[http://www.persee.fr/doc/annor_0003-4134_1987_num_37_2_1749 Dex Aïe : « l'enseigne au duc de Normandie »], [[René Lepelley]], In: Annales de Normandie, 37ᵉ année, n°2, 1987. Institutions ecclésiastiques de la Normandie ducale, {{pp.|101-108}}.</ref>.
+
+En réalité, « ''Thor Aie »'' n'a jamais été prononcé (ni par les insurgés, ni par leurs ancêtres vikings) et cette légende tient son origine de l'erreur d'interprétation d'un éditeur. En 1827, [[Frédéric Pluquet]] publie la première édition imprimée du [[Roman de Rou]] de [[Wace]]. À la page 32 du Tome II, on peut lire qu'un personnage pique son cheval en « ''criant Tur aïe »''<ref name="archive.org">{{Ouvrage|langue=Français|auteur1=Frédéric Pluquet|titre=Le roman de Rou et des ducs de Normandie par Robert Wace, Tome 2 ; publié pour la première fois d'après les manuscrits de France et d'Angleterre|passage=32|date=1827|lire en ligne=https://archive.org/details/bnf-bpt6k65499435/page/32/mode/2up}}</ref>. En note de bas de page, l'éditeur traduit cette locution en « ''Thor Aide, cri de guerre fort remarquable qui avait dû être celui des premiers Normands »''. Une autre note nous indique que la graphie d'un des manuscrits de référence est pourtant « ''turie »''<ref name="archive.org" />. En fin d'ouvrage, un historien précise qu'il ne croit pas en cette interprétation et que le ''Turie'' doit être interprété comme le cri de guerre du personnage, originaire de [[Thury-Harcourt|Thury]]<ref>{{Ouvrage|langue=Français|auteur1=Frédéric Pluquet|titre=Le roman de Rou et des ducs de Normandie par Robert Wace, Tome 2 ; publié pour la première fois d'après les manuscrits de France et d'Angleterre|passage=528|date=1827|lire en ligne=https://archive.org/details/bnf-bpt6k65499435/page/528/mode/2up?q=+thury}}</ref>.
+
+Si aucune édition postérieure du Roman de Rou n'a retenu le « ''Thor Aie »'' (jugé farfelu par l'ensemble des historiens spécialistes de la Normandie médiévale), cette légende s'est pourtant répandue aux {{s2-|XIX|XX}} et de nombreux ouvrages ont présenté ce cri comme l'ancienne devise des Normands<ref>{{Article|titre=Mirages et mythes norois|périodique=[[Études normandes]] - Année 1986 - 35-3|date=1986|lire en ligne=https://www.persee.fr/doc/etnor_0014-2158_1986_num_35_3_2688|pages=122 (note 37)}}</ref>. Le journaliste et écrivain [[Gilles Perrault]] écrivait ainsi, en 1981 :<blockquote>« ''Par une bouleversante résurgence du passé, un siècle et demi après le baptême de Rollon et pour la dernière fois sur notre terre, on entendit jaillir de la gorge des Nordiques le vieux cri de guerre viking, le hurlement rauque qui avait jadis glacé les peuples de peur, l'invocation à Thor, fils d'Odin et dieu du tonnerre et des éclairs : Thor aie !'' »<ref>{{Ouvrage|langue=Français|auteur1=Gilles Perrault|titre=Les Gens d'ici|passage=50|date=1981}}</ref></blockquote>
+
+=== Hymnes ===
+
+Si la Normandie ne possède pas d'hymne officiel, plusieurs chansons, écrites ou non dans ce but, sont parfois considérées comme des hymnes officieux.
+
+==== ''Ma Normandie'' ====
+{{Article détaillé|Ma Normandie}}
+''Ma Normandie'' (régulièrement citée sous le titre ''J'irai revoir ma Normandie'') est une chanson écrite et composée en 1836 par [[Frédéric Bérat]]<ref>{{Lien web |langue=Français |auteur=Bertrand Dicale |titre=Ces chansons qui font la France. "(J'irai revoir) Ma Normandie" |url=https://www.francetvinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/ces-chansons-qui-font-la-france-j-irai-revoir-ma-normandie_4713123.html}}</ref>. Elle est souvent considérée comme l'hymne non-officiel de la Normandie et a fait l'objet de plusieurs adaptations en [[Normand|langue normande]] (écrites entre autres par Alphonse Allain et Fred Vaquin<ref>{{Lien web |auteur=Geraint Jennings |titre=Ma Normandie et Man Bieau P'tit Jèrri |url=https://members.societe-jersiaise.org/geraint/jerriais/normandie.html}}</ref>)
+
+Entre 1958 et 2008, ''Ma Normandie'' fut utilisée à Jersey en tant qu'hymne, en alternance avec la chanson traditionnelle ''Beautiful Jersey (Man bieau p'tit Jèrri'' en [[jersiais]]'')''<ref>{{Article|langue=Anglais|auteur1=Henry Johnson|titre=Anthem for Jersey: Music, Media and Politics in an Island Setting|périodique=Medianz - Vol 15 - N.1|date=2015|lire en ligne=https://www.academia.edu/25567674|pages=96 & 100}}</ref>''.'' À la suite d'un concours organisé par le gouvernement de Jersey en 2008, la chanson [[Island Home]] est choisie pour devenir le nouvel hymne officiel de Jersey<ref>{{Lien web |langue=Anglais |auteur=BBC Jersey |titre=Your island |url=https://www.bbc.co.uk/jersey/content/articles/2008/04/15/island_anthem_overview_feature.shtml}}</ref>. Cependant, le nouvel hymne étant loin de faire l'unanimité<ref>{{Article|auteur1=BBC News|titre=Jersey's anthem choice 'should be debated again'|périodique=BBC News|date=2010|lire en ligne=https://www.bbc.com/news/10262740}}</ref>, certaines fédérations continuent d'utiliser ''Ma Normandie''<ref>{{Article|langue=Anglais|auteur1=BBC News Jersey|titre=Ma Normandie used for sport|périodique=BBC News Jersey|date=2008|lire en ligne=https://www.bbc.co.uk/jersey/content/articles/2008/06/20/ma_normandie_rugby_feature.shtml}}</ref> ou ''Beautiful Jersey'' en tant qu'hymne<ref>{{Article|langue=Anglais|auteur1=BBC News|titre=Beautiful Jersey is anthem for 2015 Island Games|périodique=BBC News|date=2015|lire en ligne=https://www.bbc.com/news/world-europe-jersey-31962172}}</ref>.
+
+{{Boîte déroulante|titre=Paroles de ''Ma Normandie'' en français et en normand|contenu=
+{{col-début}}
+{{col-2}}
+;Ma Normandie
+:''Quand tout renaît à l'espérance,''
+:''Et que l'hiver fuit loin de nous,''
+:''Sous le beau ciel de notre France,''
+:''Quand le soleil revient plus doux,''
+:''Quand la nature est reverdie,''
+:''Quand l'hirondelle est de retour,''
+:''J'aime à revoir ma Normandie,''
+:''C'est le pays qui m'a donné le jour.''
+
+
+:''J'ai vu les lacs de l'Helvétie''
+:''Et ses chalets et ses glaciers,''
+:''J'ai vu le ciel de l'Italie,''
+:''Et Venise et ses gondoliers.''
+:''En saluant chaque patrie,''
+:''Je me disais : « Aucun séjour''
+:''N'est plus beau que ma Normandie,''
+:''C'est le pays qui m'a donné le jour. »''
+
+
+:''Il est un âge dans la vie,''
+:''Où chaque rêve doit finir,''
+:''Un âge où l'âme recueillie''
+:''A besoin de se souvenir.''
+:''Lorsque ma muse refroidie''
+:''Aura fini, ses chants d'amour,''
+:''J'irai revoir ma Normandie,''
+:''C'est le pays qui m'a donné le jour.''
+{{col-2}}
+;Ma Normaundie
+:''Quaund no ratouorne à l’espéraunche,''
+:''et que la freid est louen de nouos.''
+:''Pis qu’no reveî des biaos Daimmaunches,''
+:''et que l’solé revyint pllus doux.''
+:''Quaund le r’nouvé est raccachi,''
+:''joaunats, promioles, hérondes itou,''
+:''J’îme cha d’arveî ma Normaundie,''
+:''ch’est lyi l’pays qui m’a bailli eul jou.''
+
+
+:''J’i veu les cllos eud l’Helvétie,''
+:''et touôte la nyige ammonchellaée.''
+:''Guettyi eul cyil eud l’Italie,''
+:''et Venise et ses biaos batés.''
+:''De touos pays d’exçaès joulyis,''
+:''mei vo preachyi qu’aôqueuns in’tou,''
+:''N’est pu biao que ma Normaundie,''
+:''ch’est lyi l’pays qui m’a bailli eul jou.''
+
+
+:''Vyint le temps de la souovenanche,''
+:''ou touôte histouêre deit finin.''
+:''Le temps ou touôte tête bllanche''
+:''a besouen de se souvenin.''
+:''Quaund je m’érai byin ébraillyi,''
+:''dégoublinaé praêt au retou''
+:''J’érai arveî ma Normaundie,''
+:''ch’est lyi l’pays qui m’a bailli eul jou.''
+{{col-fin}}
+}}
+
+==== ''Sû la mé'' ====
+''Sû la mé'' est une chanson écrite et composée en 1895 par [[Alfred Rossel]]<ref>{{Lien web |langue=Français |auteur=Comité Régional du Patrimoine Maritime Normand |titre=Hymne du Cotentin |url=http://patrimoine-maritime-normand.org/su-la-me}}</ref>.
+Le texte, en [[Cotentinais|normand du Cotentin]], évoque la mer, sa beauté, sa dangerosité et ceux qu'elle a emportés.
+
+Très populaire dans les fêtes familiales ou communales dans la Manche, ''Sû la mé'' est considérée comme l'hymne ''de facto'' du Cotentin<ref>{{Lien web |langue=Français |auteur=Magène |titre=Alfred Rossel |url=https://magene.pagesperso-orange.fr/rossel.html}}</ref>.
+
+{{Boîte déroulante|titre=Paroles de ''Sû la mé'' et traduction en français|contenu=
+{{col-début}}
+{{col-2}}
+;Sû la mé
+
+:Refrain :
+:''Quand je sî sû le ri-va-ge,''
+:''Bi tranquille, êt’ oû coum’ mé ?''
+:''J’pense à ceux qui sont en v’yage,''
+:''En v’yage, au loin, sû la mé,''
+:''En viage, au loin,''
+:''En v’yage, au loin, sû la mé.''
+
+
+:Couplets :
+:''La mé, ch’est vraiment su-per-be,''
+:''Et j’aim’ bi, quand i fait biâo''
+:''L’été sous nos clios en herbe,''
+:''La vaî s’endormin un miau,''
+:''Mais quand o’ s’fâch, la vi-lai-ne,''
+:''Et qu’no z’entend de t’cheu nous,''
+:''La gross’ vouai de la si-rai-ne,''
+:''No z’en a quasiment poux''
+
+
+:''J’aim’ bi, dans les jours de fête,''
+:''Quand nos batiaux sont à’quai,''
+:''À l’abri de la tempête,''
+:''À Chidbourg coum’ au Bèquai.''
+:''Ch’est là qui sont l’mû sans doute,''
+:''Des trais couleurs pavouêsés ;''
+:''Mais, de gnit, dans la Déroute,''
+:''Hélas ! qui sont exposés !''
+
+
+:''Quand o’saôt’, par sus la Digue,''
+:''Dont o’fait tremblier les blios,''
+:''Qu’à l’ancre l’vaisseau fatigue,''
+:''Ah ver’je pense ès mat’los !''
+:''Reverront-i lûs villages,''
+:''Et pourront-i ratteri ?''
+:''J’avons d’si maôvais parages,''
+:''De Barflieu jusqu’à Goury.''
+
+
+:''J’ai deux fils dans la mareine''
+:''Deux forts et hardis gaillards''
+:''L’un revî de Cochincheine,''
+:''L’autre de Madagascars.''
+:''Y rentrent lû corvê faite ;''
+:''D’y penser no n'en vit pas,''
+:''Mais, que j’pliains, sans les counaîte,''
+:''Ceux qui sont restés là-bas.''
+
+{{col-2}}
+;Traduction en français
+
+:Refrain :
+:''Quand je suis sur le rivage''
+:''Bien tranquille êtes-vous comme moi ?''
+:''Je pense à ceux qui sont en voyage,''
+:''En voyage au loin sur la mer,''
+:''En voyage, au loin,''
+:''En voyage, au loin, sur la mer.''
+
+
+:Couplets :
+:''La mer, c’est vraiment superbe,''
+:''Et j’aime bien quand il fait beau,''
+:''L’été dans nos champs en herbe''
+:''La voir s’endormir un peu.''
+:''Mais quand elle se fâche, la vilaine,''
+:''Et qu’on entend de chez nous''
+:''La grosse voix de la sirène,''
+:''On en a pratiquement peur.''
+
+
+:''J’aime bien dans les jours de fête,''
+:''Quand les navires sont à quai,''
+:''A l’abri de la tempête''
+:''A Cherbourg, ou au Becquet''
+:''C’est là qu’ils sont le mieux, sans doute,''
+:''Des trois couleurs pavoisées ;''
+:''Mais la nuit dans la Déroute''
+:''Hélas ! qu’ils sont exposés''
+
+
+:''Quand elle saute par-dessus la digue''
+:''Dont elle fait trembler les blocs,''
+:''Qu’à l’ancre, le vaisseau se fatigue,''
+:''Ah, oui, je pense aux matelots.''
+:''Reverront-ils leurs villages''
+:''Et pourront ils revenir ?''
+:''Nous avons de si mauvais parages''
+:''De Barfleur jusqu’à Goury.''
+
+
+:''J’ai deux fils dans la marine''
+:''Deux forts et hardis gaillards''
+:''L’un revient de Cochinchine,''
+:''L’autre de Madagascar.''
+:''Ils rentrent, leur corvée fait''
+:''D’y penser, on n’en vit pas,''
+:''Mais je plains sans les connaître,''
+:''Ceux qui sont restés là bas.''
+{{col-fin}}
+}}
+
+==== ''Normands, fiers et conquérants'' ====
+
+Écrite comme un hymne à la Normandie, sans refrain, la chanson ''Normands, fiers et conquérants'' évoque les [[Drapeau_normand#Les_léopards_sur_les_armoiries_des_ducs_de_Normandie|léopards normands]], les  [[Histoire de la Normandie#Duché de Normandie (911-1204)|racines scandinaves de la Normandie]]<ref>{{Lien web |langue=Français |auteur=Laurent Ridel |titre=Les Normands, des Français pas comme les autres |url=https://www.histoire-normandie.fr/les-normands-des-francais-pas-comme-les-autres}}</ref> et la [[Conquête normande de l'Angleterre|conquête de 1066]]<ref>{{Lien web |langue=Français |titre=Hymne décrivant la Normandie, terre d'exploit et de conquête depuis 911. |url=https://www.youtube.com/watch?v=y07D4F34v9s&ab_channel=MALEKcaen}}</ref>.
+
+Popularisée dans les années 2000 par les supporters de Caen sur l'air de ''[[Johnny,_I_Hardly_Knew_Ya|Johnny I Hardly Knew Ya]]'', la chanson sera ensuite reprise, sur disque, par le [[SM Caen]] qui se l'appropriera en supprimant les deux couplets consacrés aux origines scandinaves et à la [[Bataille d'Hastings]], les remplaçant par un couplet consacré au club<ref>{{Lien web |langue=Français |auteur=Ouest-France |titre=Écoutez le nouvel hymne du Stade Malherbe de Caen ! |url=https://www.ouest-france.fr/sport/football/ecoutez-le-nouvel-hymne-du-stade-malherbe-de-caen-585835}}</ref>.
+
+Issue de cette chanson, le slogan ''Normands, fiers et conquérants'' a depuis régulièrement était repris par certains régionalistes ou par des fabricants de vêtements dédiés à la Normandie.
+
+{{Boîte déroulante|titre=Paroles de ''Normands, fiers et conquérants''|contenu=
+;Normands, fiers et conquérants
+
+:''Représenter la Normandie est un honneur,''
+:''Derrière nos léopards nous chanterons en chœur,''
+:''Décrire cette belle région doit se faire à l’unisson,''
+:''Nous sommes Normands, fiers et conquérants !''
+
+
+:''Notre identité provient de Scandinavie,''
+:''La force et le courage formèrent la Normandie,''
+:''Rien ne pourra nous arrêter, avec Thor à nos côtés,''
+:''Nous sommes Normands, fiers et conquérants !''
+
+
+:''Depuis l'An 911 bien des années passèrent,''
+:''C'est tous unis que nous conquîmes l'Angleterre,''
+:''Rien ne pourra nous arrêter, Harold en a fait les frais,''
+:''Nous sommes Normands, fiers et conquérants !''
+:''Nous sommes Normands, fiers et conquérants !''
+}}
+
+==== ''Diex Aie ! Aux Ducs Rois !'' ====
+''Diex Aie ! Aux Ducs Rois !'' est une chanson écrite en 1902 par [[Jehan Soudan de Pierrefitte]] afin de servir d'hymne au [[Alexandre_Thibaut_de_La_Rochethulon#Le_Souvenir_normand|Souvenir Normand]] (association régionaliste fondée en 1896)<ref>{{Article|langue=Anglais|titre=Their mission|périodique=The Herald of Peace and International Arbitration|date=1903|lire en ligne=https://books.google.ca/books?id=dN8BAAAAYAAJ&lpg=RA3-PA114&ots=o9xCEhmoAP&dq=Diex%20A%C3%AFe!%20Aux%20Ducs%20Rois!%20Roll%2C%20Guillaume%2C%20et%20nos%20Droits!&hl=fr&pg=RA3-PA114#v=onepage&q&f=false|pages=114}}</ref>.
+
+Reprenant l'air du ''[[God Save the Queen]]'' britannique, le court texte évoque les premiers ducs de Normandie et met en avant les origines vikings des Normands<ref>{{Lien web |langue=Français |auteur=Laurent Quevilly |titre=La naissance du Souvenir normand |url=http://jumieges.free.fr/Souvenir_normand.html}}</ref>.
+
+{{Boîte déroulante|titre=Paroles de ''Diex Aie ! Aux Ducs Rois !''|contenu=
+;Diex Aïe ! Aux Ducs Rois !
+;(Sur l'air de ''God save the Queen'')
+
+:''Diex Aïe ! Aux Ducs Rois !''
+:''Roll, Guillaume, et nos Droits,''
+:''Normands: vos Lois !''
+
+:''Fils du sang généreux''
+:''Des Vikings glorieux,''
+:''Donnons la paix à tous païs,''
+:''Normands unis ! ''
+}}
+
+[[Fichier:Statue_Saint-Michel_dragon_Mont-Saint-Michel.JPG|thumb|Statue de saint Michel faisant face au dragon, dans l'[[Église Saint-Pierre du Mont-Saint-Michel|église Saint-Pierre]] du [[Le Mont-Saint-Michel|Mont-Saint-Michel]].]]
+=== Saint patron ===
+[[Michel (archange)|L'archange saint Michel]] est le [[Liste de saints patrons|saint patron]] de la Normandie.
+
+L'un des édifices les plus célèbres lui étant consacré est l'[[Abbaye du Mont-Saint-Michel]]. En ce lieu, en 708, un sanctuaire dédié à l'archange avait été fondé par l'[[Liste des évêques d'Avranches|évêque]] [[Aubert d'Avranches|Aubert d’Avranches]]<ref>{{Lien web |langue=Français |titre=L’archange et les origines de l'abbaye |url=http://www.abbaye-mont-saint-michel.fr/Explorer/L-archange-et-les-origines-de-l-abbaye#}}</ref>.
+
+
+== Population et société ==
+=== Démographie ===
+{{Article détaillé|Démographie de la Haute-Normandie|Démographie de la Basse-Normandie}}
+La Normandie compte plus de {{nobr|3,15 millions}} d’habitants ([[Normands]]) pour une densité de population proche de la moyenne nationale, soit environ {{nobr|110 habitants}} au kilomètre carré. La population des îles normandes dépasse, quant à elle, les {{nombre|150000|habitants}}, soit environ {{nobr|780 habitants}} au kilomètre carré.
+
+{| class="wikitable sortable alternance centre"
+|+Les communes normandes comptant plus de {{nombre|10000|habitants}}
+|-
+! [[Commune (France)|Commune]]
+! [[Administration territoriale de la France#Subdivisions territoriales de la France|Division administrative territoriale]]
+! [[Chiffres de population de la France#Aspect statistique|Population sans<br>doubles comptes]]
+! Population<br>[[unité urbaine]]
+! Population<br>[[Aire urbaine (France)|aire urbaine]]
+! Densité hab./km{{2}}<br>de la [[Commune (France)|commune]]
+|-
+| [[Rouen]] || [[Préfet de région|Préfecture de la région]] [[Normandie (région administrative)|Normandie]]<br> Préfecture de la Seine-Maritime<br>Chef-lieu de la [[Métropole Rouen-Normandie]]|| style="text-align: right;"|{{nts|110933}} || style="text-align: right;"|{{nts|464000}}|| style="text-align: right;"|{{nts|649291}}|| style="text-align: right;"|{{nts|5177}}
+|-
+| [[Caen]] || Siège du [[conseil régional de Normandie]]<br>Chef-lieu de la communauté urbaine [[Caen la Mer]]<br>Préfecture du Calvados|| style="text-align: right;"|{{nts|108954}} || style="text-align: right;"|{{nts|198000}}|| style="text-align: right;"|{{nts|397000}}|| style="text-align: right;"|{{nts|4266}}
+|-
+| [[Caudebec-lès-Elbeuf]]|| [[Chef-lieu#France|Chef-lieu de canton de la Seine-Maritime]], ville de la Métropole Rouen Normandie || style="text-align:right;" |{{nts|10335}}|| || style="text-align: right;" |{{nts|88292}}|| style="text-align: right;" |{{nts|2808}}
+|-
+| [[Le Havre]] || [[Sous-préfecture]] de la [[Seine-Maritime]] || style="text-align:right;"|{{nts|175497}} || style="text-align: right;"|{{nts|248547}}|| style="text-align: right;"|{{nts|294000}}|| style="text-align: right;"| {{nts|3829}}
+|-
+| [[Cherbourg-en-Cotentin]] || [[Sous-préfecture]] de la [[Manche (département)|Manche]] || style="text-align: right;"|{{nts|80959}}|| style="text-align: right;"|{{nts|85669}}|| style="text-align: right;"|{{nts|180325}}|| style="text-align: right;"| {{nts|1181}}
+|-
+| [[Évreux]] || [[Préfet de département|Préfecture]] de l’[[Eure (département)|Eure]]|| style="text-align: right;"|{{nts|50537}} || || style="text-align: right;"|{{nts|110000}}|| style="text-align: right;"|{{nts|1947}}
+|-
+| [[Elbeuf]] ||[[Chef-lieu#France|Chef-lieu de canton de la Seine-Maritime]], ville de la Métropole Rouen Normandie||style="text-align: right;"|{{nts|17178}}||style="text-align: right;"| ||style="text-align: right;"|{{nts|88292}} ||style="text-align: right;"|{{nts|1059}}
+|-
+| [[Dieppe (Seine-Maritime)|Dieppe]] ||[[Sous-préfecture]] de la [[Seine-Maritime]] ||style="text-align: right;"|{{nts|31963}} || ||style="text-align: right;"|{{nts|81845}}|| style="text-align: right;"|{{nts|2952}}
+|-
+| [[Alençon]] || [[Préfet de département|Préfecture]] de l’[[Orne (département)|Orne]] || style="text-align: right;"|{{nts|28918}} || ||style="text-align: right;"|{{nts|68000}}|| style="text-align: right;"| {{nts|2616}}
+|-
+| [[Hérouville-Saint-Clair]] || Commune de la communauté urbaine [[Caen la Mer]]  || style="text-align: right;"|{{nts|21878}} || || || style="text-align: right;"| {{nts|2056}}
+|-
+| [[Saint-Lô]] || [[Préfet de département|Préfecture]] de la [[Manche (département)|Manche]] || style="text-align: right;"|{{nts|19623}} || ||style="text-align: right;"|{{nts|51629}}|| style="text-align: right;"|{{nts|833}}
+|-
+| [[Lisieux]] || [[Sous-préfecture]] du [[Calvados (département)|Calvados]] || style="text-align: right;"|{{nts|23166}} || ||style="text-align: right;"|{{nts|44716}}|| style="text-align: right;"| {{nts|1737}}
+|-
+| [[Louviers]] || [[Chef-lieu#France|Chef-lieu de canton]] de l'Eure || style="text-align: right;"|{{nts|17734}} || ||style="text-align: right;"|{{nts|42338}}|| style="text-align: right;"|{{nts|670}}
+|-
+| [[Flers (Orne)|Flers]] || [[Chef-lieu#France|Chef-lieu de canton]] de l'Orne || style="text-align: right;"|{{nts|16947}} || ||style="text-align: right;"|{{nts|34386}}|| style="text-align: right;"|{{nts|747}}
+|-
+|  [[Vernon (Eure)|Vernon]] || [[Chef-lieu#France|Chef-lieu de canton]] de l'Eure || style="text-align: right;"|{{nts|25147}} || || style="text-align: right;"|{{nts|34384}}|| style="text-align: right;"|{{nts|704}}
+|-
+| [[Fécamp]] || [[Chef-lieu#France|Chef-lieu de canton]] de la Seine-Maritime || style="text-align: right;"|{{nts|19207}} || || style="text-align: right;"|{{nts|31013}}|| style="text-align: right;"| {{nts|1289}}
+|-
+| [[Saint-Hélier]] || Capitale du [[bailliage]] de [[Jersey]] || style="text-align: right;"|{{nts|29400}} || ||  || style="text-align: right;"| {{nts|2671}}
+|-
+|[[Saint-Pierre-Port]]
+|Capitale du [[Bailliage de Guernesey]]
+|{{Nts|18207}}
+|
+|
+|{{Nts|2801}}
+|-
+| [[Granville]] || [[Chef-lieu#France|Chef-lieu de canton]] de la Manche || style="text-align: right;"|{{nts|12687}} || || style="text-align: right;"|{{nts|29300}}|| style="text-align: right;"| {{nts|1323}}
+|-
+| [[Sotteville-lès-Rouen]] || Ville de la [[Métropole Rouen-Normandie]] || style="text-align: right;"|{{nts|28835}} || ||  || style="text-align: right;"| {{nts|4085}}
+|-
+| [[Saint-Étienne-du-Rouvray]] || Ville de la [[Métropole Rouen-Normandie]] || style="text-align: right;"|{{nts|28102}} || ||  || style="text-align: right;"| {{nts|1594}}
+|-
+| [[Argentan]] || [[Sous-préfecture]] de l’[[Orne (département)|Orne]] || style="text-align: right;"|{{nts|17448}} || ||style="text-align: right;"|{{nts|27387}}|| style="text-align: right;"|{{nts|805}}
+|-
+| [[Vire Normandie]] || [[Sous-préfecture]] du [[Calvados (département)|Calvados]]|| style="text-align: right;"|{{nts|17839}} || ||style="text-align: right;"|{{nts|26274}}|| style="text-align: right;"|{{nts|129}}
+|-
+| [[Le Grand-Quevilly]] || Ville de la [[Métropole Rouen-Normandie]] || style="text-align: right;"|{{nts|24930}} || ||  || style="text-align: right;"| {{nts|2361}}
+|-
+| [[Bayeux]] || [[Sous-préfecture]] du [[Calvados (département)|Calvados]] || style="text-align: right;"|{{nts|14961}} || ||style="text-align: right;"|{{nts|23191}}|| style="text-align: right;"| {{nts|1957}}
+|-
+| [[Petit-Quevilly|Le Petit-Quevilly]] || Ville de la [[Métropole Rouen-Normandie]] || style="text-align: right;"|{{nts|21898}} || ||  || style="text-align: right;"| {{nts|5051}}
+|-
+| [[Mont-Saint-Aignan]] || Ville de la [[Métropole Rouen-Normandie]], campus universitaire de [[Rouen]] || style="text-align: right;"|{{nts|19341}} || ||  || style="text-align: right;"| {{nts|2602}}
+|-
+| [[Bernay (Eure)|Bernay]] || [[Sous-préfecture]] de l'[[Eure (département)|Eure]] || style="text-align: right;"|{{nts|10449}} ||style="text-align: right;"|{{nts|12300}}||style="text-align: right;"|{{nts|19301}}|| style="text-align: right;"|{{nts|434}}
+|-
+| [[Yvetot]] || [[Chef-lieu#France|Chef-lieu de canton]] de la Seine-Maritime || style="text-align: right;"|{{nts|11816}} ||style="text-align: right;"| ||style="text-align: right;"|{{nts|15329}}|| style="text-align: right;"|{{nts|1598}}
+|-
+| [[Bois-Guillaume]] || Ville de la [[Métropole Rouen-Normandie]] || style="text-align: right;"|{{nts|12872}} || ||  || style="text-align: right;"|{{nts|1454}}
+|-
+| [[Ifs]] || Commune de la communauté urbaine [[Caen la Mer]]  || style="text-align: right;"|{{nts|11525}} || || || style="text-align: right;"| {{nts|1272}}
+|-
+| [[La Hague]] || Commune de la communauté d'agglomération du Cotentin [[Couronne de Cherbourg-en-Cotentin]]  || style="text-align: right;"|{{nts|11173}} || || || style="text-align: right;"| {{nts|75}}
+|}
+
+=== Langues ===
+[[Fichier:Coup d'oeil purin 1773.jpg|thumb|''Le Coup d’œil purin'', satire polémique dans la langue normande, éditée à [[Rouen]], en [[1773]].]]
+{{Article connexe|Normand|Normand méridional|Anglo-normand (langue)|Littérature anglo-normande}}
+La Normandie est partagée entre deux langues officielles usitées au quotidien : le [[français]] (en France) et l’[[anglais]] (dans les îles Anglo-Normandes). L'anglais et le français sont les langues officielles du bailliage de Jersey. L'anglais est la seule langue officielle du bailliage de Guernesey. Chaque langue est toutefois mâtinée d’expressions et de mots locaux tirés des langues régionales (voir aussi [[français de Jersey]]).
+
+La principale [[langues régionales ou minoritaires de France|langue régionale]] de Normandie est le [[normand]], qui comprend plusieurs formes linguistiques (voir [[ligne Joret]]). De nos jours, le normand s’entend le plus souvent dans le [[Cotentin]]<ref>[http://www.reunion.iufm.fr/Recherche/Expressions/27/Pic.pdf L’enseignement du normand dans le Nord-Contentin (→ ''Étude des pratiques et des attitudes linguistiques)''].</ref> et le [[pays de Caux]], ainsi qu’aux îles Anglo-Normandes comme le [[jersiais]] et le [[guernesiais]]. [[Alfred Rossel]], [[Louis Beuve]] (1869-1949), [[Côtis-Capel]] (1915-1986) et Marcel Dalarun (né en 1922), poètes [[cotentinais]], en sont des figures connues.
+
+Alors qu'on ne compte plus aujourd'hui qu'{{référence nécessaire|environ {{nombre|30000|locuteurs}} en Normandie|date=5 juin 2020}}<ref>{{Lien web |langue=fr |titre=Sauvegarde des Parlers normands |url=https://www.normandie.fr/une-nouvelle-strategie-regionale-en-faveur-du-parler-normand |site=La Région Normandie |consulté le=2020-06-05}}</ref>, diverses associations contribuent à la sauvegarde du normand en organisant des cours et des discussions, et en éditant des disques de chansons et des recueils, dans un contexte régional fortement marqué par la disparition progressive des locuteurs.
+
+Au [[Moyen Âge]], en [[Angleterre]], à la  [[Cour (palais)|cour]] des rois et dans l’[[aristocratie]] anglo-normande, l’[[Anglo-normand (langue)|anglo-normand]], une ancienne [[langue d'oïl]], était parlée. La [[littérature anglo-normande]] s’est développée au cours de la période allant de [[1066]] à [[1204]] lorsque le [[duché de Normandie]] et l’[[Angleterre]] étaient unis au sein du royaume [[Baronnage anglo-normand|anglo-normand]].
+
+=== Toponymie ===
+{{Article détaillé|Toponymie normande}}
+La toponymie normande est fondée sur un substrat [[Celtes|celtique]] et [[Langues gallo-romanes|gallo-roman]] conséquent, ainsi que sur une mince couche de [[toponyme]]s et d'appellatifs empruntés au [[Langues germaniques|germanique westique]], notamment dans le [[pays de Bray]]. On note une prééminence des patronymes et matronymes germaniques dans la formation des noms de domaine basés sur des appellatifs romans au Moyen Âge (pour toute cette partie, se référer à [[toponymie française]]). Cependant, dans le [[pays de Caux]], le [[Roumois]], le [[Canton de Valognes|Clos du Cotentin]], les côtes ouest du [[Cotentin]], la basse vallée de la [[Seine]] et les environs de [[Caen]], les anthroponymes d'origine [[scandinavie|scandinave]] ou anglo-scandinave prédominent nettement. Dans certaines régions, les appellatifs d'origine scandinave sont aussi nombreux que ceux d'origine romane, si l'on exclut les formations modernes bien évidemment. La densité de la colonisation par les [[Viking]]s/[[Normands]] a été notable dans ces pays du [[duché de Normandie]], le reste du territoire ayant gardé un caractère autochtone pré-normand significatif.
+<!--
+Passage transféré ou en cours de transfert sur ''Wiktionnaire'' (article : normand) ou ''Wikiquote'' (à faire):
+
+==== Proverbes ====
+* « ''La Normandie fait le Normand'' » ;
+* « ''Le Normand tourne autour du bâton, le Gascon saute par-dessus'' » ;
+* « ''Un Normand a son dit et son dédit'' » : les Normands ne s’engagent pas facilement, par allusion probable à la coutume normande accordant vingt-quatre heures pour se dédire d’un marché.
+
+==== Citations ====
+
+:« ''Ne soyez à la cour, si vous voulez y plaire,
+:''Ni fade adulateur, ni parleur trop sincère ;
+:''Et tâchez quelquefois de répondre en '''Normand''', »
+:'''<small>[[Jean de La Fontaine|La Fontaine]]</small>'''. ''Fables'', <small>VII, 7</small>.
+
+:« ''Lorsque les '''Normands''' […] eurent pendant plusieurs siècles ravagé la France, ne trouvant plus rien à prendre, ils acceptèrent une province qui était entièrement déserte et se la partagèrent.'' »
+:'''<small>Montesquieu</small>'''. ''Grandeur et décadence des Romains'', <small>XIX</small>.
+
+:« ''Le sang des Danois et des Francs mêlé ensemble, produisit ensuite dans ce pays ces héros qu’on vit conquérir l’Angleterre, Naples et Sicile.'' »
+:'''<small>Jaucourt</small>'''. ''Encyclopédie ou dictionnaire raisonné des sciences, des arts et des métiers'', <small>vol. 11, p. 228</small>.
+
+:« ''L’esprit guerrier et chicaneur, étranger aux Anglo-Saxons, qui a fait de l’Angleterre après la conquête, une nation d’hommes d’armes et de scribes, c’est là le pur esprit '''normand'''. Cette sève acerbe est la même des deux côtés du détroit.'' »
+:'''<small>Michelet</small>'''. ''Histoire de France'', <small>III</small>.
+
+:« ''la vieille et puissante race qui envahit la France, prit et garda l’Angleterre, s’établit sur toutes les côtes du vieux monde, éleva des villes partout, passa comme un flot sur la Sicile en y créant un art admirable, battit tous les rois, pilla les plus fières cités, roula les papes dans leurs ruses de prêtres et les joua, plus madrée que ces pontifes italiens…'' »
+:'''<small>Maupassant</small>'''. ''Monsieur Parent''.
+
+:« ''Qu’il est '''Normanz''', s’il a mepris, il n’en doit estre repris, se il y a de son langage.'' »
+
+c.-à-d.: "Un Normand ne peut être repris dans son langage" (le françois, francien & français étant pour une large part tributaires du normand, et non l’inverse):'''<small>RICHARD DE LISON</small>'''.
+
+:« ''Die '''normænner''' tauschten schnell ihre sprache für die romanische aus'' »: "Le normand est à l’origine de l’évolution linguistique du roman"
+:'''<small>Friedrich Diez (linguiste et philologue Allemand)</small>'''. ''Ueber die romanischen Schrifsprachen: "Grammaire des langues romanes"''.
+
+:« ''Il faut donc prendre bien garde de ne jamais considérer les '''Normands''' comme entièrement romanisés, car dans la réalité ils ne le furent jamais ; quoiqu’ils aient été implantés au sol du midi, ils sont toujours restés Scandinaves en esprit et en conscience.'' »
+:'''<small>Gisli Brynjulfsson (Suédois du {{XIXe}} s.)</small>'''. ''De l’ancien roman français et de l’influence exercée sur son développement par les Normands''.
+
+:« ''La '''Normandie''' n’est ni une province, ni un assemblage de départements, c’est une nation.'' »
+:'''<small>Eugène Gigault de La Bedollière (écrivain Français)</small>'''. ''Les Français peints par eux-mêmes (1841/42)''.
+-->
+=== Religion ===
+{{Article connexe|Évêchés de Normandie|Province ecclésiastique de Rouen}}
+Pour l'Église catholique, la Normandie constitue la province ecclésiastique de [[Rouen]].
+
+L’évangélisation de la Normandie remonte au haut [[Moyen Âge]] ({{s-|IV}}). Dès cette époque furent fondés des évêchés à [[Rouen]], [[Évreux]], [[Lisieux]], [[Sées]], [[Bayeux]], [[Coutances]] et [[Avranches]]. La province ecclésiastique de [[Rouen]] (siège d’un archevêché) correspond aux limites de l’ancienne province. Les ravages dus aux incursions normandes cessent avec le baptême, sous le nom de Robert, de [[Rollon]], premier duc de Normandie, qui sera dès lors protecteur de l’Église.
+
+Les ducs de Normandie, puis les rois de France ont encouragé le développement du monachisme normand : la région compte de nombreuses abbayes : l'[[abbaye du Mont-Saint-Michel]], l’[[abbaye aux Hommes]] et l’[[abbaye aux Dames (Caen)|abbaye aux Dames]] de [[Caen]], l’[[abbaye de Jumièges]], l’[[abbaye Saint-Wandrille de Fontenelle|abbaye de Saint-Wandrille]], l’[[abbaye de Hambye]], l’[[abbaye de Graville]], l’[[Abbaye de la Trinité de Fécamp|abbaye de Fécamp]], l’[[abbaye Saint-Georges de Boscherville]], l’[[abbaye de Saint-Évroult]], l’[[abbaye Notre-Dame du Bec]], l’[[abbaye de Montivilliers]], l’[[abbaye de Cerisy-la-Forêt|abbaye de Cerisy]], l’[[abbaye de Lonlay]], l’[[abbaye de Mortemer]], l’[[abbaye Saint-Martin de Troarn]], l’[[abbaye de Montebourg]], les abbayes [[Abbaye Saint-Amand|Saint-Amand]] et [[Abbaye Saint-Ouen de Rouen|Saint-Ouen]] de Rouen, etc.
+
+Comme le dit un célèbre proverbe, « saint Martin et sainte Marie se partagent la Normandie ». En effet, ils se partagent la majeure partie des [[dédicace (cérémonie)|dédicaces]] des églises normandes. Cela s’explique par le fait que la Normandie a été évangélisée vraisemblablement par saint [[Martin de Tours]] et ses disciples à partir du {{s-|IV}}, le culte marial prenant ensuite son essor au {{s-|V}} (après le [[concile d'Éphèse]] de [[431]] en Orient puis à partir de [[476]] en Occident), en pleine période d’enracinement du christianisme dans la province.
+
+Parmi les saints normands, il faut noter [[Jean Eudes]], un acteur majeur de l'[[École française de spiritualité]], [[Thérèse de Lisieux]], née à [[Alençon]] et morte à [[Lisieux]] où elle est à l’origine d’un des plus importants pèlerinages de [[France]]. Le nom d’un autre [[docteur de l'Église]] lié à la Normandie est [[Anselme de Cantorbéry]]. Arrivé comme élève en [[1059]] à l'[[abbaye Notre-Dame du Bec]], il en devient l'[[abbé]] en [[1078]] puis [[archevêque de Cantorbéry]] en [[1093]]. Il est l’un des plus grands théologiens et philosophes du [[Moyen Âge]].
+
+Pendant la [[réforme protestante|Réforme]] (au {{s-|XVI}}), une partie de la Normandie constituait un des bastions du [[protestantisme]] en France, et le pays de Caux garde une minorité protestante.
+
+L’[[anglicanisme]] est la religion d’État des [[îles Anglo-Normandes|îles de la Manche]], mais le [[catholicisme]] et le [[méthodisme]] y sont représentés par des minorités assez importantes de fidèles.
+
+Le christianisme orthodoxe s'est implanté en Normandie, comme en France, à la suite des évènements politiques de 1917 en Russie puis de 1922 en Turquie. Les émigrés, soldats et officiers de l'Armée blanche recrutés par les industriels français qui manquaient de main-d’œuvre à la suite de la Grande Guerre, se sont installés dans les villes industrielles périphériques, la première paroisse, la plus nombreuse, ayant été créée en 1926-1927 à [[Colombelles]] près de Caen, sur le site de la [[Société métallurgique de Normandie]]<ref>{{Ouvrage|auteur1=J.-C. Roberti|titre=Les églises orthodoxes dans la France de l'Ouest|lieu=Poitiers|éditeur=|nature ouvrage=Revue Norrois|date=année 1997|passage=p. 369-371|isbn=|lire en ligne=https://www.persee.fr/doc/noroi_0029-182x_1997_num_174_1_6800}}.</ref>.
+
+Il existe en 2019 plusieurs lieux de [[Église orthodoxe|culte orthodoxe]] et un certain nombre de paroisses orthodoxes en Normandie. Deux se trouvent dans le Calvados : la paroisse [[Sanctuaire orthodoxe Saint-Serge|Saint-Serge de Radonège et Saint-Vigor de Bayeux]] à [[Colombelles]] (sanctuaire orthodoxe) et la paroisse Saint-André et Sainte-Alexandra à [[Caen]] (chapelle du Centre hospitalier régional) avec sa filiale à [[Alençon]] dans l'Orne (église Sainte-Thérèse). Une autre, la paroisse Sainte-Cécile, se situe à [[Cherbourg-en-Cotentin]] dans la Manche (chapelle du centre hospitalier Louis Pasteur). La Seine-Maritime compte une paroisse orthodoxe roumaine, qui se trouve au [[Le Havre|Havre]] : la paroisse Saint-Georges et Saint-Païssy de Néamts (église Saint-Julien). L' [[Église érythréenne orthodoxe]], église orientale autocéphale, est par ailleurs accueillie dans ce département par le diocèse catholique de Rouen sur la paroisse Sainte-Marie des Nations à [[Bihorel]]<ref>{{Lien web|langue=fr-FR|nom1=geo|titre=Eglise Erythréenne Orthodoxe à Rouen|url=http://oecumenisme-normandie.biblanim.fr/2019/02/18/eglise-erythreenne-orthodoxe-a-rouen/|site=Oecumenisme en Normandie|date=2019-02-18|consulté le=2019-06-20}}.</ref>. L'Eure compte deux paroisses : la paroisse Sainte-Catherine, qui se situe à [[La Chapelle-Réanville]] (église Notre-Dame)<ref name=":1">{{Lien web|langue=fr-FR|titre=Adresses des lieux de culte orthodoxes en France ⋆ Orthodoxie.com|url=https://orthodoxie.com/adresses-des-lieux-de-cultes-en-france/|site=Orthodoxie.com|date=2017-12-07|consulté le=2019-06-20}}.</ref>  et la paroisse Saint-Michel & Saint-Martin à [[Reuilly (Eure)|Reuilly]], qui relèverait depuis 2018 du patriarcat autocéphale d'Ukraine<ref>{{Lien web|langue=fr|titre=Indépendance de l'Église orthodoxe ukrainienne : de quoi s'agit-il ?|url=https://www.paris.catholique.fr/independance-de-l-eglise-orthodoxe.html|site=www.paris.catholique.fr|consulté le=2019-06-20}}.</ref>. Il existe par ailleurs un monastère orthodoxe dans l'Orne à [[Saint-Michel-Tubœuf|Saint-Michel-Tuboeuf]] : le monastère Sainte-Odile et Sainte-Théodora de Silha<ref name=":1" />.
+
+S'agissant du [[Judaïsme|culte juif]], il se trouve en Normandie cinq [[synagogue]]s. Des communautés se sont en effet implantées dès le [[Moyen Âge]] à [[Rouen]] et à [[Caen]]. Bombardée par les Alliés lors du second conflit mondial, la synagogue de Rouen a été reconstruite en 1950 par l'architecte [[François Herr]]. La Seine-Maritime comporte deux autres synagogues au [[Le Havre|Havre]] et à [[Elbeuf]]. Cette dernière, édifiée par des juifs alsaciens et mosellans en 1909, a été inscrite au titre des monuments historiques en 2009<ref>{{Lien web|langue=fr-FR|titre=Liste des monuments historiques à Elbeuf (76)|url=https://www.commune-mairie.fr/monuments-historiques/elbeuf-76231/|site=www.commune-mairie.fr|consulté le=2019-06-20}}.</ref>. Depuis 1970, la communauté israélite résidente ou en vacances dispose d'une synagogue à la station balnéaire de [[Deauville]] sur la [[Côte Fleurie]]. A proximité, à [[Cabourg]], a été créé en 1992 un oratoire destiné à accueillir les estivants juifs en haute saison touristique<ref>{{Lien web|langue=fr|titre=Synagogues en Normandie - Beth Habad Lubavitch de Rouen|url=https://www.chabadrouen.org/templates/articlecco_cdo/aid/1410114/jewish/Synagogues-en-Normandie.htm|site=www.chabadrouen.org|consulté le=2019-06-20}}.</ref>.
+
+En 2017, 35 lieux de [[Islam|culte musulman]] ont été dénombrés en Normandie, allant de la simple cave ou du préfabriqué à la mosquée bâtie en dur<ref>{{Lien web|langue=fr-FR|titre=Les musulmans veulent plus de mosquées en Normandie : « Un rempart contre la radicalisation »|url=https://actu.fr/societe/les-musulmans-veulent-plus-de-mosquees-en-normandie-un-rempart-contre-la-radicalisation_450236.html|site=actu.fr|consulté le=2019-06-20}}.</ref>. La Seine-Maritime se révèle être le département normand qui compte le plus de salles de prière, la Manche n'en comptant que trois sur le territoire de la commune de [[Cherbourg-en-Cotentin]]<ref>{{Lien web|langue=fr|titre=Mosquées – Manche – 50|url=https://www.trouvetamosquee.fr/mosquees-manche-50/|site=Trouve Ta Mosquée|consulté le=2019-06-20}}.</ref>.
+
+Plusieurs centres et pagodes [[Bouddhisme|bouddhistes]] existent en Normandie. Le plus important est le centre tibétain implanté à [[Aubry-le-Panthou]] dans l'Orne. Fondé en 1982, il est axé sur l'étude et la pratique de la méditation et comporte un temple, un [[Stūpa|stupa]] et un moulin à prières<ref>{{Lien web|titre=Centre Tibétain - Normandie Tourisme|url=http://www.normandie-tourisme.fr/pcu/centre-tibetain/aubry-le-panthou/fiche-PCUNOR061FS000B8-1.html|site=www.normandie-tourisme.fr|consulté le=2019-06-20}}.</ref> : le [[Vajradhara-Ling]].
+
+=== Éducation ===
+Les académies de [[Académie de Caen (éducation)|Caen]] et de [[Académie de Rouen (éducation)|Rouen]] regroupent l'ensemble des établissements scolaires de la région [[Basse-Normandie]] et de [[Saint-Pierre-et-Miquelon]] pour celle de [[Caen]] et de la [[Haute-Normandie]] pour celle de [[Rouen]]. L'académie de Caen faisait partie de la zone A ([[Vacances scolaires#En France métropolitaine|voir ici]]), mais elle a rejoint la zone B en septembre 2015. L'académie de Rouen fait partie de la zone B ([[Vacances scolaires#En France métropolitaine|voir ici]]).
+
+==== Enseignement supérieur ====
+{{Article connexe|Normandie Université}}
+La Normandie abrite l'[[Université de Caen Basse-Normandie|université de Caen]], fondée en [[1432]] par [[Henri VI (roi d'Angleterre)|Henri VI d'Angleterre]]. Le {{date-|7|juillet|1944}}, deux jours avant la libération par les [[Royaume-Uni|Britanniques]], l'université est totalement rasée par les bombardements. Le {{date-|13|novembre|1948}}, la reconstruction commence et elle rouvre ses portes en [[1957]] avec {{nombre|4000|étudiants}}. En [[1966]], l'[[université de Rouen]] est créée, elle-même voyant l'autonomisation de l'[[université du Havre]] en [[1984]]. En 2010, le [[Pôle de recherche et d'enseignement supérieur]] [[Normandie Université]] est inauguré.
+
+En 2010, l'université de Caen Basse-Normandie comptait {{nombre|24244|étudiants}}, celle de Rouen {{nombre|24351|étudiants}} et celle du Havre {{nombre|7040|étudiants}}.
+
+== Économie ==
+{{Article détaillé|Économie de la Basse-Normandie|Économie de la Haute-Normandie|Manche (mer)#Énergie{{!}}Mer de la Manche : Énergie}}
+
+[[Fichier:HVDC Europe.svg|vignette|
+{{légende/Début}}
+{{légende|#F80E34|Liaisons [[HVDC]] existantes}}
+{{légende|#10BF45|En construction}}
+{{légende|#0E25F8|En project}}
+{{légende/Fin}}]]
+
+Traditionnellement, l’économie normande est très agricole. En Haute-Normandie, elle est diversifiée entre céréales et élevage. Cependant, la Haute-Normandie a aussi vu se développer de gros pôles industriels.
+
+La filière automobile est un gros employeur, avec {{nombre|25000|salariés}} en Basse-Normandie ([[Groupe PSA|PSA]], [[Renault Trucks]], [[Faurecia]], etc.), tandis que le premier employeur industriel haut-normand est [[Renault]], qui dispose de quatre usines ([[Sandouville]], [[Cléon]], [[Grand-Couronne]] et [[Dieppe (Seine-Maritime)|Dieppe]]).
+
+L’économie normande, du fait de la grande façade maritime de la région sur la [[Manche (mer)|Manche]], est fortement tournée vers la mer (pêche, transport maritime, trafic passagers, etc.). Le Havre dispose ainsi d’un pôle logistique.
+
+L’énergie est un secteur important en Normandie, à travers notamment trois centrales électronucléaires ainsi qu'une centrale thermique à flamme au Havre.
+
+La Normandie représente 60 % des surfaces de [[lin cultivé|lin]] textile en France.
+
+Le tourisme est également une ressource importante.
+
+{| class="wikitable alternance centre" style="text-align:center"
+|-
+! rowspan="2"|  || colspan="5"|[[Emploi]]s par [[secteur économique]] <small>(2008)</small><ref>{{Lien web|url=http://www.insee.fr/fr/themes/tableau.asp?reg_id=99&ref_id=t_0703R |titre=INSEE |année=2008 |consulté le=12 janvier 2011}}.</ref>{{,}}<ref>Pour la France métropolitaine.</ref> || rowspan=2 | [[Produit intérieur brut|PIB]] <small>(en million d'euros) (2009)</small><ref>{{Lien web|url=http://www.insee.fr/fr/themes/tableau.asp?reg_id=99&ref_id=t_2601R |titre=INSEE |année=2009 |consulté le=12 janvier 2011}}.</ref>|| rowspan=2 |[[Taux de chômage]] <small>(2010)</small><ref>{{Lien web|url=http://www.insee.fr/fr/themes/tableau.asp?reg_id=99&ref_id=CMRSOS03311 |titre=INSEE |année=2010 |consulté le=12 janvier 2011}}.</ref>
+|-
+![[agriculture]]||[[construction]]||[[industrie]]||[[Service (économie)#Services marchands|service marchand]]||[[Service (économie)#Services non marchands|service non marchand]]
+|-
+|Haute-Normandie|| 2,0 %||7,5 %||18,7 %||42,2 %||29,6 %||{{formatnum:48555}} <small>(2,54 % du PIB national)</small>||10,30 %
+|-
+|Basse-Normandie||4,9 %||7,7 %|| 16,7 %||39,2 %||31,4 %||{{formatnum:34869}} <small>(1,84 % du PIB national)</small>||8,60 %
+|-
+|France||2,6 %||6,7 %|| 13,9 %||47,0 %|| 29,8 %||{{formatnum:1907145}}||9,30 %
+|}
+
+=== Tourisme ===
+{{Article détaillé|Tourisme en Normandie}}
+L’industrie du tourisme en Normandie dispose de nombreux atouts qui en font la {{8e|destination}} régionale des touristes français. Elle est particulièrement bien située sur le segment des courts séjours : plus de 65 % des séjours des Français en Normandie sont des courts séjours (8 points de plus que la moyenne nationale)<ref>Kantar-TNS – Suivi de la demande touristique – 2016.</ref>.
+
+La Normandie compte trois biens inscrits sur la liste du patrimoine mondial :  [[Baie du mont Saint-Michel|le mont Saint-Michel et sa baie]] dans la Manche, les [[Forts de la Hougue et de Tatihou|tours observatoires de Tatihou et de la Hougue]] à [[Saint-Vaast-la-Hougue]] dans le même département au titre du bien en série des fortifications de Vauban et [[Le Havre]], la [[Centre-ville reconstruit du Havre|ville reconstruite d'Auguste Perret]] en Seine-Maritime. Par ailleurs, elle détient la [[Tapisserie de Bayeux]], broderie dite de la reine Mathilde, qui bénéficie du label UNESCO « [[Mémoire du monde]] » depuis 2007.
+
+<gallery perrow="5">
+Fichier:Château Gaillard.jpg|Château Gaillard.
+Fichier:Honfleur vieux bassin.jpg|Le [[vieux bassin d'Honfleur]].
+Fichier:Le Havre (skatepark).jpg|Le Havre.
+Fichier:Port Arromanches.jpg|Arromanches, plages du Débarquement.
+Fichier:Port Racine ©E.Tessier.jpg|[[Port Racine]].
+Fichier:Colombages.jpg|Colombages.
+Fichier:Saint-Cenéri-Le-Gerei.jpg| Saint-Céneri-le-Gerei.
+Fichier:Baie-du-Mont-St-Michel.jpg|Baie du Mont-St-Michel.
+Fichier:Mt St Michel.jpg|Mont Saint-Michel.
+Fichier:FranceNormandieCerisyLaForetAbbaye.jpg|Abbaye de Cerisy.
+</gallery>
+
+=== Sciences ===
+{{Article connexe|Scientifiques normands}}
+* [[Caen]] est le site du [[Grand accélérateur national d'ions lourds|GANIL]], accélérateur d’ions lourds, et de Cycéron ;
+* [[Val-de-Reuil]] accueille le [[DGA Techniques hydrodynamiques|bassin d'essais des carènes]] : études et développement des carènes de navires (site militaire) dépendant de la [[Direction générale de l'Armement|délégation générale pour l'Armement]] ;
+* [[Vernon (Eure)|Vernon]] héberge le [[laboratoire de recherches balistiques et aérodynamiques]] (LRBA) dépendant de la [[Direction générale de l'Armement|délégation générale pour l'Armement]].
+
+=== Techniques ===
+[[Fichier:Musée de la faïence-50pot-de -pharmacie.jpg|thumb|upright|Pot de pharmacie en faïence de Rouen de la fin du {{s-|XVII}}.]]
+* [[Dentelle d'Alençon]] ;
+* [[faïence de Rouen]] ;
+* [[porcelaine de Bayeux]] ;
+* fabrication de cloches et dinanderie à [[Villedieu-les-Poêles]] ;
+* [[Construction navale|chantiers navals]] et [[Sous-marins de Cherbourg|construction sous-marinière]] de [[Cherbourg-Octeville]] ;
+* conception et fabrication des moteurs de la [[fusée (astronautique)|fusée]] [[Ariane (fusée)|Ariane]] ([[Snecma]] à [[Vernon (Eure)|Vernon]]) ;
+* numéro un mondial du [[palier magnétique]] actif (S2M à [[Saint-Marcel (Eure)|Saint-Marcel]]) ;
+* [[Verrerie|activité verrière]] de la vallée de la [[Bresle]] ;
+* [[Chanu]], capitale du clou normand.
+
+== Culture ==
+[[Fichier:Normandy folk dance Les Gars de Senneville.jpg|thumb|Groupe de danse folklorique normande.]]
+{{Article détaillé|Culture de la Normandie}}
+* [[Caen]] est le site de l’[[Académie des sciences, arts et belles-lettres de Caen]]. S'y trouve aussi l'[[université populaire de Caen]] ;
+* [[Rouen]] est le site de l’[[Académie des sciences, belles-lettres et arts de Rouen]] et est associée au mouvement artistique de l’[[école de Rouen]].
+
+=== Architecture ===
+{{Article détaillé|Architecture de la Normandie|Architecture médiévale en Normandie|Architecture normande}}
+L’habitat traditionnel est fortement influencé par la géographie et la géologie, qui déterminent les matériaux de construction disponibles. La chaumière normande typique ([[Maison à colombages|colombages de chêne]], [[torchis]], [[toit de chaume]]) se retrouve notamment du pays de Caux au pays d’Auge, la maison de brique vers l’est de la province, la maison de pierre calcaire dans le Calvados ([[plaine de Caen]], [[Bessin]], pays de Falaise) et l’Orne, celle de granit dans la Manche, l’ouest de l’Orne et le sud-ouest du Calvados (granit gris et granit rose), sans oublier quelques maisons en schiste en [[Suisse normande]]. L'architecture en [[bauge]] est très présente dans les marais du Cotentin et du Bessin où {{Unité|3887|édifices en terre crue}} ont été identifiés lors d'une campagne d'inventaire menée dans les années 2000<ref>{{Lien web|titre=> Un territoire exceptionnel ! > Patrimoine architectural - Architecture en terre crue|url=http://www.parc-cotentin-bessin.fr/fr/architecture-en-terre-crue-gc30.html|site=www.parc-cotentin-bessin.fr|consulté le=2019-06-20}}.</ref>.
+
+==== Histoire de l'architecture en Normandie ====
+Les envahisseurs [[viking]]s devenus barons normands construiront des châteaux en bois sur des monticules de terre, qui donneront lieu au développement des châteaux à [[motte castrale|motte féodale]] et de grandes églises en pierre dans le style roman propre aux Francs. Dès [[950]], ils érigeront des [[donjon]]s en pierre (voir aussi [[Logis seigneurial]]).
+
+Les [[Normands]] raffineront le plan des premières basiliques avec l’[[Église Saint-Étienne de Caen|abbatiale Saint-Étienne]] de [[Caen]], commencée en [[1067]], qui servira de modèle aux [[cathédrale]]s anglaises de plus grande taille dont la construction débutera vingt ans plus tard.
+
+En [[Architecture normande#L’architecture normande en Normandie|Angleterre]], l’art roman de la fin du {{sp-|XI|au début du|XII}} est appelé [[art roman en Angleterre|art anglo-normand]]<ref>[[Ludovic Vitet]], ''Études sur les beaux arts et sur la littérature'', Paris : Charpentier, 1846, vol. 2, {{p.|146}} [https://books.google.fr/books?id=FqoDAAAAYAAJ&pg=PA156&dq=rickman+architecture+normande+roman&lr=&as_brr=3&cd=6#v=onepage&q=rickman%20architecture%20normande%20roman&f=false lire].</ref>, car ce sont les Normands qui l'ont importé dans l'île. Cette influence normande se fit également sentir en [[Architecture normande#Architecture normande en Écosse|Écosse]], en [[Architecture normande#L’architecture normande en Irlande|Irlande]] ou en [[Architecture normande#L’architecture normande en Sicile|Sicile]].
+
+La [[cathédrale de Durham]], construite au {{s-|XII}} en Angleterre, sans aucun doute par des tailleurs de pierre normands, révolutionne l’art roman : la voûte de la nef est constituée d'arcs qui se croisent en diagonale. Ce mode de conception est le trait d'union avec le style gothique.
+
+Une des spécificités du [[Architecture gothique#Le gothique normand|gothique normand]] (fin du {{s-|XII}} - début du {{s-|XIII}}) est la présence d'une tour centrale (qui peut cependant se rencontrer ailleurs en France, comme c'est le cas à [[Laon]]).
+
+Au {{s-|XVII}}, on construit des châteaux de [[style classique]] ([[Château de Balleroy|Balleroy]], [[Château de Beaumesnil|Beaumesnil]], [[Château de Cany|Cany]], [[Château de Flamanville|Flamanville]]).
+
+Au {{s-|XVIII}}, [[Jacques-François Blondel]] réalise de nombreuses maisons de plaisance en Normandie ainsi que des petits châteaux en [[pierre de Caen]].
+
+Dans la seconde moitié du {{s|XIX}}, [[Jacques Baumier]] crée le [[style néo-normand]] pour des [[Villa (grande maison)|villas]], caractérisé par des bâtiments construits à partir d'une structure à [[Maison à colombages|pans de bois]] traditionnelle, mais avec des matériaux modernes.
+
+Entre [[1886]] et [[1914]], le quartier de la [[Belle Époque]] à [[Bagnoles-de-l'Orne]], inspiré par le courant néo-normand, développe un style architectural « bagnolais » à nul autre semblable.
+
+Après la [[bataille de Normandie]], de nombreuses villes normandes sont lourdement touchées. Une [[Reconstruction après la Seconde Guerre mondiale|reconstruction]] urbaine massive s'impose dans les [[années 1950]] et [[Années 1960|1960]]. Au [[Centre-ville reconstruit du Havre|Havre]], une note avant-gardiste apparaît. À [[reconstruction de Caen|Caen]], de larges avenues rectilignes, bordées par des immeubles de [[pierre de Caen]] d'environ cinq étages, confèrent une grande unité architecturale.
+
+C’est le Normand [[Charles de Gerville]] qui, en [[1818]], est à l’origine de l’utilisation du terme de « roman ». Par ailleurs, le « [[Art gothique|gothique]] flamboyant », jadis appelé « gothique normand », est un terme moderne inventé par le Normand [[Eustache-Hyacinthe Langlois]]<ref>Jean Lafond, « Eustache-Hyacinthe Langlois, peintre-graveur », ''Bulletin de la Société nationale des antiquaires de France'', Paris : SNAF, 1971, {{p.|313-317}}.</ref>{{,}}<ref>''[[Cahiers Léopold Delisle]]'', Paris : Société parisienne d'histoire et d'archéologie normandes, 1976, vol. 26-28, {{p.|272}}.</ref>.
+
+==== Matériaux utilisés ====
+* La [[pierre de Caen]], qui s’est exportée en [[Angleterre]], [[Allemagne]] et jusqu’à [[New York]] ;
+* les roseaux pour le toit des chaumières ;
+* le bois de [[chêne]] pour les colombages et les essentes/essantes : « ais/bardeaux » (planchettes/ardoises/tuiles de bois, plus généralement en chêne) ;
+* l’[[argile]] pour la fabrication des [[Brique (matériau)|briques]] ou du [[torchis]] ;
+*la [[bauge]] (terre crue) dans les marais du Cotentin et du Bessin ;
+* le [[silex]] du [[pays de Caux]] ;
+* le [[granit]] dans le [[Péninsule du Cotentin|Cotentin]], qui pave également la [[place de la Concorde]] ;
+* le [[grès rouge]] dans la frange côtière du pays de Caux (exemple à [[Veules-les-roses|Veules-les-Roses]] et [[Malleville-les-Grès]]) ;
+* le [[schiste]] (ou pierre bleue) qui recouvre les toits du [[Cotentin|Nord-Cotentin]] ;
+* le [[granite]] d’[[Alençon]] extrait des carrières de [[Condé-sur-Sarthe]], qui a servi à construire la ville ;
+* le [[granite]] de [[Îles Chausey|Chausey]], qui a servi à l'édification du [[Mont Saint-Michel|Mont-Saint-Michel]] et notamment [[Abbaye du Mont-Saint-Michel|son abbaye]], aux quais des ports de [[Dieppe (Seine-Maritime)|Dieppe]] et de [[Londres]], au pavage des trottoirs de [[Paris]] du [[Georges Eugène Haussmann|baron Haussmann]], à la reconstruction de [[Saint-Malo]] (trottoirs, quais, murailles) en 1949<ref>{{Ouvrage|auteur1=Jacqueline Lorenz|titre=Carrières et constructions en France et dans les pays limitrophes|éditeur=Éditions du Comité des travaux historiques et scientifiques|année=1996|passage=338|isbn=}}.</ref>.
+
+<gallery perrow="4">
+Image:Chaumière normande.jpg|Chaumière normande à [[Saint-Sulpice-de-Grimbouville]].
+Image:SeineMaritimedéc2004 120.jpg|Maison à colombage à [[Rouen]].
+File:Mont-Saint-Michel 2008 PD 06.JPG|[[Le Mont-Saint-Michel|Le mont Saint-Michel]] (édifié dès le {{Xe siècle}}).
+Image:Chevet_abbHommes.JPG|L’[[abbaye aux Hommes]] de [[Caen]] (construite entre le {{XIe s}} et le {{XVIIIe siècle}}).
+File:Château de Balleroy 2008 PD 11.JPG|Le [[château de Balleroy]] (édifié à partir de 1626), construit en briques et en pierres, marque un tournant dans l'histoire de l'architecture française<ref name="Jacobs Stirton,14">{{harvsp|Jacobs|Stirton|1987|p=14}}.</ref>.
+Fichier:Deauville 2008 PD 04.JPG|[[Villa Strassburger]] à [[Deauville]], construite au début du {{s-|XX}}.
+File:FranceNormandieCaenAv6Juin.jpg|L'avenue du Six-Juin à [[Caen]].
+|Rue Frederick-Lemaitre au [[Le Havre|Havre]].
+</gallery>
+
+=== Gastronomie ===
+{{Article détaillé|Cuisine normande}}
+La gastronomie normande repose sur les quatre principaux produits de ses terroirs : la [[pomme]], le [[lait]], la [[viande]] et les [[fruit de mer|fruits de mer]]. Ces abondants produits constituent la base de nombreuses spécialités régionales.
+
+Région cidricole, la Normandie utilise les [[pomme]]s, le [[cidre]] et le [[Calvados (eau-de-vie)|calvados]] dans sa cuisine. Elle produit également à partir de poires spécifiques le [[poiré]] et une eau de vie de poiré; le « Calvados Domfrontais<ref>{{Lien web|nom1=Actimage|titre=Fiche produit|url=http://www.inao.gouv.fr/produit/13114|site=www.inao.gouv.fr}}</ref> » (AOC depuis 1997) est obtenu à partir de pommes mais aussi 30 % de poires à poiré minimum..
+
+<gallery perrow="5">
+Fichier:Mont-Saint-Michel-2004.jpg|Les [[Viande d'agneau de prés salés|agneaux de pré-salé]] du [[Baie du mont Saint-Michel|mont Saint-Michel]].
+Fichier:Tripe à la mode de Caen.jpg|[[Tripes à la mode de Caen]].
+Fichier:Coquilles Saint-Jacques.JPG|[[Coquille Saint-Jacques|Coquilles Saint-Jacques]].
+Fichier:Camembert (Cheese).jpg|[[Camembert de Normandie]].
+Fichier:Teurgoule.jpg|La [[teurgoule]].
+Fichier:Bourdelots.jpg|[[Bourdelot]]s.
+Fichier:Calva perejules.jpg|Calvados
+Fichier:Futs bénédictine.jpg|Fûts de [[bénédictine]].
+Fichier:Neufchâtel.jpg|Le [[Neufchâtel (fromage)|neufchâtel]] du pays de Bray.
+</gallery>
+
+=== Médias normands ===
+* ''[[Le Courrier cauchois]]'' ;
+* ''[[Paris Normandie]]'' ;
+* ''[[Le Poulpe (media)|Le Poulpe]]''
+* ''[[Patrimoine normand]]'' ;
+* [[La Chaîne normande]] ;
+* ''[[Côté Rouen]]'' ;
+* ''[[Tendance Ouest]]'' ;
+* ''[[L'Impartial (Les Andelys)|L'Impartial]]''.
+
+=== Natifs notoires de Normandie ===
+{{Article détaillé|Liste de personnalités du milieu culturel normand|Liste d'écrivains normands|Liste de scientifiques normands|Liste des militaires normands|Liste des ducs de Normandie|Liste des saints normands|Liste des évêques et archevêques de Rouen}}
+{{Catégorie détaillée|Personnalité liée à la région Normandie|Naissance dans la province de Normandie}}
+* [[Prix Nobel]] : [[Louis de Broglie]] ; [[Charles Nicolle]] (1866-1936) ; [[Victor Grignard]] (1871-1935) ;
+* [[Liste des grands-croix de la Légion d'honneur|Grands-croix de la Légion d'honneur]] : [[André Maurois]] ;
+* [[César du cinéma|César d'honneur]] : [[Jean Marais]] ;
+* [[César de la meilleure actrice dans un second rôle]] : [[Valérie Lemercier]] ;
+* [[César du meilleur acteur]] : [[Philippe Torreton]] ;
+* [[Prix Goncourt|Lauréat du prix Goncourt]] : [[Jacques-Pierre Amette]] ; [[Guy Mazeline]] ; [[Marius Grout]] ; [[Patrick Grainville]] ; [[Pascal Quignard]].
+
+=== Fête régionale ===
+En 2013, la société civile crée la [[Fête des Normands]], fête régionale de la Normandie, célébrée autour du [[29 septembre]], jour de la Saint Michel, de chaque année, sur l'ensemble du territoire normand, en France et à l'étranger<ref>[https://www.youtube.com/watch?v=84UKBx0J7Iw L'Association Fête des Normands sur le plateau de France 3], Florian Hurard et Chloé Sarah Herzhaft, les créateurs de la [[Fête des Normands]] invités sur le JT de France 3, 19/20, édition spéciale Haute et Basse Normandie, jeudi 15 août 2013, journaliste Colombine Denis.</ref>. En 2017, elle est patronnée par la [https://unesco.delegfrance.org/Cinquieme-Edition-de-la-Fete-des-Normands commission nationale française pour l'UNESCO].
+
+== Notes et références ==
+=== Notes ===
+<references group="Note"/>
+=== Références ===
+{{Références}}
+
+== Voir aussi ==
+{{Autres projets
+ | commons     = Normandie
+ | wikivoyage  = Normandie
+ | wiktionary  = Normandie
+}}
+* [[:nrm:|Wikipédia en normand]]
+
+=== Bibliographie ===
+* Dominique Auzias, ''Normandie'', Nouvelles Éditions Université, 2005 {{ISBN|978-2-7469-1263-2}}.
+* [[Michel de Boüard]], ''Histoire de la Normandie'', Privat, Toulouse, 2001 {{ISBN|978-2-7089-1707-1}}.
+* Vincent Carpentier, Emmanuel Ghesquière, [[Cyril Marcigny]], ''Archéologie en Normandie'', [[Éditions Ouest-France]], 2007.
+* Serge Gleizes, [[Christian Sarramon]] (photographies), préface de [[Philippe Delerm]], ''L’Art de vivre en Normandie'', Flammarion, Paris, 2004 {{ISBN|978-2-08-201254-6}}.
+* Charles Brisson, [[René Herval]], A. Lepilleur ''Légendes & récits de Normandie'', Ancre de Marine, Louviers, 2004, 120 p. {{ISBN|978-2-84141-188-7}}.
+* [[Stéphane Puisney]], ''[[La Saga des Lefébure]]'', Éditions Eurocibles. {{commentaire biblio|Série de six tomes de bandes dessinées historiques relatant l'histoire de la Normandie à travers une famille normande.}}
+* {{Ouvrage|prénom1=Jean-Pierre|nom1=Chaline|lien auteur1=Jean-Pierre Chaline|titre=Les Dynasties normandes|lieu=Paris|éditeur=[[Éditions Perrin|Perrin]]|année=2009|pages totales=535|isbn=978-2-262-01703-3}}.
+* {{Ouvrage|prénom1=Olivier|nom1=Chaline|lien auteur1=Olivier Chaline|titre=La Normandie. Un destin entre terre et mer|éditeur=[[Éditions Gallimard|Gallimard]]|collection=Découvertes|année=2010|pages totales=128|isbn=978-2-07-035546-4}}.
+* [[Jean Benoît Désiré Cochet]], ''La Normandie souterraine ou Notices sur des cimetières romains et des cimetières francs, explorés en Normandie.'' (1854) {{lire en ligne|lien=https://books.google.fr/books?id=iNZLAAAAMAAJ&printsec=frontcover&dq=normandie&hl=fr&ei=i1cuTcqmLNPA4gbl0-DSCw&sa=X&oi=book_result&ct=result&resnum=10&ved=0CF8Q6AEwCQ#v=onepage&q&f=false|langue=fr}}.
+* {{Ouvrage |prénom1=Michael |nom1=Jacobs |prénom2=Paul |nom2=Stirton |titre=Le voyageur d'Art en France |lieu=Paris |éditeur=[[Arthaud (maison d'édition)|Arthaud]] |année=1987 |pages totales=300 |isbn=2-7003-0526-4}}.
+* [[Léon Puiseux]], ''L'Émigration normande et la colonisation anglaise en Normandier au {{s-|XV}} avec des pièces justificatives et la liste des émigrés normands'' (1866) {{lire en ligne|lien=https://books.google.fr/books?id=-VoKAAAAIAAJ&printsec=frontcover&dq=normandie&hl=fr&ei=RF0uTbe5J4KF5Abg7OnACw&sa=X&oi=book_result&ct=result&resnum=2&ved=0CDAQ6AEwATgK#v=onepage&q&f=false|langue=fr}}.
+* Gabriel du Moulin, ''Histoire générale de Normandie'' (1631) {{lire en ligne|lien=https://books.google.fr/books?id=f-WsH8ZNhDIC&pg=PP15&dq=normandie&hl=fr&ei=fmQuTduWF4P84Abw98izCw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CDIQ6AEwAA#v=onepage&q&f=false|langue=fr}}.
+* Pierre de Merville, ''La Coutume de Normandie réduite en maximes, selon le sens littéral, & l'Esprit de chaque Article. ''(1707) {{lire en ligne|lien=https://books.google.fr/books?id=hVk-AAAAcAAJ&printsec=frontcover&dq=normandie&hl=fr&ei=w2YuTa-WAYqA5AbI0omACw&sa=X&oi=book_result&ct=result&resnum=7&ved=0CFIQ6AEwBg#v=onepage&q&f=false|langue=fr}}.
+* {{Ouvrage|titre=Logis seigneurial en Normandie du {{s mini-|XII}} au {{s-|XIV}}|lieu=Strasbourg|éditeur=Castrum Europe, Châteaux-forts d’Europe|année=1997|mois=juin|isbn=|issn=1253-6008}}{{Commentaire biblio|Éditions du [[Centre d'étude des châteaux-forts]], {{n°|2}}.}}
+* Arnaud Guérin, ''La Normandie. La géologie, les milieux, la faune, la flore, les hommes'', La bibliothèque du naturaliste, Delachaux et Nieslé, 2003
+
+=== Articles connexes ===
+{{colonnes|taille=16|1=
+* [[Histoire de la Normandie]]
+* [[Normands]]
+* [[Duché de Normandie]]
+* [[Bataille de Normandie]]
+* [[Environnement en Normandie]]
+* [[Tourisme en Normandie]]
+* [[Culture de la Normandie]]
+* [[Normand]]
+* [[Toponymie normande]]
+* [[Architecture normande]]
+* [[Évêchés de Normandie]]
+* [[Liste des abbayes normandes]]
+* [[Cuisine normande]]
+* [[Drapeau normand]]
+}}
+
+=== Liens externes ===
+<!--SITES D'INTÉRÊT ENCYCLOPÉDIQUE UNIQUEMENT. PAS DE SITES DE TOURISME, PHOTOS PERSONNELLES, BLOGS, ETC.-->
+* [http://www.normandie-tourisme.fr/ Site du Comité régional de tourisme de Normandie (site officiel)].
+<!--SITES D'INTÉRÊT ENCYCLOPÉDIQUE UNIQUEMENT. PAS DE SITES DE TOURISME, PHOTOS PERSONNELLES, BLOGS, ETC.-->
+
+{{Palette|Provinces historiques de France|Région Normandie|Pays de la Normandie|Villes de Normandie}}
+{{Portail|Normandie|régions de France}}
+
+[[Catégorie:Ancienne province en France]]
+[[Catégorie:Région culturelle ou linguistique en France]]
+[[Catégorie:Normandie|*01]]
+

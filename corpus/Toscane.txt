@@ -1,0 +1,1207 @@
+{{Voir homonymes|Toscane (homonymie)}}
+{{coord|43.5|11.2|format=dec|region:IT-52_type:landmark_scale:400000|display=title}}
+{{Infobox Région d'Italie
+ | nom             = Toscane
+ | blason          = Coat of arms of Tuscany.svg
+ | drapeau         = Flag of Tuscany.svg
+ | imageloc        = Tuscany in Italy.svg
+ | zone            = ITE
+ | capitale        = [[Florence]]
+ | gentilé         = Toscans / Toscanes
+ | latitude        = 43.41
+ | longitude       = 11
+ | président       = [[Eugenio Giani]]
+ | parti           = [[Parti démocrate (Italie)|PD]]
+ | mandat président= 2020-2025
+ | superficie      = 22987.04
+ | population      = 3739769 
+ | année_pop       = 30/09/2017
+ | provinces       = 10
+ | communes        = 287
+ | site            = {{URL|https://www.regione.toscana.it/}}
+ | code ISTAT      = 
+}}
+
+La '''Toscane''' ({{en langue|it|Toscana}} {{MSAPI|/tos.ˈkaː.na/}}<ref>Prononciation en [[italien]] standard retranscrite phonémiquement selon la norme [[Alphabet phonétique international|API]].</ref>) est l'une des vingt [[régions d'Italie]] ; elle est située au centre-ouest du pays et sa capitale est [[Florence]]. En 2020, elle compte {{nombre|3692555|habitants}}, les Toscanes et les Toscans, répartis sur une superficie de {{unité|22987.04|km|2}}.
+
+Son histoire politique et culturelle exceptionnellement riche lui a permis de donner sa langue à l'Italie, des auteurs tels que [[Dante]], [[Boccace]], [[Pétrarque]], des politiques tels que [[Cosme l'Ancien]], [[Machiavel]], [[Catherine de Médicis]], des artistes tels que [[Fra Angelico]], [[Botticelli]], [[Léonard de Vinci]], [[Michel Ange]] et son patrimoine architectural est immense.
+
+Son économie repose essentiellement sur le tourisme, l'agriculture et l'industrie de la mode.
+{{sommaire|niveau=2}}
+
+== Géographie ==
+{{loupe|Géographie de la Toscane}}
+De forme triangulaire, la Toscane est une région située en [[Italie]] centrale, entre la partie nord de la [[mer Tyrrhénienne]] et les [[Apennins]]. Elle comprend aussi un groupe d’îles appelé l'[[archipel toscan]]. La Toscane a une superficie d'environ {{Unité|22987.04|km|2}}<ref>{{Lien web |langue=it |titre=Toscana, superfice |url=http://www.tuttitalia.it/toscana/19-province/superficie/ |site=tuttitalia.it |consulté le=22 janvier 2018}}</ref>. Encerclée et traversée par les grandes chaînes de montagnes et quelques plaines très fertiles, la région a un relief qui est dominé par les pays vallonnés. L'activité la plus importante est l'[[agriculture]].
+
+Si les montagnes couvrent 25 % de la superficie totale  ({{unité|5770|km|2}}) et les plaines 8,4 %, presque toutes coïncidant avec la vallée du fleuve [[Arno (fleuve)|Arno]] ({{Unité|1930|km|2}}), les collines occupent les deux tiers (66,5 %) de la superficie totale de la région, couvrant {{Unité|15292|km|2}}.
+
+Le climat est relativement doux dans les zones côtières, mais il est plus rigoureux et pluvieux à l'intérieur, avec des fluctuations considérables de température entre l'hiver et l'été.
+
+=== Localisation ===
+[[Fichier:Tuscany landscape west of Siena.jpg|vignette|Le paysage connu des [[Crete Senesi]].]]
+Elle jouxte au nord-ouest la [[Ligurie]], au nord l’[[Émilie-Romagne]], à l'est les [[Marches]] et l'[[Ombrie]], au sud le [[Latium]].
+Elle est bordée au nord-est par la chaîne des [[Apennins]], au nord-ouest par les [[Alpes apuanes]], et est arrosée d'est en ouest par l’[[Arno (fleuve)|Arno]].
+
+Certains territoires italiens de la Toscane :
+{{colonnes|nombre=2|taille=30|
+* la région du [[Chianti (région)|Chianti]], la région viticole d'origine historique du vin de [[Chianti (DOP)|Chianti]] ;
+* les Alpes apuanes ;
+* l'Apennin toscan ;
+* les collines Métallifères ;
+* le Valdarno supérieur ;
+* le Pratomagno ;
+* le [[val d'Orcia]] ;
+* la [[Val di Chiana]] et [[Cortone]] ;
+* la [[Versilia]] ;
+* les [[Crete senesi]] ;
+* le [[désert d'Accona]] ;
+* la [[Maremme]] ;
+* la [[Garfagnana]] ;
+* la [[Lunigiana]] ;
+* la [[Suisse pesciatine]] ;
+* il [[Casentino]] ;
+* il [[Mugello]] ;
+* la [[Valtiberina]] ;
+* l'archipel toscan.
+}}
+
+=== Climat ===
+La Toscane possède un [[climat méditerranéen]]. Les quatre saisons se succèdent de manière bien marquée, caractérisées par des étés chauds et secs et des hivers assez cléments, mais il faut faire état de variations importantes entre la côte, au climat plus doux, et l'arrière-pays, plus froid.
+
+=== Population ===
+
+La Toscane compte {{unité|3744398|habitants}} (selon le recensement de 2016). Les principales villes sont :
+{{colonnes|nombre=2|taille=30|
+* [[Florence]] ({{nombre|370657|habitants}}) ;
+* [[Prato]] ({{nombre|180000|habitants}}) ;
+* [[Livourne]] ({{nombre|170000|habitants}}) ;
+* [[Arezzo]] ({{nombre|100000|habitants}}) ;
+* [[Pise]] ({{nombre|93000|habitants}}) ;
+* [[Pistoia]] (Pistoie) ({{nombre|90000|habitants}}) ; 
+* [[Lucques]] ({{nombre|85000|habitants}}) ;
+* [[Grosseto]] ({{nombre|82000|habitants}}) ;
+* [[Sienne]] ({{nombre|55000|habitants}}).
+}}
+
+== Histoire ==
+
+Le mot ''Toscane'' est apparu au {{s-|X}}, dérivé de l’antique ''[[Tuscia]]'' qui désigna, à partir du {{s-|III}}, l’ancienne [[Étrurie]], territoire des [[Étrusques]] ou [[Tuscie]], compris entre le [[Tibre]] et l’[[Arno (fleuve)|Arno]].
+
+=== La Terre des Étrusques ===
+
+Les [[Étrusques]] sont apparus comme civilisation au {{-s-|VIII}} et ils sont parvenus, au {{-s-|VI}}, à l'apogée de leur civilisation. Ils furent absorbés par [[Rome]] au {{-s-|I}}
+
+L'[[Étrurie]], le territoire de leur [[dodécapole étrusque|dodécapole]] régionale, correspondait approximativement aux limites de l’actuelle Toscane.
+[[Fichier:Chimera d'arezzo, fi, 04.JPG|vignette|[[Chimère d'Arezzo]] dans le [[Musée archéologique national (Florence)|Musée archéologique national de Florence]].]] 
+Grâce à une puissante flotte qu’ils s'étaient constituée, les [[Étrusques]] établirent avec l’[[Proche-Orient|Orient]] ([[Grèce antique|Grèce]], [[Chypre (île)|Chypre]], [[Syrie (région)|Syrie]]), la [[Gaule]], l’[[Hispanie]] et l’[[Afrique romaine|Afrique]] ([[Carthage]]), des échanges commerciaux, exportant le fer et le cuivre toscan, important des tissus, des bijoux, de l’ivoire, de la céramique, etc.
+
+Ils cherchèrent à étendre leur domination vers le sud où, durant la seconde moitié du {{-s-|VII}}, ils occupèrent le pays [[latin]]. Ils s’installèrent sur le site de [[Rome]], qui pendant plus d'un siècle, fut gouverné par des rois originaires d'[[Étrurie]], les [[Tarquins]].
+
+Vers le début du {{-s-|VI}}, ils s'aventurèrent en [[Campanie]], mais se heurtèrent aux [[Grecs]], installés en [[Italie]] du sud (ou [[Grande-Grèce]]). Au nord, ils essaimèrent vers la fin du {{-s|VI|e}}, dans une grande partie de la [[Plaine du Pô]], y fondant notamment [[Bologne]] (alors appelée [[Felsina]]), ainsi que le port de [[Spina]] (aujourd’hui dans le delta du [[Pô]]), d'où ils pouvaient contrôler le commerce de l'[[Mer Adriatique|Adriatique]].
+
+L'Étrurie formait une fédération de douze « cités-états » groupées en [[dodécapole étrusque|dodécapole]], et nommées  [[lucumonie]]s car gouvernées par un roi appelé « [[Lucumon]] », dont l’union demeura plus de nature religieuse que politique.
+
+À la fin du {{-s-|VI}}, [[Tarquin le Superbe]], dernier des rois de [[Rome]] fut chassé. Au début du siècle suivant, les [[Étrusques]], ainsi coupés de la [[Campanie]], tentèrent en vain d’atteindre celle-ci par voie de mer et se firent définitivement battre par les [[Grecs]]. Menacées au {{s-|III|e}}, leurs cités tombèrent une à une devant la puissance grandissante de [[Rome]] : la chute de leur capitale religieuse, [[Velzna]], en [[-265|265 av. J.-C.]], marque la fin de leur indépendance.
+
+Finalement, il faut retenir de cette brillante civilisation leur [[art étrusque|art]] raffiné qui témoigne de leur ingéniosité, et leurs [[apports des Étrusques aux Romains|nombreux apports à la civilisation romaine]].
+
+=== L'héritage romain ===
+
+Entre le {{-s2-|II|III}}, quatre grands axes romains furent percés dans la région, éléments essentiels d’un vaste programme de travaux routiers qui devait transformer le visage de l’Italie en général et de la Toscane en particulier : 
+* la [[via Aurelia]], qui longeait la côte jusqu’au port de Pise et la base navale de ''Guenua'' ([[Gênes]]) ;
+* la [[via Clodia]], qui s’arrêtait à [[Saturnia]] ;
+* la [[via Cassia]], qui reliait Rome à Florence ;
+* la [[via Flaminia]], qui reliait Rome à l’[[Ombrie]] et à l’[[Mer Adriatique|Adriatique]].
+Ces nouvelles routes romaines évitèrent soigneusement les grands centres étrusques, dont le déclin ne tarda pas à suivre, tandis que les nouvelles villes [[romaines]] prenaient de l’importance. C’est le cas, par exemple, de ''Pistoriae'' ([[Pistoia]]), qui n’était, à l’origine, qu’une petite ville fortifiée au bord de la [[via Cassia]].
+
+=== L'époque médiévale ===
+{{Article détaillé|République florentine}}
+Pendant la période de migration et après l'effondrement de l’[[Empire romain]] d'Occident, au {{s-|V}} de notre ère, la région est brièvement incorporée à l'[[Empire romain d'Orient]]. Par la suite, au début de la [[période médiévale]], la Toscane comme de grandes parties de la [[péninsule italienne]] est conquise par des groupes [[germaniques]] connus sous le nom de [[Lombards]]. Établis dans la seconde moitié du {{s-|VI}} de notre ère, le [[royaume lombard]] et les duchés règnent pendant plus de deux siècles. Ils sont remplacés par l'[[Empire carolingien]] (774 EC), qui s'est ensuite développé en [[Saint Empire romain germanique]]<ref name="Sciences202109">{{Lien web |langue=en |auteur=Johannes Krause {{etal}} |titre=The origin and legacy of the Etruscans through a 2000-year archeogenomic time transect |url=https://www.science.org/doi/10.1126/sciadv.abi7673 |site=Science Advances |date=24 septembre 2021 |consulté le=25 septembre 2021}}.</ref>.
+
+Ensuite, l’histoire de ce pays consiste en une succession de conflits entre des cités formant chacune un État souverain. Progressivement, les plus grandes absorbèrent les plus petites. En Toscane, [[Florence]], [[Pise]] et [[Sienne]] s’affrontaient pour obtenir la suprématie dans la région.
+
+Dans les premiers temps, les batailles entre les cités-états étaient livrées par les citoyens eux-mêmes, âgés de quinze à cinquante ans. Dante connut ces combats : il participa à la dernière bataille qui opposa des citoyens-soldats; en 1289, lors de la [[bataille de Campaldino]], Florence parvint enfin à écraser [[Arezzo]]. Mais les pertes humaines furent si grandes à cette occasion que les cités préférèrent laisser place à des mercenaires, les [[condottieri]], le soin de régler leurs différends armés. Et tout au long du {{s-|XIV}}, ce furent ces [[condottieri]] qui tinrent entre leurs mains l’équilibre des pouvoirs. Placés à la tête de compagnies de plusieurs milliers d’hommes bien armés et fort disciplinés, ils vendaient leurs services au plus offrant. La cité qui avait les moyens de les payer et de les contrôler, dominait alors ses voisins.
+
+Ces guerres entre les cités étaient menées au nom de la querelle opposant les [[Guelfes et Gibelins|Guelfes]] aux [[Guelfes et Gibelins|Gibelins]] : les Guelfes soutenaient le parti du [[pape]] contre celui de l’[[empereur]] du [[Saint-Empire romain germanique]]; les Gibelins, quant à eux, estimaient que le pays ne pourrait retrouver la paix que grâce au contrôle impérial. Du moins était-ce la théorie. En pratique, les étiquettes « guelfe » et « gibeline » n’étaient que des slogans guerriers. Dès qu’un parti venait à bout de ses adversaires dans une cité, il se divisait en factions opposées. Ainsi, à [[Florence]], à peine le parti guelfe eut-il remporté la victoire qu’il se scinda en guelfes noirs et guelfes blancs. [[Dante]], un guelfe blanc, fut obligé de s’exiler en 1302, quand les noirs soutenus par [[Charles de Valois (1270-1325)|Charles de Valois]] prirent le pouvoir. Il alla se réfugier à [[Vérone]] puis à [[Ravenne]] auprès de seigneurs gibelins.
+
+En dehors de la Toscane, et à l’exception de [[Venise]], la plupart des cités-états étaient dominées par un seul maître : le seigneur. Ainsi, les [[famille Visconti|Visconti]] régnaient à [[Milan]], les [[Della Scala|Scaliger]] à [[Vérone]], les [[Maison de Gonzague|Gonzague]] à [[Mantoue]], les [[Maison d'Este|Este]] à [[Ferrare]]. Les républiques toscanes réussirent à maintenir leur indépendance plus longtemps que les autres cités italiennes, mais Florence, à son tour, dû plier devant un maître unique quand les [[Médicis]] prirent le titre de ducs.
+
+Malgré toutes ces luttes incessantes opposant factions et cités et malgré la [[Grande Peste]] qui emporta la moitié de la population toscane (1348-1393), le [[Moyen Âge]] fut, pour cette région, une période prospère. L’industrie textile et le commerce enrichissaient les villes. Les échanges avec le [[monde musulman]] conduisirent le [[Pise|Pisan]] [[Leonardo Fibonacci]] à introduire en occident la [[chiffres arabes|numération arabe]]. Les progrès de la [[géométrie]], qui en découlèrent, permirent aux architectes toscans de se lancer dans la construction d’édifices plus audacieux et plus complexes. Pendant ce temps, les banquiers développèrent les principes de tenue de livres de comptes en partie double, base de la [[comptabilité]] moderne.
+
+{{article connexe|Liste des commanderies templières en Toscane}}
+
+=== La Renaissance ===
+
+Dans le domaine artistique, [[Marcel Brion]] a résumé ce qu'il qualifie de « miracle toscan » comparable, selon lui, au « miracle grec » : {{Citation|C'est en Toscane que s'est réalisé, à un certain moment de son histoire que nous pouvons situer entre 1300 et 1500, une des réussites majeures de l'homme (...) Nulle part, la culture et l'art ne se sont associés aussi intimement à la vie quotidienne du peuple jusqu'à devenir sa nourriture spirituelle (...) En Toscane, en effet, on a l'impression que le chef-d'œuvre est une sorte de création collective à laquelle tout concourt, le paysage, l'atmosphère, la qualité de la lumière et de l'air, le caractère de la race, les institutions, même, et le comportement}}<ref>[[Marcel Brion]], la Toscane", in ''L'Italie'', Odé, 1949, {{p.|278}}.</ref>.
+
+Avec le {{s-|XV}} (« [[Quattrocento]] »), débute ainsi en Italie et en Toscane, le mouvement appelé [[Renaissance italienne|Renaissance]] (« ''Rinascimento'' ») qui couvrira aussi tout le {{s-|XVI}} (« ''Cinquecento'' »). C’est une période exceptionnelle se caractérisant par une grande prospérité économique tandis que l'art atteint des sommets. [[Florence]] en représente le berceau et l’éblouissante incarnation. La ville en est grandement redevable à la dynastie des [[Médicis]], richissime famille de banquiers, considérée comme les mécènes les plus prestigieux de l’histoire européenne.
+
+=== Les débuts des Médicis ===
+
+La famille des [[Médicis]] gouverna Florence quasiment sans interruption de 1434 à 1743. Ce règne commença discrètement avec [[Cosme de Médicis|Cosme l’Ancien]], fils du riche marchand [[Jean de Médicis (1360-1429)|Giovanni di Bicci]]. Il s’efforça toute sa vie de trouver du travail pour les artistes qu’il protégeait. Il fut aussi le premier mécène à respecter les artistes et le premier mécène humaniste, polyglotte et amateur de philosophie.
+Bien que n’étant pas élus, les premiers membres de la dynastie jouissaient du soutien du peuple.
+
+=== La république florentine ===
+
+En 1494, [[Charles VIII de France|Charles VIII]] nomme Hugues d'Amboise, fils de [[Pierre d'Amboise]], gouverneur de Toscane. Après la fuite de [[Pierre II de Médicis]] devant les troupes françaises de [[Charles VIII de France|Charles VIII]], le prieur dominicain [[Jérôme Savonarole]] fonda, à [[Florence]], une république de la « vertu ». Excommunié, ayant lassé le peuple par ses excès, il fut exécuté en 1498, mais la république se maintiendra jusqu’en 1512, puis elle renaîtra de 1527 à 1530 quand le pape [[Clément VII (pape)|Clément VII]] (un [[Médicis]]) et l'empereur [[Charles Quint]] s’allieront pour replacer un Médicis au pouvoir, Alexandre, après un siège de la ville qui dura dix mois.
+
+=== Le Grand-duché ===
+
+{{Article détaillé|Grand-duché de Toscane}}
+
+==== Les Médicis ====
+En 1569, [[Cosme Ier de Toscane|Cosme {{Ier}}]] devint le premier [[Liste des souverains de Toscane|Grand-duc de Toscane]] après avoir réussi à en imposer l’unité politique. Commença, alors, une longue période de prospérité pendant laquelle les Médicis s’employèrent à fonder un État toscan à partir de cités rivales. Cet État perdurera jusqu’en 1737, année de l’extinction de la lignée des Médicis avec [[Jean Gaston de Médicis]] qui meurt sans descendance.
+[[Fichier:Uffizi Gallery, Florence.jpg|vignette|[[Galerie des Offices]] (Florence).]]
+
+Deux d'entre eux deviennent papes au {{s-|XVI}} sous les noms de [[Léon X]] et de [[Clément VII (pape)|Clément VII]]. Le nom des Médicis reste à jamais associé à toute une lignée d’artistes tels que [[Botticelli]], [[Michel Ange]], [[Léonard de Vinci]], etc.
+
+==== La maison de Habsbourg-Lorraine ====
+Elle commence avec [[François Ier du Saint-Empire|François II]] (1737-1765) et se termine avec  [[Ferdinand IV de Toscane|Ferdinand IV]] (1859-1860).
+
+Le grand-duc [[Jean Gaston de Médicis]] n'ayant pas de descendant, les droits sur la Toscane passèrent à [[Charles III d'Espagne|l'infant Charles]] par sa mère, [[Élisabeth Farnèse]], petite-fille de [[Marguerite de Médicis]]. Lors de la négociation en 1735 du troisième traité de Vienne du {{date-|18 novembre 1738}} qui mettait fin à la [[guerre de Succession de Pologne (1733-1738)|guerre de Succession de Pologne]], l'infant Charles accepta, pour assurer en contrepartie ses droits sur le [[royaume des Deux-Siciles]], de céder ses droits à [[François Ier du Saint-Empire|François III, duc de Lorraine et de Bar]], lequel cédait ses propres duchés patrimoniaux au roi de [[Pologne]] détrôné [[Stanislas Leszczyński]], qui, à sa mort, les léguerait à son gendre le roi de [[France]] [[Louis XV]].
+
+À la mort du grand-duc Jean-Gaston le 8 juillet 1737, [[François Ier (empereur du Saint-Empire)|François de Lorraine]] devint donc grand-duc de Toscane sous le nom de [[François Ier du Saint-Empire|François II]].
+
+Lui succèderont :
+* [[Pierre Léopold Ier de Toscane|Léopold {{Ier}}]] (1765-1790) ;
+* [[Ferdinand III de Toscane|Ferdinand III]] (1790-1801, 1814-1824) ;
+* [[Léopold II de Toscane|Léopold II]] (1824-1849, 1849-1859) ;
+* [[Ferdinand IV de Toscane|Ferdinand IV]] (1859-1860).
+{{clr}}
+
+=== L'époque moderne ===
+
+Au moment des [[guerres napoléoniennes]], la Toscane devint le [[royaume d'Étrurie]], en 1801, et fut confiée à [[Louis Ier d'Étrurie|Louis {{Ier}} d'Étrurie]] de la famille des [[Bourbons (dynastie française)|Bourbon]], prince de [[Parme]], qui dut renoncer à sa principauté ; les grands ducs furent alors expulsés et reçurent en compensation divers territoires [[germaniques]].
+
+Par la suite, la Toscane fut annexée par l'[[Premier Empire|Empire français]] en 1807 et trois départements furent créés : [[Arno (département)|Arno]], [[Méditerranée (département)|Méditerranée]] et [[Ombrone (département)|Ombrone]]. [[Élisa Bonaparte]] devint Grande-duchesse, puis, en 1814, les [[Habsbourg-Lorraine]] recouvrèrent leur trône qu'ils ne gardèrent que quarante six ans, car la Toscane fut rattachée au [[Piémont]] en 1860, pour former le [[Royaume d'Italie (1861-1946)|Royaume d'Italie]]. [[Florence]] devint, jusqu'à la conquête de [[Rome]] en 1870, la capitale du nouveau royaume.
+
+{{Article détaillé|Liste des souverains de Toscane}}
+
+== Politique ==
+La Toscane est un bastion historique de la gauche italienne. À l'issue des [[Élections régionales de 2020 en Toscane|élections régionales de 2020]], la répartition des élus au conseil régional est la suivante :
+
+{| class="wikitable centre" style=text-align:right
+|+Résultats des élections régionales de 2020 en Toscane<ref>[https://elezioni2020.regione.toscana.it/Elezioni2020/www/Risultati/09000000.html Région de Toscane Élections 2020]</ref>
+|-
+| colspan=13|[[Fichier:Tuscany Regional Council 2020.svg|300px|center]]
+|-
+!colspan=5 scope=col|Présidence
+!colspan=7 scope=col|Conseil
+!rowspan=2 scope=col|Total
+|-
+! colspan=2 scope=col|Candidats
+! scope=col| Votes
+! scope=col| %
+! scope=col| Élus
+! colspan=2 scope=col|Partis
+! scope=col| Votes
+! scope=col| %
+! scope=col| +/-
+! scope=col| Sièges
+! scope=col| +/-
+|-
+|rowspan=8 {{Infobox Parti politique italien/couleurs|CSX}}|
+|rowspan=8 align=left| [[Eugenio Giani]]
+|rowspan=8|{{formatnum:863595}}
+|rowspan=8|48,62
+|rowspan=8|1
+|-
+|{{Infobox Parti politique italien/couleurs|PD}}|
+|align=left| [[Parti démocrate (Italie)|Parti démocrate]] (PD)
+|{{formatnum:560980}}
+|34,71
+|align=center| {{diminution||8px}} 11,2
+|22
+|align=center| {{diminution||8px}} 2
+| rowspan="6" bgcolor="#eeeeee" |
+|-
+| bgcolor="#D6418C" |
+|align=left| [[Italia Viva]]-[[+Europa]]
+|{{formatnum:72340}}
+|4,48
+|align=center| {{abbr|Nv.|Nouveau}}
+|2
+|align=center|{{augmentation||8px}} 2
+|-
+|{{Infobox Parti politique italien/couleurs|LEU}}|
+|align=left| [[Articolo Uno|Gauche civique et écologiste]]
+|{{formatnum:47838}}
+|2,96
+|align=center| {{abbr|Nv.|Nouveau}}
+|—
+|align=center| {{stagnation||8px}}
+|-
+| bgcolor=#EC5C39|
+|align=left| Toscane fière avec Giani ([[Italie des valeurs|IdV]]-[[Parti républicain italien|PRI]]-[[Parti socialiste italien (2007)|PSI]]-[[Centre démocrate (Italie)|CD]])
+|{{formatnum:47647}}
+|2,95
+|align=center| {{augmentation||8px}} 1,3
+|—
+|align=center| {{stagnation||8px}}
+|-
+|bgcolor=#73C170|
+|align=left| Europe verte
+|{{formatnum:26800}}
+|1,66
+|align=center| {{abbr|Nv.|Nouveau}}
+|—
+|align=center| {{stagnation||8px}}
+|-
+|bgcolor=#5F288F|
+|align=left|Svolta! ([[Volt Europa|Volt]]-[[Italie en commun|IiC]])
+|{{formatnum:5217}}
+|0,32
+|align=center| {{abbr|Nv.|Nouveau}}
+|—
+|align=center| {{stagnation||8px}}
+|-
+|colspan=2 align=left| '''Total [[Coalition de centre gauche (Italie)|Centre-gauche]]'''
+|'''{{formatnum:760822}}'''
+| '''47,08'''
+|align=center| {{diminution||8px}} 0,5
+| '''24'''
+|align=center| {{stagnation||8px}}
+| bgcolor="#FFB2B2" | '''25'''
+|-
+|rowspan=6 {{Infobox Parti politique italien/couleurs|CDX}}|
+|rowspan=6 align=left| [[Susanna Ceccardi]]
+|rowspan=6|{{formatnum:718625}}
+|rowspan=6|40,46
+|rowspan=6|2
+|-
+|{{Infobox Parti politique italien/couleurs|Lega}}|
+|align=left|  [[Ligue du Nord|Ligue]] (Lega)
+|{{formatnum:351977}}
+|21,78
+|align=center| {{augmentation||8px}} 5,8
+|7
+|align=center| {{augmentation||8px}} 3
+| rowspan="4" bgcolor="#eeeeee" |
+|-
+|{{Infobox Parti politique italien/couleurs|FDI}}|
+|align=left|  [[Frères d'Italie (parti politique)|Frères d'Italie]] (FdI)
+|{{formatnum:218161}}
+|13,50
+|align=center| {{augmentation||8px}} 9,7
+|4
+|align=center| {{augmentation||8px}} 3
+|-
+|{{Infobox Parti politique italien/couleurs|FI}}|
+|align=left|  [[Forza Italia (2013)|Forza Italia]]-[[Union de centre|UdC]]
+|{{formatnum:69216}}
+|4,28
+|align=center| {{diminution||8px}} 4,1
+|1
+|align=center| {{stagnation||8px}}
+|-
+|bgcolor="#E58321"|
+|align=left|  [[Cambiamo|Toscane civique]]
+|{{formatnum:16830}}
+|1,04
+|align=center| {{abbr|Nv.|Nouveau}}
+|—
+|align=center| {{stagnation||8px}}
+|-
+| colspan=2 align=left|'''Total [[Coalition de centre droit|Centre-droit]]'''
+|'''{{formatnum:656184}}'''
+| '''40,60'''
+|align=center| {{augmentation||8px}} 11,7
+| '''12'''
+|align=center| {{augmentation||8px}} 7
+|bgcolor=B2E3FF| '''14'''
+|-
+|{{Infobox Parti politique italien/couleurs|M5S}}|
+|align=left|Irene Galletti
+|{{formatnum:113692}}
+|6,40
+|1
+|{{Infobox Parti politique italien/couleurs|M5S}}|
+|align=left| [[Mouvement 5 étoiles]]
+|'''{{formatnum:113386}}'''
+| '''7,02'''
+|align=center| {{diminution||8px}} 8,0
+| '''1'''
+|align=center| {{diminution||8px}} 3
+| bgcolor="FFFFCC" | '''2'''
+|-
+|{{Infobox Parti politique italien/couleurs|AET}}|
+|align=left|Tommaso Fattori
+|{{formatnum:39668}}
+|2,23
+|—
+|{{Infobox Parti politique italien/couleurs|AET}}|
+|align=left|Toscane à gauche ([[Gauche italienne|SI]]-[[Parti de la refondation communiste|PRC]]-[[Pouvoir au peuple|PaP]]-{{abbr|SA|Gauche anticapitaliste}})
+|{{formatnum:46269}}
+|2,86
+|align=center| {{diminution||8px}} 3,3
+|—
+|align=center| {{diminution||8px}} 1
+|0
+|-
+|bgcolor="#F00000"|
+|align=left|Salvatore Catello
+|{{formatnum:16992}}
+|0,96
+|—
+|bgcolor="#F00000"|
+|align=left| Parti communiste (PC)
+|{{formatnum:16974}}
+|1,05
+|align=center| {{abbr|Nv.|Nouveau}}
+|—
+|align=center| {{stagnation||8px}}
+|0
+|-
+|bgcolor="#FC2D2D"|
+|align=left|Marco Barzanti
+|{{formatnum:16061}}
+|0,90
+|—
+|bgcolor="#FC2D2D"|
+|align=left| [[Parti communiste italien (2016)|Parti communiste italien]] (PCI)
+|{{formatnum:15550}}
+|0,96
+|align=center| {{abbr|Nv.|Nouveau}}
+|—
+|align=center| {{stagnation||8px}}
+|0
+|-
+|bgcolor="#D56A6A"|
+|align=left|Tiziana Vigni
+|{{formatnum:7664}}
+|0,43
+|—
+|bgcolor="#D56A6A"|
+|align=left| Mouvement 3V
+|{{formatnum:6953}}
+|0,43
+|align=center| {{abbr|Nv.|Nouveau}}
+|—
+|align=center| {{stagnation||8px}}
+|0
+|-
+| colspan=5 |
+| colspan=8 |
+|-
+| colspan=2 align=left |Votes valides
+| {{formatnum:1776297}}
+| 94,97
+| bgcolor=#F4F4F4 rowspan=2|
+| colspan=2 align=left |Votes valides
+| {{formatnum:1616138}}
+| 86,41
+| bgcolor=#F4F4F4 colspan=5 rowspan=2|
+|-
+| colspan=2 align=left |Votes blancs et nuls
+| {{formatnum:93986}}
+| 5,03
+| colspan=2 align=left |Votes blancs et nuls
+| {{formatnum:254145}}
+| 13,59
+|-
+| colspan=2 align=left| '''Total candidats'''
+|'''{{formatnum:1870283}}'''
+|'''100'''
+|'''4'''
+| colspan=2 align=left|'''Total partis'''
+|'''{{formatnum:1870283}}'''
+|'''100'''
+|align=center| -
+|'''37'''
+|align=center| {{stagnation||8px}}
+|'''41'''
+|-
+| colspan=2 align=left |Abstentions
+| {{formatnum:1117598}}
+| 37,40
+| bgcolor=#F4F4F4 rowspan=2|
+| bgcolor=#F4F4F4 colspan=8 rowspan=2|
+|-
+| colspan=2 align=left |Inscrits/participation
+| {{formatnum:2987881}}
+| 62,60
+|}
+
+=== Vote populaire ===
+{{Boîte déroulante/début|titre=Résultats classés par listes}}
+{| class="wikitable centre" style=text-align:right
+|+
+! colspan=2 scope=col| Partis
+! scope=col| Votes
+! scope=col| %
+! scope=col| +/-
+! scope=col| {{abbr|S.|Sièges}}
+! scope=col| +/-
+! colspan=2 scope=col| Coalition
+|-
+|{{Infobox Parti politique italien/couleurs|PD}}|
+|align=left| [[Parti démocrate (Italie)|Parti démocrate]] (PD)
+|{{formatnum:560980}}
+|34,71
+|align=center| {{diminution||8px}} 11,2
+|'''22'''
+|align=center| {{diminution||8px}} 2
+|{{Infobox Parti politique italien/couleurs|CSX}} |
+|align="left" |[[Coalition de centre gauche (Italie)|Centre-gauche]]
+|-
+|{{Infobox Parti politique italien/couleurs|Lega}}|
+|align=left|  [[Ligue du Nord|Ligue]] (Lega)
+|{{formatnum:351977}}
+|21,78
+|align=center| {{augmentation||8px}} 5,8
+|'''7'''
+|align=center| {{augmentation||8px}} 3
+|{{Infobox Parti politique italien/couleurs|CDX}}|
+|align=left|[[Coalition de centre droit|Centre-droit]]
+|-
+|{{Infobox Parti politique italien/couleurs|FDI}}|
+|align=left|  [[Frères d'Italie (parti politique)|Frères d'Italie]] (FdI)
+|{{formatnum:218161}}
+|13,50
+|align=center| {{augmentation||8px}} 9,7
+|'''4'''
+|align=center| {{augmentation||8px}} 3
+|{{Infobox Parti politique italien/couleurs|CDX}}|
+|align=left|[[Coalition de centre droit|Centre-droit]]
+|-
+|{{Infobox Parti politique italien/couleurs|M5S}}|
+|align=left| [[Mouvement 5 étoiles]]
+|{{formatnum:113386}}
+| 7,02
+|align=center| {{diminution||8px}} 8,0
+| '''1'''
+|align=center| {{diminution||8px}} 3
+|bgcolor=eeeeee|
+|align=left| ''Aucune''
+|-
+| bgcolor="#D6418C" |
+|align=left| [[Italia Viva]]-[[+Europa]]
+|{{formatnum:72340}}
+|4,48
+|align=center| {{abbr|Nv.|Nouveau}}
+|'''2'''
+|align=center|{{augmentation||8px}} 2
+|{{Infobox Parti politique italien/couleurs|CSX}} |
+|align="left" |[[Coalition de centre gauche (Italie)|Centre-gauche]]
+|-
+|{{Infobox Parti politique italien/couleurs|FI}}|
+|align=left|  [[Forza Italia (2013)|Forza Italia]]-[[Union de centre|UdC]]
+|{{formatnum:69216}}
+|4,28
+|align=center| {{diminution||8px}} 4,1
+|'''1'''
+|align=center| {{stagnation||8px}}
+|{{Infobox Parti politique italien/couleurs|CDX}}|
+|align=left|[[Coalition de centre droit|Centre-droit]]
+|-
+|{{Infobox Parti politique italien/couleurs|LEU}}|
+|align=left| [[Articolo Uno|Gauche civique et écologiste]]
+|{{formatnum:47838}}
+|2,96
+|align=center| {{abbr|Nv.|Nouveau}}
+|0
+|align=center| {{stagnation||8px}}
+|{{Infobox Parti politique italien/couleurs|CSX}} |
+|align="left" |[[Coalition de centre gauche (Italie)|Centre-gauche]]
+|-
+| bgcolor=#EC5C39|
+|align=left| Toscane fière avec Giani ([[Italie des valeurs|IdV]]-[[Parti républicain italien|PRI]]-[[Parti socialiste italien (2007)|PSI]]-[[Centre démocrate (Italie)|CD]])
+|{{formatnum:47647}}
+|2,95
+|align=center| {{augmentation||8px}} 1,3
+|0
+|align=center| {{stagnation||8px}}
+|{{Infobox Parti politique italien/couleurs|CSX}} |
+|align="left" |[[Coalition de centre gauche (Italie)|Centre-gauche]]
+|-
+|{{Infobox Parti politique italien/couleurs|AET}}|
+|align=left|Toscane à gauche ([[Gauche italienne|SI]]-[[Parti de la refondation communiste|PRC]]-[[Pouvoir au peuple|PaP]]-{{abbr|SA|Gauche anticapitaliste}})
+|{{formatnum:46269}}
+|2,86
+|align=center| {{diminution||8px}} 3,3
+|0
+|align=center| {{diminution||8px}} 1
+|bgcolor=eeeeee|
+|align=left| ''Aucune''
+|-
+|bgcolor=#73C170|
+|align=left| Europe verte
+|{{formatnum:26800}}
+|1,66
+|align=center| {{abbr|Nv.|Nouveau}}
+|0
+|align=center| {{stagnation||8px}}
+|{{Infobox Parti politique italien/couleurs|CSX}} |
+|align="left" |[[Coalition de centre gauche (Italie)|Centre-gauche]]
+|-
+|bgcolor="#F00000"|
+|align=left| Parti communiste (PC)
+|{{formatnum:16974}}
+|1,05
+|align=center| {{abbr|Nv.|Nouveau}}
+|0
+|align=center| {{stagnation||8px}}
+|bgcolor=eeeeee|
+|align=left| ''Aucune''
+|-
+|bgcolor="#E58321"|
+|align=left|  [[Cambiamo|Toscane civique]]
+|{{formatnum:16830}}
+|1,04
+|align=center| {{abbr|Nv.|Nouveau}}
+|0
+|align=center| {{stagnation||8px}}
+|{{Infobox Parti politique italien/couleurs|CDX}}|
+|align=left|[[Coalition de centre droit|Centre-droit]]
+|-
+|bgcolor="#FC2D2D"|
+|align=left| [[Parti communiste italien (2016)|Parti communiste italien]] (PCI)
+|{{formatnum:15550}}
+|0,96
+|align=center| {{abbr|Nv.|Nouveau}}
+|0
+|align=center| {{stagnation||8px}}
+|bgcolor=eeeeee|
+|align=left| ''Aucune''
+|-
+|bgcolor="#D56A6A"|
+|align=left| Mouvement 3V
+|{{formatnum:6953}}
+|0,43
+|align=center| {{abbr|Nv.|Nouveau}}
+|0
+|align=center| {{stagnation||8px}}
+|bgcolor=eeeeee|
+|align=left| ''Aucune''
+|-
+|bgcolor=#5F288F|
+|align=left|Svolta! ([[Volt Europa|Volt]]-[[Italie en commun|IiC]])
+|{{formatnum:5217}}
+|0,32
+|align=center| {{abbr|Nv.|Nouveau}}
+|0
+|align=center| {{stagnation||8px}}
+|{{Infobox Parti politique italien/couleurs|CSX}} |
+|align="left" |[[Coalition de centre gauche (Italie)|Centre-gauche]]
+|-
+|colspan=9|
+|-
+|colspan=2 align=left| '''Total'''
+|'''{{formatnum:1616138}}'''
+|'''100'''
+|align=center| -
+|'''37'''
+|align=center|{{stagnation||8px}}
+| bgcolor=#F4F4F4 colspan=2|
+|-
+|}
+{{Boîte déroulante/fin}}
+
+=== Par provinces ===
+{{Boîte déroulante/début|titre=Résultats}}
+{| class="wikitable centre" style=text-align:right
+|+
+|-
+! colspan=2 rowspan=2 scope=col| Partis
+! scope=col colspan=2|[[Province d'Arezzo|Arezzo]]
+! scope=col colspan=2|[[Province de Florence|Florence]]
+! scope=col colspan=2|[[Province de Grosseto|Grosseto]]
+! scope=col colspan=2|[[Province de Livourne|Livourne]]
+! scope=col colspan=2|[[Province de Lucques|Lucques]]
+! scope=col colspan=2|[[Province de Massa-Carrara|Massa-Carrara]]
+! scope=col colspan=2|[[Province de Pise|Pise]]
+! scope=col colspan=2|[[Province de Pistoia|Pistoia]]
+! scope=col colspan=2|[[Province de Prato|Prato]]
+! scope=col colspan=2|[[Province de Sienne|Sienne]]
+! scope=col colspan=3| Total
+|-
+! scope=col|%
+! scope=col|{{abbr|S.|Sièges}}
+! scope=col|%
+! scope=col|{{abbr|S.|Sièges}}
+! scope=col|%
+! scope=col|{{abbr|S.|Sièges}}
+! scope=col|%
+! scope=col|{{abbr|S.|Sièges}}
+! scope=col|%
+! scope=col|{{abbr|S.|Sièges}}
+! scope=col|%
+! scope=col|{{abbr|S.|Sièges}}
+! scope=col|%
+! scope=col|{{abbr|S.|Sièges}}
+! scope=col|%
+! scope=col|{{abbr|S.|Sièges}}
+! scope=col|%
+! scope=col|{{abbr|S.|Sièges}}
+! scope=col|%
+! scope=col|{{abbr|S.|Sièges}}
+! scope=col colspan=2|%
+! scope=col|{{abbr|S.|Sièges}}
+|-
+|{{Infobox Parti politique italien/couleurs|PD}}|
+|align=left| [[Parti démocrate (Italie)|PD]]
+|bgcolor="#FFB2B2"|33,43 ||bgcolor="#FFB2B2"|2
+|bgcolor="#FFB2B2"|38,90 ||bgcolor="#FFB2B2"|7
+|bgcolor="#FFB2B2"|33,41 ||bgcolor="#FFB2B2"|1 
+|bgcolor="#FFB2B2"|35,37 ||bgcolor="#FFB2B2"|2  
+|bgcolor="#FFB2B2"|27,65 ||bgcolor="#FFB2B2"|2 
+|bgcolor="#FFB2B2"|28,22 ||bgcolor="#FFB2B2"|1
+|bgcolor="#FFB2B2"|34,30 ||bgcolor="#FFB2B2"|2 
+|bgcolor="#FFB2B2"|31,67 ||bgcolor="#FFB2B2"|2 
+|bgcolor="#FFB2B2"|37,33 ||bgcolor="#FFB2B2"|1 
+|bgcolor="#FFB2B2"|37,16 ||bgcolor="#FFB2B2"|2  
+|{{Infobox Parti politique italien/couleurs|PD}}|
+|34,71 ||'''22''' 
+|-
+|{{Infobox Parti politique italien/couleurs|Lega}}|
+|align=left|  [[Ligue du Nord|Lega]]
+|22,32 ||1
+|17,03 ||2 
+|24,23 ||— 
+|22,69 ||1 
+|27,27 ||1  
+|22,40 ||—
+|25,83 ||1 
+|23,95 ||1 
+|21,41 ||— 
+|19,21 ||— 
+|{{Infobox Parti politique italien/couleurs|Lega}}|
+|21,78 ||'''7'''
+|-
+|{{Infobox Parti politique italien/couleurs|FDI}}|
+|align=left|  [[Frères d'Italie (parti politique)|FdI]]
+|16,94 ||1
+|10,19 ||1 
+|17,38 ||— 
+|12,13 ||— 
+|16,58 ||1  
+|11,00 ||—
+|11,86 ||— 
+|17,55 ||1 
+|16,50 ||— 
+|13,14 ||— 
+|{{Infobox Parti politique italien/couleurs|FDI}}|
+|13,50 ||'''4''' 
+|-
+|{{Infobox Parti politique italien/couleurs|M5S}}|
+|align=left| [[Mouvement 5 étoiles|M5S]]
+|6,55 ||—
+|6,39 ||1 
+|7,29 ||— 
+|9,07 ||— 
+|6,66 ||— 
+|7,81 ||—
+|7,62 ||— 
+|7,03 ||— 
+|6,81 ||— 
+|6,43 ||—  
+|{{Infobox Parti politique italien/couleurs|M5S}}|
+|7,02 ||'''1'''  
+|-
+| bgcolor="#D6418C" |
+|align=left| [[Italia Viva|IV]]
+|3,64 ||—
+|6,06 ||1 
+|2,96 ||— 
+|2,91 ||— 
+|3,14 ||—  
+|5,32 ||—
+|3,46 ||— 
+|3,97 ||— 
+|3,67 ||— 
+|6,83 ||1 
+| bgcolor="#D6418C" |
+|4,48 ||'''2''' 
+|-
+|{{Infobox Parti politique italien/couleurs|FI}}|
+|align=left|  [[Forza Italia (2013)|FI]]
+|5,66 ||—
+|3,40 ||1 
+|5,23 ||— 
+|3,02 ||— 
+|5,85 ||—  
+|9,71 ||—
+|2,77 ||— 
+|3,92 ||— 
+|3,82 ||— 
+|3,64 ||— 
+|{{Infobox Parti politique italien/couleurs|FI}}|
+|4,28 ||'''1''' 
+|-
+|bgcolor=eeeeee|
+|align=left|Autres
+|9,83 || 0
+|18,02 || 0
+|9,50 || 0
+|14,80 || 0
+|12,85 || 0
+|15,54 || 0
+|14,15 || 0
+|11,93 || 0
+|10,48 || 0
+|13,58 || 0
+|bgcolor=eeeeee|
+|14,23 || 0
+|-
+|colspan=2 align=left|'''Total'''
+|'''100''' || '''4'''
+|'''100''' || '''13'''
+|'''100''' || '''1'''
+|'''100''' || '''3'''
+|'''100''' || '''4'''
+|'''100''' || '''1'''
+|'''100''' || '''3'''
+|'''100''' || '''4'''
+|'''100''' || '''1'''
+|'''100''' || '''3'''
+|colspan=2| '''100''' || '''37'''
+|-
+|}
+
+{| class="wikitable centre" style=text-align:right
+|+Par candidats à la présidence
+|align=center colspan=14|[[Fichier:2020 Tuscany election map.svg|300x300px]]
+|-
+! colspan=2 scope=col| Candidats
+! scope=col |[[Province d'Arezzo|Arezzo]]
+! scope=col |[[Province de Florence|Florence]]
+! scope=col |[[Province de Grosseto|Grosseto]]
+! scope=col |[[Province de Livourne|Livourne]]
+! scope=col |[[Province de Lucques|Lucques]]
+! scope=col |[[Province de Massa-Carrara|M-C]]
+! scope=col |[[Province de Pise|Pise]]
+! scope=col |[[Province de Pistoia|Pistoia]]
+! scope=col |[[Province de Prato|Prato]]
+! scope=col |[[Province de Sienne|Sienne]]
+! scope=col colspan=2| Total
+|-
+|{{Infobox Parti politique italien/couleurs|CSX}}|
+|align=left|Giani
+|44,41
+|bgcolor="#FFB2B2"|57,42
+|42,05
+|bgcolor="#FFB2B2"|46,18
+|39,73
+|43,92
+|bgcolor="#FFB2B2"|47,66
+|44,02
+|bgcolor="#FFB2B2"|46,69
+|bgcolor="#FFB2B2"|52,60
+|{{Infobox Parti politique italien/couleurs|CSX}}|
+|48,62
+|-
+|{{Infobox Parti politique italien/couleurs|CDX}}|
+|align=left|Ceccardi
+|bgcolor=#B2E3FF|46,05
+|31,48
+|bgcolor=#B2E3FF|47,74
+|38,07
+|bgcolor=#B2E3FF|50,39
+|bgcolor=#B2E3FF|45,63
+|41,41
+|bgcolor=#B2E3FF|45,85
+|43,05
+|37,37
+|{{Infobox Parti politique italien/couleurs|CDX}}|
+|40,46
+|-
+|{{Infobox Parti politique italien/couleurs|M5S}}|
+|align=left|Galletti
+|6,11
+|5,52
+|6,68
+|8,66
+|6,22
+|7,13
+|7,09
+|6,49
+|6,34
+|5,83
+|{{Infobox Parti politique italien/couleurs|M5S}}|
+|6,40
+|-
+|{{Infobox Parti politique italien/couleurs|AET}}|
+|align=left|Fattori
+|1,40
+|3,21
+|1,53
+|2,76
+|2,14
+|1,94
+|1,62
+|1,34
+|2,35
+|1,68
+|{{Infobox Parti politique italien/couleurs|AET}}|
+|2,23
+|-
+|bgcolor="#F00000"|
+|align=left|Catello
+|0,67
+|0,83
+|0,60
+|2,12
+|0,54
+|1,38
+|0,96
+|0,99
+|1,04
+|0,88
+|bgcolor="#F00000"|
+|0,96
+|-
+|bgcolor="#FC2D2D"|
+|align=left|Barzanti
+|1,35
+|0,82
+|1,41
+|1,72
+|0,98
+|0
+|0,76
+|0,72
+|0
+|1,03
+|bgcolor="#FC2D2D"|
+|0,90
+|-
+|bgcolor="#D56A6A"|
+|align=left|Vigni
+|0
+|0,74
+|0
+|0,49
+|0
+|0
+|0,50
+|0,59
+|0,54
+|0,62
+|bgcolor="#D56A6A"|
+|0,43
+|-
+|colspan=2 align=left|'''Total'''
+|'''100'''
+|'''100'''
+|'''100'''
+|'''100'''
+|'''100'''
+|'''100'''
+|'''100'''
+|'''100'''
+|'''100'''
+|'''100'''
+|colspan=2|'''100'''
+|-
+|}
+{{Boîte déroulante/fin}}
+
+== Économie ==
+
+La mode et l’industrie textile sont les piliers de l’économie florentine. Au {{s-|XV|e}}, les Florentins travaillaient déjà les matières textiles de luxe comme la laine noble ou la soie. Aujourd’hui encore, les plus grands stylistes d’Europe font appel aux industries textiles de Toscane et plus particulièrement de Florence.
+
+En Toscane, 80% de la demande touristique est concentrée dans les villes d'art et stations balnéaires, le reste se partage entre campagne, collines et montagnes. Les municipalités avec le pourcentage relativement plus élevé de présences, par ordre décroissant, sont : [[Florence]], [[Pise]], [[Montecatini Terme]], [[Castiglione della Pescaia]], [[San Vincenzo]], [[Orbetello]], [[Grosseto]], [[Sienne]], [[Bibbona]], [[Viareggio]], [[Capoliveri]]. Dans les zones touristiques toscanes, avec la zone florentine, la côte étrusque détient la part relativement plus importante de présences, immédiatement suivie par la [[Maremme]] ([[Monte Argentario]], [[Île de Giglio]], [[Talamone]], [[Capalbio]]), Terre di Pisa et l'[[Île d'Elbe]]<ref>{{Lien web |langue=it |titre=Région Toscane |url=https://www.regione.toscana.it/documents/10180/479267/Rapporto+statistiche+Turismo+2019+Toscana+Regione+Toscana.pdf/3d16e0af-0eac-b2b3-df25-0e3b0a6c279e?t=1594965125044 |consulté le=22 Juillet 2022}}</ref>.
+
+== Divisions administratives ==
+[[Fichier:Map of region of Tuscany, Italy, with provinces-fr.svg|vignette|La ville métropolitaine et les neuf provinces de Toscane.]]
+La région de Toscane comprend une [[ville métropolitaine]] et neuf [[Liste des provinces italiennes par région|provinces]] :
+{{colonnes|nombre=2|taille=30|
+* [[Ville métropolitaine de Florence]] ;
+* [[Province d'Arezzo|Arezzo]] ;
+* [[Province de Grosseto|Grosseto]] ;
+* [[Province de Livourne|Livourne]] ;
+* [[Province de Lucques|Lucques]] ;
+* [[Province de Massa et Carrare|Massa et Carrare]] ;
+* [[Province de Pise|Pise]] ;
+* [[Province de Pistoia|Pistoia]] ;
+* [[Province de Prato|Prato]] ;
+* [[Province de Sienne|Sienne]].
+}}
+
+== Culture ==
+
+La région a reçu huit inscriptions de l'[[Unesco]] au titre de sites du [[Patrimoine mondial|patrimoine de l'humanité]] : 
+{{colonnes|nombre=2|taille=30|
+* le [[centre historique de Florence]] (en 1982) ;
+* le centre historique de [[Sienne]] (en 1995) ;
+* la place du Dôme de [[Pise]] (en 1987) ;
+* le centre historique de [[San Gimignano]] (en 1990) ;
+* le centre historique de [[Pienza]] (en 1996) ;
+* le Val d'Orcia (en 2004) ;
+* villas et jardins des Médicis en Toscane ;
+* forêts primaires et anciennes de hêtres des Carpates et d’autres régions d'Europe (forêt de Sasso Fratino).
+}}
+Plus généralement, toutes les villes de Toscane ont un passé prestigieux et un patrimoine culturel important.
+
+=== Films tournés en Toscane ===
+De nombreux films, téléfilms ou séquences de films de fiction ont également été tournés en Toscane<ref>Voir dans la base de données [[IMDb]], « Location : Tuscany » [https://us.imdb.com/list]</ref>.
+
+{|class="wikitable"
+|-
+!width=20%|Titre du film
+!width=5%|Année
+!width=10%|Réalisateur
+!width=25%|Acteur(s)
+!width=25%|Commentaire
+|-
+|''[[Beaucoup de bruit pour rien (film, 1993)|Beaucoup de bruit pour rien]]''
+|[[1993 au cinéma|1993]]
+|[[Kenneth Branagh]]
+|Kenneth Branagh<br />[[Emma Thompson]]<br />[[Keanu Reeves]]<br />[[Denzel Washington]]
+|Adaptation de la comédie de [[Shakespeare]]
+|-
+|''[[Sous le soleil de Toscane (film)|Sous le soleil de Toscane]]''
+|[[2003 au cinéma|2003]]
+|[[Audrey Wells]]
+|[[Diane Lane]]<br />[[Sandra Oh]]<br />[[Raoul Bova]]
+|D'après le livre éponyme autobiographique<br />de [[Frances Mayes]]
+|-
+|''[[Copie conforme (film, 2010)|Copie conforme]]''
+|[[2010 au cinéma|2010]]
+|[[Abbas Kiarostami]]
+|[[Juliette Binoche]]
+|[[Prix d'interprétation féminine]] pour [[Juliette Binoche]]
+|-
+|''[[Heaven (film, 2002)|Heaven]]''
+|[[2002 au cinéma|2002]]
+|[[Tom Tykwer]]
+|[[Cate Blanchett]]
+|
+|-
+|''[[Le Patient anglais]]''
+|[[1996 au cinéma|1996]]
+|[[Anthony Minghella]]
+|[[Ralph Fiennes]]<br />[[Kristin Scott Thomas]]<br />[[Juliette Binoche]]<br />[[Willem Dafoe]]<br />[[Colin Firth]]
+|Inspiré du roman [[L'Homme flambé]] de [[Michael Ondaatje]]<br />Il a été récompensé de 9 [[Oscar du cinéma|Oscars]]<br />Filmé à [[Pienza]]
+|-
+|''[[Twilight, chapitre III : Hésitation|Twilight III]]''
+|[[2010 au cinéma|2010]]
+|[[David Slade]]
+|[[Kristen Stewart]]<br />[[Robert Pattinson]]
+|Une partie a été filmé à [[Montepulciano]]<br />Adaptation cinématographique du [[Hésitation (roman)|roman]] de [[Stephenie Meyer]]
+|-
+|''[[La vie est belle (film, 1997)|La vie est belle]]''
+|[[1997 au cinéma|1997]]
+|[[Roberto Benigni]]
+|[[Roberto Benigni]]
+|Filmé à [[Arezzo]]
+|-
+|[[Quantum of Solace|Quantum Of Solace]]
+|2008
+|[[Marc Forster]]
+|[[Daniel Craig]]
+[[Olga Kurylenko]]
+
+[[Mathieu Amalric]]
+
+[[Giancarlo Giannini|Giancarlo Gianni]]
+
+[[Judi Dench|Judy Dench]]
+
+[[Jeffrey Wright]]
+|Filmé à [[Sienne]] et [[Talamone]]
+|}
+
+=== Cuisine ===
+La cuisine toscane est essentiellement paysanne et comporte de nombreux plats typiques composés des ingrédients issus du terroir (comme la [[Chianina]], viande de bœuf particulière au [[Latium]] et à la Toscane) :
+{|style="width: 100%; align:top"
+
+|valign=top|
+*  Acqua cotta 
+*  Anatra all'Arancia 
+*  Baccalà alla livornese 
+*  Baccalà con i ceci 
+*  Berlingozzo 
+*  Biroldo 
+*  [[Biscuits de Prato|Biscotti di Prato]] ou Cantuccini 
+*  Bistecca alla fiorentina 
+*  Bistecchine di maiale 
+*  Bordatino 
+*  [[Poutargue|Bottarga ou Bottarga di Muggine di Orbetello]] 
+*  Brigidini 
+*  Brutti ma buoni 
+*  Buccellato 
+*  Buglione 
+*  Buristo 
+*  Cacciucco alla livornese
+*  Calamari in zimino
+*  [[Caldaro dell'Argentario]] 
+*  Castagnacci
+*  Cavalucci
+*  Cavolo nero
+*  Farinata di ceci ou Cecina 
+*  Cervelli e carciofi fritti 
+*  Chiaccine 
+*  Chiocciole alla senese 
+|valign=top|
+*  Cialde di Montecatini 
+*  Ciambellino 
+*  Cibreo 
+*  Cioncia 
+*  Colli di pollo ripieni 
+*  Coniglio alla cacciatora 
+*  Confetti di Pistoia 
+*  Crespelle alla fiorentina 
+*  Crostini 
+*  Fagioli al fiasco 
+*  Fagioli all'uccelletto 
+*  Fagioli con tonno 
+*  Fegatelli 
+*  Fettunta 
+*  Ficattola
+*  Finocchiona  ou Sbriciolona 
+*  Frittelle di S. Giuseppe 
+*  Funghi porcini 
+*  Garmugia 
+*  Lampredotto 
+*  [[Lardo di Colonnata|Lardo di colonnata]] 
+*  Lepre e cinghiale in dolce e forte 
+*  Mallegato 
+*  Marroni del M.Amiata 
+|valign=top|
+*  Migliacci 
+*  Minestra di cavolo nero con le fette 
+*  Minestra di ceci 
+*  Minestra di fagioli 
+*  Minestra di farro 
+*  Minestra di pane 
+*  Mortadella di Prato 
+*  Pandiramerino 
+*  Pane alla salvia 
+*  Pane al rosmarino 
+*  Pane sciacco ou filone 
+*  [[Panforte]] 
+*  Pan pepato 
+*  Panzanella  ou Panmolle 
+*  Pappa al pomodoro  ou  Pancotto 
+*  Pappa maritata 
+*  Pappardelle al cinghiale 
+*  Parmigiano toscano 
+*  Pasimata 
+*  Passato di peperoni gialli 
+*  Patate in umido 
+*  Pecorino toscano 
+*  Pinzimonio 
+*  Pollo al mattone 
+*  Pollo alla diavola 
+*  Pollo alla toscana 
+*  Pollo e coniglio fritto 
+* [[Porchetta]]
+* Prosciutto di cinghiale
+*  Prosciutto di Cinta senese 
+*  Ribollita 
+*  [[Ricciarelli di Siena|Ricciarelli]] 
+*  Risotto toscano 
+|valign=top|
+*  Roventino 
+*  Salame toscano 
+*  Salsiccia secca 
+*  Salciccia fresca 
+*  Salsiccia di cinghiale 
+*  Sbricciolona 
+*  Schiacciata alla fiorentina 
+*  Schiacciata con l'uva 
+*  Soppressata 
+*  Spaghetti al ragù 
+*  Tacconi 
+*  Tagliata 
+*  Taglioni al tartuffo 
+*  Tarese Valdarno 
+*  Tegamaccio 
+*  Testaroli 
+*  Tonno e fagioli 
+*  Tordelli alla lucchese 
+*  Tordelli alla versiliese 
+*  Torta co' becchi 
+*  Torta d'erbe 
+*  Torta co' bischeri 
+*  Tortellini alla panna 
+*  Tortelli maremmani 
+*  Trippa alla fiorentina 
+*  Zampa alla parmigiana 
+*  [[Zuccotto]] 
+*  Zuppa arcidossina
+*  Zuppa di ceci
+*  Zuppa di vongole.vola
+|}
+
+=== Festivités ===
+La Toscane est riche d'histoire mais aussi en festivals. Les festivals les plus importants sont :
+{{colonnes|nombre=2|taille=30|
+* le [[Palio de Sienne]], un des plus anciens [[palio]] d'Italie ;
+* le Pistoia Blues Festival (festival jazz) ;
+* le Lucca summer Festival (festival de musiques actuelles) ;
+* le [[Lucques|Festival de bande dessinée de Lucques]] ;
+* le Festival international du théâtre de marionnettes de San Miniato ;
+* Italia wave (édition 2007 à Florence, 2008, 2009, 2010 à Livourne).
+}}
+
+== Personnalités nées en Toscane ==
+{{Article détaillé|Liste de personnalités nées en Toscane}}
+(Liste comportant les dates et lieux de vie, le métier ou le titre).
+
+== Notes et références ==
+{{Références|taille=35}}
+
+== Voir aussi ==
+{{Autres projets|commons=:category:Tuscany}}
+
+=== Bibliographie ===
+==== Ouvrages anciens ====
+* [[Paul Bourget]], ''Sensations d'Italie : Toscane, Ombrie, Grande-Grèce'', A. Lemerre, 1891, 342 p.
+* Auguste Henri Victor Grandjean de Montigny, Auguste Pierre Sainte Marie Famin et John Vredenburgh Van Pelt, ''Architecture toscane ou, Palais, maisons et autres édifices de la Toscane'', The Pencil Points Press, 1923, 7 p.
+* [[Paul Marmottan]], ''Les Arts en Toscane sous Napoléon : la princesse Élisa'', H. Champion, 1901, 304 p.
+* Ignazio Palomba, ''Abrégé de la langue toscane, ou nouvelle méthode, contenant les principes de l'italien, l'explication des langages qui ont contribué à sa formation'', Briasson, 1768
+* Georges Rohault de Fleury, ''La Toscane au Moyen Âge : lettres sur l'architecture civile et militaire en 1400'', V{{ve}} A. Morel et cie, 1874
+* Jean-Charles-Léonard Simonde Sismondi, ''Tableau de l'agriculture toscane'', J.J. Paschoud, 1801, 327 p.
+* Gustave Soulier, Cécile Gaillard et Florence Soulier, ''Les Influences orientales dans la peinture toscane'', H. Laurens, 1924, 447 p.
+* Giovanni Targioni-Tozzetti ({{Dr}}.), ''Voyage minéralogique, philosophique et historique en Toscane'', Lavilette, Paris, 1792, 2 vol.
+
+==== Publications contemporaines ====
+* [[Cristina Acidini-Luchinat]], Giorgio Galletti et Maria Adriana Guisti, ''Jardins des Médicis : jardins des palais et des villas dans la Toscane du Quattrocento'', Actes Sud, 1997, 223 pages {{ISBN|9782742712465}}.
+* Sophie Bajard et Raffaello Bencini, ''Villas et jardins de Toscane'', Terrail, 1992, 223 pages.
+* Jean Boutier, Sandro Landi et Olivier Rouchon, ''Florence et la Toscane, {{s mini-|XIV|e}}-{{s mini-|XIX|e}} siècles : les dynamiques d'un État italien'', [[Presses universitaires de Rennes]], 2004, 461 p. {{ISBN|9782868479921}}.
+* David Brabis, Anne Kanjounzeff et Jean-Claude Renard, ''Florence et la Toscane'', Michelin, Le Guide Vert, 2007, 447 p. {{ISBN|978-2067121744}}  
+* Reid Bramblett, ''Toscane'', Éditions Libre Expression, 2007, 160 p. {{ISBN|9782764803592}}.
+* {{Article |langue=Fr |auteur1=Raymond Chevallier |prénom1=Raymond |nom1=Chevallier |titre=La romanisation de la celtique du Pô. |sous-titre=Essai d'histoire provinciale. |périodique=Bibliothèque de l' École française d'Athènes et de Rome |volume=249 |numéro=1 |éditeur=École française de Rome |année=1983 |doi=10.3406/befar.1983.1214 |lire en ligne=http://www.persee.fr/doc/befar_0257-4101_1983_mon_249_1?h=celtique&h=po |consulté le=31 janvier 2016 |pages totales=714}}.
+* [[Charles Dédéyan]], ''Lamartine et la Toscane'', Slatkine, 1981, 204 p. {{ISBN|9782051003223}}
+* Charles M. De la Ronciere, ''Religion paysanne et religion urbaine en Toscane (c. 1250-c. 1450)'', Variorum, 1994, 336 p. {{ISBN|9780860784456}}
+* ''La Toscane et les Toscans autour de la Renaissance : cadres de vie, société, croyances : mélanges offerts à Charles-M. de La Roncière'', Publications de l'Université de Provence, 1999, 401 p.
+* Claude Hervé-Bazin, Arslan Alamir et Roland Gerth, ''Toscane : un coin de paradis'', Éditions Mondo, 2005 {{ISBN|9782832005149}}
+* Vladimír Holan, Yves Bergeret et Jiří Pelán, ''Toscane'', Atelier La Feugraie, 2001, 50 p. {{ISBN|9782905408525}}
+* Isabelle Jeuge-Maynart, ''Toscane, Assise, Orvieto, Pérouse'', Hachette, 1997 {{ISBN|9782012426429}}
+* Gilles Kerhouin, ''L'ABCdaire de la Toscane'', Flammarion, 2001, 119 p. {{ISBN|9782080127105}}
+* Jeanne Modigliani, ''Toscane'', Éditions Rencontre, 1965, 191 p.
+* Italo Moretti et Renato Stopani, ''Toscane romane'', 1982, 361 p.
+* Olivier Page, Véronique de Chardon, Isabelle Al Subaihi et Anne-Caroline Dumas, ''Toscane, Ombrie'', Guide du Routard, 2008, 499 p. {{ISBN|978-2012442108}}
+* Costanza Poli, ''La Toscane'', Gründ, 1996, 144 p. {{ISBN|9782700025415}}
+* Jean Taverne et Wojtek Buss, ''La Toscane'', Éd. du Chêne, 1998 {{ISBN|9782842771058}}
+* Ornella Tondini, ''Toscane'', Autrement, 1988, 226 p. {{ISBN|9782862602592}}
+* Valdo Verreschi, ''La Cuisine toscane'', Renaissance du Livre, 2004, 142 p. {{ISBN|9782804609078}} 
+* [[Jean-Claude Waquet]], ''Le Grand-duché de Toscane sous les derniers Médicis : essai sur le système des finances et la stabilité des institutions dans les anciens États italiens'', École française de Rome, 1990, 657 p. {{ISBN|9782728302192}}
+
+=== Filmographie ===
+==== Documentaires ====
+* [[Otar Iosseliani]], ''[[Un petit monastère en Toscane]]'', 1988, 54 min
+* [[Pierre Brouwers]], ''Toscane, la marque du génie'', Media Neuf, 2003, 52 min
+* François Guillaume, ''Toscane secrète'', Eclectic Production, 2005, 115 min
+
+=== Jeux vidéo ===
+''[[Assassin's Creed II]] ''propose une reconstitution de la campagne toscane et des villes de [[Florence]], [[Monteriggioni]] et de [[San Gimignano]] telles qu'elles étaient lors de la [[Renaissance italienne|Renaissance]]. Certaines missions annexes de sa suite, ''[[Assassin's Creed Brotherhood]]'', se déroulent également à [[Florence]].
+
+=== Articles connexes ===
+* [[Poterie en Toscane]]
+
+=== Liens externes ===
+* {{Site officiel}}
+* {{Autorité}}
+* {{Dictionnaires}}
+* {{Bases}}
+* {{Officiel|it|http://www.regione.toscana.it}}
+* {{it}} [http://www.giucano.it/ Site Internet d'un petit village de la Toscane]
+
+{{Palette|Régions italiennes}}
+{{Portail|Toscane|Italie|mer Méditerranée}}
+
+[[Catégorie:Toscane|*]]
+

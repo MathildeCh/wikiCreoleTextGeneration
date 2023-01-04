@@ -1,0 +1,1880 @@
+{{Infobox Région de France
+ | nom                       = Pays de la Loire
+ | logo                      = Logo_202209_pdl.png
+ | légende                   = [[#Conseil_régional|Logotype]]
+ | blason                    = Blason région fr Pays-de-la-Loire.svg
+ | légende blason            = Blason (héraldique)
+ | drapeau                   = Unofficial flag of Pays-de-la-Loire.svg
+ | légende drapeau           = Drapeau des Pays de la Loire
+ | langue                    = [[Angevin]], [[breton]], [[gallo]], [[mayennais]], [[Poitevin (langue)|poitevin]], [[Parler sarthois|sarthois]]
+ | préfecture                = [[Nantes]]
+ | départements              = [[Loire-Atlantique]] (44)<br>[[Maine-et-Loire]] (49)<br>[[Mayenne (département)|Mayenne]] (53)<br>[[Sarthe (département)|Sarthe]] (72)<br>[[Vendée (département)|Vendée]] (85)
+ | arrondissements           = 16
+ | cantons                   = 107
+ | communes                  = 1235
+ | conseil régional          = [[Conseil régional des Pays de la Loire]]
+ | présidente                = [[Christelle Morançais]] ([[Divers droite|DVD]])
+ | mandat                    = [[Élections régionales françaises de 2021|2021]]-2028
+ | préfet                    = Didier Martin
+ | superficie                = 32082
+ | rang superficie           = {{8e}} sur 18
+ | population                = {{Population de France/dernière_pop}}<!-- Insertion automatique, ne pas modifier -->
+ | année_pop                 = {{Population de France/dernière_année}}<!-- Insertion automatique, ne pas modifier -->
+ | rang population           = {{8e}} sur 18
+ | gentilé                   = Voir [[#Gentilé|section Gentilé]]
+ | site web                  = [http://www.paysdelaloire.fr paysdelaloire.fr]
+ | latitude                  = 47/28/N
+ | longitude                 = 0/50/E
+}}
+
+Les '''Pays de la Loire''' sont une [[région française|région]] du [[Grand Ouest français]] regroupant les [[Département français|départements]] de la Loire-Atlantique, de Maine-et-Loire, de la Mayenne, de la Sarthe et de la Vendée. La [[Préfet de région|préfecture de région]] est [[Nantes]].
+
+Bordée à l’ouest par le [[golfe de Gascogne]] ([[océan Atlantique]]), elle est délimitée au nord par les régions [[Bretagne (région administrative)|Bretagne]] et [[Normandie (région administrative)|Normandie]], à l’est par le [[Centre-Val de Loire]] avec qui elle partage la région naturelle du [[Val de Loire]] et au sud par la [[Nouvelle-Aquitaine]].
+
+La région doit son nom au principal fleuve qui la traverse : la [[Loire]].
+
+== Histoire ==
+{{article connexe|Anjou|Histoire de la Bretagne|Maine (province){{!}}Maine|Bas-Poitou|Histoire des Pays de la Loire}}
+[[Fichier:Pays de la Loire et provinces.svg|vignette|300px|droite|Carte des Pays de la Loire avec ses cinq départements, montrant les provinces qui existaient sur son territoire au {{s|XVIII}}.
+{{Début de colonnes|nombre=2}}
+{{Légende/Début}}
+{{légende|#8acd69|[[Maine (province)|Maine]]}}
+{{légende|#b9a1b9|[[Anjou]]}}
+{{légende|#8ab5b9|[[Bretagne]]}}
+{{légende|#dcca51|[[Poitou]]}}
+{{légende|#e59f56|[[Perche (province)|Perche]]}}
+{{légende|#c9748c|[[Orléanais]]}}
+{{légende|#5c6483|[[Aunis]]}}
+{{Légende/Fin}}
+{{fin de colonnes}}]]
+
+=== Des provinces aux départements ===
+En 1790, les différentes divisions territoriales administratives et religieuses du royaume de France sont remplacées par les [[Histoire des départements français|départements]].
+* La majeure partie de l'[[Anjou]] forme le département de [[Maine-et-Loire]]<ref group="Note">D'autres parties plus petites de l'Anjou se sont retrouvées dans les départements de l'[[Indre-et-Loire]], de la [[Mayenne (département)|Mayenne]], de la [[Sarthe (département)|Sarthe]] et de la [[Vienne (département)|Vienne]].</ref>.
+* La [[Bretagne]] donne naissance à cinq départements : les [[Côtes-d'Armor|Côtes-du-Nord]], le [[Finistère]], l'[[Ille-et-Vilaine]], la [[Loire-Atlantique|Loire-Inférieure]] et le [[Morbihan]].
+* Le [[Maine (province)|Maine]] a formé les départements de la [[Mayenne (département)|Mayenne]] et de la [[Sarthe (département)|Sarthe]]<ref group="Note">Le nord de l'Anjou a été rattaché à ces deux départements.</ref>.
+* Le [[Poitou]] a formé trois départements. Sa partie occidentale, le [[Bas-Poitou]], a formé le département de la [[Vendée (département)|Vendée]] et une partie de celui des [[Deux-Sèvres]].
+* Le {{Date-|9|mars|1957}}, Le département de la Loire-inférieure prend le nom de département de Loire-Atlantique<ref>http://www.nantes.maville.com/actu/50ansLoire_detail_-l-air-du-large-decoiffe-la-loire-inferieure_10340-382948_actu.Htm</ref>.
+
+=== Formation de la région ===
+Le {{date-|5 avril 1919}}, sur la proposition d'[[Étienne Clémentel]], ministre du Commerce et de l'Industrie, le gouvernement institue des « groupements économiques régionaux » ou « régions économiques » fondées sur le périmètre des [[Chambre de commerce|chambres de commerce]]. Ces regroupements étaient formés en fonction de la volonté des autorités locales. Le regroupement centré sur la ville de Nantes comportait Le [[Morbihan]] et l'[[Indre-et-Loire]] en plus des cinq départements de la région actuelle. Le Morbihan avait d'abord été placé dans la région de Rennes mais avait préféré par la suite adhérer à la région de Nantes.
+
+En 1941, le [[Régime de Vichy|gouvernement du Maréchal Pétain]] regroupe les départements en « régions » placées sous l’autorité d’un préfet régional. Il crée la région d'[[Angers]]<ref>Décret 2727</ref> incluant la Loire-Inférieure, le Maine-et-Loire, la Mayenne, la Sarthe et l'[[Indre-et-Loire]]<ref name="JMM">{{Ouvrage|langue=fr|prénom1=J.M.|nom1=Miossec|titre=Géohistoire de la régionalisation en France|sous-titre=L'horizon régional|lieu=Paris|éditeur=Quadrige/PUF|année=2008|pages totales=602|isbn=978-2-13-056665-6}}.</ref>. La Vendée n'en fait pas partie.
+
+En 1955, le gouvernement d'[[Edgar Faure]] crée les « programmes d'action régionale »<ref>{{Lien web|langue=fr|titre=Fac-similé JO du 02/07/1955|url=http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19550702&numTexte=&pageDebut=06638&pageFin=|site=[[Légifrance]]|date=02 juillet 1955|consulté le=04 octobre 2017|page=6638}}.</ref>. L'arrêté ministériel du {{date-|6 décembre 1956}}<ref>[http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19561206&numTexte=&pageDebut=11649&pageFin= ''Journal officiel'' du 6 décembre 1956, p. 11649].</ref> vient préciser la composition des régions concernées, dont celle des Pays de la Loire.
+
+En 1960, le gouvernement [[Michel Debré|Debré]] décide la création de circonscriptions d'action régionale<ref>{{Ouvrage|langue=fr|titre=Décret n°60-516 du 2 juin 1960 portant harmonisation des circonscriptions administratives|lieu=Paris|éditeur=[[Légifrance]]|date=2 juin 1960|passage=11649|lire en ligne=http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000521765|consulté le=04 octobre 2017}}.</ref> et confirme la région Pays de la Loire.
+
+Enfin, le {{date-|16 janvier 2015}}, la [[Loi relative à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral|loi relative à la délimitation des nouvelles régions]] confirme la région Pays de la Loire dans sa composition actuelle.
+
+=== Identité visuelle ===
+<gallery>
+Fichier:Blason région fr Pays-de-la-Loire.svg|<center>Blason proposé par l'héraldiste [[Robert Louis]] visible sur les trains TER de la série [[Z 9600]] de la région<ref>Voir [https://commons.wikimedia.org/wiki/File:Z9621_avec_blason_PL_%C3%A0_Sabl%C3%A9_par_Cramos.JPG la photo de la Z9621] en gare de Sablé, arborant le blason.</ref>.</center>
+Fichier:Pays de la loire premier logo.png|<center>Premier logo de la région dans les années 1990.</center>
+Fichier:Ancien logo pays de la loire .png|<center>Logo jusqu'en {{date-|octobre 2006}}.</center>
+Fichier:Région Pays-de-la-Loire (logo).svg|<center>Logo d'{{date-|octobre 2006}} à {{date-|septembre 2021}}.</center>
+Fichier:Logo région Pays de la Loire2022.svg|<center>Logo de {{date-|septembre 2021}} à {{date-|septembre 2022}}.</center>
+Fichier:Logo 202209 pdl.png|<center>Logo depuis le {{date-|1 septembre 2022}}.</center>
+</gallery>
+
+== Politique et administration ==
+=== Tendances politiques ===
+{{Article détaillé|Politique des Pays de la Loire|Conseil régional des Pays de la Loire}}
+
+Région de tradition catholique et rurale, les Pays de la Loire sont traditionnellement dirigés par la droite. Cependant, celle-ci en a perdu pour la première fois le contrôle lors des [[élections régionales françaises de 2004]]. La gauche conserve la majorité au conseil régional aux [[élections régionales françaises de 2010]] en élisant le socialiste [[Jacques Auxiette]], maire de [[la Roche-sur-Yon]]. La région bascule à droite le {{date-|18 décembre 2015}} avec l'élection de [[Bruno Retailleau]], sénateur et président du [[Groupe Les Républicains (Assemblée nationale)|groupe LR]] au sénat. Après la démission de Bruno Retailleau, [[Christelle Morançais]] est désignée par Les Républicains pour lui succéder le {{date-|7 septembre 2017}}<ref>{{Lien web|url=https://france3-regions.francetvinfo.fr/pays-de-la-loire/sarthe/le-mans/depart-bruno-retailleau-christelle-morancais-prend-tete-region-1324087.html|site=france3-regions.francetvinfo.fr|titre=Départ de Bruno Retailleau|sous-titre=Christelle Morançais désignée pour prendre la tête de la région|date=8 septembre 2017|auteur=Fabienne Béranger|consulté le=16 février 2020}}</ref> et élue par les conseillers régionaux le {{date-|19 octobre 2017}}<ref>{{Lien web|url=https://www.challenges.fr/politique/christelle-morancais-nouvelle-presidente-lr-de-la-region-pays-de-la-loire_507390|site=challenges.fr|titre=Christelle Morançais, nouvelle présidente LR de la région Pays de la Loire|date=19 octobre 2017|consulté le=16 février 2020}}</ref>. Elle quitte le groupe LR le {{date-|2 septembre 2022}}<ref>{{Lien web|url=https://www.ouest-france.fr/pays-de-la-loire/pays-de-la-loire-christelle-morancais-je-ne-suis-plus-membre-du-parti-les-republicains-7a7b3cc8-2a00-11ed-bd3f-f86da3bd80f7|accès url=payant|site=ouest-france.fr| titre=Christelle Morançais présidente des Pays de la Loire : {{citation|je ne suis plus membre des Républicains}}|périodique=''Ouest-France''|date=2 septembre 2022|auteur=Édith Geslin|consulté le=13 septembre 2022}}</ref>.
+
+==== Résultats électoraux récents ====
+{{Article détaillé|Élections régionales de 2015 dans les Pays de la Loire|Élections régionales de 2021 dans les Pays de la Loire}}
+Source<ref>{{Lien web |titre=Résultats des élections |url=https://www.interieur.gouv.fr/Elections/Les-resultats |site=www.interieur.gouv.fr}}</ref>.
+
+{| class="wikitable centre" style="text-align:center"
+! rowspan="2" scope="col" |Scrutin
+! rowspan="2" |Département
+! colspan="13" scope="col" |{{1er}} tour
+! colspan="13" scope="col" |{{2nd}} tour
+|-
+! colspan="2" scope="col" |{{1er}}
+! scope="col" |%
+! colspan="2" scope="col" |{{2e}}
+! scope="col" |%
+! colspan="2" scope="col" |{{3e}}
+! scope="col" |%
+! colspan="2" scope="col" |{{4e}}
+! scope="col" |%
+!Abs
+! colspan="2" scope="col" |{{1er}}
+! scope="col" |%
+! colspan="2" scope="col" |{{2e}}
+! scope="col" |%
+! colspan="2" scope="col" |{{3e}}
+! scope="col" |%
+! colspan="2" |4<sup>e</sup>
+!%
+!Abs
+|-
+! rowspan="6" |[[Élection présidentielle française de 2012|Présidentielle 2012]]
+!Pays de la Loire
+| {{Infobox Parti politique français/couleurs|LR}} |
+!UMP
+!28,63
+| {{Infobox Parti politique français/couleurs|PS}} |
+!PS
+!28,40
+| {{Infobox Parti politique français/couleurs|FN}} |
+!FN
+!14,39
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+!MODEM
+!11,65
+!15,83
+| {{Infobox Parti politique français/couleurs|PS}} |
+!PS
+!51,13
+| {{Infobox Parti politique français/couleurs|LR}} |
+!UMP
+!48,87
+| colspan="3" rowspan="6" |''Pas de 3<sup>e</sup>''
+| colspan="3" rowspan="6" |''Pas de 4<sup>e</sup>''
+!16,21
+|-
+!44
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|31,76
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|26,07
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|12,18
+| {{Infobox Parti politique français/couleurs|FI}} |
+|FG
+|11,65
+!15,76
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|56,35
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|43,65
+!16,07
+|-
+!49
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|29,93
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|27,10
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|13,88
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+|MODEM
+|12,77
+!15,62
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|51,15
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|48,85
+!16,03
+|-
+!53
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|30,69
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|25,87
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|14,77
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+|MODEM
+|13,78
+!15,59
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|53,07
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|46,93
+!16,00
+|-
+!72
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|28,13
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|26,43
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|19,17
+| {{Infobox Parti politique français/couleurs|FI}} |
+|FG
+|10,78
+!17,83
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|52,67
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|47,33
+!18,36
+|-
+!85
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|32,89
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|24,81
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|15,18
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+|MODEM
+|12,13
+!14,67
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|55,60
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|44,40
+!14,96
+|-
+! rowspan="6" scope="row" |[[Élections européennes de 2014 en France|Européennes 2014]]
+!Pays de la Loire
+| {{Infobox Parti politique français/couleurs|LR}} |
+!UMP
+!19,99
+| {{Infobox Parti politique français/couleurs|FN}} |
+!FN
+!19,49
+| {{Infobox Parti politique français/couleurs|PS}} |
+!PS
+!14,96
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+!MODEM
+!14,26
+!55,23
+| colspan="13" rowspan="6" |''Tour unique''
+|-
+!44
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|18,25
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|17,36
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|16,43
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|EELV
+|12,97
+!54,45
+|-
+!49
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|21,43
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|19,31
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+|MODEM
+|15,70
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|14,03
+!55,26
+|-
+!53
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+|MODEM
+|32,24
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|18,39
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|12,79
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|11,67
+!55,93
+|-
+!72
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|24,96
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|19,92
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|14,97
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+|MODEM
+|9,89
+!56,73
+|-
+!85
+| {{Infobox Parti politique français/couleurs|LR}} |
+|UMP
+|25,03
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|21,93
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|12,93
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+|MODEM
+|12,78
+!55,15
+|-
+! rowspan="6" scope="row" |[[Élections régionales de 2015 en Normandie|Régionales 2015]]
+!Pays de la Loire
+| {{Infobox Parti politique français/couleurs|LR}} |
+!LR
+!33,49
+| {{Infobox Parti politique français/couleurs|PS}} |
+!PS
+!25,75
+| {{Infobox Parti politique français/couleurs|FN}} |
+!FN
+!21,35
+| {{Infobox Parti politique français/couleurs|EELV}} |
+!EELV
+!7,82
+!50,02
+| {{Infobox Parti politique français/couleurs|LR}} |
+!LR
+!42,70
+| {{Infobox Parti politique français/couleurs|PS}} |
+!PS
+!37,56
+| {{Infobox Parti politique français/couleurs|FN}} |
+!FN
+!19,74
+| colspan="3" rowspan="6" |''Pas de 4<sup>e</sup>''
+!42,75
+|-
+!44
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|30,64
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|29,36
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|17,76
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|EELV
+|9,43
+!49,72
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|45,23
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|39,16
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|15,61
+!42,35
+|-
+!49
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|33,69
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|24,77
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|22,11
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|EELV
+|8,21
+!50,96
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|43,60
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|36,07
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|20,33
+!43,48
+|-
+!53
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|36,03
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|23,06
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|21,96
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|EELV
+|7,25
+!52,10
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|46,23
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|32,64
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|21,13
+!44,54
+|-
+!72
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|29,67
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|25,58
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|23,19
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|EELV
+|6,77
+!51,39
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|35,67
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|35,67
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|28,87
+!42,71
+|-
+!85
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|45,71
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|20,83
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|19,93
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|EELV
+|5,45
+!47,61
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|52,71
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|28,12
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|19,18
+!41,96
+|-
+! rowspan="6" scope="row" |[[Élection présidentielle française de 2017|Présidentielle 2017]]
+!Pays de la Loire
+| {{Infobox Parti politique français/couleurs|EM}} |
+!EM
+!26,27
+| {{Infobox Parti politique français/couleurs|LR}} |
+!LR
+!23,56
+| {{Infobox Parti politique français/couleurs|FI}} |
+!LFI
+!18,41
+| {{Infobox Parti politique français/couleurs|FN}} |
+!FN
+!16,62
+!16,73
+| {{Infobox Parti politique français/couleurs|EM}} |
+!EM
+!72,42
+| {{Infobox Parti politique français/couleurs|FN}} |
+!FN
+!27,58
+| colspan="3" rowspan="6" |''Pas de {{3e}}''
+| colspan="3" rowspan="6" |''Pas de 4<sup>e</sup>''
+!21,45
+|-
+!44
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|28,66
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|21,98
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|19,68
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|13,70
+!16,37
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|77,17
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|22,83
+!21,62
+|-
+!49
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|26,51
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|23,73
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|17,06
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|16,98
+!17,04
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|72,82
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|27,18
+!21,36
+|-
+!53
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|27,06
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|26,04
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|16,90
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|14,87
+!16,37
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|72,02
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|27,98
+!20,79
+|-
+!72
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|28,61
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|20,80
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|20,04
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|17,63
+!18,15
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|63,33
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|36,67
+!23,30
+|-
+!85
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|26,26
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|25,50
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|18,53
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|15,08
+!16,11
+| {{Infobox Parti politique français/couleurs|EM}} |
+|EM
+|69,96
+| {{Infobox Parti politique français/couleurs|FN}} |
+|FN
+|30,04
+!20,05
+|-
+! rowspan="6" scope="row" |[[Élections européennes de 2019 en France|Européennes 2019]]
+!Pays de la Loire
+| {{Infobox Parti politique français/couleurs|EM}} |
+!LREM
+!25,16
+| {{Infobox Parti politique français/couleurs|FN}} |
+!RN
+!18,82
+| {{Infobox Parti politique français/couleurs|EELV}} |
+!EELV
+!15,58
+| {{Infobox Parti politique français/couleurs|DVD}} |
+!UDC
+!8,73
+!47,68
+| colspan="13" rowspan="6" |''Tour unique''
+|-
+!44
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|25,63
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|EELV
+|18,92
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|14,75
+| {{Infobox Parti politique français/couleurs|PS}} |
+|PS
+|8,15
+!47,80
+|-
+!49
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|26,85
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|18,32
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|EELV
+|15,46
+| {{Infobox Parti politique français/couleurs|DVD}} |
+|UDC
+|8,92
+!47,85
+|-
+!53
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|25,88
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|19,60
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|EELV
+|13,12
+| {{Infobox Parti politique français/couleurs|DVD}} |
+|UDC
+|9,33
+!48,39
+|-
+!72
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|26,28
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|18,99
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|EELV
+|12,51
+| {{Infobox Parti politique français/couleurs|DVD}} |
+|UDC
+|9,09
+!48,20
+|-
+!85
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|26,81
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|21,30
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|EELV
+|12,53
+| {{Infobox Parti politique français/couleurs|DVD}} |
+|UDC
+|10,09
+!46,57
+|-
+! rowspan="6" |[[Élections régionales françaises de 2021|Régionales 2021]]
+!Pays de la Loire
+| {{Infobox Parti politique français/couleurs|UCD}} |
+!UCD
+!34,30
+| {{Infobox Parti politique français/couleurs|UGE}} |
+!UGE
+!18,70
+| {{Infobox Parti politique français/couleurs|DVG}} |
+!UG
+!16,32
+| {{Infobox Parti politique français/couleurs|FN}} |
+!RN
+!12,54
+!69,27
+| {{Infobox Parti politique français/couleurs|UCD}} |
+!UCD
+!46,45
+| {{Infobox Parti politique français/couleurs|UGE}} |
+!UGE
+!34,86
+| {{Infobox Parti politique français/couleurs|FN}} |
+!RN
+!10,48
+| {{Infobox Parti politique français/couleurs|DVC}} |
+!UC
+!8,20
+!68,34
+|-
+!44
+| {{Infobox Parti politique français/couleurs|UCD}} |
+|UCD
+|29,28
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|22,71
+| {{Infobox Parti politique français/couleurs|DVG}} |
+|UG
+|18,00
+| {{Infobox Parti politique français/couleurs|DVC}} |
+|UC
+|13,04
+!68,98
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|41,93
+| {{Infobox Parti politique français/couleurs|UCD}} |
+|UDC
+|40,40
+| {{Infobox Parti politique français/couleurs|DVC}} |
+|UC
+|8,95
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|8,72
+!67,61
+|-
+!49
+| {{Infobox Parti politique français/couleurs|UCD}} |
+|UCD
+|35,0
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|22,56
+| {{Infobox Parti politique français/couleurs|DVC}} |
+|UC
+|12,71
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|11,84
+!70,75
+| {{Infobox Parti politique français/couleurs|UCD}} |
+|UCD
+|49,04
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|33,83
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|9,18
+| {{Infobox Parti politique français/couleurs|DVC}} |
+|UC
+|7,95
+!69,69
+|-
+!53
+| {{Infobox Parti politique français/couleurs|DVG}} |
+|UG
+|36,02
+| {{Infobox Parti politique français/couleurs|UCD}} |
+|UCD
+|31,16
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|10,54
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|10,02
+!68,09
+| {{Infobox Parti politique français/couleurs|UCD}} |
+|UCD
+|47,09
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|37,58
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|9,44
+| {{Infobox Parti politique français/couleurs|DVC}} |
+|UC
+|5,88
+!67,17
+|-
+!72
+| {{Infobox Parti politique français/couleurs|UCD}} |
+|UCD
+|40,12
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|15,14
+| {{Infobox Parti politique français/couleurs|DVG}} |
+|UG
+|14,55
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|14,40
+!70,63
+| {{Infobox Parti politique français/couleurs|UCD}} |
+|UCD
+|51,09
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|29,42
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|13,20
+| {{Infobox Parti politique français/couleurs|DVC}} |
+|UC
+|6,29
+!69,37
+|-
+!85
+| {{Infobox Parti politique français/couleurs|UCD}} |
+|UCD
+|40,03
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|15,72
+| {{Infobox Parti politique français/couleurs|DVC}} |
+|UC
+|13,69
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|13,38
+!67,89
+| {{Infobox Parti politique français/couleurs|UCD}} |
+|UCD
+|52,10
+| {{Infobox Parti politique français/couleurs|UGE}} |
+|UGE
+|24,76
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|13,77
+| {{Infobox Parti politique français/couleurs|DVC}} |
+|UC
+|9,37
+!67,97
+|-
+! rowspan="6" |[[Élection présidentielle française de 2022|Présidentielle 2022]]
+!Pays de la Loire
+| {{Infobox Parti politique français/couleurs|EM}} |
+!LREM
+!33,27
+| {{Infobox Parti politique français/couleurs|FN}} |
+!RN
+!20,78
+| {{Infobox Parti politique français/couleurs|FI}} |
+!LFI
+!19,22
+| {{Infobox Parti politique français/couleurs|EELV}} |
+!EELV
+!6,01
+!23,02
+| {{Infobox Parti politique français/couleurs|EM}} |
+!LREM
+!64,92
+| {{Infobox Parti politique français/couleurs|FN}} |
+!RN
+!35,08
+| colspan="3" rowspan="6" |''Pas de {{3e}}''
+| colspan="3" rowspan="6" |''Pas de 4<sup>e</sup>''
+!23,61
+|-
+!44
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|31,98
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|23,43
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|16,91
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|EELV
+|7,49
+!22,37
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|69,48
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|30,52
+!24,15
+|-
+!49
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|35,59
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|20,26
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|18,27
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|EELV
+|6,04
+!23,23
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|66,53
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|33,47
+!23,50
+|-
+!53
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|36,40
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|22,39
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|15,34
+| {{Infobox Parti politique français/couleurs|LR}} |
+|LR
+|5,53
+!23,50
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|64,21
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|35,79
+!22,70
+|-
+!72
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|28,24
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|27,68
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|18,26
+| {{Infobox Parti politique français/couleurs|REC}} |
+|REC
+|5,46
+!25,64
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|55,41
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|44,59
+!25,19
+|-
+!85
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|35,64
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|23,18
+| {{Infobox Parti politique français/couleurs|FI}} |
+|LFI
+|14,42
+| {{Infobox Parti politique français/couleurs|REC}} |
+|REC
+|6,11
+!21,88
+| {{Infobox Parti politique français/couleurs|EM}} |
+|LREM
+|61,86
+| {{Infobox Parti politique français/couleurs|FN}} |
+|RN
+|38,14
+!21,90
+|}
+
+=== Circonscriptions législatives ===
+Les Pays de la Loire comptent au total 30 circonscriptions (soit une moyenne de {{unité|126 882| habitants}} par circonscription) :
+{|
+! scope="col" |[[Loire-Atlantique]]
+! scope="col" |[[Maine-et-Loire]]
+! scope="col" |[[Mayenne (département)|Mayenne]]
+! scope="col" |[[Sarthe (département)|Sarthe]]
+! scope="col" |[[Vendée (département)|Vendée]]
+|-
+| valign="top" |
+* [[Première circonscription de la Loire-Atlantique|{{1re}} circonscription]]
+* [[Troisième circonscription de la Loire-Atlantique|{{3e}} circonscription]]
+* [[Quatrième circonscription de la Loire-Atlantique|{{4e}} circonscription]]
+* [[Cinquième circonscription de la Loire-Atlantique|{{5e}} circonscription]]
+* [[Sixième circonscription de la Loire-Atlantique|{{6e}} circonscription]]
+* [[Septième circonscription de la Loire-Atlantique|{{7e}} circonscription]]
+* [[Huitième circonscription de la Loire-Atlantique|{{8e}} circonscription]]
+* [[Neuvième circonscription de la Loire-Atlantique|{{9e}} circonscription]]
+* [[Dixième circonscription de la Loire-Atlantique|{{10e}} circonscription]]
+| valign="top" |
+* [[Première circonscription de Maine-et-Loire|{{1re}} circonscription]]
+* [[Deuxième circonscription de Maine-et-Loire|{{2e}} circonscription]]
+* [[Troisième circonscription de Maine-et-Loire|{{3e}} circonscription]]
+* [[Quatrième circonscription de Maine-et-Loire|{{4e}} circonscription]]
+* [[Cinquième circonscription de Maine-et-Loire|{{5e}} circonscription]]
+* [[Sixième circonscription de Maine-et-Loire|{{6e}} circonscription]]
+* [[Septième circonscription de Maine-et-Loire|{{7e}} circonscription]]
+| valign="top" |
+* [[Première circonscription de la Mayenne|1<sup>re</sup> circonscription]]
+* [[Deuxième circonscription de la Mayenne|2<sup>e</sup> circonscription]]
+* [[Troisième circonscription de la Mayenne|3<sup>e</sup> circonscription]]
+| valign="top" |
+* [[Première circonscription de la Sarthe|1<sup>er</sup> circonscription]]
+* [[Deuxième circonscription de la Sarthe|2<sup>e</sup> circonscription]]
+* [[Troisième circonscription de la Sarthe|3<sup>e</sup> circonscription]]
+* [[Quatrième circonscription de la Sarthe|4<sup>e</sup> circonscription]]
+* [[Cinquième circonscription de la Sarthe|5<sup>e</sup> circonscription]]
+| valign="top" |
+* [[Première circonscription de la Vendée|1<sup>er</sup> circonscription]]
+* [[Deuxième circonscription de la Vendée|2<sup>e</sup> circonscription]]
+* [[Troisième circonscription de la Vendée|3<sup>e</sup> circonscription]]
+* [[Quatrième circonscription de la Vendée|4<sup>e</sup> circonscription]]
+* [[Cinquième circonscription de la Vendée|5<sup>e</sup> circonscription]]
+|}
+{| class="wikitable" style="text-align:center; width:100%;"
+|+
+! rowspan="2" |Circonscription
+! colspan="15" |Députés par département
+|-
+| colspan="3" |'''[[Loire-Atlantique]]'''
+| colspan="3" |'''[[Maine-et-Loire]]'''
+| colspan="3" |'''[[Mayenne (département)|Mayenne]]'''
+| colspan="3" |'''[[Sarthe (département)|Sarthe]]'''
+| colspan="3" |[[Vendée (département)|'''Vendée''']]
+|-
+|'''<small>Première</small>'''
+| {{Infobox Parti politique français/couleurs|EM}} |
+|<small>[[La République en marche|LREM]]</small>
+|[[Mounir Belhamiti]]
+| {{Infobox Parti politique français/couleurs|Horizons}} |
+|<small>[[Horizons|Hor.]]</small>
+|[[François Gernigon]]
+| {{Infobox Parti politique français/couleurs|PS}} |
+|<small>[[Parti socialiste (France)|PS]]</small>
+|[[Guillaume Garot]]
+| {{Infobox Parti politique français/couleurs|EM}} |
+|<small>[[La République en marche|LREM]]</small>
+|[[Julie Delpech]]
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+|<small>[[Mouvement démocrate (France)|MODEM]]</small>
+|[[Philippe Latombe]]
+|-
+|<small>'''Deuxième'''</small>
+| {{Infobox Parti politique français/couleurs|FI}} |
+|<small>[[La France insoumise|LFI]]</small>
+|[[Andy Kerbrat]]
+| {{Infobox Parti politique français/couleurs|EM}} |
+|<small>[[La République en marche|LREM]]</small>
+|[[Stella Dupont]]
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+|<small>[[Mouvement démocrate (France)|MODEM]]</small>
+|[[Géraldine Bannier]]
+| {{Infobox Parti politique français/couleurs|DVG}} |
+|<small>[[Divers gauche|DVG]]</small>
+|[[Marietta Karamanli]]
+| {{Infobox Parti politique français/couleurs|Horizons}} |
+|<small>[[Horizons|Hor.]]</small>
+|[[Béatrice Bellamy]]
+|-
+|'''<small>Troisième</small>'''
+| {{Infobox Parti politique français/couleurs|FI}} |
+|<small>[[La France insoumise|LFI]]</small>
+|[[Ségolène Amiot]]
+| {{Infobox Parti politique français/couleurs|LR}} |
+|<small>LR</small>
+|[[Anne-Laure Blin]]
+| {{Infobox Parti politique français/couleurs|Horizons}} |
+|<small>[[Horizons|Hor.]]</small>
+|[[Yannick Favennec-Bécot]]
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+|<small>[[Mouvement démocrate (France)|MODEM]]</small>
+|[[Éric Martineau|Eric Martineau]]
+| {{Infobox Parti politique français/couleurs|EM}} |
+|<small>[[La République en marche|LREM]]</small>
+|[[Stéphane Buchou]]
+|-
+|'''<small>Quatrième</small>'''
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|<small>[[Europe Écologie Les Verts|EELV]]</small>
+|[[Julie Laernoes]]
+| {{Infobox Parti politique français/couleurs|EM}} |
+|<small>[[La République en marche|LREM]]</small>
+|[[Laetitia Saint-Paul|Lætitia Saint-Paul]]
+|
+|
+|
+| {{Infobox Parti politique français/couleurs|FI}} |
+|<small>[[La France insoumise|LFI]]</small>
+|[[Élise Leboucher|Elise Leboucher]]
+| {{Infobox Parti politique français/couleurs|DVD}} |
+|<small>[[Non-inscrit à l'Assemblée nationale|NI]]</small>
+|[[Véronique Besse]]
+|-
+|'''<small>Cinquième</small>'''
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+|<small>[[Mouvement démocrate (France)|MODEM]]</small>
+|[[Sarah El Haïry]]
+| {{Infobox Parti politique français/couleurs|EM}} |
+|<small>[[La République en marche|LREM]]</small>
+|[[Denis Masséglia]]
+|
+|
+|
+| {{Infobox Parti politique français/couleurs|DVD}} |
+|<small>[[Divers droite|DVD]]</small>
+|[[Jean-Carles Grelier]]
+| {{Infobox Parti politique français/couleurs|EM}} |
+|<small>[[La République en marche|LREM]]</small>
+|[[Pierre Henriet]]
+|-
+|'''<small>Sixième</small>'''
+| {{Infobox Parti politique français/couleurs|EELV}} |
+|<small>[[Europe Écologie Les Verts|EELV]]</small>
+|[[Jean-Claude Raux]]
+| {{Infobox Parti politique français/couleurs|EM}} |
+|<small>[[La République en marche|LREM]]</small>
+|[[Nicole Dubré-Chirat]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|'''<small>Septième</small>'''
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+|<small>[[Mouvement démocrate (France)|MODEM]]</small>
+|[[Sandrine Josso]]
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+|<small>[[Mouvement démocrate (France)|MODEM]]</small>
+|[[Philippe Bolo]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|'''<small>Huitième</small>'''
+| {{Infobox Parti politique français/couleurs|FI}} |
+|<small>[[La France insoumise|LFI]]</small>
+|[[Matthias Tavel]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|'''<small>Neuvième</small>'''
+| {{Infobox Parti politique français/couleurs|MODEM}} |
+|<small>[[Mouvement démocrate (France)|MODEM]]</small>
+|[[Yannick Haury]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|'''<small>Dixième</small>'''
+| {{Infobox Parti politique français/couleurs|EM}} |
+|<small>[[La République en marche|LREM]]</small>
+|[[Sophie Errante]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|}
+
+=== Découpage administratif ===
+{| class="wikitable centre sortable" style="text-align:center; width:80%;"
+|+ Départements de la région Pays de la Loire
+|- align="center" bgcolor="#cccccc"
+! colspan="2" | Département
+! Préfecture
+! Sous-préfectures
+! Superficie<br /><small>({{Abréviation discrète|km{{2}}|kilomètres carrés}})</small>
+! Population<br /><small>(en {{Population de France/dernière_année||Ain (département)}})</small>
+! Densité<br /><small>{{nobr|({{Abréviation discrète|hab./km{{2}}|habitants par kilomètre carré}})}}</small>
+|-
+! style="background-color:FFFFFF" | 44
+| align="left" | [[Loire-Atlantique]] || align="left" |[[Nantes]]|| align="left" | [[Saint-Nazaire]] et [[Châteaubriant]] || {{smn|6809|7}} || {{formatnum:{{Population de France/dernière_pop||Loire-Atlantique}}}}<!-- Insertion automatique, ne pas modifier --> || {{smn|{{Population de France/densité||nom=Loire-Atlantique}}}}<!-- Insertion automatique, ne pas modifier -->
+|-
+! style="background-color:FFFFFF" | 49
+| align="left" | [[Maine-et-Loire]] || align="left" | [[Angers]] || align="left" | [[Cholet]], [[Saumur]] et [[Segré-en-Anjou Bleu]] || {{smn|7106|7}} || {{formatnum:{{Population de France/dernière_pop||Maine-et-Loire}}}}<!-- Insertion automatique, ne pas modifier --> || {{smn|{{Population de France/densité||nom=Maine-et-Loire}}}}<!-- Insertion automatique, ne pas modifier -->
+|-
+! style="background-color:FFFFFF" | 53
+| align="left" | [[Mayenne (département)|Mayenne]] || align="left" |[[Laval (Mayenne)|Laval]] || align="left" | [[Château-Gontier-sur-Mayenne]] et [[Mayenne (commune)|Mayenne]] || {{smn|5175|7}} || {{formatnum:{{Population de France/dernière_pop||Mayenne (département)}}}}<!-- Insertion automatique, ne pas modifier --> || {{smn|{{Population de France/densité||nom=Mayenne (département)}}}}<!-- Insertion automatique, ne pas modifier -->
+|-
+! style="background-color:FFFFFF" | 72
+| align="left" | [[Sarthe (département)|Sarthe]] || align="left" | [[Le Mans]] || align="left" | [[La Flèche]] et [[Mamers]] || {{smn|6206|7}} || {{formatnum:{{Population de France/dernière_pop||Sarthe (département)}}}}<!-- Insertion automatique, ne pas modifier --> || {{smn|{{Population de France/densité||nom=Sarthe (département)}}}}<!-- Insertion automatique, ne pas modifier -->
+|-
+! style="background-color:FFFFFF" | 85
+| align="left" | [[Vendée (département)|Vendée]] || align="left" | [[La Roche-sur-Yon]] || align="left" | [[Les Sables-d'Olonne]] et [[Fontenay-le-Comte]] || {{smn|6719|7}} || {{formatnum:{{Population de France/dernière_pop||Vendée (département)}}}}<!-- Insertion automatique, ne pas modifier --> || {{smn|{{Population de France/densité||nom=Vendée (département)}}}}<!-- Insertion automatique, ne pas modifier -->
+|}
+[[Fichier:Arrondissements des Pays de la Loire.png|thumb|center|Départements et arrondissements des Pays de la Loire]]
+
+== Géographie ==
+{{Article détaillé|Géographie des Pays de la Loire}}
+[[Fichier:Carte Pays de la Loire.jpg|vignette|Les cinq départements et leurs chefs-lieux.]]
+[[Fichier:CarteregionPaysdelaLoire.jpg|vignette|Carte des Pays de la Loire.]]
+
+La région des Pays de la Loire s'étend sur {{unité|32082|km|2}}. Elle tire son nom de la [[Loire]] qui traverse deux des cinq départements qui la composent avant de se jeter dans l'[[océan Atlantique]]. Les derniers affluents du fleuve irriguent la région : le [[Loir (rivière)|Loir]], la [[Sarthe (rivière)|Sarthe]] et la [[Mayenne (rivière)|Mayenne]] qui se rassemblent pour former la [[Maine (affluent de la Loire)|Maine]] à [[Angers]], l'[[Erdre]] au nord, le [[Thouet]] et la [[Sèvre Nantaise]] au sud. Au total, on recense {{formatnum:18000}} kilomètres de cours d'eau dans la région.
+
+Le relief de la région est constitué par des collines de [[Vendée (département)|Vendée]] au sud, au nord de la Sarthe et de la Mayenne par les [[Coëvrons]], les [[Alpes mancelles]], la [[forêt de Perseigne]] et les collines du [[Perche (région naturelle)|Perche]]. Le point culminant est le [[mont des Avaloirs]] ({{Unité|417|mètres}}). Le [[Sillon de Bretagne]], qui est la continuité des [[landes de Lanvaux]] du [[Morbihan]], se termine au promontoire de la ''butte Sainte-Anne'' à [[Nantes]]. La plus grande partie de la région est située sur le [[massif armoricain]]. Seule la partie est, est sur un [[bassin sédimentaire]] : la moitié est du département de Maine-et-Loire et le département de la Sarthe à l'est des hauteurs de [[Coëvrons]], soit les trois quarts de ce département. Cette partie de la région est d'un point de vue topographique très proche de la région centre.
+
+La région est bordée par l'océan Atlantique sur une longueur de {{nobr|368 kilomètres}} et possède deux îles importantes : l'[[île de Noirmoutier]] et l'[[île d'Yeu]]. Les côtes sont alternativement rocheuses et sablonneuses, [[Côte Sauvage (France)|Côte Sauvage]] au nord de l'embouchure de la Loire, [[Côte de Jade]] entre la Loire et l'île de Noirmoutier, [[Côte de Lumière]] en Vendée.
+
+Plusieurs [[marais]] gagnés sur la mer au cours des siècles ponctuent le littoral : la [[Brière]] près de [[Saint-Nazaire]], le [[marais breton]] au nord de la Vendée et le [[marais poitevin]] au sud.
+
+La région est la {{7e}} de [[France métropolitaine]] en [[Région française|superficie]].
+
+== Transports ==
+{{Article détaillé|Aléop|TER Pays de la Loire}}
+
+[[Aléop]] est le service de transports en commun de la région gérant les bus, cars, trains et bateaux de la région.
+
+[[Destineo]] est un [[site web]] d'information pour les voyageurs de la région.
+
+En 2014, le conseil régional des Pays de La Loire en partenariat avec la [[Société nationale des chemins de fer français]] (SNCF), a créé une carte de transport (carte TivA) réservée à tous les jeunes de 15 à 25 ans résidant dans les Pays de La Loire, quel que soit leur statut. Cette carte TivA, coûtait {{unité|25|euros}} et offrait {{nobr|50 %}} de réduction sur tous les voyages dans la région.
+
+Elle a été remplacée par la carte Mezzo accessible à tous, déclinée en deux versions, une ''moins de 26 ans'' et une autre ''plus de 26 ans''. La ''moins de 26 ans'' coute {{unité|20|euros}} l'année et la ''plus de 26 ans'' {{unité|30|euros}} l'année. Elles offrent toutes les deux -50% sur tous les voyages en transport express régional (TER) et permettent d'avoir trois accompagnateurs à moitié prix les samedis, dimanches, jours fériés et également tout l'été. Avec trois enfants de moins de 12 ans c'est gratuit.
+[[Fichier:Puces de Montsoreau.jpg|vignette|upright=0.8|[[Marché aux puces de Montsoreau|Les puces de Montsoreau]] accueillent plus de {{unité|10000|visiteurs}} à Montsoreau, tous les deuxièmes dimanches du mois.]]
+
+== Économie ==
+{{Article détaillé|Économie des Pays de la Loire}}
+
+En 2017, la région se classait au {{8e}} rang en France pour la population et le [[produit intérieur brut]].
+
+Sa principale force est l’agro-alimentaire. En 2017, ce secteur employait {{unité|47500|salariés}} ({{2e|région française}}) pour un chiffre d'affaires de {{unité|13|milliards}} d’euros ({{3e|région française}})<ref>[http://ores.paysdelaloire.fr/1152-industries-agroalimentaires.htm ORES Pays de la Loire, consulté le 26/04/2019].</ref>. Elle se place également au {{3e|rang}} pour la production de viande (51 %), pour le lait (19 %) et dans le travail du grain (20 %) ; {{unité|67|%}} du territoire est occupé par l’agriculture. Les Pays de la Loire sont la première région française pour la production de viande bovine, volaille (label rouge), lapin, canard et {{2e}} pour le lait, volaille (simple), porc et pommes de terre.
+
+En 2001, les Pays de la Loire étaient la première région de France en surface [[Horticulture|horticole]] et en nombre d'emplois dans la filière, dominant ainsi dans la production de plantes en pots fleuries ou à feuillage, de plantes à massif, de plantes vivaces, aromatiques et aquatiques, et de pépinières ornementales ou fruitières<ref>Rémi Charrier, « L’horticulture ornementale dans les Pays de la Loire », [[Direction régionale de l'Alimentation, de l'Agriculture et de la Forêt]], p. 8-9 {{lire en ligne|url=http://www.draaf.pays-de-la-loire.agriculture.gouv.fr/IMG/pdf/floralie_cle83158d-1.pdf|consulté le=22 mai 2015}}.</ref>. Six cents entreprises travaillent dans ce secteur économique, faisant travailler près de {{nombre|6000|personnes}} et générant plus de six cents millions d'euros de chiffre d'affaires<ref>Revue du Conseil régional des Pays de la Loire, n°&nbsp;26, mai-juin 2009, p. 13.</ref>.
+
+== Tourisme ==
+La gare de [[Commequiers]], en [[Vendée (département)|Vendée]], est depuis 1994 le point de départ d'un parcours de [[vélorail]] long de {{unité|10 km}} permettant de découvrir l'arrière-pays de [[Saint-Gilles-Croix-de-Vie]] jusqu'à la commune de [[Coëx]]<ref>{{Lien web|url=https://www.lefigaro.fr/voyages/ou-faire-du-velorail-dans-votre-region-1-20200601|site=lefigaro.fr|titre=Où faire du vélorail dans votre région ?|sous-titre=Pays de la Loire : vélorail de Commequiers|périodique=''Le Figaro''|date=1 juin 2020|auteur=Jean-Marc De Jaeger|consulté le=29 décembre 2022}}</ref>.
+
+== Énergie ==
+{{Article détaillé|Énergie en Pays de la Loire}}
+
+En 2016, la région Pays de la Loire était la {{8e|région}} française la plus peuplée avec {{nb|3744000 habitants}}. Sa consommation électrique était de {{unité|25264 [[Kilowatt-heure|GWh]]}} importés à 76 % des régions voisines ce qui en fait une des régions françaises les moins autonomes sur le plan électrique. Cette même année, son [[Énergie renouvelable|parc renouvelable]], en constante augmentation depuis une décennie, a permis de couvrir 7,3 % de la consommation électrique régionale.
+
+== Population et société ==
+=== Gentilé ===
+[[Le Petit Larousse]] 2009, à l'article ''Loire (Pays de la)'', ne donne pas d'appellation pour ses habitants<ref>{{Ouvrage|langue=fr|titre=[[Petit Larousse]] 2009|lieu=Paris|éditeur=[[Éditions Larousse]]|date=10 juillet 2009|pages totales=1889|isbn=978-2-03-584071-4}}.</ref>. Le terme « ligériens » est un [[néologisme]] utilisé par les médias<ref>{{Article |url=https://www.ouest-france.fr/sport/athletisme/athletisme-regionaux-de-lancers-longs-les-ligeriens-ont-les-france-en-ligne-de-mire-d08d55d8-8131-11ec-8fae-a1ccf6ed225c |titre=Athlétisme. Régionaux de lancers longs : Les Ligériens ont les France en ligne de mire |périodique=[[Ouest-France]] |date=29 janvier 2022 |accès url=payant}}</ref>{{,}}<ref>{{Article |url=https://www.tf1info.fr/france/reforme-territoriale-les-ligeriens-refusent-une-fusion-avec-le-centre-1550937.html |titre=Réforme territoriale : les Ligériens refusent une fusion avec le Centre |périodique=[[LCI]] |date=30 juin 2014 |nom=Laurent |prénom=Sibylle}}</ref>, le [[conseil régional des Pays de la Loire]]<ref>{{Lien web |brisé le=3 février 2022 |titre=FAQ : Les Pays de la Loire |url=http://www.paysdelaloire.fr/services-en-ligne/faq/actu-detaillee/n/faq-les-pays-de-la-loire/ |date=11 décembre 2008 |site=[[Conseil régional des Pays de la Loire]] |archive-date=30 décembre 2014 |archive-url=https://archive.wikiwix.com/cache/index2.php?rev_t=1419958901&url=http%3A%2F%2Fwww.paysdelaloire.fr%2Fservices-en-ligne%2Ffaq%2Factu-detaillee%2Fn%2Ffaq-les-pays-de-la-loire% |consulté le=30 décembre 2014}}</ref> et l'[[Institut national de la statistique et des études économiques]] (INSEE)<ref>{{Article |prénom1=Isabelle |nom1=Delhomme |prénom2=Pierre |nom2=Loizeau |titre=Pays de la Loire - Un Ligérien sur deux vit dans une commune rurale |périodique=Insee Flash Pays de la Loire |éditeur=[[Institut national de la statistique et des études économiques]] |numéro=111 |date=29 avril 2021 |url=https://www.insee.fr/fr/statistiques/5358686}}.</ref> pour désigner ses habitants mais ce terme est parfois usité pour les habitants du seul département de la Loire-Atlantique<ref>{{Article |url=https://www.20minutes.fr/nantes/827780-20111122-habitants-resteront-nom |titre=Les habitants resteront sans nom |périodique=[[20 Minutes]] |date=22 novembre 2011 |consulté le=13 mai 2021}}</ref>. Il est également utilisé pour les habitants du département de la [[Loire (département)|Loire]].
+
+=== Héritage linguistique ===
+Plusieurs [[langues]] endogènes sont parlées dans la région :
+* l'[[angevin]] dans l'Est de la [[Loire-Atlantique]] et dans les départements de [[Maine-et-Loire]], [[Mayenne (département)|Mayenne]] et [[Sarthe (département)|Sarthe]] ;
+* le [[breton]] sur le littoral de la Loire-Atlantique ;
+* le [[gallo]] en Loire-Atlantique ;
+* le [[Poitevin (langue)|poitevin]] en Vendée et dans le sud des départements de la Loire-Atlantique et de [[Maine-et-Loire]].
+
+=== Démographie ===
+{{Article détaillé|Démographie des Pays de la Loire}}
+Au {{date-|1 janvier 2015}}, la population du Pays de la Loire était de {{nombre|3718512|habitants}}<ref>{{lien web| url=https://www.insee.fr/fr/statistiques/3292629?sommaire=3292701|site=insee.fr|titre= Population légale 2015 des régions|consulté le=14 octobre 2020}}</ref>, contre {{formatnum:3571495}} en 2010<ref>{{lien web|url=https://www.insee.fr/fr/statistiques/2119785?sommaire=2128804|site=insee.fr|titre=Population légale 2010 des régions|consulté le=13 janvier 2018}}</ref>. Les grandes concentrations de population s'organisent autour des sept grands pôles urbains qui dépassent les {{nombre|100000|habitants}} : [[Nantes]], [[Angers]], [[Le Mans]], [[La Roche-sur-Yon]], [[Cholet]], [[Saint-Nazaire]] et [[Laval (Mayenne)|Laval]]. Ces trois premières villes font partie des vingt plus grandes [[métropole]]s françaises. La [[Loire-Atlantique]] et la [[Vendée (département)|Vendée]] sont les deux départements les plus dynamiques démographiquement depuis ces dernières années. [[Nantes]], [[Saint-Nazaire]] et [[La Roche-sur-Yon]] ont été les plus florissantes. [[Angers]] a considérablement augmenté en vingt ans ({{nombre|400000|habitants}} dans son aire urbaine). [[Le Mans]] a subi de plein fouet la régression de l'économie industrielle{{Référence nécessaire||date=mai 2009}}, avec le recul du transport par voie ferrée dès le milieu des [[années 1970]], mais la ville a rebondi et compte maintenant plus de {{nombre|300000|habitants}} dans son aire urbaine. La nouvelle impulsion est arrivée grâce au [[TGV]] en 1989 et à la construction d'autoroutes qui relient les Pays de la Loire à Paris, la Normandie et le Centre.
+
+{| class="wikitable sortable" border="1" cellspacing="0" cellpadding="6" style="margin:auto;"
+!rowspan="2"|Aires urbaines<br>(redéfinies en 2010)
+! colspan="9" |Date du recensement
+|-
+!1982
+!1990
+!1999
+!2007
+!2008
+!2010
+!2012
+!2013
+!2016
+!Code insee
+aire urbaine 2010
+|-
+|[[Aire urbaine de Nantes|Nantes]]<ref>{{lien web|url=http://www.recensement-2008.insee.fr/chiffresCles.action?codeZone=008-AU1999&idTheme=3|titre=Aire urbaine 1999 : Nantes (008)|site=insee.fr|consulté le=26 juillet 2011}}.</ref>
+| align="right" |{{formatnum:597734}}
+| align="right" |{{formatnum:644317}}
+| align="right" |{{formatnum:711241}}
+| align="right" |{{formatnum:768305}}
+| align="right" |{{formatnum:772406}}
+| align="right" |{{formatnum:862111}}
+|897 713
+|908 815
+|961 521
+| insee 008
+|-
+|[[Aire urbaine d'Angers|Angers]]<ref>{{lien web|url=http://www.recensement-2008.insee.fr/chiffresCles.action?&codeZone=023-AU1999&idTheme=3|titre=Aire urbaine 1999 : Angers (023)|site=insee.fr|consulté le=26 juillet 2011}}.</ref>
+| align="right" |{{formatnum:283473}}
+| align="right" |{{formatnum:308387}}
+| align="right" |{{formatnum:332737}}
+| align="right" |{{formatnum:345788}}
+| align="right" |{{formatnum:345071}}
+| align="right" |{{formatnum:394710}}
+|403 765
+|407 295
+|419 633
+| insee 023
+|-
+|[[Aire urbaine du Mans|Le Mans]]<ref>{{lien web|url=http://www.recensement-2008.insee.fr/chiffresCles.action?&codeZone=028-AU1999&idTheme=3|titre=Aire urbaine 1999 : Le Mans (028)|site=insee.fr|consulté le=26 juillet 2011}}.</ref>
+| align="right" |{{formatnum:276684}}
+| align="right" |{{formatnum:283849}}
+| align="right" |{{formatnum:293094}}
+| align="right" |{{formatnum:304938}}
+| align="right" |{{formatnum:305949}}
+| align="right" |{{formatnum:338981}}
+|344 893
+|346 686
+|347 397
+| insee 028
+|-
+|[[Aire urbaine de Saint-Nazaire|Saint-Nazaire]]
+| align="right" |{{formatnum:163299}}
+| align="right" |{{formatnum:166586}}
+| align="right" |{{formatnum:172421}}
+| align="right" |{{formatnum:186195}}
+| align="right" |{{formatnum:185787}}
+| align="right" |{{formatnum:207559}}
+|213 083
+|215 408
+|220 925
+| insee 046
+|-
+|[[Aire urbaine de Laval|Laval]]
+| align="right" |{{formatnum:92009}}
+| align="right" |{{formatnum:97758}}
+| align="right" |{{formatnum:102560}}
+| align="right" |{{formatnum:109727}}
+| align="right" |{{formatnum:110952}}
+| align="right" |{{formatnum:119475}}
+|121 399
+|121 634
+|
+| insee 069
+|-
+|[[Aire urbaine de La Roche-sur-Yon|La Roche-sur-Yon]]
+| align="right" |{{formatnum:86233}}
+| align="right" |{{formatnum:90893}}
+| align="right" |{{formatnum:98179}}
+| align="right" |{{formatnum:109454}}
+| align="right" |{{formatnum:111488}}
+| align="right" |{{formatnum:113619}}
+|117 965
+|118 942
+|
+|insee 075
+|-
+|[[Aire urbaine de Cholet|Cholet]]
+| align="right" |{{formatnum:72379}}
+| align="right" |{{formatnum:74309}}
+| align="right" |{{formatnum:74068}}
+| align="right" |{{formatnum:74716}}
+| align="right" |{{formatnum:74517}}
+| align="right" |{{formatnum:103289}}
+|104 917
+|104 978
+|
+| insee 084
+|-
+|[[Aire urbaine des Sables-d'Olonne|Les Sables-d'Olonne]]<ref>{{lien web|url=http://www.recensement-2008.insee.fr/chiffresCles.action?codeZone=152-AU1999&idTheme=3|titre=Aire urbaine 1999 : Sables-d'Olonne (152)|site=insee.fr|consulté le=26 juillet 2011}}.</ref>
+| align="right" |{{formatnum:35318}}
+| align="right" |{{formatnum:38769}}
+| align="right" |{{formatnum:42950}}
+| align="right" |{{formatnum:47272}}
+| align="right" |{{formatnum:47455}}
+| align="right" |{{formatnum:47401}}
+|48 477
+|48 938
+|
+| insee 152
+|-
+|[[Aire urbaine de Saumur|Saumur]]<ref>{{lien web|url=http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=POP&millesime=2013&typgeo=AU2010&search=158|titre=Chiffres clés Évolution et structure de la population : aire urbaine de Saumur (158)|site=insee.fr|consulté le=12 novembre 2016}}.</ref>
+| align="right" |{{formatnum:48399}}
+| align="right" |{{formatnum:47853}}
+| align="right" |{{formatnum:47504}}
+| align="right" |{{formatnum:46430}}
+| align="right" |{{formatnum:46653}}
+| align="right" |{{formatnum:45285}}
+| align="right" |{{formatnum:45033}}
+| align="right" |{{formatnum:44960}}
+|
+| insee 158
+|-
+|[[Aire urbaine de Sablé-sur-Sarthe|Sablé-sur-Sarthe]]<ref>{{lien web|url=http://www.recensement-2008.insee.fr/chiffresCles.action?codeZone=205-AU1999&idTheme=3|titre=Aire urbaine 1999 : Sablé-sur-Sarthe (205)|site=insee.fr|consulté le=26 juillet 2011}}.</ref>
+| align="right" |{{formatnum:24398}}
+| align="right" |{{formatnum:26005}}
+| align="right" |{{formatnum:28276}}
+| align="right" |{{formatnum:30440}}
+| align="right" |{{formatnum:30440}}
+| align="right" |{{formatnum:31102}}
+|31 393
+|31 419
+|
+| insee 195
+|-
+|[[Aire urbaine de Fontenay-le-Comte|Fontenay-le-Comte]]<ref>{{lien web|url=http://www.recensement-2008.insee.fr/chiffresCles.action?codeZone=227-AU1999&idTheme=3|titre=Aire urbaine 1999 : Fontenay-le-Comte (227)|site=insee.fr|consulté le=26 juillet 2011}}.</ref>
+| align="right" |{{formatnum:25544}}
+| align="right" |{{formatnum:25399}}
+| align="right" |{{formatnum:24935}}
+| align="right" |{{formatnum:26625}}
+| align="right" |{{formatnum:26644}}
+| align="right" |{{formatnum:27642}}
+|27 538
+|
+|
+| insee 205
+|-
+|[[Aire urbaine de Mayenne|Mayenne]]<ref>{{lien web|url=http://www.recensement-2008.insee.fr/chiffresCles.action?codeZone=224-AU1999&idTheme=3|titre=Aire urbaine 1999 : Mayenne (224)|site=insee.fr|consulté le=26 juillet 2011}}.</ref>
+| align="right" |{{formatnum:23033}}
+| align="right" |{{formatnum:24050}}
+| align="right" |{{formatnum:25254}}
+| align="right" |{{formatnum:26407}}
+| align="right" |{{formatnum:26373}}
+| align="right" |{{formatnum:27579}}
+|27 761
+|
+|
+| insee 206
+|-
+|[[Aire urbaine de Saint-Hilaire-de-Riez|Saint-Hilaire-de-Riez]]<ref>{{lien web|url=http://www.recensement-2008.insee.fr/chiffresCles.action?codeZone=243-AU1999&idTheme=3|titre=Aire urbaine 1999 : Saint-Gilles-Croix-de-Vie (243)|site=insee.fr|consulté le=26 juillet 2011}}.</ref>
+| align="right" |{{formatnum:16935}}
+| align="right" |{{formatnum:19323}}
+| align="right" |{{formatnum:22207}}
+| align="right" |{{formatnum:26549}}
+| align="right" |{{formatnum:26987}}
+| align="right" |{{formatnum:27212}}
+|27 958
+|28 432
+|
+| insee 209
+|-
+||[[Aire urbaine de Challans|Challans]]<ref>{{lien web|url=http://www.recensement-2008.insee.fr/chiffresCles.action?codeZone=298-AU1999&idTheme=3|titre=Aire urbaine 1999 : Challans (298)|site=insee.fr|consulté le=26 juillet 2011}}.</ref>
+| align="right" |{{formatnum:12845}}
+| align="right" |{{formatnum:14203}}
+| align="right" |{{formatnum:16136}}
+| align="right" |{{formatnum:18035}}
+| align="right" |{{formatnum:18338}}
+| align="right" |{{formatnum:25507}}
+|26 088
+|26 567
+|
+| insee 226
+|-
+||[[Aire urbaine de Château-Gontier|Château-Gontier]]<ref>{{lien web|url=http://www.recensement-2008.insee.fr/chiffresCles.action?codeZone=252-AU1999&idTheme=3|titre=Aire urbaine 1999 : Château-Gontier (252)|site=insee.fr|consulté le=26 juillet 2011}}.</ref>
+| align="right" |{{formatnum:19004}}
+| align="right" |{{formatnum:20381}}
+| align="right" |{{formatnum:21528}}
+| align="right" |{{formatnum:22987}}
+| align="right" |{{formatnum:23349}}
+| align="right" |{{formatnum:24843}}
+|25 252
+|
+|
+| insee 227
+|-
+|[[Aire urbaine de Châteaubriant|Châteaubriant]]<ref>{{lien web|url=http://www.recensement-2008.insee.fr/chiffresCles.action?codeZone=241-AU1999&idTheme=3|titre=Aire urbaine 1999 : Châteaubriant (241)|site=insee.fr|consulté le=26 juillet 2011}}.</ref>
+| align="right" |{{formatnum:24115}}
+| align="right" |{{formatnum:23334}}
+| align="right" |{{formatnum:22423}}
+| align="right" |{{formatnum:23827}}
+| align="right" |{{formatnum:23722}}
+| align="right" |{{formatnum:24125}}
+|24 093
+|
+|
+| insee 229
+|-
+|[[Aire urbaine d'Ancenis|Ancenis]]<ref>{{lien web|url=http://www.recensement-2008.insee.fr/chiffresCles.action?codeZone=283-AU1999&idTheme=3|titre=Aire urbaine 1999 : Ancenis (283)|site=insee.fr|consulté le=26 juillet 2011}}.</ref>
+| align="right" |{{formatnum:16580}}
+| align="right" |{{formatnum:17134}}
+| align="right" |{{formatnum:17390}}
+| align="right" |{{formatnum:19801}}
+| align="right" |{{formatnum:20220}}
+| align="right" |{{formatnum:10211}}
+|10 283
+|
+|
+| insee 375
+|-
+|[[Aire urbaine de La Flèche|La Flèche]]<ref>{{lien web|url=http://www.recensement-2008.insee.fr/chiffresCles.action?codeZone=280-AU1999&idTheme=3|titre=Aire urbaine 1999 : Flèche (280)|site=insee.fr|consulté le=26 juillet 2011}}.</ref>
+| align="right" |{{formatnum:16929}}
+| align="right" |{{formatnum:17294}}
+| align="right" |{{formatnum:17657}}
+| align="right" |{{formatnum:18182}}
+| align="right" |{{formatnum:18357}}
+| align="right" |{{formatnum:17122}}
+|16 948
+|
+|
+| insee 277
+|-
+|[[Aire urbaine de Saint-Brevin-les-Pins|Saint-Brevin-les-Pins]]
+| align="right" |{{formatnum:13880}}
+| align="right" |{{formatnum:14312}}
+| align="right" |{{formatnum:16335}}
+| align="right" |{{formatnum:20189}}
+| align="right" |{{formatnum:21224}}
+| align="right" |{{formatnum:21607}}
+|22 756
+|22 870
+|
+| insee 245
+|-
+|[[Aire urbaine de La Ferté-Bernard|La Ferté-Bernard]]<ref>{{lien web|url=http://www.recensement-2008.insee.fr/chiffresCles.action?codeZone=291-AU1999&idTheme=3|titre=Aire urbaine 1999 : Ferté-Bernard (291)|site=insee.fr|consulté le=26 juillet 2011}}.</ref>
+| align="right" |{{formatnum:16113}}
+| align="right" |{{formatnum:16601}}
+| align="right" |{{formatnum:16931}}
+| align="right" |{{formatnum:17852}}
+| align="right" |{{formatnum:17953}}
+| align="right" |{{formatnum:21298}}
+|21 258
+|
+|
+| insee 247
+|-
+|[[Aire urbaine de Pornic|Pornic]]
+| align="right" |{{formatnum:11196}}
+| align="right" |{{formatnum:12382}}
+| align="right" |{{formatnum:14940}}
+| align="right" |
+| align="right" |
+| align="right" |{{formatnum:17886}}
+|17 961
+|18 392
+|
+| insee 273
+|-
+|[[Aire urbaine des Herbiers|Les Herbiers]]<ref>{{lien web|url=http://www.recensement-2008.insee.fr/chiffresCles.action?codeZone=321-AU1999&idTheme=3|titre=Aire urbaine 1999 : Herbiers (321)|site=insee.fr|consulté le=26 juillet 2011}}.</ref>
+| align="right" |{{formatnum:12049}}
+| align="right" |{{formatnum:13413}}
+| align="right" |{{formatnum:13937}}
+| align="right" |{{formatnum:14893}}
+| align="right" |{{formatnum:14811}}
+| align="right" |{{formatnum:17494}}
+|18 197
+|18 511
+|
+| insee 279
+|-
+|[[Aire urbaine de Montaigu|Montaigu]]
+| align="right" |{{formatnum:9682}}
+| align="right" |{{formatnum:10330}}
+| align="right" |{{formatnum:11451}}
+| align="right" |{{formatnum:}}
+| align="right" |{{formatnum:}}
+| align="right" |{{formatnum:12977}}
+|13 551
+|13 679
+|
+| insee 329
+|-
+|[[Aire urbaine de Saint-Jean-de-Monts|Saint-Jean-de-Monts]]
+| align="right" |{{formatnum:8461}}
+| align="right" |{{formatnum:9019}}
+| align="right" |{{formatnum:10227}}
+| align="right" |
+| align="right" |{{formatnum:}}
+| align="right" |{{formatnum:12047}}
+|12 351
+|12 525
+|
+| insee 347
+|-
+|[[Aire urbaine de Luçon|Luçon]]
+| align="right" |{{formatnum:10516}}
+| align="right" |{{formatnum:10890}}
+| align="right" |{{formatnum:11180}}
+| align="right" |{{formatnum:}}
+| align="right" |{{formatnum:}}
+| align="right" |{{formatnum:11930}}
+|11 667
+|11 659
+|
+| insee 348
+|-
+|[[Aire urbaine de Segré|Segré]]<ref>{{lien web|url=http://www.recensement-2008.insee.fr/chiffresCles.action?codeZone=346-AU1999&idTheme=3|titre=Aire urbaine 1999 : Segré (346)|site=insee.fr|consulté le=26 juillet 2011}}.</ref>
+| align="right" |{{formatnum:10720}}
+| align="right" |{{formatnum:10293}}
+| align="right" |{{formatnum:10342}}
+| align="right" |{{formatnum:10898}}
+| align="right" |{{formatnum:11003}}
+| align="right" |{{formatnum:10393}}
+|10 510
+|
+|
+| insee 371
+|}
+
+=== Les résidences secondaires ===
+Ce tableau indique les communes des Pays de la Loire qui comptaient en 2008 plus de 3 000 résidences secondaires<ref>[http://www.insee.fr/fr/recensement/page_accueil_rp.htm Site du recensement de l’INSEE], chiffres au 01/01/2008.</ref>.
+{| class="wikitable centre"
+! style="text-align:center"| Ville
+! style="text-align:center"| département
+! style="text-align:right"| Rés. secondaires
+|-
+| style="text-align:left" | [[La Baule-Escoublac]]
+| style="text-align:left" | [[Loire-Atlantique]]
+| {{formatnum:12488}}
+|-
+| style="text-align:left" | [[Saint-Jean-de-Monts]]
+| style="text-align:left" | [[Vendée (département)|Vendée]]
+| {{formatnum:12426}}
+|-
+| style="text-align:left" | [[Les Sables-d'Olonne (commune déléguée)|Les Sables-d'Olonne]]
+| style="text-align:left" | [[Vendée (département)|Vendée]]
+| {{formatnum:10989}}
+|-
+| style="text-align:left" | [[Saint-Hilaire-de-Riez]]
+| style="text-align:left" | [[Vendée (département)|Vendée]]
+| {{formatnum:10632}}
+|-
+| style="text-align:left" | [[La Tranche-sur-Mer]]
+| style="text-align:left" | [[Vendée (département)|Vendée]]
+| {{formatnum:8794}}
+|-
+| style="text-align:left" | [[Pornichet]]
+| style="text-align:left" | [[Loire-Atlantique]]
+| {{formatnum:6201}}
+|-
+| style="text-align:left" | [[Bretignolles-sur-Mer]]
+| style="text-align:left" | [[Vendée (département)|Vendée]]
+| {{formatnum:5767}}
+|-
+| style="text-align:left" | [[Pornic]]
+| style="text-align:left" | [[Loire-Atlantique]]
+| {{formatnum:4644}}
+|-
+| style="text-align:left" | [[Noirmoutier-en-l'Île]]
+| style="text-align:left" | [[Vendée (département)|Vendée]]
+| {{formatnum:4481}}
+|-
+| style="text-align:left" | [[Saint-Gilles-Croix-de-Vie]]
+| style="text-align:left" | [[Vendée (département)|Vendée]]
+| {{formatnum:3890}}
+|-
+| style="text-align:left" | [[Saint-Brevin-les-Pins]]
+| style="text-align:left" | [[Loire-Atlantique]]
+| {{formatnum:3733}}
+|-
+| style="text-align:left" | [[Le Pouliguen]]
+| style="text-align:left" | [[Loire-Atlantique]]
+| {{formatnum:3606}}
+|-
+| style="text-align:left" | [[Piriac-sur-Mer]]
+| style="text-align:left" | [[Loire-Atlantique]]
+| {{formatnum:3325}}
+|-
+| style="text-align:left" | [[Nantes]]
+| style="text-align:left" | [[Loire-Atlantique]]
+| {{formatnum:3261}}
+|-
+| style="text-align:left" | [[La Faute-sur-Mer]]
+| style="text-align:left" | [[Vendée (département)|Vendée]]
+| {{formatnum:3251}}
+|-
+| style="text-align:left" | [[Le Croisic]]
+| style="text-align:left" | [[Loire-Atlantique]]
+| {{formatnum:3196}}
+|-
+| style="text-align:left" | [[L'Île-d'Yeu]]
+| style="text-align:left" | [[Vendée (département)|Vendée]]
+| {{formatnum:3173}}
+|-
+| style="text-align:left" | [[Saint-Michel-Chef-Chef]]
+| style="text-align:left" | [[Loire-Atlantique]]
+| {{formatnum:3034}}
+|}
+
+=== Enseignement ===
+L'[[Académie de Nantes]] regroupe cinq inspections académiques représentant chacune un des départements de la région : [[Loire-Atlantique]], [[Maine-et-Loire]], [[Mayenne (département)|Mayenne]], [[Sarthe (département)|Sarthe]] et [[Vendée (département)|Vendée]].
+
+L'[[Académie de Nantes (éducation)|Académie de Nantes]] emploie plus de {{unité|60000|agents}} dont 86 % d'enseignants. Elle compte plus de {{unité|700000|élèves}} et apprentis ainsi que plus de {{unité|100000|étudiants}}.
+
+=== Religion ===
+{{Section à sourcer|date=novembre 2016}}
+Pour les catholiques, les Pays de la Loire relève de la [[province ecclésiastique de Rennes]]. Le saint [[Louis-Marie Grignion de Montfort]] effectua de nombreuses années de son apostolat au sein du pays. La région recèle aussi plusieurs « pôles » particuliers du catholicisme tels que le centre grégorien qu'est l'[[abbaye Saint-Pierre de Solesmes]], la [[Abbaye Notre-Dame d'Évron|maison-mère]] de la [[communauté Saint-Martin]], [[église du Saint-Sépulcre d'Angers|une des trois répliques]]<ref>{{Lien web|titre = Le Saint Sépulcre|url = http://www.servantesdespauvres-osb.org/evenements/saint-sepulcre/|site=servantesdespauvres-osb.org|consulté le=6 septembre 2015}}.</ref> du [[Saint-Sépulcre|Saint-Sépulcre de Jérusalem]] ou même un [[Prieuré de la Haie-aux-Bonshommes|couvent]] de [[Fraternité Saint-Dominique|dominicains traditionalistes]].
+
+=== Recherche ===
+Au {{date|1 janvier 2008}}, les deux [[Institut national de la recherche agronomique|INRA]] ([[Institut national de la recherche agronomique]]), l'INRA d'Angers et l'INRA de Nantes ont fusionné pour donner naissance au premier établissement public scientifique des Pays de la Loire : son nom est « INRA d'Angers-Nantes ».
+
+Le {{date-|13 mai 2010}}, la diffusion télévisuelle dans les Pays de la Loire est passée définitivement au numérique ; la diffusion en signal hertzien classique a été arrêtée.
+
+== Patrimoine ==
+{{Article détaillé|Culture des Pays de la Loire}}Le patrimoine des Pays de la Loire est hérité des anciennes provinces d'[[Anjou]], du [[duché de Bretagne]], du [[Comte du Maine|Maine]] et du [[Poitou]].
+
+=== Patrimoine culturel ===
+[[Fichier:Tapisserie de l'apocalypse.jpg|thumb|[[Tenture de l'Apocalypse]] au [[château d'Angers]].]]
+[[Fichier:Chateau de Terre-Neuve vue générale.jpg|thumb|[[Château de Terre-Neuve]] à [[Fontenay-le-Comte]].]]
+
+{{Citation|Le Val de Loire est un paysage culturel exceptionnel, comprenant des villes et villages historiques, de grands monuments architecturaux - les châteaux - et des terres cultivées, façonnées par des siècles d'interaction entre les populations et leur environnement physique, dont la Loire elle-même}}, selon le site de l'[[Organisation des Nations unies pour l'éducation, la science et la culture|Unesco]]. Une partie de la région est classée au [[patrimoine mondial]] (de l'Unesco), selon les ''critères (i)'' (architecture remarquable), ''(ii)'' (paysage culturel, développement harmonieux d’interactions entre les hommes et leur environnement sur deux mille ans d’histoire), ''(iv)'' (nombreux monuments culturels, illustrant à un degré exceptionnel les idéaux de la Renaissance et du [[siècle des Lumières]]), sous l'appellation [[Val de Loire]]. La zone classée s'étend sur le [[Maine-et-Loire|département de Maine-et-Loire]], de [[Montsoreau]] jusqu'à [[Chalonnes-sur-Loire]]. Ce classement permet la protection du patrimoine culturel du [[Val de Loire]] (parcs, [[châteaux de la Loire]] et villes), partagé entre les régions [[Centre-Val de Loire]] et des Pays de la Loire. La région comprend des [[châteaux de la Loire]] majeurs : le [[château de Montsoreau]], seul château de la Loire construit dans le lit de la Loire, le château de [[Montreuil-Bellay]], le [[château de Saumur]], le [[château de Brissac]], le château [[Le Lude]], le château de [[Baugé]], le [[château de Serrant]], le [[château d'Angers]] et le [[château du Plessis-Bourré]].
+
+[[Fichier:Château de Montsoreau(Maine-et-Loire).jpg|vignette|[[Château de Montsoreau-Musée d'art contemporain]].]]
+
+Les villes d'[[Angers]], de [[Fontenay-le-Comte]], de [[Laval (Mayenne)|Laval]], du [[Le Mans|Mans]], de [[Guérande]], de [[Nantes]] et de [[Saumur]] sont labelisées [[Villes et pays d'art et d'histoire|villes d'art et d'histoire]].
+
+Les villages de [[Montsoreau]], de [[Sainte-Suzanne (Mayenne)|Sainte-Suzanne]] et de [[Vouvant]] font partie de l'association des [[Les Plus Beaux Villages de France|plus beaux villages de France]].
+
+La région bénéficie d'un patrimoine culturel d'exception avec de nombreux musées et galeries d'art comme la [[galerie David d'Angers]] à Angers, le [[musée de Tessé]] au Mans, le [[Musée des Sciences de Laval|musée des Sciences]] de Laval, ou encore le [[musée Jules-Verne]] de Nantes. Les musées de la région regroupent un patrimoine d'exception à l'image de la [[Tenture de l'Apocalypse]], le [[Chant du monde]] de [[Jean Lurçat]], ou le plus important fonds mondial d’œuvres de [[Art and Language|Art & Language]] au [[Château de Montsoreau - musée d'Art contemporain|Château de Montsoreau-Musée d'art contemporain]], rapatrié par [[Philippe Méaille]] en {{date-|décembre 2017}}<ref>{{Article|langue=fr|auteur1=Roxana Azimi|titre=La crise Catalane fait fuir les collectionneurs|périodique=Le Monde|date=18 octobre 2017|issn=0395-2037|lire en ligne=https://www.lemonde.fr/arts/article/2017/10/18/la-crise-catalane-fait-fuir-les-collectionneurs_5202461_1655012.html}}.</ref>{{,}}<ref>{{Article|langue=fr|auteur1=Hélène Bonnet|titre=Crise politique en Catalogne : un collectionneur d'art rapatrie sa collection en France.|périodique=LCI|date=28 novembre 2017|lire en ligne=https://www.lci.fr/international/video-crise-politique-en-catalogne-un-collectionneur-d-art-rapatrie-sa-collection-en-france-2071762.html}}.</ref>.
+
+L'élément culturel majeur de la région est l'[[Orchestre national des Pays de la Loire]]. Il compte dix mille abonnés et deux centaines de concerts annuels qui rassemblent près de {{nombre|200000|spectateurs}} par an. L'Orchestre national des Pays de la Loire est l'un des orchestres rencontrant la plus forte audience en [[Europe]]. Il bénéficie du soutien financier du [[conseil régional des Pays de la Loire]], du [[Ministère de la Culture (France)|ministère de la Culture]], des cinq préfectures de département ainsi que des cinq conseils généraux de la région.
+
+=== Patrimoine naturel ===
+Le [[Val de Loire]] classé au [[patrimoine mondial]] (de l'Unesco)) permet la protection des espaces naturels des bords de [[Loire]]. La grande variété des biotopes du fleuve et de ses rives : berges et bancs sableux, îlots de gravier recouverts de végétation, berges boisées inondables, digues de protection, terrasses du lit majeur, forêts, accueillent une grande variété d’habitats naturels, dont profitent une flore et une faune riches et abondantes. Le [[parc naturel régional Loire-Anjou-Touraine]], situé entre les villes d'[[Angers]] et de [[Tours]], est inclus dans le classement ''Val de Loire''.
+
+Le [[parc naturel régional Normandie-Maine]] permet la protection de la faune et la flore dans le Sud de la [[Basse-Normandie]] et dans le Nord des Pays de la Loire. Il comprend le point culminant de la région, le [[mont des Avaloirs]] ({{unité|416.3|mètres}})<ref>{{Lien brisé |url=http://geodesie.ign.fr/fiches/pdf/T.F.M3-37_479944.pdf |titre=Fiche de nivellement consultée le 29 novembre sur le site geodesie.ign.fr }}.</ref>. Le « belvédère des Avaloirs » aménagé au sommet du mont offre un panorama sur les environs.
+
+Le [[parc naturel régional de Brière]] est situé au nord de l'estuaire de la [[Loire]] et couvre une vaste zone de marais. Il s'étend sur {{nb|490 km2}} et abrite de nombreuses espèces animales et végétales.
+
+Plusieurs [[Liste des réserves naturelles nationales de France|réserves naturelles nationales]] permettent la protection d'autre site de la région<ref>http://www.reserves-naturelles.org/reserves/region.asp?arbo=1.0&id=22</ref> :
+* les [[basses vallées angevines]] sur les départements de [[Maine-et-Loire]] et de la [[Mayenne (département)|Mayenne]] ;
+* le [[Marais poitevin]] (surnommé la « Venise Verte ») et la [[Réserve naturelle nationale de la baie de l'Aiguillon|baie de l'Aiguillon]] ; la zone s'étend sur les régions [[Nouvelle-Aquitaine]] et Pays de la Loire et les [[département français|départements]] de la [[Vendée (département)|Vendée]], des [[Deux-Sèvres]] et de la [[Charente-Maritime]] ;
+* le [[Marais breton|Marais breton-vendéen]] entre les départements de la [[Loire-Atlantique]] et de [[Vendée (département)|Vendée]] ;
+* le [[lac de Grand-Lieu]] en [[Loire-Atlantique]].
+
+=== Événements majeurs ===
+==== Loire-Atlantique ====
+[[Fichier:W1692-Hellfest2013 s-Mainstages 70732.JPG|vignette|Le [[Hellfest]] attire tous les ans plus de {{unité|100000|festivaliers}} à [[Clisson]].]]
+* Le festival [[Nantes|nantais]] [[La Folle Journée]] a lieu principalement à [[Nantes]], mais aussi dans dix villes de la région.
+* Les [[Floralies internationales]] de Nantes ont lieu tous les cinq ans.
+* Le [[Hellfest]], l'un des plus gros festivals de [[hard rock]] de France (le plus gros de musique [[heavy metal|metal]]) et l'un des plus importants d'Europe. Fréquenté par environ 152 000 personnes (édition 2017) sur 3 jours au mois de juin, il est basé sur le complexe sportif du Val-de-Moine à [[Clisson]].
+* Les [[Utopiales]], festival de [[science-fiction]], qui a lieu tous les ans en novembre à Nantes.
+* Le [[Jumping international de France]], compétition annuelle à [[La Baule-Escoublac]].
+* Les [http://www.fetedesjonquilles44.com/ Jonquilles en fêtes] depuis 1965 est un défilé annuel de chars à [[Saint-Étienne-de-Montluc]]
+* La Nuit de l'Erdre, festival de musique.
+
+==== Maine-et-Loire ====
+* Le [[Festival d'Anjou]], festival de théâtre, se tient chaque année à [[Angers]].
+* Les [[Accroche-Cœurs]] d'Angers, festival de [[spectacle de rue]] ayant lieu en septembre.
+* Festival [[Premiers Plans]] d'Angers, [[festival de cinéma]] consacré aux premières œuvres cinématographiques européennes depuis 1989.
+* Le [[Carnaval de Cholet]].
+* Le [[Festival estival de Trélazé]].
+* [[Les Z'éclectiques]].
+* [[Les Orientales (festival)|Les Orientales]].
+* Saveurs Jazz Festival, à [[Segré-en-Anjou Bleu]].
+* Anjou Vélo Vintage.
+* The City Trucks Festival.
+
+==== Mayenne ====
+* Le salon [[Laval Virtual]] est le plus grand rendez-vous européen consacré aux technologies de la réalité virtuelle et de la 3D en temps réel. Il se déroule à Laval au mois d'avril pendant cinq jours.
+* [[Les 3 Éléphants]], festival de musiques actuelles et d'arts de la rue se déroulant à [[Laval (Mayenne)|Laval]].
+* [[Au Foin de la Rue|Au Foin De La Rue]], festival de musiques actuelles ayant lieu à Saint-Denis-de-Gastines chaque été depuis l'année 2000.
+
+==== Sarthe ====
+* Les [[24 Heures du Mans]] (auto, moto, karting et camion) qui ont lieu tous les ans [[Le Mans|au Mans]].
+* Le [[Grand Prix moto de France]] qui a lieu tous les ans sur le [[circuit Bugatti]] au Mans.
+* [[La Nuit des Chimères]], dans la ville du Mans, met en scène en lumière et musique tout l'été l'histoire et le patrimoine de la [[Cité Plantagenêt]].
+* L'[[Europajazz Festival]] réunit en mai les acteurs majeurs du [[jazz]].
+* [[Le Mans fait son cirque]] est un moment populaire mettant à l'honneur l’univers du [[cirque]].
+* Le [[Coupe de France de robotique|Festival Artec]] à [[la Ferté-Bernard]], fin mai, est une compétition des nombreuses écoles d'ingénieurs de l’Hexagone.
+* Les Nuits d'été ; Le Festival baroque et Rockyssimomes qui ont lieu tous les étés au parc du [[château de Sablé]].
+* Le festival « Les Affranchis de La Flèche » propose chaque année le deuxième week-end du mois de juillet, un grand moment de fête dans la rue. Il réunit des compagnies de théâtre et des arts de la rue représentatifs de la diversité de cet art.
+
+==== Vendée ====
+* Le [[Vendée Globe]], course à la voile en solitaire sans escale et sans assistance autour du monde, qui part tous les quatre ans des [[Les Sables-d'Olonne|Sables-d'Olonne]].
+* Le [[Festival de Poupet]], l'un des plus grands [[festivals]] de l'Ouest de la France aussi bien par sa durée que par sa grandeur. Il a lieu tous les ans au mois de juillet à [[Saint-Malô-du-Bois]] en [[Vendée (département)|Vendée]] à côté du [[Puy du Fou]].
+* Le Festival International du film à [[La Roche-sur-Yon]]<ref>https://www.ouest-france.fr/actu/actuLocale_-Festival-international-du-film-de-la-Roche-sur-Yon-_85191-ild-20121023-3574292-222_actuLocale.Htm</ref>{{,}}<ref>http://www.allocine.fr/festivals/festival-2844/edition-18355186/.</ref>{{,}}<ref>{{Article |auteur1=Isabelle Regnier et Isabelle Regnier (à La Roche-sur-Yon) |titre=A La Roche-sur-Yon, dégustation de mythologies cinéphiles |périodique=[[Le Monde]] |date=23 octobre 2012|lire en ligne=https://www.lemonde.fr/culture/article/2012/10/23/a-la-roche-sur-yon-degustation-de-mythologies-cinephiles_1779123_3246.html}}.</ref>.
+* Le [[Les Sables-d'Olonne (commune déléguée)#Événements|festival Simenon]], en juin, centré sur l'œuvre de Georges Simenon.
+* Le [[Puy du Fou]], [[parc de loisirs]] à thématique historique (depuis 1989), ainsi que son spectacle nocturne « La Cinéscénie » (chaque année de juin à septembre depuis 1978).
+
+== Héraldique ==
+{{Blasonnement
+| image=Blason région fr Pays-de-la-Loire.svg
+| descript=parti : 1 -d'azur semé de fleurs de lys d'or ; 2 - d'hermine plain, à la bordure partie : I - de gueules chargée en franc-canton d'un lion d'argent ; II - ondée d'azur. Sur le tout en abîme, un double-cœur vendéen de gueules.
+| texte=Blason proposé par l'héraldiste [[Robert Louis]]
+}}
+
+== Notes et références ==
+=== Notes ===
+{{Références|groupe=Note}}
+
+=== Références ===
+{{Références}}
+
+== Voir aussi ==
+{{Autres projets
+|commons = Category:Pays de la Loire|commons titre = Pays de la Loire
+|wiktionary = Pays de la Loire
+}}
+
+=== Bibliographie ===
+* {{Ouvrage|auteur1=[[Joël Cornette]]|titre=Histoire de la Bretagne et des Bretons|tome=1|titre tome=Des âges obscurs au règne de Louis XIV|éditeur=[[Le Seuil]]|année=2008|pages totales=733|isbn=978-2-7578-0995-2|isbn2=2-7578-0995-4|id=Cornette T1}}.
+
+=== Articles connexes ===
+* [[Région française]]
+* [[Bretagne]] - [[Anjou]] - [[Maine (province)|Maine]] - [[Poitou]]
+* [[Question du rattachement de la Loire-Atlantique à la région Bretagne]]
+* [[Conseil régional des Pays de la Loire]]
+* ''[[Destineo]]''
+
+=== Liens externes ===
+* {{Liens}}
+* [http://www.paysdelaloire.fr/ Conseil régional des Pays de la Loire]
+* [http://www.prefectures-regions.gouv.fr/pays-de-la-loire Préfecture de la région Pays de la Loire]
+
+{{Palette|Transports en commun en Pays de la Loire|Régions et territoires de France}}
+{{Portail|Pays de la Loire|régions de France}}
+
+[[Catégorie:Pays de la Loire|*]]
+[[Catégorie:Division administrative fondée en 1956]]
+[[Catégorie:Graphie du COG non conforme aux règles de typographie]]
+

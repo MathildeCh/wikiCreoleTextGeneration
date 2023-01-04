@@ -1,0 +1,747 @@
+{{voir homonymes|Paca|Provence}}
+{{Infobox Région de France
+ | nom                       = Provence-Alpes-Côte d'Azur
+ | logo                      = Logo marque Région Sud.svg
+ | légende                   = [[#Conseil_régional|Logotype]]
+ | blason                    = Blason région fr Provence-Alpes-Côte d'Azur.svg
+ | légende blason            = Armorial des régions de France
+ | drapeau                   = Flag of Provence-Alpes-Cote dAzur.svg
+ | légende drapeau           = Drapeaux de Provence-Alpes-Côte d'Azur
+ | préfecture                = [[Marseille]]
+ | départements              = [[Alpes-de-Haute-Provence]] (04)<br>[[Hautes-Alpes]] (05)<br>[[Alpes-Maritimes]] (06)<br>[[Bouches-du-Rhône]] (13)<br>[[Var (département)|Var]] (83)<br>[[Vaucluse (département)|Vaucluse]] (84)
+ | arrondissements           = 18
+ | cantons                   = 126
+ | communes                  = 946
+ | députés                 = 42
+ | sénateurs                  =
+ | conseil régional          = [[Conseil régional de Provence-Alpes-Côte d'Azur]]
+ | président                 = [[Renaud Muselier]] ([[La République en marche|LREM]])
+ | mandat                    = [[Élections régionales françaises de 2021|2021]]-2028
+ | site web                  = {{URL|https://www.maregionsud.fr}}
+ | préfet                    = Christophe Mirmand <ref>{{lien web|url=https://www.bouches-du-rhone.gouv.fr/Services-de-l-Etat/Le-prefet-de-departement-et-son-equipe/Le-prefet-de-departement|titre=Christophe Mirmand, préfet de la région Provence-Alpes-Côte d’Azur, préfet de la zone de défense et de sécurité Sud, préfet des Bouches-du-Rhône|éditeur=Préfecture des Bouches-du-Rhône|date=03 octobre 2020}}.</ref>
+ | préfète                   = 
+ | superficie                = 31400
+ | rang superficie           = {{10e}} sur 18
+ | population                = {{Population de France/dernière_pop}}<!-- Insertion automatique, ne pas modifier -->
+ | année_pop                 = {{Population de France/dernière_année}}<!-- Insertion automatique, ne pas modifier -->
+ | rang population           = {{7e}} sur 18
+ | gentilé                   = Provençal
+ | langue                    = [[Occitan]] ([[provençal]],<br/>[[niçois]],<br/>[[vivaro-alpin]],<br/>[[Rhodanien (dialecte)|rhodanien]])<br/>[[Ligure]] ([[monégasque]],<br/>[[royasque]])
+}}
+'''Provence-Alpes-Côte d'Azur'''<ref>La [[Commission nationale de toponymie]] utilise la version ''[http://www.cnig.gouv.fr/Front/docs/cms/collectivites-territoriales-francaises_124044053875920000.pdf Provence-Alpes-Côte-d'Azur]'', conformément à l'usage français des [[trait d'union|traits d'unions]].</ref>{{,}}<ref>{{lang-oc|Provença-Aups-Còsta d'Azur ''(norme classique)'' ou Prouvènço-Aup-Costo d'Azur ''(norme mistrallienne)''}}</ref> ([[Aide:Alphabet phonétique international|prononcé]] {{MSAPI|/pʁɔ.vɑ̃.s‿alp(ə) kot d‿a.zyʁ/}} en [[français standard]]) est une [[Région française|région]] administrative du Sud-Est de la [[France]]. Son chef-lieu est [[Marseille]], [[Liste des communes de France les plus peuplées|deuxième commune la plus peuplée]] de France.
+
+Provence-Alpes-Côte d'Azur est formée de six [[Département français|départements]] issus des [[Territoires du royaume de France|anciennes provinces]] de [[Provence]], du [[Comté de Nice]], du [[Comtat Venaissin]] et d'une partie du [[Province du Dauphiné|Dauphiné]] : les [[Alpes-de-Haute-Provence]], les [[Hautes-Alpes]], les [[Alpes-Maritimes]], les [[Bouches-du-Rhône]], le [[Var (département)|Var]] et le [[Vaucluse (département)|Vaucluse]]. Elle est créée sous le nom de Provence-Côte d'Azur-Corse en 1960. Elle devient Provence-Côte d'Azur à la suite de la constitution de la région [[Corse]] en 1970 puis est rebaptisée Provence-Alpes-Côte d'Azur en 1976<ref>{{pdf}} {{Légifrance|url=https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000306382|texte=Décret {{n°|76}}-722 du 2 août 1976 portant modification du nom d'une région}}, publié au [[Journal officiel de la République française|''Journal officiel'' de la République française]] du {{Date-|3 août 1976}}.</ref>. Depuis 2018, le [[Conseil régional de Provence-Alpes-Côte d'Azur|conseil régional]] utilise le nom {{citation|région Sud Provence-Alpes-Côte-d'Azur}} ({{citation|région Sud}} en abrégé) sur ses documents de communication, bien que le nom officiel de la région reste inchangé<ref>{{Lien web|langue=fr-FR|titre=On dirait "le Sud" mais c'est bien PACA....|url=https://www.lagazettedescommunes.com/581846/on-dirait-le-sud-mais-cest-bien-paca/|site=La Gazette des Communes|consulté le=2020-05-20}}.</ref>{{,}}<ref>{{Lien web |titre=La Provence-Alpes-Côte-d'Azur ne sera plus surnommée « PACA » mais « région Sud » |date=16 décembre 2017 |périodique=[[Le Monde]] |site=lemonde.fr |url=http://abonnes.lemonde.fr/societe/article/2017/12/16/la-provence-alpes-cote-d-azur-ne-sera-plus-surnommee-paca-mais-region-sud_5230750_3224.html |consulté le=2017-12-17 }}.</ref>.
+
+La région Provence-Alpes-Côte d'Azur est baignée au sud par la [[mer Méditerranée]]. Elle est limitrophe à l'est des [[Régions d'Italie|régions italiennes]] de [[Ligurie]] et [[Piémont]] et est bordée au nord par la région [[Auvergne-Rhône-Alpes]] et à l'ouest par la [[Occitanie (région administrative)|région Occitanie]], le [[Rhône]] formant la limite régionale. Son territoire couvre une grande partie des [[Alpes du Sud (France)|Alpes du Sud]].
+
+Provence-Alpes-Côte d'Azur compte {{Unité|5081101 habitants}} en [[2019 en France|2019]], ce qui en fait la septième [[Région française#Liste des régions jusqu'au 31 décembre 2015|région française la plus peuplée]]. Densément peuplée, elle compte par ailleurs trois des plus grandes [[métropole]]s du pays : [[Métropole d'Aix-Marseille-Provence|Aix-Marseille]], [[Métropole Nice Côte d'Azur|Nice]] et [[Métropole Toulon Provence Méditerranée|Toulon]]. En 2013 et en tenant compte de la fusion des régions de 2016, c'est la [[Statistique économique sur les régions françaises|cinquième région]] de France par le [[Produit intérieur brut|PIB]] ({{unité|152,13|milliards}} d'euros) et la troisième par le [[Produit intérieur brut par habitant|PIB par habitant]] ({{euro|30688}}). L'économie et la société de Provence-Alpes-Côte d'Azur sont marquées par l'immigration venue à la fois d'autres régions et d'autres pays : 47 % des habitants de la région ne sont pas nés sur son territoire et la proportion d'immigrés y est de 10,2 %<ref>[http://www.insee.fr/fr/themes/document.asp?reg_id=5&ref_id=17040 « Provence-Alpes-Côte d'Azur : on y naît, on y (re)vient et souvent on y reste », Insee Provence-Alpes-Côtes d'Azur - ''Synthèse Flash'', {{n°|6}}, janvier 2011], consulté le 11 novembre 2016.</ref>{{,}}<ref>[http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=IMG1A&millesime=2013&niveau=1&typgeo=REG&codgeo=93 Insee - Population par sexe, âge et situation quant à l'immigration en Provence-Alpes-Côte d'Azur], consulté le 11 novembre 2016.</ref>.
+
+== Toponymie ==
+Après le décret du {{date-|2|juin|1960}}<ref>[http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19600603&numTexte=05007&pageDebut=05007&pageFin=05007 Décret {{n°|60}}-516 du 2 juin 1960] portant harmonisation des circonscriptions administratives.</ref>, la région Provence-Côte d'Azur-Corse est créée : elle comprend alors les départements des [[Alpes-de-Haute-Provence|Basses-Alpes]], des [[Hautes-Alpes]], des [[Alpes-Maritimes]], des [[Bouches-du-Rhône]], de la [[Corse]], du [[Var (département)|Var]] et de [[Vaucluse (département)|Vaucluse]]. La Corse en est détachée par le décret du {{date-|12|janvier|1970}}.
+
+La dénomination « Provence-Alpes-Côte d'Azur » est utilisée par le [[conseil régional de Provence-Alpes-Côte d'Azur]]<ref>Le changement de nom a été voté lors de la première séance du conseil régional le 8 janvier 1974 : http://jcautran.free.fr/archives_familiales/elections/regionales/1974/installation_conseil_regional_8%20janvier_1974.pdf</ref>, les organismes de l'État et de l'[[Union européenne]]. Elle s'écrit avec deux [[trait d'union|traits d'union]]. La graphie « Provence-Alpes-Côte-d'Azur », avec trois traits d'union, est peu usitée bien que préconisée par la [[Commission nationale de toponymie]]<ref>[http://www.cnig.gouv.fr/Front/docs/cms/collectivites-territoriales-francaises_124044053875920000.pdf Liste des collectivités territoriales françaises], Commission nationale de toponymie.</ref> conformément aux règles de la [[Typographie#Trait d’union|typographie française]] qui prescrivent des traits d'union entre tous les mots composant un nom de territoire politique ou administratif déterminé.
+
+En {{date||juin|2009}}, [[Michel Vauzelle]], président du conseil régional, lance une consultation afin de rebaptiser la région, à la demande de plusieurs associations de promotion de l'identité régionale qui rappellent que « pacan » signifie « paysan » en provençal<ref>{{Lien web |langue=provençal et français |auteur=Philippe Blanchet |titre=Provence et pas "PACA" |url=https://www.youtube.com/watch?v=29xP3SF9LJs&t=8s |site=you tube |date=2015 |consulté le=11 aout 2022}}</ref> et jugeant que {{citation|Provence-Alpes-Côte d'Azur est un beau nom, mais il est trop long et peu pratique. L'acronyme PACA n'illustre ni la richesse, ni la diversité de ses territoires et de son patrimoine culturel exceptionnel et ne permet pas non plus de nommer ses habitants}}<ref>[https://www.lemonde.fr/societe/article/2009/08/04/la-region-paca-va-changer-de-nom_1225498_3224.html « La région PACA va changer de nom »], ''[[Le Monde]]'', 4 août 2009.</ref>. Les termes « Provence » et « Méditerranée » se dégagent, laissant de côté « Alpes » et « Côte d'Azur », ce qui provoque la protestation d'élus des zones délaissées<ref name=Varmatin/>. Finalement, le projet est abandonné quelques mois plus tard<ref name=Varmatin>[http://www.varmatin.com/article/var/vauzelle-renonce-a-changer-le-nom-de-paca.322374.html ''Vauzelle renonce à changer le nom de Paca''], ''[[Var-Matin]]'', 29 septembre 2010.</ref> et le nom de la région reste inchangé.
+
+Le conseil régional a voté le 15 décembre 2017 l'utilisation du nom « région Sud - Provence-Alpes-Côte d'Azur » sur tous les supports de communication, afin de promouvoir l'utilisation de l'abréviation « région Sud » au lieu de l'acronyme « PACA »<ref>{{lien web|titre=Les conseillers régionaux rebaptisent PACA en Région Sud|url=http://www.nicematin.com/faits-de-societe/les-conseillers-regionaux-rebaptisent-paca-en-region-sud-192802|site=nicematin.com|auteur=Régine Meunier|date=15 décembre 2017}}.</ref>.
+
+== Géographie ==
+{{Article détaillé|Géographie de Provence-Alpes-Côte d'Azur}}
+[[Fichier:Provence topographic map-fr.svg|vignette|droite|upright=1|alt=Carte topo de Provence-Alpes-Côte d'Azur|Carte topographique de Provence-Alpes-Côte d'Azur.]]
+[[Fichier:Provence-Alpes-Cote d'azur Provinces.svg|vignette|Les provinces après dislocation de la [[Royaume de Provence|Provence historique]] et avant la [[Révolution française|Révolution]] au sein de la région actuelle.]]
+Provence-Alpes-Côte d'Azur recouvre une superficie de {{unité|31400|km|2}} et s'étend du [[Rhône]] à l'ouest à la [[frontière entre la France et l'Italie|frontière italienne]] à l'est. Son territoire comprend<ref name=Larousse>{{Lien web|url=http://www.larousse.fr/encyclopedie/region-france/Provence-Alpes-C%C3%B4te_dAzur/139715|titre=Provence-Alpes-Côte d'Azur|site=Larousse.fr}}.</ref> :
+* le [[Comté de Provence]] qui est l'entité principale (français depuis 1482),
+* le sud-est du [[Dauphiné]] (français depuis 1349),
+* [[Avignon]] et le [[Comtat Venaissin]] (intégrés à la France à la [[Révolution française|Révolution]] en 1791),
+* le [[comté de Nice]] ([[Annexion du comté de Nice à la France|rattaché]] en 1860 ainsi que [[Tende (Alpes-Maritimes)|Tende]] et [[La Brigue]] rattachées en 1947).
+* [[Menton (Alpes-Maritimes)|Menton]] et [[Roquebrune-Cap-Martin]], détachées de facto de la [[principauté de Monaco]] en 1848 et rattachées de jure à la France en 1861 après rachat au Prince [[Charles III de Monaco|Charles III]] de ses droits moyennant 4 millions de francs-or.
+
+La [[principauté de Monaco]] est une encoche côtière indépendante.
+
+L'ensemble de ces territoires intégraient tous au Moyen-Âge la [[Provence|Provence ancienne]] mais furent séparés à cause des partages entre nobles et la guerre civile de l'[[Union d'Aix]]. La Drôme, l'Ardèche et le sud de l'Isère furent également provençales au début du [[Comté de Provence]] mais sont aujourd'hui dans la région [[Auvergne-Rhône-Alpes]].
+
+=== Reliefs ===
+Provence-Alpes-Côte d'Azur accueille une grande diversité de paysages.
+
+À l'ouest, le relief est relativement plat, baigné par le [[Rhône]] et ses affluents ([[Aygues]], [[Durance]] notamment). Les plaines de [[Vaucluse (département)|Vaucluse]] sont des plaines alluviales alors que la [[Crau]] est une plaine caillouteuse sèche<ref name=Larousse/>. Le delta du Rhône forme la [[Camargue]], formée d'étangs ([[étang de Vaccarès]]) et de pâturages amphibies<ref name=Larousse/>.
+
+La [[côte d'Azur]] compte deux massifs forestiers, l'[[Massif de l'Esterel|Esterel]] et le [[massif des Maures]]. Plus à l'ouest, le littoral est dominé par des falaises de calcaires blancs accidentées de gorges : les [[calanque]]s<ref name=Larousse/>.
+
+Les [[Préalpes (France)|Préalpes]] forment la moyenne et la haute Provence : [[Mont Ventoux|Ventoux]], [[montagne de Lure]], [[préalpes de Digne]] et de [[préalpes de Castellane|Castellane]], [[plateau de Valensole]], [[plan de Canjuers]] (coupé des [[gorges du Verdon]]), [[plan de Caussols]]. Plus au sud se trouvent les reliefs du [[Massif du Luberon|Luberon]], des [[Alpilles]], de la [[montagne Sainte-Victoire]] et de la [[Sainte-Baume]]. À l'est, les Préalpes s'achèvent près de la mer, vers [[Nice]] et [[Menton (Alpes-Maritimes)|Menton]]<ref name=Larousse/>.
+
+Enfin, la région comprend plusieurs zones de [[Moyenne montagne|moyenne]] et [[haute montagne]] : le [[massif du Mercantour-Argentera|Mercantour]] à l'est, avec son point culminant à {{unité|3143|m}} : la [[Cime du Gélas]], le [[massif des Écrins]] au nord qui culmine à plus de {{unité|4000|m}} d'altitude ([[Barre des Écrins]] à {{unité|4102|m}}, [[Mont Pelvoux|Pelvoux]] à {{unité|3946|m}}), et les massifs moins étendus du [[massif du Dévoluy|Dévoluy]], du [[massif du Queyras|Queyras]] et des [[massif des Cerces|Cerces]]<ref name=Larousse/>.
+
+<gallery mode="packed">
+Fichier:Camargue prairie inondée.jpg|Prairie inondée en [[Camargue]].
+Fichier:Chambeyron-lac_du_marinet.jpg|[[Aiguille de Chambeyron]].
+File:Cap Canaille small.png|[[Cap Canaille (Cassis)|Cap Canaille]].
+</gallery>
+
+=== Climat ===
+La région se caractérise par un [[climat méditerranéen]] au niveau du littoral et à l'intérieur des terres et par un [[climat montagnard]] qui décline vers le froid en fonction de l'altitude. Sur la période 1971-2000, les secteurs les plus chauds en moyenne se situent sur le littoral, de Nice à Cassis, avec des températures moyennes annuelles<ref>{{Lien web|titre=PACA CLIMAT|url=https://pacaclimat.blogspot.fr/|site=pacaclimat.blogspot.fr|consulté le=2016-07-28}}</ref> d'environ {{tmp|16|°C}}; les hivers sont doux (de 7 à {{tmp|14|°C}}) et les étés chauds (de 21 à {{tmp|29|°C}} en moyenne). Les températures moyennes décroissent en s'enfonçant dans les terres avec des valeurs comprises entre 13 et {{tmp|15|°C}} mais les étés y sont particulièrement chauds ({{tmp|31|°C}} en moyenne l'après-midi au Luc qui détient le record de France avec {{tmp|42.7|°C}} en 1982). Les [[Alpes]] connaissent des températures plus ou moins froides en fonction de l'altitude avec des températures moyennes annuelles d'environ {{tmp|10|°C}} à {{unité|1000|m}} ; {{tmp|4|°C}} à {{unité|2500|m}}.
+
+La région est particulièrement ensoleillée : de {{unité|2700}} à {{unité|3000}} heures d'ensoleillement par an<ref name=Larousse/>.
+
+Les hivers sont froids, voire rudes et neigeux en montagnes, mais doux sur le littoral, notamment sur la [[côte d'Azur]]. La vallée du Rhône et une partie de la côte subissent le [[mistral (vent)|mistral]], vent froid et fort soufflant du nord.
+
+Les précipitations annuelles varient de {{unité|600|mm}} ([[delta du Rhône]]) à {{unité|1000|mm}} ([[Alpes]]) mais sont très inégalement réparties dans l'année : s'il pleut autant à [[Nice]] et [[Marseille]] qu'à [[Brest]] et [[Paris]], la sécheresse est très marquée l'été mais les averses sont violentes<ref name=Larousse/>, notamment à l'automne.
+
+<gallery mode="packed">
+Fichier:Vallon de Mollières 2004 07.jpg|[[Mollières|Vallon de Mollières]], dans les [[Alpes-Maritimes]].
+Fichier:Plage-de-la-courtade.jpg|Plage de la Courtade, sur l'île de [[Porquerolles]].
+Fichier:Ventoux Nordseite Schnee unterhalb des Gipfels.jpg|Pente du [[mont Ventoux]] en hiver.
+</gallery>
+
+== Environnement ==
+La montagne occupe la moitié du territoire régional et le littoral s'étend sur {{unité|700|km}}. Provence-Alpes-Côte d'Azur compte quatre [[Parcs nationaux de France|parcs nationaux]], huit [[parc naturel régional en France|parcs naturels régionaux]] dont quatre sont contigus, douze [[Réserve naturelle nationale|réserves naturelles nationales]] et six [[Réserve naturelle régionale|réserves naturelles régionales]]<ref name=pas>{{Lien web|url=http://pas.regionpaca.fr/fileadmin/PAS/FONCIER/Portrait_region_PACA_INSEE.pdf|titre=Portrait de la région PACA|site=pas.regionpaca.fr}}.</ref>. Certains sites font aussi l'objet de classements en zones [[Réseau Natura 2000|Natura 2000]]{{Etc.}}
+
+Du fait de l'urbanisation, les territoires agricoles subissent une forte pression : entre 1970 et 2000, la surface agricole productive a été réduite de 20 %. C'est particulièrement le cas sur le littoral et dans le pays d'[[Avignon]]<ref name=pas/>.
+
+<gallery mode="packed">
+Fichier:Gorge du Verdon Goat 0254.jpg|Dans les [[gorges du Verdon]].
+Fichier:Massif de L'Esterel.JPG|[[Massif de l'Esterel]].
+Fichier:Greater Flamingo (2434397048).jpg|Flamants roses en Camargue.
+Fichier:Ecrins 3.jpg|Dans le [[massif des Écrins]] et le parc national du même nom.
+</gallery>
+
+== Population ==
+=== Démographie ===
+{{Article détaillé|Démographie de Provence-Alpes-Côte d'Azur}}
+Provence-Alpes-Côte d'Azur compte 5 081 101 habitants, ce qui en fait la septième région de France la plus peuplée. Sa population est essentiellement concentrée sur le littoral autour des agglomérations de Marseille - Aix-en-Provence, Toulon, Fréjus, Cannes - Antibes et Nice, et dans la vallée du Rhône autour de l'agglomération d'Avignon. La partie nord alpine est très peu densément peuple et les deux départements alpins sont parmi les départements français les moins peuplés.
+
+Bien que son dynamisme soit aujourd'hui en diminution, la région se caractérise par une très forte croissance démographique dans la seconde moitié du {{s-|XX}} : elle est la région de France qui a connu la plus forte progression de sa population entre 1962 et 2009<ref name=pas/>. Elle représentait 4,5 % du total de la population française en 1975 contre 7,8 % en 2014. Cette croissance est le fruit à la fois de l'excédent naturel et d'un fort apport migratoire.
+
+Contrairement aux idées reçues, les migrations résidentielles ont contribué à ralentir le vieillissement de la population régionale<ref name=pas/>. Reste que près de 27 % des habitants ont plus de {{nobr|60 ans}} (le taux national s'élevant à 24 %)<ref name="insee.fr">[http://www.insee.fr/fr/themes/document.asp?reg_id=0&ref_id=ip1364 « Le découpage en unités urbaines de 2010 »], sur ''le site de l'[[Insee]]''.</ref> et la région compte plus de {{nombre|500000|personnes}} de {{nobr|75 ans}} et plus. On estime qu'en 2030, un habitant de la région sur trois aura plus de {{nobr|60 ans}}<ref name=pas/>.
+
+L'immigration internationale joue également un rôle important dans la démographie de Provence-Alpes-Côte d'Azur. Il y a aujourd'hui environ {{Unité|430000|[[Immigration en France|immigrés]]}} dans la région, soit près de 10 % de la population. L'histoire de l'immigration est ancienne : dès le {{s-|XIX}}, un tiers des employés des arsenaux de Toulon sont [[italiens]], tout comme 43 % des ouvriers des parfumeries de [[Grasse]] au début du {{s-|XX}}<ref name=Gastaut>{{Ouvrage|auteur=[[Yvan Gastaut]]|titre=Histoire de l’immigration en PACA|éditeur=Université de Nice}}.</ref>. [[Marseille]] en particulier accueille de nombreux migrants au cours des 150 dernières années : travailleurs italiens puis [[Maghrébins|nord-africains]] à partir des [[années 1920]] et surtout [[années 1950|1950]], [[comores (pays)|comoriens]] plus récemment, réfugiés [[Génocide arménien|arméniens]], [[espagnols]] puis [[Pieds-Noirs]]. Nice et la [[Côte d'Azur]] connaissent une immigration de luxe, composée de [[Britanniques]], [[Russes]] et [[Allemands]] principalement<ref name=Gastaut/>.
+
+La géographie, l'[[exode rural]] et l'industrialisation font que la population de cette région est aujourd'hui très inégalement répartie. 75 % des habitants se concentrent sur 10 % du territoire<ref name=pas/> et 80 % de la population de la région habite sur le littoral, qui abrite les plus grandes villes régionales : [[Marseille]], [[Nice]], [[Toulon]]. La population de Provence-Alpes-Côte d'Azur est d'ailleurs très urbanisée, avec un taux de 94,3 %<ref name="insee.fr"/> et une périurbanisation très marquée<ref name=pas/>.
+
+=== Villes ===
+{{Composition en communes division de France
+ | charte    = région
+ | titre     = Liste des communes de plus de {{unité|20000|habitants}}
+ | commune 1 = Marseille
+ | commune 2 = Nice
+ | commune 3 = Toulon
+ | commune 4 = Aix-en-Provence
+ | commune 5 = Avignon
+ | commune 6 = Cannes
+ | commune 7 = Antibes
+ | commune 8 = La Seyne-sur-Mer
+ | commune 9 = Hyères
+ | commune 10 = Fréjus
+ | commune 11 = Arles
+ | commune 12 = Cagnes-sur-Mer
+ | commune 13 = Grasse
+ | commune 14 = Martigues
+ | commune 15 = Aubagne
+ | commune 16 = Salon-de-Provence
+ | commune 17 = Istres
+ | commune 18 = Le Cannet
+ | commune 19 = Gap
+ | commune 20 = Draguignan
+ | commune 21 = Saint-Raphaël (Var)
+ | commune 22 = La Ciotat
+ | commune 23 = Six-Fours-les-Plages
+ | commune 24 = Vitrolles (Bouches-du-Rhône)
+ | commune 25 = Marignane
+ | commune 26 = Menton (Alpes-Maritimes)
+ | commune 27 = Carpentras
+ | commune 28 = Saint-Laurent-du-Var
+ | commune 29 = Orange (Vaucluse)
+ | commune 30 = Vallauris
+ | commune 31 = Miramas
+ | commune 32 = Cavaillon
+ | commune 33 = La Garde (Var)
+ | commune 34 = La Valette-du-Var
+ | commune 35 = Manosque
+ | commune 36 = Mandelieu-la-Napoule
+ | commune 37 = Les Pennes-Mirabeau
+ | commune 38 = Gardanne
+ | commune 39 = Allauch
+ | commune 40 = Pertuis (Vaucluse)
+ | commune 41 = L'Isle-sur-la-Sorgue
+}}
+
+==== Grandes zones urbaines ====
+
+L'[[acte III de la décentralisation]] renforce essentiellement deux types de collectivités : la région grâce à la [[loi NOTRe]] et l'intercommunalité grâce à la [[loi MAPTAM]]. Le premier volet a donné lieu à la création des nouvelles grandes régions française qui n'a pas changé les limites administratives de la région Provence-Alpes-Côte d'Azur tandis que le second est axé sur les grandes agglomérations régionales. La région Provence-Alpes-Côte-d'Azur compte en effet quatre grandes [[Unité urbaine|agglomérations]] de plus de {{nombre|400000|habitants}} au centre de grandes aires d'attraction des villes qui sont répartis sur cinq zones. Il s'agit de Marseille - Aix-en-Provence, Nice, Toulon, Cannes - Antibes et Avignon. Ces cinq agglomérations forment les six grandes zones économiques régionales qui correspondent aux six grandes zones d'emploi<ref>{{Lien web|titre=Zones d'emploi PACA|url=http://paca.direccte.gouv.fr/sites/paca.direccte.gouv.fr/IMG/pdf/syn16-2.pdf|site=INSEE|date=}}.</ref>. Pour être considérée comme une grande zone d'emploi, la zone doit dépasser les {{nombre|400000|habitants}}, seuil requis pour la création d'une métropole.
+
+{| class="wikitable"
+|+'''Liste des quatre grandes zones urbaines (population au {{date-|1er janvier 2016}})'''<ref name="paaca syn16-2.pdf">{{Lien web|titre=Zone d'emploi PACA|url=http://paca.direccte.gouv.fr/sites/paca.direccte.gouv.fr/IMG/pdf/syn16-2.pdf|site=Gouv|date=}}.</ref>
+! rowspan="2" |Ville centre
+! colspan="3" |Aires d'attraction des villes (2017)
+! colspan="3" |Unités urbaines 2018
+! rowspan="2" |[[Bassin d'emploi|Zone d'emploi]]
+! colspan="3" |Zones d'Emploi 2017
+|-
+!Population
+(hab.)
+!Superficie
+(km²)
+!Densité
+(hab./km²)
+!Population
+(hab.)
+!Superficie
+(km²)
+!Densité
+(hab./km²)
+!Population
+(hab.)
+!Superficie
+(km²)
+!Densité
+(hab./km²)
+|-
+| rowspan="2" |[[Marseille]] - [[Aix-en-Provence]]
+| rowspan="2" |[[Aire d'attraction de Marseille - Aix-en-Provence|1 851 736]]<ref>{{Lien web |titre=Comparateur de territoire − Comparez les territoires de votre choix - Résultats pour les communes, départements, régions, intercommunalités... {{!}} Insee |url=https://www.insee.fr/fr/statistiques/1405599?geo=AAV2020-003 |site=www.insee.fr |consulté le=2021-05-30}}.</ref>
+| rowspan="2" |3 971,8
+| rowspan="2" |466,2
+| rowspan="2" |[[Unité urbaine de Marseille - Aix-en-Provence|1 607 292]]<ref>{{Lien web|titre=Dossier complet − Unité urbaine de Marseille - Aix-en-Provence (00759) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=UU2010-00759|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+| rowspan="2" |1 758
+| rowspan="2" |914
+|[[Marseille]]
+|1 219 590<ref>{{Lien web |titre=Comparateur de territoire − Zone d'emploi 2020 de Marseille (9312) {{!}} Insee |url=https://www.insee.fr/fr/statistiques/1405599?geo=ZE2020-9312 |site=www.insee.fr |consulté le=2021-05-31}}.</ref>
+|934,1
+|1 305,7
+|-
+|[[Aix-en-Provence]]
+|401 780<ref>{{Lien web|titre=Dossier complet − Zone d'emploi d'Aix-en-Provence (9308) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=ZE2010-9308|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+|1 913,8
+|209,9
+|-
+|[[Nice]]
+|[[Aire d'attraction de Nice|606 494]]<ref>{{Lien web |titre=Comparateur de territoire − Comparez les territoires de votre choix - Résultats pour les communes, départements, régions, intercommunalités... {{!}} Insee |url=https://www.insee.fr/fr/statistiques/1405599?geo=AAV2020-017 |site=www.insee.fr |consulté le=2021-05-31}}.</ref>
+|2 073,0
+|292,6
+|[[Unité urbaine de Nice|944 321]]<ref>{{Lien web|titre=Dossier complet − Unité urbaine de Nice (06701) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=UU2010-06701|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+|744
+|1 270
+|[[Nice]]
+|600 571<ref>{{Lien web|titre=Dossier complet − Zone d'emploi de Nice (9307) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=ZE2010-9307|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+|3 014,0
+|199,3
+|-
+|[[Toulon]]
+|[[Aire d'attraction de Toulon|561 968]]<ref>{{Lien web |titre=Comparateur de territoire − Comparez les territoires de votre choix - Résultats pour les communes, départements, régions, intercommunalités... {{!}} Insee |url=https://www.insee.fr/fr/statistiques/1405599?geo=AAV2020-018 |site=www.insee.fr |consulté le=2021-05-31}}.</ref>
+|1 003,9
+|559,8
+|[[Unité urbaine de Toulon|580 281]]<ref>{{Lien web|titre=Dossier complet − Unité urbaine de Toulon (00757) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=UU2010-00757|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+|764
+|760
+|[[Toulon]]
+|568 921<ref>{{Lien web|titre=Dossier complet − Zone d'emploi de Toulon (9315) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=ZE2010-9315|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+|1 302,1
+|436,9
+|-
+|[[Cannes]]
+|[[Aire d'attraction de Cannes - Antibes|391 751]]<ref>{{Lien web |titre=Comparateur de territoire − Aire d'attraction des villes 2020 de Cannes - Antibes (031) {{!}} Insee |url=https://www.insee.fr/fr/statistiques/1405599?geo=AAV2020-031 |site=www.insee.fr |consulté le=2021-05-31}}.</ref>
+|432,2
+|906,4
+| colspan="3" |[[Unité urbaine de Nice]]
+|[[Cannes]]
+|432 118
+|1 248,5
+|346,1
+|-
+|[[Avignon]]
+|[[Aire d'attraction d'Avignon|334 289]]<ref>{{Lien web |titre=Comparateur de territoire − Comparez les territoires de votre choix - Résultats pour les communes, départements, régions, intercommunalités... {{!}} Insee |url=https://www.insee.fr/fr/statistiques/1405599?geo=AAV2020-040 |site=www.insee.fr |consulté le=2021-05-31}}.</ref>
+|964,3
+|347,7
+|[[Unité urbaine d'Avignon|456 651]]<ref>{{Lien web|titre=Dossier complet − Unité urbaine d'Avignon (00754) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=UU2010-00754|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+|1 364
+|335
+|[[Avignon]]
+|281 434<ref>{{Lien web|titre=Dossier complet − Zone d'emploi d'Avignon (0059) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=ZE2010-0059|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+|678,1
+|415,1
+|}
+
+Ces agglomérations concentrent l'essentiel des services déconcentrés de l'État, des zones commerciales, des infrastructures culturelles, des zones industrielles, des technopoles, des ports fluviaux et maritimes, et des infrastructures aéroportuaires. Afin de piloter la dynamique de ces grandes agglomérations (politique de l'habitat, de mobilité, aménagement du territoire, etc.), une partie importante des communes qui les composent se sont regroupées au sein d'[[Établissement public de coopération intercommunale|établissements publics de coopération intercommunale]].
+
+La [[métropole d'Aix-Marseille-Provence]] ({{nombre|1876019|habitants}}) est une fusion de six anciennes intercommunalités : la [[communauté urbaine Marseille Provence Métropole]] ({{nombre|1045823|habitants}}), la [[communauté d'agglomération du pays d'Aix]] ({{nombre|402040|habitants}}), [[Agglopole Provence]] ({{nombre|140879|habitants}}), la [[communauté d'agglomération du pays d'Aubagne et de l'Étoile]] ({{nombre|103497|habitants}}), le [[syndicat d'agglomération nouvelle Ouest Provence]] ({{nombre|98113|habitants}}), la [[communauté d'agglomération du pays de Martigues]] ({{nombre|70457|habitants}}) sur le territoire de l'[[aire urbaine de Marseille - Aix-en-Provence]] mais également celle de [[Aire urbaine de Salon-de-Provence|Salon-de-Provence]] et celle de [[Aire urbaine de Toulon|Toulon]] ([[La Ciotat]] et [[Ceyreste]]).
+
+La [[métropole Nice Côte d'Azur]] ({{nombre|538555|habitants}}), quant à elle, n'englobe que la partie est de son [[Aire urbaine de Nice|aire urbaine]]. La partie ouest est divisée en trois communautés d'agglomérations : [[Communauté d'agglomération Cannes Pays de Lérins|Pays de Lérins]] ({{nombre|158812|habitants}}) autour de [[Cannes]], [[Communauté d'agglomération de Sophia Antipolis|Sophia-Antipolis]] ({{nombre|176647|habitants}}) autour d'[[Antibes]] et [[Communauté d'agglomération du Pays de Grasse|Pays de Grasse]] ({{nombre|101101|habitants}}) autour de [[Grasse]].
+
+La [[Métropole Toulon-Provence-Méditerranée|Métropole Toulon Provence Méditerranée]] ({{nombre|427839|habitants}}) est positionnée sur le territoire très central de l'[[aire urbaine de Toulon]]. Cette dernière s'étend sur le centre Var autour du Val de l'Issole anciennement [[communauté de communes du Val d'Issole]] ({{nombre|22903|habitants}}), actuellement réuni à la [[communauté d'agglomération de la Provence Verte]], et du Gapeau avec la [[communauté de communes de la Vallée du Gapeau]] ({{nombre|30315|habitants}}). Elle s'étend aussi à l'est de Toulon avec la [[communauté de communes Méditerranée Porte des Maures]] ({{nombre|39891|habitants}}) ainsi qu'à l'ouest de [[Toulon]] avec la [[communauté d'agglomération Sud Sainte Baume]] ({{nombre|60013|habitants}}) jusque dans les [[Bouches-du-Rhône]] ([[La Ciotat]] et [[Ceyreste]]). Le {{date|15 décembre 2016}}, l'Assemblée nationale donne son accord pour la création de sept nouvelles métropoles dont Toulon, afin qu'elles rejoignent les 15 métropoles déjà existantes.
+
+La [[communauté d'agglomération du Grand Avignon]] ({{nombre|193563|habitants}}) est centrée uniquement sur [[Avignon]] et ses communes avoisinantes. Son [[Aire urbaine d'Avignon|aire urbaine]] s'étend aussi autour de [[Carpentras]] et la [[communauté d'agglomération Ventoux-Comtat Venaissin]] ({{nombre|68641|habitants}}), d'[[Orange (Vaucluse)|Orange]] et la [[communauté de communes des Pays de Rhône et Ouvèze]] ({{nombre|44901|habitants}}), [[L'Isle-sur-la-Sorgue]] et la [[communauté de communes du Pays des Sorgues et des Monts de Vaucluse]] ({{nombre|32161|habitants}}), [[Cavaillon]] et la [[communauté d'agglomération Luberon Monts de Vaucluse]] ({{nombre|54717|habitants}}), mais aussi autour de [[Châteaurenard]] dans les [[Bouches-du-Rhône]] et sa [[communauté d'agglomération Terre de Provence]] ({{nombre|57602|habitants}}).
+
+===== Zone urbaine de Marseille =====
+[[Fichier:Marseille Vieux Port Night.jpg|vignette|455x455px|Vieux-Port de Marseille]]
+La zone urbaine de [[Marseille]] — ''[[Norme classique de l'occitan|Marselha]] / [[Norme mistralienne|Marsiho]]'' en [[provençal]] — se situe dans les [[Bouches-du-Rhône]] et dans la [[Var (département)|Var]]. Marseille est le [[chef-lieu]] du [[Département français|département]] des [[Bouches-du-Rhône]] et de la [[Région française|région]], ainsi que le siège de sa [[préfecture]].
+
+[[Marseille]] se place au deuxième rang des [[Liste des communes de France les plus peuplées|communes de France les plus peuplées]], avec {{nombre|858120|habitants}}, la [[Liste des unités urbaines de France|troisième agglomération]] avec {{nombre|1578584|habitants}} et la [[Aire urbaine (France)|troisième aire urbaine]] après celles de [[Paris]] et [[Lyon]] avec {{nombre|1743990|habitants}} en 2014. [[Marseille]] est depuis le [[1er janvier|{{1er}}]] [[Janvier 2016|janvier]] [[2016]] le siège de la [[métropole d'Aix-Marseille-Provence]], la seconde plus peuplée de France avec {{nombre|1859922|habitants}}.
+[[Fichier:Panorama of Étang de Berre (Vitrolles, Bouches-du-Rhône, France).jpg|gauche|vignette|459x459px|Étang de Berre depuis Vitrolles]]
+Plus ancienne ville de France, fondée sous le nom de [[Marseille antique|Μασσαλία]] (''Massalía'') vers [[Années -600|600 {{av JC}}]] par des marins [[Grèce|grecs]] originaires de [[Phocée]], Marseille est depuis l'[[Antiquité]] un important port de commerce et de passage. Elle connaît notamment un essor commercial considérable au cours du {{XIXe}} siècle devenant une ville industrielle et négociante prospère.
+
+Héritage de ce passé, le [[Grand port maritime de Marseille]] (GPMM) et l'économie maritime sont encore des pôles majeurs de l'activité régionale et nationale et Marseille reste le premier [[port]] [[France|français]], le deuxième port [[Mer Méditerranée|méditerranéen]] et le cinquième port [[Europe|européen]].
+
+L'ouverture de Marseille sur la [[mer Méditerranée]] en fait depuis ses origines une ville cosmopolite d'échanges culturels et économiques avec l'[[Europe du Sud]], le [[Proche-Orient]], l'[[Afrique du Nord]] et l'[[Asie]]. Elle est d'ailleurs souvent considérée comme la « Porte de l'Orient ».
+[[Fichier:Nizza-Côte d'Azur.jpg|vignette|348x348px|Baie des Anges de Nice]]
+
+===== Zone urbaine de Nice =====
+
+La zone urbaine de [[Nice]] — ''[[Norme classique de l'occitan|Nissa]]'' / ''[[Norme mistralienne|Niça]]'' en [[niçois]] — se situe dans les [[Alpes-Maritimes]] et les [[Alpes-de-Haute-Provence]]. [[Nice]] le chef-lieu du [[Département français|département]] des [[Alpes-Maritimes]] et siège de sa [[préfecture]], ainsi que la deuxième plus grande ville de la [[Région française|région]] derrière [[Marseille]].
+
+[[Nice]] se place au cinquième rang des [[Liste des communes de France les plus peuplées|communes de France les plus peuplées]], avec {{nombre|343895|habitants}}, la [[Liste des unités urbaines de France|cinquième plus grande agglomération]] avec {{nombre|943695|habitants}} et la [[Aire urbaine (France)|septième plus grande aire urbaine]] avec {{nombre|1006402|habitants}}. La ville est le centre d'une [[Métropole (intercommunalité française)|métropole]], [[Métropole Nice Côte d'Azur|Nice Côte d'Azur]], qui rassemble quarante-neuf communes et {{nombre|536327|habitants}}.
+[[Fichier:Vallée du Var à Nice.jpg|gauche|vignette|276x276px|Vallée du Var et Alpes d'Azur]]
+Capitale historique du [[Comté de Nice]], elle a appartenu à la [[Provence]] avant d'en faire sécession et de choisir de rejoindre les [[États de Savoie]] en [[Dédition de Nice à la Savoie|1388]] (Acte de Dédition). Nice ne devient française qu'en [[Annexion du comté de Nice à la France|1860]], un an avant la réalisation de l'[[Risorgimento|unité italienne]].
+
+Située entre mer et montagnes, capitale économique et culturelle de la [[Côte d'Azur]], Nice bénéficie d'importants atouts naturels. Le [[tourisme]], le [[commerce]] et les administrations ([[Administration publique|publiques]] ou [[Administration privée|privées]]) occupent une place importante dans l'activité économique de la ville. Elle possède la deuxième capacité hôtelière du pays, après Paris, et accueille chaque année 4 millions de touristes. Elle dispose également du troisième [[Aéroport de Nice-Côte d'Azur|aéroport]] de France (le premier de Province) et de deux [[Acropolis (Nice)|palais des congrès]] consacrés au [[tourisme d'affaires]]. La ville possède aussi une [[Université de Nice Sophia Antipolis|université]] et plusieurs [[Liste des quartiers d'affaires de Nice|quartiers d'affaires]]. Nice est enfin dotée de certains équipements culturels importants. Elle possède ainsi de nombreux [[musée]]s (il s'agit même de la ville qui en compte le plus en France, après Paris), un [[Théâtre national de Nice|théâtre national]], un [[Opéra de Nice|opéra]], une [[bibliothèque]] à vocation régionale, un [[Conservatoire à rayonnement régional de Nice|conservatoire à rayonnement régional]] et des salles de concert.
+
+Elle se situe à une trentaine de kilomètres de la [[frontière franco-italienne]], elle est établie sur les bords de la [[mer Méditerranée]], le long de la [[baie des Anges]] et à l'embouchure du [[Paillon]].
+[[Fichier:RadeToulon©HHebrard.jpg|vignette|306x306px|La Rade de Toulon]]
+
+===== Zone urbaine de Toulon =====
+
+La zone urbaine de [[Toulon]] — ''[[Norme classique de l'occitan|Tolon]] / [[Norme mistralienne|Touloun]]'' en [[provençal]] — se situe dans le [[Var (département)|Var]]. Toulon est le chef-lieu du [[Département français|département]] du [[Var (département)|Var]] et siège de sa [[préfecture]]. Elle abrite également le siège de la [[Préfet maritime|préfecture maritime]] de la Méditerranée.
+[[Fichier:Aerial view of Aéroport de Toulon-Hyères.jpeg|gauche|vignette|347x347px|Aéroport de Toulon à Hyères]]
+Toulon se place au quinzième rang des [[Liste des communes de France les plus peuplées|communes de France les plus peuplées]], avec {{nombre|165584|habitants}}, la [[Liste des unités urbaines de France|neuvième agglomération]] avec {{nombre|561155|habitants}} et a [[Aire urbaine (France)|treizième aire urbaine]] avec {{nombre|611237|habitants}}. La ville est le siège d'une [[communauté d'agglomération]], [[Communauté d'agglomération Toulon Provence Méditerranée|Toulon Provence Méditerranée]], la première de France, qui rassemble douze communes et {{nombre|425612|habitants}}.
+
+Située entre mer et montagnes, capitale économique du [[Var (département)|Var]], Toulon bénéficie de nombreux atouts naturels. La [[Port militaire de Toulon|base navale]] (plus grand port militaire français), le [[commerce]], les [[Administration publique française|administrations]] (publiques ou privées), le [[tourisme]] et la recherche (pôle Mer PACA, IFREMER…) sont l'essentiel de l'activité économique de la ville, qui partage avec Hyères un [[Aéroport de Toulon-Hyères|aéroport]] par lequel transitent environ {{nombre|500000|passagers}} par an.
+
+La ville possède aussi une [[Université de Toulon|université]] (sciences, sciences humaines, lettres, [[Unité de formation et de recherche en droit de Toulon|droit]], [[Sciences et techniques des activités physiques et sportives|Staps]] et des pôles d’enseignement supérieur : les [[Classe préparatoire aux grandes écoles|classes préparatoires aux grandes écoles]] des lycées [[Lycée Dumont-d'Urville|Dumont-d'Urville]] et Rouvière, l’[[Institut supérieur de l'électronique et du numérique]] (ISEN Toulon) et l'école d'ingénieurs [[SeaTech]].
+
+Toulon est enfin dotée d'un [[Opéra de Toulon|Opéra]], d'un [[Conservatoire de musique, danse et art dramatique en France|Conservatoire national de région]], de plusieurs [[musée]]s, salles de concert ([[Palais des congrès de Toulon|Palais Neptune]] et [[Zénith Oméga de Toulon|Zénith-Omega]]) et d'un théâtre labellisé « [[scène nationale]] » : le [[Théâtre Liberté]].
+
+La ville de Toulon est située dans le Midi de la [[France]] dans le sud-ouest du département du [[Var (département)|Var]] sur le [[littoral]] [[Mer Méditerranée|méditerranéen]], à mi-chemin entre [[Marseille]], à l'ouest, et [[Saint-Tropez]], à l'est. On la considère parfois comme la première ville à l'ouest de la [[Côte d'Azur]].
+[[Fichier:Avignon wikivoyage banner.jpg|centre|vignette|896x896px|Pont d'Avignon]]
+
+===== Zone urbaine d'Avignon =====
+
+La zone urbaine d'[[Avignon]] — ''[[Norme classique de l'occitan|Avinhon]] / [[Norme mistralienne|Avignoun]]'' en [[provençal]] — se situe dans le département du [[Vaucluse (département)|Vaucluse]], des [[Bouches-du-Rhône]] et du [[Gard]]. [[Avignon]] est le chef-lieu du [[Département français|département]] du [[Vaucluse (département)|Vaucluse]] et siège de sa [[préfecture]].
+
+[[Avignon]] se place au quarante-cinquième rang des [[Liste des communes de France les plus peuplées|communes de France les plus peuplées]], avec {{nombre|92209|habitants}}, la [[Liste des unités urbaines de France|quatorzième agglomération]] avec {{nombre|453296|habitants}} et la [[Aire urbaine (France)|seizième aire urbaine]] avec {{nombre|518981|habitants}}. La ville est le siège d'une [[communauté d'agglomération]], [[Communauté d'agglomération du Grand Avignon|Grand Avignon]], qui rassemble dix-sept communes et {{nombre|193563|habitants}}.
+[[Fichier:Pano Confluent Rhone Durance.jpg|gauche|vignette|521x521px|Confluent Rhône (gauche) et Durance (Droite)]]
+Surnommée la « cité des papes » en raison de la présence des papes de [[1309]] à [[1423]], elle est actuellement la plus grande ville et le chef-lieu du [[Département français|département]] de Vaucluse. C'est l'une des rares villes françaises à avoir conservé ses remparts, son centre historique, composé du [[Palais des papes d'Avignon|palais des papes]], de l'ensemble épiscopal, du [[Rocher des Doms]] et du [[Pont Saint-Bénézet|pont d’Avignon]]. Elle a été classée [[Patrimoine mondial|patrimoine mondial de l'UNESCO]] sous les [[Patrimoine mondial#Missions|critères I, II et IV]].
+
+La renommée de [[Festival d'Avignon|son festival]], véritable vitrine artistique et culturelle de la ville, a largement dépassé les frontières françaises. La ville fut [[capitale européenne de la culture]] en [[2000]].
+
+Elle est installée sur la rive gauche du [[Rhône]] qui marque la limite avec le [[Gard]] et la région [[Occitanie (région administrative)|Occitanie]]. Au sud d'Avignon, c'est la [[Durance]] qui sépare la ville des [[Bouches-du-Rhône]].
+[[Fichier:Cannes - port et croisette.jpg|vignette|243x243px|Port de Cannes et la Croisette]]
+
+===== Zone urbaine de Cannes =====
+La zone urbaine de [[Cannes]] — ''[[Norme classique de l'occitan|Canas]] / [[Norme mistralienne|Cano]]'' en [[provençal]] — se situe dans le [[Département français|département]] des [[Alpes-Maritimes]], du [[Var (département)|Var]] et des [[Alpes-de-Haute-Provence]].
+[[Fichier:View of Grasse, Provencal France.JPG|gauche|vignette|273x273px|Vue depuis Grasse]]
+[[Cannes]] se place au soixante-neuvième rang des [[Liste des communes de France les plus peuplées|communes de France les plus peuplées]], avec {{nombre|73744|habitants}}. Elle fait partie de la même [[Aire urbaine (France)|aire urbaine]] que [[Nice]] qui comptait {{nombre|1004941|habitants}}. La ville est le siège d'une [[communauté d'agglomération]], [[Communauté d'agglomération Cannes Pays de Lérins|Cannes Pays de Lérins]], qui rassemble cinq communes et {{nombre|158812|habitants}}. À noter que les trois [[Communauté d'agglomération|communautés d'agglomération]] de l'[[Arrondissement de Grasse|ouest des Alpes-Maritimes]] ([[Communauté d'agglomération Cannes Pays de Lérins|Pays de Lérins]], [[Communauté d'agglomération de Sophia Antipolis|Sophia-Antipolis]], [[Communauté d'agglomération du Pays de Grasse|Pays de Grasse]]) rassemblent cinquante-deux communes et {{nombre|436560|habitants}}.
+
+Village de pêcheurs [[Ligures|ligure]] pendant l’[[Antiquité]], liée aux légendes de [[Honorat d'Arles|Saint-Honorat]] et de l’[[homme au masque de fer]] sur les [[îles de Lérins]] au large de la [[baie de Cannes]], [[station climatique]] et [[Station balnéaire|balnéaire]] de la [[Côte d'Azur]] au {{XIXe siècle}}, la ville prend son essor avec la construction de [[Patrimoine balnéaire de Cannes|résidences de villégiature]] par les [[aristocrate]]s [[Angleterre|anglais]] et [[Russie|russes]] puis, dès le début du {{XXe siècle}}, d'[[hôtel]]s de luxe destinés aux [[touriste]]s fortunés, constituant son [[Liste des monuments historiques des Alpes-Maritimes|patrimoine architectural]].
+
+Dotée d'une [[Centre spatial de Cannes - Mandelieu|industrie de pointe]], d’un petit [[Aéroport de Cannes-Mandelieu|aéroport]] d'affaires, de plusieurs [[Port de plaisance|ports]] et d’un [[Palais des Festivals et des Congrès|palais des congrès]], Cannes est aujourd’hui mondialement connue pour ses [[festival]]s [[Festival de Cannes|du film]] et de la [[Festival de la plaisance de Cannes|plaisance]] et pour sa [[La Croisette|Croisette]] bordée de quelques [[Palace (hôtel)|palaces]].
+[[Fichier:Montagne Sainte-Victoire towards roofs of Aix-en-Provence.jpg|vignette|403x403px|Centre-ville d'Aix-en-Provence et vue sur la Sainte-Victoire]]
+
+===== Zone urbaine d'Aix-en-Provence =====
+
+La zone urbaine d'[[Aix-en-Provence]] — ''[[Norme classique de l'occitan|Ais de Provença]] / [[Norme mistralienne|Ais de Prouvènço]]'' en [[provençal]] — se situe dans le [[Département français|département]] des [[Bouches-du-Rhône]], du [[Var (département)|Var]] et du [[Vaucluse (département)|Vaucluse]].
+[[Fichier:Communauté d’agglomération du Pays d’Aix Logo.svg|alt=Logo du Pays d'Aix|gauche|vignette|289x289px|Logo du Pays d'Aix]]
+[[Aix-en-Provence]] se place au vingt-quatrième rang des [[Liste des communes de France les plus peuplées|communes de France les plus peuplées]], avec {{nombre|142149|habitants}}. Elle fait partie de la même [[Aire urbaine de Marseille-Aix-en-Provence|aire urbaine]] que [[Marseille]] qui comptait {{nombre|1743990|habitants}} La ville fait partie depuis le [[1er janvier|{{1er}}]] [[Janvier 2016|janvier]] [[2016]] de la [[métropole d'Aix-Marseille-Provence]], la seconde plus peuplée de France avec {{nombre|1859922|habitants}}. À noter que l'ancienne [[Communauté d'agglomération du pays d'Aix|communauté d'agglomération du Pays d'Aix]] rassemblait trente-six communes et {{nombre|402040|habitants}}.
+
+Fondée en [[-122|122 av. J.-C.]] sous le nom d'''Aquae Sextiae'' par la garnison romaine de [[Caius Sextius Calvinus]], Aix devient par la suite la [[capitale]] du [[comté de Provence]].
+
+Ville thermale depuis l'Antiquité, [[Aix-en-Provence]] dispose d'un important patrimoine culturel (architecture, [[Festival international d'art lyrique d'Aix-en-Provence|festival d'art lyrique]], [[Grand Théâtre de Provence]], etc.) et constitue un important pôle touristique.
+
+==== Autres zones urbaines ====
+'''[[Liste des unités urbaines de France|Liste des autres aires d'attraction des villes régionales de plus de {{nombre|50000|habitants}}]] (population au {{date-|1er janvier 2018}})'''<ref name="paaca syn16-2.pdf"/>
+
+{| class="wikitable"
+! rowspan="2" |Ville centre
+! colspan="3" |Aires urbaines 2018
+! colspan="3" |Unités urbaines 2016
+! rowspan="2" |Zone d'emploi
+! colspan="3" |Zones d'emploi 2017
+|-
+!Population
+(hab.)
+!Superficie
+(km²)
+!Densité
+(hab./km²)
+!Population
+(hab.)
+!Superficie
+(km²)
+!Densité
+(hab./km²)
+!Population
+(hab.)
+!Superficie
+(km²)
+!Densité
+(hab./km²)
+|-
+|[[Fréjus]]
+|[[Aire d'attraction de Fréjus|124 220]]<ref>{{Lien web|titre=Dossier complet − Aire urbaine de Fréjus (094) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=AU2010-094|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+|nc
+|nc
+|[[Unité urbaine de Fréjus|96 229]]<ref>{{Lien web|titre=Dossier complet − Unité urbaine de Fréjus (83502) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=UU2010-83502|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+|219
+|440
+|[[Fréjus]]
+|112 850<ref>{{Lien web|titre=Dossier complet − Zone d'emploi de Fréjus - Saint-Raphaël (9314) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=ZE2010-9314|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+|nc
+|307
+|-
+|[[Gap]]
+|[[Aire d'attraction de Gap|80 555]]
+|nc
+|nc
+|
+|
+|
+|Gap
+|105 118
+|nc
+|31
+|-
+|[[Draguignan]]
+|[[Aire d'attraction de Draguignan|75 875]]<ref>{{Lien web|titre=Dossier complet − Aire urbaine de Draguignan (110) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=AU2010-110|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+|nc
+|nc
+|[[Unité urbaine de Draguignan|80 913]]<ref>{{Lien web|titre=Dossier complet − Unité urbaine de Draguignan (83501) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=UU2010-83501|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+|340
+|238
+|[[Draguignan]]
+|117 598<ref>{{Lien web|titre=Dossier complet − Zone d'emploi de Draguignan (9313) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=ZE2010-9313|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+|nc
+|80
+|-
+|[[Salon-de-Provence]]
+|[[Aire d'attraction de Salon-de-Provence|68 881]]<ref>{{Lien web|titre=Dossier complet − Aire urbaine de Salon-de-Provence (143) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=AU2010-143|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+|nc
+|nc
+|[[Unité urbaine de Salon-de-Provence|61 555]]<ref>{{Lien web|titre=Dossier complet − Unité urbaine de Salon-de-Provence (13501) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=UU2010-13501|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+|140
+|440
+|Martigues - Salon
+|313 844<ref>{{Lien web|titre=Dossier complet − Zone d'emploi de Salon-de-Provence (9312) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=ZE2010-9312|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+|nc
+|322
+|-
+|[[Manosque]]
+|68 299
+|nc
+|nc
+|
+|
+|
+|Manosque
+|90 021
+|nc
+|44
+|-
+|Capentras
+|61 946
+|nc
+|nc
+| colspan="3" |Unité urbaine d'Avignon
+|Carpentras
+|94 184
+|nc
+|151
+|-
+|[[Arles]]
+|[[Aire d'attraction d'Arles|59 508]]<ref>{{Lien web|titre=Dossier complet − Aire urbaine d'Arles (141) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=AU2010-141|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+|nc
+|nc
+|[[Unité urbaine d'Arles|55 753]]<ref>{{Lien web|titre=Dossier complet − Unité urbaine d'Arles (00552) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=UU2010-00552|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+|798
+|70
+|[[Arles]]
+|141 086<ref>{{Lien web|titre=Dossier complet − Zone d'emploi d'Arles (9309) {{!}} Insee|url=https://www.insee.fr/fr/statistiques/2011101?geo=ZE2010-9309|site=www.insee.fr|consulté le=2020-04-22}}.</ref>
+|nc
+|73
+|-
+|[[Orange (Vaucluse)|Orange]]
+|54 762
+|nc
+|nc
+| colspan="3" |Unité urbaine d'Avignon
+|[[Orange (Vaucluse)|Orange]]
+|68 075
+|nc
+|167,3
+|}
+{| class="wikitable"
+|-
+|
+|}
+
+=== Cohésion sociale ===
+Provence-Alpes-Côte d'Azur est une des régions les plus touchées par la pauvreté : {{nobr|15 habitants}} sur 100 vivent sous le [[seuil de pauvreté]]. Les inégalités sont également plus marquées que la moyenne nationale<ref name=pas/>.
+
+La région est par ailleurs une des régions où l'accès au logement est le plus difficile. On compte seulement 10 % de [[logement social|logements sociaux]] (contre 14 % en France) et Provence-Alpes-Côte d'Azur est la région où le logement est le plus cher après l'[[Île-de-France]]<ref name=pas/>.
+
+== Politique et administration ==
+=== Collectivités territoriales ===
+La [[Région française|région]] est administrée par le [[conseil régional de Provence-Alpes-Côte d'Azur]] dont le siège est à [[Marseille]]. Il compte 123 conseillers régionaux et est présidé depuis [[2017]] par [[Renaud Muselier]].
+
+Provence-Alpes-Côte d'Azur compte six départements :
+{{Composition Division de France
+ | charte = région
+ | région = Provence-Alpes-Côte d'Azur
+ | liste de = départements
+}}
+
+On compte {{nobr|18 [[Arrondissement français|arrondissements]]}}, {{nobr|237 [[Canton français|cantons]]}} et {{nobr|963 [[Commune (France)|communes]]}}, elles-mêmes regroupées en {{nobr|86 [[Intercommunalité en France|intercommunalités]]}}. Provence-Alpes-Côte d'Azur compte trois [[Métropole (intercommunalité française)|métropoles]] : [[Métropole Nice Côte d'Azur|Nice Côte d'Azur]] (créée en 2011), [[Métropole d'Aix-Marseille-Provence|Aix-Marseille-Provence]] et [[Métropole Toulon Provence Méditerranée|Toulon Provence Méditerranée]].
+
+=== Administration déconcentrée ===
+Le [[préfet de région]], également [[Préfet de département|préfet des Bouches-du-Rhône]], est basé à [[Marseille]]. En plus des [[Liste des services déconcentrés de l'État français#Échelon régional|directions régionales]], la région est du ressort du [[Centre d'études techniques de l'Équipement|Centre d'études techniques de l'Équipement Méditerranée]], de la [[Direction interdépartementale des Routes|Direction interdépartementale des Routes Méditerranée]], de la [[Direction interrégionale de la mer|Direction interrégionale de la mer Méditerranée]], de la [[Direction interrégionale des services pénitentiaires|Direction interrégionale des services pénitentiaires de Marseille]] et de la [[Direction de la protection judiciaire de la jeunesse (France)|Direction de la protection judiciaire de la jeunesse Sud-Est]].
+
+Pour l'[[Recteur d'académie|Éducation nationale]], la région est divisée en deux [[Académie (éducation)|académies]] : [[Académie d'Aix-Marseille|Aix-Marseille]] et [[Académie de Nice|Nice]].
+
+=== Tendances politiques ===
+Le département des [[Alpes-Maritimes]] a longtemps été dirigé par des hommes politiques [[Centre (politique)|centristes]], bien que, depuis les années 1980, les partis de [[Droite (politique)|droite]] n'aient cessé de progresser. Les [[Bouches-du-Rhône]] et le [[Var (département)|Var]] ont longtemps été considérés comme appartenant au {{citation|Midi rouge}}. Le courant [[socialisme|socialiste]] y est influent dès la fin du {{s|XIX}}, comme le rappelle l'élection en [[1881]] du premier député socialiste de France, [[Clovis Hugues]]. Plus tôt, en [[1851]], le département des [[Alpes-de-Haute-Provence|Basses-Alpes]], ainsi que le Var et le [[Vaucluse (département)|Vaucluse]], s'étaient distingués par une [[Coup d'État du 2 décembre 1851#Résistance en province|résistance républicaine au coup d'État de Louis-Napoléon Bonaparte]].
+
+Le [[Parti communiste français|Parti communiste]] a longtemps dirigé de nombreuses communes de la région (comme [[Aubagne]], [[Draguignan]], [[La Ciotat]], [[Beausoleil (Alpes-Maritimes)|Beausoleil]]) et maintient quelques bastions ([[Martigues]], [[Gardanne]], [[Arles]] notamment).
+
+À partir des [[années 1980]], la région a progressivement glissé à droite avec les changements démographiques et économiques, à l'exception des [[Alpes-de-Haute-Provence]]. Le [[Front national (France)|Front national]] y enregistre également des scores particulièrement élevés. Si ce glissement est particulièrement fort pour les élections nationales, la gauche résiste cependant bien aux élections locales et conserve de nombreuses collectivités ([[Conseil régional de Provence-Alpes-Côte d'Azur|conseil régional]] de 1998 à 2015, [[conseil général (France)|conseils généraux]] des [[Bouches-du-Rhône]], de [[Vaucluse (département)|Vaucluse]] jusqu'en 2015, des [[Alpes-de-Haute-Provence]], certaines communes).
+
+{| align="center" rules="all" cellspacing="0" cellpadding="4" style="border: 1px solid #999; border-right: 2px solid #999; border-bottom: 2px solid #999"
+|+ style="font-weight: bold; font-size: 1.1em; margin-bottom: 0.5em"|
+! bgcolor="#666666" |{{coloré|FFFFFF|Élection / collectivités}} !! bgcolor="#0066cc" |Centre !! bgcolor="#ff8080" |Extrême droite
+|-
+| Élection présidentielle de 2017 ({{2d }} tour) ||'''55,47''' % (Emmanuel MACRON) || 44,53 % (Marine LE PEN)
+|-
+| Conseil régional de 2015 || '''123''' (LR-UDI-FN) || 0
+|-
+| Conseils départementaux de 2015 || '''5''' ||1
+|-
+| Députés || '''27''' || 15
+|-
+| Sénateurs || '''13'''  ||  9
+|-
+| Villes chefs-lieux de département || '''4'''  || 2
+|}
+
+=== Jumelages ===
+
+{| class="wikitable"
+|-
+! class="hintergrundfarbe5" colspan="5" | Régions jumelées avec la région Provence-Alpes-Côte d'Azur
+|-
+| [[Fichier:Flag of California.svg|20px|Drapeau de la Californie]] || [[Californie]] || [[États-Unis]] || 1990 || [[Fichier:Flag of the United States.svg|bordure|20px|États-Unis]]<ref>[http://soir.senate.ca.gov/sisterstates California's sister state relationships].</ref>
+|-
+| [[Fichier:China-Guangdong.png|20px|Carte de Guangdong]] || [[Guangdong]] || [[République populaire de Chine]] || 1985 || [[Fichier:Flag of the People's Republic of China.svg|bordure|20px|République populaire de Chine]]<ref>[http://www.ambafrance-cn.org/Relations-entre-la-France-et-le-Guangdong Relations entre la France et le Guangdong], http://www.ambafrance-cn.org.</ref>
+|-
+| [[Fichier:Tangier-T%C3%A9touan.svg|20px|Carte du Maroc]] || [[Tanger-Tétouan-Al Hoceima]] || [[Royaume du Maroc]] || 2000 || [[Fichier:Flag_of_Morocco.svg|bordure|20px|Royaume du Maroc]]<ref>[http://www.amb-maroc.fr/tableau%20coop%20d%E9c1.pdf], http://www.amb-maroc.fr.</ref>
+|}
+
+== Culture ==
+{{Article détaillé|Culture de Provence-Alpes-Côte d'Azur}}
+=== Langues ===
+[[Fichier:Provença istorica e lingüistica.png|vignette|Variétés du provençal.]]
+{{Article détaillé|Occitan|Provençal|Niçois|Vivaro-alpin}}
+Selon la classification ancienne de la [[linguistique romane]] classique, la région Provence-Alpes-Côte d'Azur appartient à l'[[aire linguistique]] [[occitan|d'oc ou occitan]]e, à l'exception de la frange frontalière italienne qui relève du domaine ligure (Tende, Roya, Menton). Cependant, il existe une école sociolinguistique qui démontre que la population considère plutôt le provençal et le niçois comme langues distinctes de l'occitan, et distinctes entre elles-mêmes, (en contradiction avec le travail ancien de [[Frédéric Mistral]] sur le sujet<ref>http://www.lexilogos.com/provencal/felibrige.php?p=-1.</ref>) tout en appartenant à la famille des [[langues d'Oc]], sur le modèle des langues par élaboration ou langues ''[[Typologie sociolinguistique des langues#Langue Ausbau|ausbau]] ou polynomiques.'' Saisi de cette question comme la plupart des élus de la région, le [[Conseil régional de Provence-Alpes-Côte d'Azur|conseil régional]] a adopté en décembre 2003 une motion affirmant {{citation|que la langue occitane ou langue d’Oc est la langue régionale de la région Provence-Alpes-Côte d'Azur : le provençal rhodanien, le provençal maritime, le niçard et l’alpin sont les formes régionales de la langue occitane ou langue d’Oc en Provence-Alpes-Côte d'Azur}} après avoir deux mois plus tôt retenu les langues provençales et niçoises<ref>Louis-Jean et Alain Calvet, ''Les Confettis de Babel'', Éditions OIF, {{p.|12-13}}.</ref>. En 2016, le Conseil régional a finalement voté la reconnaissance « des langues qui ont su véhiculer (…) les traditions et les spécificités culturelles de l’histoire de notre région et de ses divers territoires : le provençal, le gavot ou le nissard. Cette pluralité linguistique est la spécificité de notre région dans l’espace de la langue d’oc » (24/06/2016).
+
+La langue régionale est généralement appelée [[provençal]]. Mais ce fût longtemps aussi l'ancienne appellation de l'ensemble de la [[Occitan|langue d'Oc]] qui a ensuite été renommé Occitan vers 1930, sous l'impulsion de [[Languedociens]]. Par ailleurs, les populations ont longtemps cité la langue du Midi par le nom de leur dialecte, à titre d'exemple, les [[Catalans]] surnommèrent la langue d'Oc de "Limousin" du fait de la notoriété de leurs troubadours. Le terme d'Occitan provoque, notamment en Provence, des critiques car il est étymologiquement un synonyme de languedocien<ref>Cf. Oucitan, Frédéric Mistral, Lou Tresor dou Felibrige, 1878, https://www.lexilogos.com/provencal/felibrige.php?q=oucitan.</ref>. Toutefois, il faut préciser que "provençal" comme "occitan" ou "oc" sont deux termes qui renvoient à la langue du Midi en général et qui se sont par la suite réduits à des provinces particulières : Languedoc (linguae occitanae), Provence (provinciae narbonensis). Les Italiens avaient tendance à appeler la langue du Midi « provenzale ». On distingue plusieurs variétés du [[provençal]] : rhodanien, maritime (ou marseillais), [[niçard]], [[vivaro-alpin]] (ou provençal alpin). Si la pratique du provençal est aujourd'hui réduite comme [[langue maternelle|langue maternelle (environ 200.000 personnes, 5% de la population)]], il subsiste cependant dans [[Littérature provençale|la création littéraire]] et musicale ([[Massilia Sound System]], [[Moussu T e lei Jovents]], [[Lo Còr de la Plana]], Crous e Pielo, Fatche d'eux, Zou mai Aqui, [[Guy Bonnet]], André Chiron, etc.) ou littéraire ([[Max-Philippe Delavouët|Mas-Felipe Delavouet]], Jean-Pierre Tennevin, [[Roland Pécout]] ou précédemment [[Théodore Aubanel]], [[Frédéric Mistral]], [[Joseph d'Arbaud]], [[Victor Gelu]]). Des associations, dont le [[Félibrige]], l'Union provençale, le Collectif Provence, l'[[Institut d'Estudis Occitans|IEO Provence]], l{{'}}'''Astrado prouvençalo'', l{{'}}''Ostau dau País marselhés'', ''Parlarèn'', etc., entretiennent ce patrimoine linguistique.
+
+=== Cuisine ===
+{{Article détaillé|Cuisine provençale|Cuisine des Alpes méridionales|Cuisine comtadine et vauclusienne|Cuisine de la Provence méditerranéenne|Cuisine niçoise}}
+Partie intégrante du [[bassin méditerranéen]] et proche de l'[[Italie]], la cuisine de Provence-Alpes-Côte d'Azur est marquée par ces influences : utilisation d'[[huile d'olive]], d'olives ([[tapenade]]…), d'[[ail cultivé|ail]], d'herbes aromatiques ([[thym]], [[romarin]], [[laurier sauce|laurier]], [[sauge]], etc.). La consommation de [[légume]]s d'été et des légumes secs l'hiver est importante : [[aubergine]]s, [[poivron]]s, [[courgette]]s, [[tomate]]s, etc. Dans le sud et le centre, l'[[agneau]] et le [[mouton]] sont très utilisés ainsi que les produits de la mer. Dans les Alpes, la cuisine comporte une abondance de [[salaisons]] et de fromages et certaines recettes traditionnelles font partie de la [[cuisine dauphinoise]].
+
+Parmi les produits locaux : la [[Truffe (champignon)|truffe]] (dont le [[Vaucluse (département)|Vaucluse]] est le premier producteur en France), le [[pastis]], les [[herbes de Provence]], l'[[huile d'olive]] (la région compte plusieurs [[Appellation d'origine contrôlée|AOC]]).
+
+<gallery mode="packed">
+Fichier:Truffle 1.jpg|Panier de truffes du Ventoux.
+Fichier:Anchoïade présentation.jpg|Anchoïade.
+Fichier:Herbesdeprovence.jpg|Herbes de Provence.
+Fichier:Huile d'Olives des Baux de Provence.JPG|Gamme d'Huile d'olive de la vallée des Baux-de-Provence AOC.
+Fichier:Pastis.jpg|Un verre de pastis.
+Fichier:Pan-bagnat, socca et pissaladière niçois.jpg|thumb|[[Salade composée|Assiette composée]] de [[Socca]], de [[pissaladière]] et de deux [[pan bagnat]].
+</gallery>
+
+=== Littérature ===
+De nombreuses œuvres littéraires évoquent la région, dont l'œuvre littéraire (mais aussi théâtrale et cinématographique) de [[Marcel Pagnol]]. Ses ''Souvenirs d'enfance'', par exemple (''[[La Gloire de mon père]]'', ''[[Le Château de ma mère]]'', etc.), se déroulent principalement à [[Marseille]] et dans les collines environnantes, de même que le diptyque ''[[L'Eau des collines]]''. On peut noter aussi les nouvelles qui composent les ''[[Lettres de mon moulin]]'' d'[[Alphonse Daudet]] et qui se situent pour la plupart dans les environs de [[Beaucaire (Gard)|Beaucaire]] ({{Unité|20|km}} à l'est de [[Nîmes]] et en face de [[Tarascon (Bouches-du-Rhône)|Tarascon]]), et reprennent parfois des récits tirés du [[folklore]] provençal.
+
+De nombreuses autres œuvres s'inspirent ou racontent la Provence, les Alpes du sud ou encore le territoire de l'ancien comté de Nice et dont les auteurs sont [[Frédéric Mistral]], [[Joseph Roumanille]], [[René Char]], [[Théodore Aubanel]], [[Clovis Hugues]], [[Henri Bosco]], [[Marie Mauron]], [[Yvan Audouard]], [[Pierre Magnan]], [[Jean-Yves Royer]], [[Jean Giono]] et bien d'autres. D'autres œuvres prennent place dans les diverses zones de montagnes de la région.
+
+Il existe aussi une [[littérature provençale]], en langue provençale, très importante et dynamique.
+
+=== Musique ===
+La musique en provençal est très créative, aussi bien dans les genres traditionnels que dans les genres plus modernes, avec une vague folk depuis les années 1970 (Miquèla e lei Chapacans, Jan Nouvè Mabelly, Daumas…) et une seconde vague renouvelée depuis les années 1990 avec des genres nouveaux (comme [[Jean-Bernard Plantevin]] et les groupes [[Massilia Sound System]], [[Nux Vomica (groupe musical)|Nux Vomica]], Gacha-Empega, [[Dupain]], Crous e Pielo, Terro de Sau, lo Còrou de Berra, D'Aquí Dub, [[lo Còr de la Plana]] par exemple). On retrouve une riche production de rap dans la région, à la fois ancienne (depuis le début des années 1990) et dynamique (avec de nombreux disques d'or et de platine), avec des groupes comme [[IAM]] ([[Akhenaton (rappeur)|Akhenaton]], [[Kheops (DJ)|Kheops]], [[Freeman (rappeur)|Freeman]], [[Imhotep (producteur)|Imhotep]], [[Shurik'n]], ce dernier étant originaire de [[Miramas]]), [[Psy 4 de la rime|Psy'4 de la Rime]] ([[Alonzo (rappeur)|Alonzo]], [[Soprano (rappeur)|Soprano]], Vincenzo, [[Sya Styles]]) ou la [[Fonky Family]] ([[Le Rat Luciano]], [[Sat l'Artificier]], [[Don Choa]], [[Menzo]], [[Pone]], DJ Djel, Fel) à [[Marseille]], [[Chiens de paille (groupe)|Chiens de Paille]] (Sako et Hal) à [[Cannes]], le collectif D'en Bas Fondation<ref>{{Lien web|langue=en|titre=Collectif D'en Bas Fondation|url=https://www.discogs.com/artist/3478763-Collectif-Den-Bas-Fondation?filter_anv=1&anv=Den+Bas+Fondation|site=Discogs|consulté le=2017-09-26}}.</ref> (Veust Lyricist, Infinit', Mr Agaz..), les artistes solo [[Jul (chanteur)|Jul]], [[Bouga (rappeur)|Bouga]], REDK, [[Keny Arkana]] et [[L'Algérino|l'Algerino]] à Marseille, [[SCH (rappeur)|SCH]] à Aubagne, Saigne J<ref>{{Lien web|langue=fr|titre=[Section de Toulon de la LDH] rappeur toulonnais poursuivi pour injures envers la police : relaxe|url=http://section-ldh-toulon.net/rappeur-toulonnais-poursuivi-pour.html|site=section-ldh-toulon.net|consulté le=2017-09-26}}.</ref>{{,}}<ref>{{Lien web|langue=en-us|titre=Saigne J on Apple Music|url=https://itunes.apple.com/us/artist/saigne-j/id423953346|site=Apple Music|consulté le=2017-09-26}}</ref>, Dialectic Pimp et [[Deen Burbigo]] à [[Toulon]], Hooss<ref>{{Lien web|langue=en|titre=Hooss|url=https://genius.com/artists/Hooss|site=Genius|consulté le=2017-09-26}}.</ref> à Fréjus, [[Kalash l'Afro]] à [[Berre-l'Étang|Berre-l'Etang]] et bien d'autres encore
+
+=== Cinéma ===
+Les [[frères Lumière]], qui possédaient une maison à [[la Ciotat]], y ont réalisé leurs premières œuvres [[cinématographique]]s avec celles tournées à leur usine de [[Lyon]] : ''[[L'Arrivée d'un train en gare de La Ciotat]]'', ''[[L'Arroseur arrosé]]''. La première salle de [[cinéma]] de l'histoire, [[L'Eden (cinéma)|L'Éden]], se situe à [[La Ciotat]].
+
+De nombreux films ont été réalisés dans la région, notamment de Marcel Pagnol et d'Henri Verneuil : ''[[Napoléon (film, 1927)|Napoléon]]'' d'[[Abel Gance]], ''[[Toni (film, 1935)|Toni]]'', réalisé et tourné à [[Martigues]] par [[Jean Renoir]], ''[[La Femme du boulanger]]'' de [[Marcel Pagnol]], tourné au [[Le Castellet (Alpes-de-Haute-Provence)|Castellet]].
+
+=== Symboles ===
+{{Article détaillé|Drapeaux de Provence-Alpes-Côte d'Azur}}
+{| border=1 cellspacing=5 width="100%" class="wikitable"
+|-valign="top"
+|align="center" style="padding:8px"|[[Fichier:Arms of the French Region of Provence-Alpes-Côte d'Azur 2.svg|80px]]
+|width="100%" style="padding:8px"|
+[[Blasonnement]] :<br>''parti, au premier d’or aux quatre pals de gueules, au second coupé en premier d’or au dauphin d'azur crété, barbé, loré, peautré et oreillé de gueules, et en second d’argent à l’aigle couronné de gueules, empiétant une montagne aux trois coupeaux de sable issant d’une mer d'azur et ondée d’argent''
+|}
+Le blason adopté par le conseil régional rassemble les armes anciennes de la [[Provence]] avec celles du [[comté de Nice]] et du [[Dauphiné]]. Sur le drapeau, les couleurs de Provence occupent les deux tiers de la surface à la hampe :
+
+[[Fichier:Flag of Provence-Alpes-Cote dAzur.svg|121px|centré]]
+Le drapeau de la région est présent sur quelques établissements institutionnels mais les plus utilisés restent les drapeaux traditionnels de la Provence, de Nice et du Dauphiné dans les anciens territoires respectifs qui représentent la pluralité provençale, après la dislocation progressive de la Provence au Moyen-Âge.
+
+=== Identité visuelle ===
+En 2018, le président du Conseil régional promeut la marque « Région Sud - Provence-Alpes-Côte d'Azur » illustrée par le logo ci-après<ref>{{Lien web|url=http://www.paca.cci.fr/info-veille-economique--lancement-de-la-marque-region-sud---provence-alpes-cote-d-azur-7276.php|titre=Lancement de la marque Région Sud - Provence-Alpes-Côte d'Azur|date=12 juin 2018|site=paca.cci.fr/}}</ref>. Il ne s'agit pas du logo ni du nom officiel de la région, celui-ci, en opposition du préfet, ne pouvant être modifié que par décret en [[Conseil d'État (France)|Conseil d'État]] qui n'a pas été saisi<ref>{{Lien web|url=https://actu.fr/societe/paca-ou-region-sud-les-desaccords-persistent-entre-le-conseil-regional-et-la-prefecture_42897353.html|titre="PACA" ou "Région Sud", les désaccords persistent entre le Conseil régional et la Préfecture|date=29 juin 2021|site=actu.fr}}</ref>.
+
+<gallery>
+Logo marque Région Sud.svg|Logo de la marque « Région Sud »
+</gallery>
+
+==== Anciens logos ====
+<gallery>
+Fichier:Logo-cr-paca.fr-1997.jpg
+Fichier:Logo-cr-paca.fr-2000.gif
+Fichier:Logo-regionpaca.fr-2006.gif
+</gallery>
+
+== Économie ==
+La région Provence-Alpes-Côte d'Azur produit 7 % du [[Produit intérieur brut|PIB]] français, ce qui la situe au troisième rang national et {{16e|européen}}<ref name=pas/>.
+
+L'économie régionale a été touchée par la [[Crise économique mondiale des années 2008 et suivantes|crise économique de 2008]], mais moins que le reste du pays. Toutefois, la croissance démographique forte crée un déficit d'emplois et un chômage structurellement plus important<ref name=pas/>.
+
+=== Agriculture ===
+L'agriculture est diversifiée : [[viticulture]] ([[Côtes-du-rhône (AOC)|Côtes-du-Rhône]], [[Côtes-de-provence|Côtes-de-Provence]]), [[maraîchage]] ([[Agriculture de Vaucluse|Vaucluse]]), primeurs (Var), fleurs à parfums (Côte d'Azur), [[riziculture]] (Camargues). L'élevage reste extensif<ref name="draaf">[http://draaf.paca.agriculture.gouv.fr/La-filiere-Elevage « La filière Élevage »], sur ''draaf.paca.agriculture.gouv.fr''.</ref> : bovins et chevaux (Camargue) ou ovins (Alpes).
+Les champs de lavande, cliché largement véhiculé par les offices de tourisme ou les opérateurs touristiques ne représentent en réalité que 0,51 % des surfaces de la région soit {{unité|160|km|2}}<ref>https://www.cihef.org/filiere/plantes-parfum-lavande-lavandin.</ref>.
+La forêt occupe un tiers du territoire régional, mais est peu utilisée par l'agriculture<ref name=Larousse/>. La région PACA est par ailleurs la première région de France, proportionnellement, en termes d'[[agriculture biologique en France|agriculture biologique]], avec en 2012 13 % de la [[surface agricole utile]] (SAU) certifiée, contre 3,6 % en moyenne sur le territoire national<ref>[http://agriculture.gouv.fr/IMG/pdf/130830_Rapport_Parlement-revise_cle416a56.pdf Rapport au Parlement de juillet 2013] sur le [[Programme national pour l'alimentation]], {{p.|48}}</ref>. Des initiatives ont été prises afin de favoriser les commandes publiques, notamment en [[restauration scolaire]], de produits issus du bio<ref>Par exemple, http://www.offre-alimentaire-paca.fr/.</ref>.
+
+<gallery mode="packed">
+Image:Vallée du Rhône Haies de cyprès contre le mistral.jpg|Vignes dans la vallée du Rhône.
+Image:Landscape Provence France 1.jpg|Paysage provençal touristique, lavande.
+File:Schafherde Crau.jpg|Élevage dans la [[Crau]].
+</gallery>
+
+=== Industries ===
+Longtemps, l'activité industrielle s'est concentrée autour des ports (construction navale, industries alimentaires et [[Savon de Marseille|savonneries]]) puis dans la vallée du Rhône (chimie). Après la [[Seconde Guerre mondiale]], le [[Grand port maritime de Marseille|port de Marseille]] s'est étendu vers l'[[étang de Berre]] et le [[Fos-sur-Mer|golfe de Fos]], débouchant sur la création d'un important complexe pétrolier et industriel. Le secteur pétrochimique est ainsi particulièrement important (butadiène, chlore gazeux, propylène, éthylène, caoutchouc)<ref name=Larousse/>.
+
+L'industrie de l'aluminium est implantée à [[Gardanne]], né de la proximité d'un bassin houiller et des mines de [[bauxite]] du Var<ref name=Larousse/>, et qui subsiste même si les mines sont aujourd'hui fermées, ainsi que l'industrie du parfum à [[Grasse]] et, plus récemment, des activités liées aux télécommunications (micro-électrique, multimédia, informatique)<ref name=Larousse/>.
+
+L'[[agroalimentaire]] est présent par la production de fruits confits, lentilles en conserve, conserves de truffes, semoule, pâtes, confiserie, plats cuisinés<ref name=Larousse/>. Enfin, on note la présence d'industries liées à la mer, telle la [[Compagnie maritime d'expertises|Comex]]<ref name=Larousse/>.
+
+Comme ailleurs en France, l'emploi industriel est en déclin en Provence-Alpes-Côte d'Azur, mais moins que dans le reste du pays car les secteurs les plus touchés par ce déclin (automobile, textile) sont moins présents dans la région<ref name=pas/>.
+
+Un très important développement des industries chimiques notamment a eu lieu sur le quartier des [[Les Riaux|Riaux]].
+
+=== Commerce et services ===
+L'économie de la région Provence-Alpes-Côte d'Azur est dominée par le [[secteur tertiaire]], qui représente plus de 80 % des emplois<ref name=pas/>.
+
+Le [[tourisme]] est un secteur particulièrement important : forte de son climat et de la variété de ses paysages, Provence-Alpes-Côte d'Azur est la deuxième région touristique de France, après l'[[Île-de-France]]. Un tourisme d'hiver a émergé sur la [[côte d'Azur]] dès le {{s|XIX}} pour une riche clientèle étrangère, qui a lancé la réputation du littoral, en particulier pour son climat. Il a été remplacé par un tourisme d'été populaire à partir des [[années 1950]], qui a gagné l'ensemble du littoral. Un tourisme de luxe caractérise aussi la région, qui bénéficie du renom de lieux tels que [[Saint-Tropez]], [[Nice]] ou [[Cannes]]. Les [[sports d'hiver]] et la randonnée sont largement pratiqués dans les départements montagnards.
+
+<gallery mode="packed">
+Fichier:Cannes Plage.JPG|La plage publique de [[Cannes]] en été.
+Fichier:Resto.JPG|Un restaurant à [[Salon-de-Provence]].
+Fichier:Parapente en Haute-Provence.jpg|Parapente en Haute-Provence.
+File:Résidence secondaire en Haute-Provence.jpg|Une résidence secondaire.
+</gallery>
+
+=== Recherche et enseignement supérieur ===
+Provence-Alpes-Côte d'Azur compte quatre universités :
+* l'[[université d'Aix-Marseille]], la plus grande de France en nombre d'étudiants ;
+* l'[[université d'Avignon et des pays de Vaucluse]] ;
+* l'[[université Nice-Sophia-Antipolis]] ;
+* l'[[université de Toulon]].
+À cela s'ajoutent des écoles d'ingénieurs (notamment l'[[École centrale de Marseille]] et [[Polytech Marseille]]) et 14 organismes publics de recherche, pour un total de {{nombre|17000|chercheurs}} et enseignants-chercheurs<ref>{{Lien web|url=http://www.regionpaca.fr/enseignement-superieur-recherche.html|site=regionpaca.fr|titre=Recherche et innovation}}.</ref>. La région abrite également six [[technopôle]]s ainsi qu'un centre du [[Commissariat à l'énergie atomique et aux énergies alternatives|Commissariat à l'énergie atomique]] à [[Centre de Cadarache|Cadarache]] où est conduit le [[ITER|projet international ITER]] de [[réacteur nucléaire]] utilisant la [[fusion nucléaire|fusion]].
+
+<gallery mode="packed">
+L'Université d'Avignon.jpg|L'[[université d'Avignon et des pays de Vaucluse|université d'Avignon]].
+University of Nice Sophia-Antipolis - Grand Château - 1.jpg|L'[[université Nice-Sophia-Antipolis]].
+AMU campus Saint Charles.JPG|L'[[université d'Aix-Marseille]], campus de Marseille Saint-Charles.
+</gallery>
+
+== Transports ==
+[[Fichier:TER PACA, fréquence de la desserte.png|thumb|Lignes de trains dans la région]] 
+{{CarteInsécuritéRoutièreFrance|nom_région=PACA|wikidata_région_id=Q15104|frame-lat=44.5|frame-long=6|zoom=6}}
+Provence-Alpes-Côte d'Azur est desservie par les aéroports de [[Aéroport de Nice-Côte d'Azur|Nice-Côte d'Azur]] et [[Aéroport de Marseille Provence|Marseille Provence]], respectivement les premier et troisième aéroports de France hors région parisienne, ainsi que des aéroports moins importants ([[Aéroport de Toulon - Hyères|Toulon-Hyères]], [[Aéroport d'Avignon-Provence|Avignon-Provence]], [[Aéroport de Cannes - Mandelieu|Cannes-Mandelieu]]).
+
+La [[LGV Méditerranée|ligne de train à grande vitesse Méditerranée]] relie [[Paris-Gare-de-Lyon|Paris]] à [[Gare de Marseille-Saint-Charles|Marseille Saint-Charles]] en trois heures et dessert [[Gare d'Avignon TGV|Avignon]] et [[Gare d'Aix-en-Provence TGV|Aix-en-Provence]]. Le [[LGV Provence-Alpes-Côte d'Azur|projet de LGV]] jusqu'à Nice a été abandonné récemment au profit du renforcement de lignes classiques sur lesquelles pourront rouler les [[TGV]].
+
+Les [[TER Provence-Alpes-Côte d'Azur]] comptent un réseau de {{unité|1008|km}} et environ {{nombre|64300|voyageurs}} par jour. Ce réseau souffre toutefois de retards fréquents<ref>{{article | titre=Palmarès des Régions | périodique=[[La Vie du Rail magazine|La Vie du Rail]] | mois=décembre | année=2008 | issn=0042-5478}}.</ref>. La [[ligne de Nice à Digne]] est exploitée par les [[Chemins de fer de Provence]]. Le réseau ferroviaire régional est complété par des [[LER Provence-Alpes-Côte d'Azur|lignes d'autobus]].
+
+[[Marseille]] est la seule ville de la région dotée d'un [[Métro de Marseille|métro]]. Elle dispose également d'un [[Tramway de Marseille|réseau de tramway]], tout comme [[Tramway d'Aubagne|Aubagne]], [[Tramway d'Avignon|Avignon]] et [[Tramway de Nice|Nice]].
+
+Les principales autoroutes de la région sont l'[[Autoroute A7 (France)|A7]] (Lyon à Marseille ''via'' Avignon), l'[[Autoroute A8 (France)|A8]] (A7 vers Nice et l'Italie), l'[[Autoroute A50 (France)|A50]] (Marseille à Toulon), l'[[Autoroute A51 (France)|A51]] (Marseille à Gap), l'[[Autoroute A52 (France)|A52]] (Aubagne à Aix), l'[[Autoroute A54 (France)|A54]] (Salon de Provence vers Saint-Martin-de-Crau, Arles et Nîmes), l'[[Autoroute A55 (France)|A55]] (Marseille à Martigues) et l'[[Autoroute A57 (France)|A57]] (Toulon à l'A8).
+
+Provence-Alpes-Côte d'Azur est une importante région portuaire : le [[Grand port maritime de Marseille|port de Marseille]], qui s'étend du [[Vieux-Port de Marseille]] à [[Fos-sur-Mer]], est le premier port de France, le deuxième de Méditerranée et le quatrième d'Europe. Le [[port militaire de Toulon]] est la principale base navale française.
+[[Fichier:TER Gare de Villefranche sur Mer (06).JPG|vignette|171x171px|Un [[TER Provence-Alpes-Côte d'Azur]].]]
+<gallery mode="packed">
+Marseille harbour mg 6356.jpg|Port de la Joliette à Marseille.
+LGV 1 By JM Rosier.jpg|Un TGV près de [[Cavaillon]].
+Aeroport nice vue aerienne.JPG|Aéroport de Nice, {{2e}} aéroport français.
+</gallery>
+
+== Sports ==
+La région Provence-Alpes-Côte d'Azur compte de nombreux clubs de sport importants :
+* l'[[Olympique de Marseille]] et l'[[Olympique Gymnaste Club Nice Côte d'Azur|OGC Nice]] jouent en [[Championnat de France de football|Ligue 1 de football]]. Le SC [[Sporting Club de Toulon|Toulon]] joue en [[Championnat de France de football National]], le [[Football Club de Martigues]]. L'[[Union sportive Marseille Endoume Catalans|US Endoume]], [[Hyères Football Club|Hyères FC]], le [[Racing Club de Grasse]], l'[[Étoile Football Club Fréjus Saint-Raphaël]], le [[Marignane Gignac Football Club|Marignane Gignac FC]] jouent en National 2 ({{4e}} division) ;
+* le [[Rugby club toulonnais|RC Toulon]] évolue en [[Championnat de France de rugby à XV|Top 14]] de rugby, le [[Provence rugby]] d'Aix-en-Provence, le [[Rugby olympique de Grasse]] et l'[[Union sportive seynoise]] en [[Championnat de France de rugby à XV de 1re division fédérale|Fédérale 1]], le [[Stade niçois]] en [[Championnat de France de rugby à XV de 2e division fédérale|Fédérale 2]] ;
+* le [[Pays d'Aix Université Club handball]] et [[Saint-Raphaël Var Handball]] évoluent en [[Championnat de France de handball masculin]] ;
+* le [[Cercle des nageurs de Marseille]] joue en [[Championnat de France de water-polo masculin|championnat élite]] masculin de water-polo ;
+* les [[Olympique d'Antibes|Sharks d'Antibes]] évoluent en Pro B et le [[Pays d'Aix Basket 13]] joue en [[championnat de France de basket-ball de Ligue féminine 2]] ;
+* les [[Diables rouges de Briançon|Diables rouges]] de Briançon, les [[Gap Hockey Club|Rapaces]] de Gap et les [[Nice hockey Côte d'Azur|Aigles]] de Nice évoluent en [[Championnat de France de hockey sur glace|Ligue Magnus]] de hockey sur glace.
+Provence-Alpes-Côte d'Azur a accueilli plusieurs compétitions internationales :
+* les [[championnats du monde de patinage artistique]] à [[Nice]] en [[Championnats du monde de patinage artistique 2000|2000]] et [[Championnats du monde de patinage artistique 2012|2012]] ;
+* des matchs des [[Coupe du monde de football|coupes du monde de football]] de [[Coupe du monde de football de 1938|1938]] et [[Coupe du monde de football de 1998|1998]], des [[Championnat d'Europe de football|Euro]] de [[Championnat d'Europe de football 1960|1960]], [[Championnat d'Europe de football 1984|1984]] et [[Championnat d'Europe de football 2016|2016]] ;
+* des matchs de la [[coupe du monde de rugby à XV 2007]] au [[Stade Vélodrome]] de [[Marseille]] ;
+* les [[championnats du monde de pétanque]] à [[Nice]] en 1971 et à [[Marseille]] en [[Championnats du monde de pétanque 2012|2012]] ;
+* les [[championnats du monde de beach-volley]] à [[Marseille]] en 1999 ;
+* le mondial de l'escalade à [[Briançon]] comprend des épreuves de la coupe du monde d’escalade de difficulté IFSC<ref>{{Lien web|langue=fr-FR|titre=Mondial de L’Escalade 2017 - Serre Chevalier|url=https://www.serre-chevalier.com/events/mondial-de-lescalade-2/|site=www.serre-chevalier.com|consulté le=2017-06-20}}.</ref>{{,}}<ref>{{Lien web|langue=fr|titre=Hautes-Alpes : Le Mondial d'escalade à Briançon se dévoile|url=http://www.dici.fr/actu/2016/05/30/hautes-alpes-mondial-d-escalade-briancon-se-devoile-803090|site=www.dici.fr|date=30 mai 2016|consulté le=juin 2017}}.</ref>{{,}}<ref>{{Lien web|langue=en-US|titre=Mondial de l'escalade de Briançon|url=http://www.mondial-escalade.fr/fr/|site=mondial de l'escalade|consulté le=2017-06-20}}.</ref>{{,}}<ref>{{Lien web|langue=en|titre=FFME - Escalade - Résultats|url=http://www.ffme.fr/escalade/page/resultats.html|site=FFME|consulté le=2017-06-20}}.</ref> ;
+* le [[Grand Prix automobile de France]] au [[circuit Paul Ricard]] près du [[Le Castellet (Var)|Castellet]] dans le Var.
+La région accueille par ailleurs de nombreuses épreuves cyclistes, dont certaines étapes du [[Tour de France]] et parfois des étapes du [[Tour d'Italie]].
+
+La [[pétanque]] est un sport particulièrement associée à la région et [[Marseille]] accueille chaque année le [[Mondial la Marseillaise à pétanque|Mondial la Marseillaise]] qui en est une des plus importantes compétitions.
+
+{|class="wikitable sortable" style="text-align:right;"
+! style="text-align:left"| Stades
+! style="text-align:left"| Capacité
+! style="text-align:left"| Club résident
+|-
+| [[Stade Vélodrome]]
+| {{nombre|67394|places}}
+| [[Olympique de Marseille]]
+|-
+| [[Allianz Riviera]]
+| {{nombre|35624|places}}
+| [[Olympique Gymnaste Club Nice Côte d'Azur|OGC Nice]]
+|-
+| [[Stade Mayol]]
+| {{nombre|18200|places}}
+| [[Rugby club toulonnais|RC Toulon]]
+|-
+| [[Parc des Sports (Avignon)|Parc des Sports]]
+| {{nombre|17518|places}}
+| [[Athlétic Club Arles-Avignon|AC Arles-Avignon]]
+|-
+| [[Stade Parsemain]]
+| {{nombre|17170|places}}
+| [[Football Club Istres Ouest Provence|FC Istres]]
+|}
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+{{Autres projets|commons = Provence-Alpes-Côte d'Azur|wikt = Provence-Alpes-Côte d'Azur}}
+=== Bibliographie ===
+* [[Fernand Benoit]], ''La Provence et le Comtat Venaissin'', Aubanel, Avignon, 1996 {{ISBN|2-7006-0061-4}}.
+* [[Jacques Marseille]] (sous la direction de), ''Dictionnaire de la Provence et de la Côte d'Azur'', Éd. Larousse, Paris, 2002. {{ISBN|2-03-575105-5}}
+* Philippe Blanchet, Jean-Michel Turc et Rémi Venture, ''La Provence pour les Nuls'', 2014.
+* [https://www.insee.fr/fr/statistiques/2019952 INSEE PACA, Atlas régional - Provence-Alpes-Côte d'Azur parmi les nouvelles régions françaises, INSEE Dossier {{n°|4}}, juin 2016]
+
+=== Articles connexes ===
+* Départements : [[Alpes-de-Haute-Provence]], [[Hautes-Alpes]], [[Alpes-Maritimes]], [[Bouches-du-Rhône]], [[Var (département)|Var]], [[Vaucluse (département)|Vaucluse]]
+* Provinces historiques : [[Provence]] <small>([[Histoire de la Provence|histoire]])</small>, [[comté de Nice]], [[Avignon]] <small>([[Histoire d'Avignon|histoire]])</small>, [[Comtat Venaissin]], [[Dauphiné]]
+* Régions géographiques : [[Alpes du Sud (France)|Alpes du Sud]] [[Côte d'Azur]]
+
+=== Liens externes ===
+* [https://www.maregionsud.fr/ Conseil régional]
+* [http://www.prefectures-regions.gouv.fr/provence-alpes-cote-dazur Préfecture de région]
+* {{Autorité}}
+* {{bases géographie}}
+
+{{Palette|Villes de Provence-Alpes-Côte d'Azur|Régions et territoires de France}}
+{{Portail|Provence-Alpes-Côte d'Azur|régions de France|Occitanie}}
+
+[[Catégorie:Provence-Alpes-Côte d'Azur|*]]
+[[Catégorie:Graphie du COG non conforme aux règles de typographie]]
+[[Catégorie:Division administrative fondée en 1956]]
+[[Catégorie:Division administrative fondée en 1970]]
+

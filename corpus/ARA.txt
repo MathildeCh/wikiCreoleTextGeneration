@@ -1,0 +1,696 @@
+{{Voir homonymes|ARA}}
+{{Infobox Région de France
+ | nom                       = Auvergne-Rhône-Alpes
+ | logo                      = Logo La Région Auvergne-Rhône-Alpes.png
+ | légende                   = Logo du conseil régional.
+ | blason                    = Blason_Auvergne-Rhône-Alpes.svg
+ | légende blason            = Armoiries d'Auvergne-Rhône-Alpes
+ | drapeau                   = Flag of the region Auvergne-Rhône-Alpes.svg
+ | légende drapeau           = Drapeau d'Auvergne-Rhône-Alpes
+ | préfecture                = [[Lyon]]<ref name="JO">{{Lien web|titre=Décret {{numéro|2016-1266}} du 28 septembre 2016 portant fixation du nom et du chef-lieu de la région Auvergne-Rhône-Alpes|jour=28|mois=septembre|année=2016|url=https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033161457|consulté le=3 juillet 2017}}.</ref>
+ | départements              = [[Ain (département)|Ain]] (01)<br>[[Allier (département)|Allier]] (03)<br>[[Ardèche (département)|Ardèche]] (07)<br>[[Cantal (département)|Cantal]] (15)<br>[[Drôme (département)|Drôme]] (26)<br>[[Isère (département)|Isère]] (38)<br>[[Loire (département)|Loire]] (42)<br>[[Haute-Loire]] (43)<br>[[Puy-de-Dôme]] (63)<br>[[Rhône (département)|Rhône]] (69D) <br> [[Métropole de Lyon]] (69M)<br>[[Savoie (département)|Savoie]] (73)<br>[[Haute-Savoie]] (74)
+ | arrondissements           = 39
+ | cantons                   = 242
+ | communes                  = 4029
+ | conseil régional          = [[Conseil régional d'Auvergne-Rhône-Alpes]]
+ | président                 = [[Laurent Wauquiez]] ([[Les Républicains (parti français)|LR]])<ref>{{lien web |titre=Laurent Wauquiez : Biographie et articles – Le Point |url=https://www.lepoint.fr/tags/laurent-wauquiez |site=Le Point.fr |consulté le=07-06-2020}}.</ref>
+ | mandat                    = [[Élections régionales françaises de 2021|2021]]-2028
+ | site web                  = {{URL|https://www.auvergnerhonealpes.fr}}
+ | préfet                    = [[Pascal Mailhos]]<ref>préfet de la région Auvergne-Rhône-Alpes, préfet de la zone de défense et de sécurité Sud-Est, préfet du Rhônehttps://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/prefecture_region-69383-01</ref>{{,}}<ref>http://www.prefectures-regions.gouv.fr/auvergne-rhone-alpes/Region-et-institutions/Organisation-administrative-de-la-region/Prefet-et-mission/Le-prefet-de-la-region-Auvergne-Rhone-Alpes</ref>
+ | préfète                   = 
+ | superficie                = 69711
+ | rang superficie           = {{4e}} sur 18
+ | population                = {{Population de France/dernière_pop}}<!-- Insertion automatique, ne pas modifier -->
+ | année_pop                 = {{Population de France/dernière_année}}<!-- Insertion automatique, ne pas modifier -->
+ | rang population           = {{2e}} sur 18
+ | gentilé                   = Auvergnats<br>Rhônalpins<br>{{refnec|Aurhalpin}} (non officiel)
+ | langue                    = [[francoprovençal]] ou arpitan<ref name="lrra">[http://www.rhonealpes.fr/485-langues-regionales-rhone-alpes.htm En Rhône-Alpes, on n’a pas nos langues dans la poche !], sur le site rhonealpes.fr, consulté le {{date-|15 février 2016}}.</ref>{{,}}<ref>[http://www.arpitania.eu/index.php/lesnews/96-la-region-rhone-alpes-reconnait-officiellement-l-arpitan La région Rhone-Alpes reconnait officiellement l'arpitan], sur le site arpitania.eu, consulté le {{date-|15 février 2016}}.</ref> ([[Lyonnais (langue)|lyonnais]], [[forézien]], [[bressan]], [[Savoyard (langue)|savoyard]], [[Dauphinois (dialecte)|dauphinois]], [[jurassien]]), [[occitan]]<ref>[http://www.auvergne.fr/content/occitan Convention cadre de partenariat pour le développement... de l'enseignement de l'occitan... de la région Auvergne], sur le site auvergne.fr, consulté le {{date-|15 février 2016}}.</ref>{{,}}<ref name="lrra" /> ([[auvergnat]], [[languedocien]], [[vivaro-alpin]]), [[francien]]
+}}
+
+'''Auvergne-Rhône-Alpes''' est une [[région française|région administrative]] [[France|française]] située dans le quart-sud-est de la [[France]]. Elle a été créée par la [[Loi relative à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral|réforme territoriale de 2015]] et mise en place après les [[Élections régionales de 2015 en Auvergne-Rhône-Alpes|élections régionales de décembre 2015]]. Regroupant les anciennes régions [[Auvergne (ancienne région administrative)|Auvergne]] et [[Rhône-Alpes]], elle se compose de {{nobr|12 [[département français|départements]]}} et d'une [[Collectivité territoriale en France|métropole à statut de collectivité territoriale]], sa superficie est de {{unité|69711|km|2}} et sa population s'élevait à  {{unité|7877698|habitants}}<ref name="Population">Population municipale au {{Date-|1 janvier 2015}}</ref> en 2015 ; son [[chef-lieu]] est [[Lyon]].
+
+Cette nouvelle région regroupe des espaces très différents les uns des autres, tant sur le plan géographique (relief, climat), que sociologique, économique ou même culturel (langues régionales, traditions populaires), comme c'était déjà le cas pour la Rhône-Alpes et, dans une moindre mesure, pour la région Auvergne. Si les anciennes régions Rhône-Alpes et Auvergne bénéficient chacune d'une cohérence liée aux axes de communication et à l'attraction de leur métropole respective<ref group="Note">À l'exception de la partie est de la Haute-Loire qui se trouve dans la zone d'influence économique de [[Saint-Étienne]].</ref>, le nouvel ensemble apparaît hétérogène et a suscité une vive opposition de certains élus locaux ainsi que d'une partie de la population lors de sa création<ref name="Figaro1" />{{,}}<ref name="CB" />{{,}}<ref name="Figaro2" />{{,}}<ref>{{Lien web|langue=fr|titre=Observatoire de la FPI : Auvergne-rhône-Alpes|url=http://fpifrance.fr/sites/default/files/regions-auvergne-rhone-alpes.pdf|site=fpifrance.fr|date=janvier 2016|consulté le=2017-10-04}}</ref>.
+
+== Toponymie, logotype et symboles ==
+Le nom « Auvergne-Rhône-Alpes » a été formé en juxtaposant par ordre alphabétique les noms des deux anciennes régions. Cette procédure permettait d'attendre qu'un nouveau nom soit donné par [[décret en Conseil d'État]], sur proposition du [[Conseil régional (France)|conseil régional]] de la région fusionnée<ref>{{Lien web|langue=fr|auteur1=Delphine Bancaud|titre=Carte de France à 13 régions : Comment vont-elles s'appeler ?|url=https://www.20minutes.fr/societe/1504275-20141218-carte-france-13-regions-comment-vont-elles-appeler|site=[[20 minutes]]|date=2014-12-18|consulté le=2017-10-04}}.</ref>.
+
+Selon plusieurs consultations faites en ligne par ''[[Lyon Capitale]]'', le nom « Rhône-Alpes-Auvergne » arrivait en tête des votes des internautes devant « Alpes-Auvergne » et « AURA » (pour Auvergne-Rhône-Alpes)<ref>{{Lien web|nom1=Belfils|prénom1=Steven|titre=Sondage : quel nom pour la future région ?|url=http://www.lyoncapitale.fr/Journal/Lyon/Politique/Region-rhone-alpes/Sondage-quel-nom-pour-la-future-region|site=lyoncapitale.fr|date=2014-12-18|consulté le=2017-10-04}}.</ref>, proposé par [[Jean-Jack Queyranne]], ancien président de l'ancienne région [[Rhône-Alpes]].
+
+Les lycéens, en {{date|février 2016}}, puis les habitants de la région en mars furent consultés afin de choisir, via le site web de la région, le nom de la future région<ref>{{Lien web|prénom1=Claude|nom1=Fallas|titre=Laurent Wauquiez propose Auvergne-Rhône-Alpes comme nom de la nouvelle Région|url=https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/laurent-wauquiez-propose-auvergne-rhone-alpes-comme-nom-de-la-nouvelle-region-1007645.html|site=[https://france3-regions.francetvinfo.fr france3-regions.francetvinfo.fr]|jour=27|mois=mai|année=2016|en ligne le=27 mai 2016|consulté le=8 mars 2017}}.</ref>. Après un rééquilibrage des votes au prorata du nombre d'habitants (Rhône-Alpes étant cinq fois plus peuplé que l'Auvergne), le nom « Rhône-Alpes-Auvergne » arriva toujours en tête devant « Auvergne-Rhône-Alpes » et l'acronyme « AURA »<ref>{{Article|auteur1=Patricia Cerinsek|titre=La Région Auvergne Rhône-Alpes cherche (toujours) son nom|périodique=Place Gre'net|date=2016-03-14|lire en ligne=http://www.placegrenet.fr/2016/03/14/region-consulte-habitants-trouver-nom/83586|consulté le=2017-10-04|pages=}}.</ref>.
+
+Malgré ce résultat, [[Laurent Wauquiez]] et son équipe décident de retenir l'appellation Auvergne-Rhône-Alpes, qui est proposée au vote de l'assemblée régionale et adoptée à l'unanimité le {{date|23 juin 2016}}<ref>{{Lien web|titre=Le nouveau nom de la région sera Auvergne/Rhône-Alpes|url=http://www.leprogres.fr/politique/2016/05/27/le-nouveau-nom-de-la-region-sera-auvergne-rhone-alpes|site=[[Le Progrès (Lyon)|Le Progrès]]|jour=27|mois=mai|année=2016|date=|en ligne le=27 mai 2016|consulté le=27 mai 2016}}.</ref>{{,}}<ref>{{Lien web|titre=Les élus de la Région valident le nom Auvergne Rhône-Alpes|url=https://www.lyonmag.com/article/81608/les-elus-de-la-region-valident-le-nom-auvergne-rhone-alpes|site=[https://www.lyonmag.com lyonmag.com]|jour=23|mois=juin|année=2016|date=|consulté le=23 juin 2016|en ligne le=23 juin 2016}}.</ref> ; elle est officialisée le {{date|28 septembre 2016}} par un décret paru au ''[[Journal officiel de la République française|Journal officiel]]''<ref name="JO" />.
+
+La région s'est dotée d'un blason officiel fin {{date|octobre 2017}}, reprenant ceux de l'Auvergne, de la Savoie, du Lyonnais et du Dauphiné<ref>{{Lien web|auteur1=Rodolphe Koller|titre=La Région se dote sans bruit d’un nouveau blason|url=https://saladelyonnaise.com/article/region-se-dote-bruit-dun-nouveau-blason|site=https://saladelyonnaise.com|date=2 novembre 2017|consulté le=4 novembre 2017}}</ref>. Un drapeau existe aussi : initialement composé du blason imprimé sur fond blanc, il est ensuite reproduit sous forme de drapeau héraldique en janvier 2018. Le {{date|9 février 2018}}, la région officialise le drapeau et le blason sur son site, réalisé par Matthieu Casali, doctorant en Histoire<ref name="BlasonOffi">{{Lien web|titre=Un blason qui fait sens pour Auvergne-Rhône-Alpes|url=https://www.auvergnerhonealpes.fr/actualite/323/23-un-blason-qui-fait-sens-pour-auvergne-rhone-alpes.htm|site=https://www.auvergnerhonealpes.fr|date=9 février 2018|consulté le=10 février 2018}}</ref>. La [[commission nationale d'héraldique]] a émis un avis favorable<ref>{{Lien web|titre=Rapport Annuel 2017 des Archives en France|url=https://francearchives.fr/file/90c75d7307b7f099e7128f214ee3eb657595ae72/WEB-2017-2018-ArchivesenFrance.pdf|éditeur=[[commission nationale d'héraldique]]|date=2018|consulté le=12 décembre 2018|extrait=[...] En 2017, la Commission nationale d’héraldique s’est réunie deux fois, les 3 avril et 18 octobre. Elle a examiné 31 dossiers : [...] • 2 blasons de grandes régions : Auvergne-Rhône-Alpes [...] 61 % de ces dossiers ont reçu un avis favorable de conformité héraldique, notamment ceux des grandes régions. [...]|page=41}}</ref>.
+
+Le blasonnement donné sur le site de la région est le suivant<ref name="BlasonOffi" /> : ''Écartelé : au premier d’or au gonfanon de gueules bordé de sinople (Auvergne) ; au deuxième de gueules à la croix d’argent (Savoie) ; au troisième de gueules au lion d’argent (Lyonnais) ; au quatrième d’or au dauphin d’azur, crêté, barbé, loré, peautré et oreillé de gueules (Dauphiné).''
+
+<gallery>
+Logo_Provisoire_Auvergne_Rhône_Alpes_2015.svg|Logo provisoire utilisé jusqu'en septembre 2016.
+Logo Auvergne-Rhône-Alpes.svg|Logo utilisé de septembre 2016 à fin 2020.
+Logo La Région Auvergne-Rhône-Alpes.png|Logo utilisé depuis début 2021.
+Blason Auvergne-Rhône-Alpes.svg|Armoiries officielles, apparues en 2017 et officialisées en 2018.
+Flag of the region Auvergne-Rhône-Alpes (version 1).svg|Premier drapeau, apparu en même temps que le blason.
+Flag of the region Auvergne-Rhône-Alpes.svg|Drapeau officialisé en 2018.
+</gallery>
+
+En [[francoprovençal]] et en [[occitan]], deux des trois langues régionales historiquement parlées dans la région, le nom se dit<ref>Auvèrnha ou Auvèrnhe selon les différentes localités d'Auvergne et vivaro-alpin ; Ròse forme occitane générale ; Aups en vivaro-alpin, Alpas en auvergnat</ref> :
+* [[francoprovençal|arpitan (francoprovençal)]] : {{langue|frp|Ôvèrgne-Rôno-Arpes}} {{MSAPI|o.ˌvɛr.ɲə.rɔn.ˈar.pə}} ;
+* [[occitan]] : {{langue|oc|Auvèrnha-Ròse-Aups}} {{MSAPI|ɔwˈver.ɲə.rɔz(e).ɔwp}}.
+
+== Géographie ==
+=== Situation ===
+[[Fichier:Auvergne-Rhône-Alpes with names and numeros 2016.svg|vignette|upright=1|Subdivision départementale de la région Auvergne-Rhône-Alpes (le sigle ML désigne la [[métropole de Lyon]])]]
+L'Auvergne-Rhône-Alpes est située dans le quart-sud-est de la [[France]] et couvre une superficie de {{unité|69711|km|2}}. Elle est limitrophe de cinq autres régions administratives : la [[Bourgogne-Franche-Comté]] au nord, le [[Centre-Val de Loire]] au nord-ouest, la [[Nouvelle-Aquitaine]] à l'ouest, la région [[Occitanie (région administrative)|Occitanie]] au sud-ouest et la région [[Provence-Alpes-Côte d'Azur]] au sud-est. Elle est également limitrophe de deux pays étrangers : l'[[Italie]], à l'est, et la [[Suisse]], au nord-est. Cette région se présente comme un ensemble hétérogène aussi bien sur le plan géographique que sur les plans socio-économiques ou culturels. Lors de sa création, la réunion de l'Auvergne avec les régions alpines et rhodaniennes est apparue comme une innovation historique.
+
+Extrémités régionales :
+* [[Nord]] : [[Château-sur-Allier]], [[Allier (département)|Allier]] ({{coord|46.804272|2.959629}})
+* [[Est]] : [[Bonneval-sur-Arc]], [[Savoie]] ({{coord|45.403287|7.185578}})
+* [[Sud]] : [[Ferrassières]], [[Drôme (département)|Drôme]] ({{coord|44.115494|5.494467}})
+* [[Ouest]] : [[Siran (Cantal)|Siran]], [[Cantal (département)|Cantal]] ({{coord|44.976621|2.062885}})
+{{Clr|left}}
+
+=== Géologie ===
+Le [[Sous-sol (géologie)|sous-sol]] de la région compte de nombreux [[Liste des bassins houillers français|bassins houillers français]] anciennement exploités, pour la plupart, par les [[Houillères d'Auvergne]], [[Bassin houiller de la Loire|de la Loire]] et [[Houillères du Dauphiné|du Dauphiné]].
+
+=== Topographie ===
+La région s’étend sur le [[Massif central]] à l'ouest et sur le [[Alpes|massif des Alpes]] à l'est. Entre les deux, se déploie la [[Vallée du Rhône (France)|vallée du Rhône]]. Le [[massif du Jura]] occupe la moitié est du département de l'Ain ainsi qu'une petite partie des départements de l'Isère, de la Savoie et de la Haute-Savoie.
+
+==== Le Massif central ====
+{{Article détaillé|Massif central}}
+[[Fichier:Le méandre de Queille vu du nord.jpg|vignette|upright=1.3|Méandre de [[Queuille (Puy-de-Dôme)|Queuille]] ([[Combrailles]]).]]
+
+Les départements de l’Allier, du Cantal, de la Loire, de la Haute-Loire et du Puy-de-Dôme font entièrement partie du Massif central, le département de l’Ardèche en fait aussi partie pour une large part.
+
+L’Auvergne se trouve au cœur du massif et juxtapose des paysages variés. Aux [[horst]]s cristallins du socle primaire qui apparaissent à sa périphérie, s’opposent des zones volcaniques et des plaines ou bassins d’effondrement, partiellement comblés par des sédiments.
+
+[[Fichier:Usson JPG01.jpg|vignette|gauche|La [[Limagne]] à Usson.]]
+
+À l’est de Clermont-Ferrand, les blocs cristallins ont été soulevés le long de failles et délimitent de petits fossés : la [[Livradois#Plaine du Livradois|plaine d’Ambert]], surplombée par le massif du [[Livradois]] ([[Bois Noirs (Livradois)|Bois Noirs]], {{unité|1218|m}}), et les [[monts du Forez]] ({{unité|1634|m}} à [[Pierre-sur-Haute]]) qui surplombent la [[Forez#La plaine du Forez|plaine]] du même nom. Ces hosts granitiques sont prolongés au nord par la [[Montagne bourbonnaise]] et les [[monts de la Madeleine]]. Du nord-ouest au sud-ouest, les masses cristallines conservent une allure de plateau. Le [[bocage bourbonnais]] et les [[Combrailles]] sont profondément entaillées par l’érosion fluviatile ([[gorges de la Dordogne]] et de la [[Sioule]]). L’érosion glaciaire intense est à l’origine des nombreux lacs de l’[[Artense]] pouvant rappeler la topographie scandinave. Au sud-ouest, la [[Châtaigneraie (Cantal)|Châtaigneraie]] offre un paysage de collines et un climat adouci, aux accents méditerranéens. Au sud, les monts de la [[Margeride]] ([[Signal de Randon]], {{unité|1552|m}}) se prolongent dans la [[Lozère (département)|Lozère]].
+
+[[Fichier:Lac Chambon jetée.jpg|vignette|Le [[lac Chambon]].]]
+
+Les volcans d’Auvergne sont apparus à l’ère tertiaire, lors des dislocations du socle primaire, consécutives à l’orogenèse des Alpes. À l’ouest, sur les rebords de la Limagne, les [[Chaîne des Puys|monts Dôme]] alignent {{nobr|80 volcans}}. Tous les types y sont représentés, même si les volcans de type [[Éruption strombolienne|strombolien]] sont les plus nombreux. Ce sont des volcans récents et bien conservés ; ils sont dominés par le [[puy de Dôme]] ({{unité|1463|m}}). Ils ont été classés au [[Patrimoine mondial]] de l’[[Organisation des Nations unies pour l'éducation, la science et la culture|UNESCO]] en 2018. Au sud, se situent ensuite les [[monts Dore]] qui culminent au [[puy de Sancy]] ({{unité|1886|mètres}}), point culminant du Massif central. Ce sont de grands [[stratovolcan]]s plus anciens qui ont été démembrés par l’[[érosion]] fluviatile et glaciaire. Ils emprisonnent des lacs d’origines diverses : lacs de cratère comme le [[lac Pavin]], lacs de barrage volcanique comme le [[lac d'Aydat]] ou le [[lac Chambon]], ou lacs morainiques comme le [[lac de Guéry]].
+
+[[Fichier:Puy de Dôme during autumn.jpg|vignette|gauche|Le [[puy de Dôme]].]]
+
+Plus au sud, s’enchaînent d’abord le plateau [[Basalte|basaltique]] du [[Cézallier]], pouvant évoquer les paysages écossais, puis le puissant [[Monts du Cantal|ensemble volcanique du Cantal]]. Avec ses {{unité|40|km}} de diamètre, d’où rayonnent, à partir du [[puy Mary]] ({{unité|1783|m}}) et du [[plomb du Cantal]] ({{unité|1858|m}}), des vallées en auge ([[Cère (rivière)|Cère]], [[Maronne]], [[Rhue]], [[Alagnon]]). Celles-ci séparent de vastes plateaux basaltiques, aux sols fertiles : les planèzes. La plus grande est la [[planèze de Saint-Flour]]. Cet ensemble bénéficie de la protection du [[Parc naturel régional des volcans d'Auvergne|Parc des volcans d'Auvergne]].
+Au sud de la [[Truyère]], l’[[Aubrac]] conserve une allure de plateau où terrains granitiques et volcaniques se mêlent.
+
+Au sud-est, le [[Velay]] a été buriné par l’érosion, le [[massif du Devès]] est une coulée de laves sans cratère et, plus à l’est, ne subsistent que les sucs [[Phonolite|phonolitiques]] du [[massif du Mézenc]] : [[Mont Gerbier-de-Jonc|mont Gerbier de Jonc]] ({{unité|1551|m}}), [[mont Mézenc]] ({{unité|1753|mètres}}), prolongés au nord par le massif du [[Meygal]].
+
+À l'est, se succèdent, du nord au sud, les [[Beaujolais|monts du Beaujolais]] ([[mont Saint-Rigaud]], {{unité|1009|m}}), les [[monts du Lyonnais]] ([[Crêt Malherbe]], {{unité|946|m}}), le [[Pilat|massif du Pilat]] (Crêt de la Perdrix, {{unité|1432|mètres}}), les [[Boutières]] et les [[Cévennes|Cévennes vivaroises]] ([[serre de la Croix de Bauzon]], {{unité|1548|m}}). Plus à l’est encore, le [[Plateau du Coiron|plateau volcanique du Coiron]] marque la limite du Massif central.
+
+Les terrains sédimentaires forment le troisième ensemble du relief auvergnat. Le terme de « Limagne » désigne les zones d'une très grande fertilité du Tertiaire qui s’opposent aux montagnes. Deux grands axes, de direction sud-nord, apparaissent avec évidence : celui de la Loire qui draine la [[Forez#La plaine du Forez|plaine du Forez]] et celui de l’Allier qui draine les petites [[Brivadois#La Limagne de Brioude|Limagnes de Brioude]] et d’Issoire au sud, la [[Limagne|Grande Limagne de Clermont]] et, au nord, la [[Limagne bourbonnaise]] plus sableuse. Enfin la [[Sologne bourbonnaise]], vaste région de bas plateaux, est sillonnée par de nombreuses rivières.
+
+==== La vallée du Rhône ====
+{{Article détaillé|Vallée du Rhône (France)}}
+
+Le Rhône entame son cours dans la région à la frontière franco-suisse, au niveau de la commune de [[Bellegarde-sur-Valserine]]. Le début de son cours marque la limite entre le [[Massif du Jura]] et le [[Géographie des Alpes|massif des Alpes]]. La vallée du Rhône devient une véritable entité géographique avec la région naturelle de l'[[Isle-Crémieu|Isle Crémieu]]. Ce plateau calcaire de forme triangulaire d'une altitude moyenne de {{unité|325|mètres}} est la dernière extrémité du [[massif du Jura]]. Le Rhône traverse ensuite la [[plaine de Lyon]] puis, en suivant son cours vers le sud, il traverse et délimite les [[Balmes viennoises]], le [[Haut-Vivarais]] à l'ouest, les [[Terres froides]], le [[Valentinois]], la [[Valdaine]] et le [[Tricastin]] à l'est alors qu'à l'ouest se déploie le [[Bas-Vivarais]]. Tout au long de ce parcours les [[monts du Vivarais]] et les [[Cévennes]] dominent le fleuve à l'ouest alors qu'à l'est ce sont successivement les monts du [[Massif du Chablais|Chablais]], des [[Massif des Bornes|Bornes]], de la [[Massif de la Chartreuse|Chartreuse]], du [[massif du Vercors|Vercors]], du [[Massif du Diois|Diois]] et des [[Massif des Baronnies|Baronnies]]. Le fleuve entre dans la région [[Provence-Alpes-Côte d'Azur|Provence-Alpes-Côte-d'Azur]] et la [[Occitanie (région administrative)|région Occitanie]] au sud de [[Saint-Paul-Trois-Châteaux]]. La vallée traverse la métropole de Lyon et les départements du Rhône, de l'Isère, de l'Ardèche et de la Drôme, ces deux derniers départements ayant leur frontière commune délimitée en totalité par le [[Rhône]] lui-même. Les Baronnies, le Diois, la Valdaine, le Tricastin et le Bas-Vivarais sont des territoires dont le climat est de type Méditerranéen avec un taux d'ensoleillement pouvant dépasser les {{unité|2700 heures}} par an comme à [[Nyons]].
+
+<gallery mode="packed">
+Thain1.jpg|La vallée du Rhône.
+Buis-les-Baronnies Ubrieux Aiguille.jpg|Buis-les-Barronies en Drôme Provençale.
+Mas Drome Provencale.jpg|Champ de lavande en Drôme provençale.
+Pont d'Arc HDR.jpg|[[Vallon-Pont-d'Arc]] (Bas-Vivarais).
+</gallery>
+
+==== Les Alpes ====
+{{Article détaillé|Alpes|Alpes du Nord}}
+[[Fichier:17-12-04-BCN-TXL-RalfR-DSCF0782.jpg|vignette|Les [[Alpes]] vues d'avion.]]
+
+Les départements de la Drôme, de l'Isère, de la Savoie et de la Haute-Savoie sont partiellement situés dans les [[Alpes du Nord]], qui se trouvent en grande partie dans la région. Les Alpes du Nord sont elles-mêmes un découpage des [[Alpes occidentales]], majoritairement situées en [[France]].
+
+De très nombreux massifs composent ce territoire. On retrouve notamment, du nord au sud, le [[Massif du Chablais|Chablais]], les [[Aiguilles Rouges]], la [[chaîne des Aravis]], les [[Massif des Bauges|Bauges]], le [[massif de la Chartreuse]], la partie française du [[massif du Mont-Blanc]], le [[massif de la Vanoise]], le [[massif des Écrins]], le [[Massif du Vercors|Vercors]] et une partie du [[Massif du Dévoluy|Dévoluy]]. Les massifs comme la Chartreuse, le Vercors ou le Chablais forment un ensemble nommé les [[Préalpes (France)|Préalpes]], qui marquent la limite occidentale de la chaîne montagneuse.
+
+Plus d'une centaine de sommets traversent les Alpes. La majorité des [[sommets des Alpes de plus de 4 000 mètres|sommets alpins de plus de {{unité|4000|m}}]] situés en France se trouvent dans les massifs des Écrins et du Mont-Blanc, à commencer par le [[Mont Blanc|Mont-Blanc]] lui-même ({{unité|4808|m}}), point culminant de l'[[Europe de l'Ouest|Europe occidentale]]. On y retrouve d'autres grands sommets comme [[Les Droites]] ({{unité|4000|m}}), le [[Dôme du Goûter]] ({{unité|4304|m}}), les [[Grandes Jorasses]] (culminant à {{unité|4208|m}} à la pointe Walker) ou l'[[Aiguille Verte]] ({{unité|4122|m}}).
+
+La région compte aussi de nombreux [[col de montagne|cols]] alpins célèbres notamment grâce au [[Tour de France]], tels le [[col du Galibier|Galibier]] ({{unité|2642|m}}) ou l'[[Col de l'Iseran|Iseran]] ({{unité|2764|m}}), plus haut col routier des Alpes et par conséquent du pays.
+
+=== Climats ===
+La région est bordée à l'Ouest, à l'Est et au Nord-Est par le [[climat de montagne]], au Nord-Ouest par le [[climat océanique]], au centre par le [[climat semi-continental]] et au Sud par le [[climat méditerranéen]].
+[[Fichier:Climat Auvergne-Rhône-Alpes.jpg|thumb|center|300px|Carte climatique de la région Auvergne-Rhône-Alpes<br />
+{{Légende/Début}}
+{{Légende|#3933ff|'''Climat de montagne'''}}
+{{Légende|#33d1ff|'''Climat semi-continental'''}}
+{{Légende|#ff7a33|'''Climat méditerranéen'''}}
+{{Légende|#71ff33|'''Climat océanique dégradé'''}}
+{{Légende/Fin}}]]
+
+=== Hydrographie ===
+Les principaux cours d'eau navigables sont la [[Saône]] et le [[Rhône]] qui s'écoulent globalement du nord ([[Massif du Jura|Jura]] et [[Alpes]]) vers le sud et la [[mer méditerranée]].
+
+La [[Loire]] et l'[[Allier (rivière)|Allier]] traversent l'ouest de la région ; Ils s'écoulent globalement du sud ([[Massif central]]) vers le nord puis vers l'[[océan atlantique]].
+
+;Affluents et sous-affluents
+<small>''N. B. : Seuls les cours d'eau dépassant {{unité|40|km}} de longueur sont mentionnés dans ce tableau.''</small>
+<center>
+{| class=wikitable
+!style="color:blue"|''du [[Rhône (fleuve)|Rhône]]''
+!style="color:blue"|''de la [[Loire (fleuve)|Loire]]''
+!style="color:blue"|''de la [[Dordogne (cours d'eau)|Dordogne]]''
+!style="color:blue"|''de la [[Garonne]]''
+|- style="vertical-align:top;"
+|
+* L’[[Arve]]
+* Le [[Fier (rivière)|Fier]]
+* [[Les Usses]]
+* La [[Valserine (rivière)|Valserine]]
+* L'[[Ain (rivière)|Ain]]
+** La [[Bienne (rivière)|Bienne]]
+** L'[[Oignin]]
+** L'[[Albarine]]
+** La [[Valouse (affluent de l'Ain)|Valouse]]
+** Le [[Suran (rivière)|Suran]]
+* La [[Saône]]
+** La [[Chalaronne]]
+** La [[Veyle]]
+** La [[Reyssouze (rivière)|Reyssouze]]
+* le [[Gier]]
+* L'[[Isère (rivière)|Isère]]
+** L'[[Arc (affluent de l'Isère)|Arc]]
+** L'[[Arly]]
+** Le [[Drac]]
+*** La [[Bonne (cours d'eau français)|Bonne]]
+*** La [[Romanche (rivière)|Romanche]]
+** La [[Bourne (rivière)|Bourne]]
+** Le [[Furon]]
+** L'[[Herbasse]]
+* La [[Galaure]]
+* Le [[Guiers]]
+* La [[Drôme (rivière)|Drôme]]
+* L'[[Eygues]]
+* L'[[Ardèche (rivière)|Ardèche]]
+** La [[Beaume (rivière)|Beaume]]
+** Le [[Chassezac]]
+* l'[[Eyrieux]]
+|
+* Le [[Lignon du Velay]]
+* L'[[Ance (rivière)|Ance]]
+*L'[[Arzon (rivière)|Arzon]]
+* Le [[Furan]]
+* Le [[Lignon du Forez]]
+* Le [[Rhins]]
+* Le [[Sornin]]
+* L'[[Allier (rivière)|Allier]]
+** Le [[Chapeauroux]]
+** L'[[Ance du Sud]]
+** La [[Seuge]]
+** La [[Desges (rivière)|Desges]]
+** La [[Senouire]]
+** L'[[Alagnon]]
+** La [[Couze Pavin]]
+** La [[Morge (affluent de l'Allier)|Morge]]
+** La [[Dore (rivière)|Dore]]
+** Le [[Sichon]]
+** La [[Sioule]]
+*** Le [[Sioulet]]
+* La [[Besbre]]
+* Le [[Cher (rivière)|Cher]]
+** L'[[Aumance]]
+*** L'[[Œil (rivière)|Œil]]
+** La [[Marmande (rivière)|Marmande]]
+|
+* Le [[Chavanon]]
+* La [[Rhue]]
+** La [[Santoire]]
+* La [[Sumène (affluent de la Dordogne)|Sumène]]
+** Le [[Mars (rivière)|Mars]]
+* L'[[Auze (Cantal)|Auze]]
+* La [[Maronne]]
+* La [[Cère (rivière)|Cère]]
+** La [[Jordanne]]
+** L'[[Authre]]
+|
+* Le [[Lot (rivière)|Lot]]
+** La [[Truyère]]
+*** Le [[Bès (Aubrac)|Bès]]
+*** Le [[Goul]]
+|}</center>
+
+== Formation de la région ==
+=== Des provinces aux départements ===
+[[Fichier:Auvergne-Rhône-Alpes et provinces.svg|vignette|redresse=1.5|Carte de la région avec ses départements et la métropole de Lyon, montrant les provinces qui existaient sur son territoire au {{s|XVIII}}.<br/>
+{{Début de colonnes|nombre=1}}
+{{Légende/Début}}
+{{Légende|#b9b983|[[Auvergne]]}}
+{{Légende|#84b7ca|[[Dauphiné]]}}
+{{Légende|#838a9d|[[Duché de Savoie|Savoie]] ([[Annexion de la Savoie|annexée]] à la France en 1860)}}
+{{Légende|#e1c44a|[[Languedoc]] ([[Velay]], [[Vivarais]])}}
+{{Légende|#8bd9c5|[[Duché de Bourbon|Bourbonnais]]}}
+{{Légende|#efb3c7|Gouvernement de [[Lyon]] ([[Lyonnais (province)|Lyonnais]], [[Forez]], [[Beaujolais]])}}
+{{Légende|#a3d283|[[Généralité de Bourgogne]] ([[Bresse]], [[Bugey]], [[Dombes]], [[Pays de Gex|Gex]])}}
+{{Légende|#b98ab9|Autres (dont [[Drôme provençale]]) }}
+{{Légende/Fin}}{{fin de colonnes}}]]
+{{article connexe|Histoire de l'Auvergne{{!}}Auvergne|Duché de Bourbon{{!}}Bourbonnais|Histoire de la Bresse{{!}}Bresse|Bugey|Dauphiné|Dombes#Histoire{{!}}Dombes|Forez|Lyonnais (province){{!}}Lyonnais|Histoire de la Savoie{{!}}Savoie|Velay|Vivarais}}
+
+En [[1790]], les différentes divisions territoriales administratives et religieuses du royaume de France sont remplacées par les [[Histoire des départements français|départements]].
+* L'[[Auvergne]] donne naissance à trois départements : le [[Cantal (département)|Cantal]], le [[Puy-de-Dôme]]<ref group=Note>Quelques communes du [[Lyonnais (province)|Lyonnais]] furent aussi incluses dans le Puy-de-Dôme et la Haute-Loire.</ref>. La partie restante du [[Brivadois]] est associée au [[Velay]]<ref group="Note">Le comté épiscopal du Velay faisait partie de la province du [[Languedoc]].</ref> pour former la [[Haute-Loire]].
+* Le [[Duché de Bourbon|Bourbonnais]] a donné approximativement le département de l'[[Allier (département)|Allier]].
+* La [[Bresse]], le [[Bugey]], la [[Dombes]], le [[pays de Gex]] et une partie du [[Franc-Lyonnais]] sont réunis pour former le département de l'[[Ain (département)|Ain]].
+* le [[Dauphiné]] est divisé en trois départements : la [[Drôme (département)|Drôme]], les [[Hautes-Alpes]] et l’[[Isère (département)|Isère]]<ref>{{lien web|langue=en|titre=Dauphiné, divisé en trois départemens... ;|url=https://www.europeana.eu/resolve/record/9200109/7785FFD99EC9C2D9EC7C0C354296504BEA2D0FE2|site=[[Europeana]]|éditeur=Europeana|date=|consulté le=28 février 2012}}.</ref>.
+* Le Lyonnais, ou plus précisément l'ancienne [[Généralité de Lyon]], devient d'abord le département de [[Rhône-et-Loire]]. En 1793, le département est partagé en deux départements de la [[Loire (département)|Loire]], correspondant à la région du [[Forez]], et du [[Rhône (département)|Rhône]] réunissant le [[Beaujolais]], le Lyonnais et la ville de [[Lyon]].
+* Le [[Vivarais]] devient le département de l'[[Ardèche (département)|Ardèche]].
+* En 1860, le [[duché de Savoie]] est réuni à la France et divisé en deux départements de la [[Savoie (département)|Savoie]] et la [[Haute-Savoie]].
+* Le {{date-|1 janvier 2015}}, Lyon et 58 autres communes sont détachées du département du Rhône pour former la [[métropole de Lyon]], unique métropole à statut de [[Collectivité territoriale en France|collectivité territoriale]] de [[France]]<ref>{{Lien web|langue=fr|nom1=Belfils|prénom1=Steven|titre=Métropole : clap de fin pour le Grand Lyon|url=http://www.lyoncapitale.fr/Journal/Lyon/Politique/metropole/Metropole-clap-de-fin-pour-le-Grand-Lyon?annee=2014|site=[[Lyon Capitale]]|date=2014-12-31|consulté le=2017-10-04}}.</ref>.
+
+=== Deux régions : l'Auvergne et Rhône-Alpes ===
+{{article connexe|Auvergne (ancienne région administrative){{!}}Région Auvergne|Rhône-Alpes{{!}}Région Rhône-Alpes}}
+[[Fichier:France 1919 régions Clémentel.gif|vignette|Les régions économiques Clémentel en 1919.]]
+[[Fichier:France 1941 Préfectures régionales Etat français.gif|vignette|Les préfectures régionales de l'État français en 1941.]]
+Le {{date|5 avril 1919}}, sur la proposition d'[[Étienne Clémentel]], ministre du Commerce et de l'Industrie, le gouvernement institue des « groupements économiques régionaux » ou « régions économiques » fondés sur le périmètre des [[Chambre de commerce|chambres de commerce]]. Celle de Clermont-Ferrand comprend l’Allier, le Puy-de-Dôme et l’arrondissement de Brioude dans la Haute-Loire<ref>Auguste Rivet, « La Haute-Loire aux quatre vents des régions », ''1900-2000. Un siècle en Haute-Loire''.</ref>. Le Cantal dépend de la région de Toulouse. La région de Lyon comporte les départements du Rhône, de l'Ain, de l'Ardèche, de la Drôme, la moitié sud de la Saône-et-Loire, le tiers nord de la Loire et le tiers nord de l'Isère. La région de Grenoble est composée des deux tiers sud de l'Isère, de la Savoie, de la Haute-Savoie ainsi que du département des Alpes-Maritimes.
+
+En 1941, le [[Régime de Vichy|gouvernement du Maréchal Pétain]] regroupe les départements en « régions » placées sous l’autorité d’un préfet régional. Après plusieurs modifications, la région de Lyon réunit les départements de l'Ain, de l'Ardèche, de la Drôme, de l'Isère, de la Loire, du Rhône, de la Savoie et de la Haute-Savoie. Celle de Clermont-Ferrand comprend le Cantal, la Haute-Loire, le Puy-de-Dôme, ainsi que la partie non occupée de l'Allier.
+
+En 1955, le gouvernement d'[[Edgar Faure]] crée les « programmes d'action régionale »<ref>{{Lien web|langue=fr|titre=Fac-similé JO du 02/07/1955|url=http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19550702&numTexte=&pageDebut=06638&pageFin=|site=[[Légifrance]]|date=1955-07-02|consulté le=2017-10-04|page=6638}}.</ref>. L'arrêté ministériel du {{date-|28 novembre 1956}} vient préciser la composition des régions concernées, dont celle d'Auvergne avec ses quatre départements, ainsi qu'une région du Rhône et une autre des Alpes<ref>{{Lien web|langue=fr|titre=Fac-similé JO du 06/12/1956|url=http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19561206&numTexte=&pageDebut=11649&pageFin=|site=[[Légifrance]]|date=|consulté le=2017-10-04|page=11649}}.</ref>.
+
+Enfin en 1960, le gouvernement [[Michel Debré|Debré]] décide la création de circonscriptions d'action régionale<ref>{{Ouvrage|langue=fr|titre=Décret {{n°|60-516}} du 2 juin 1960 portant harmonisation des circonscriptions administratives.|éditeur=[[Légifrance]]|lieu=Paris|date=2 juin 1960|passage=11649|isbn=|lire en ligne=http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000521765|consulté le=2017-10-04}}.</ref>, les régions Auvergne et Rhône-Alpes apparaissent alors dans leur forme définitive.
+
+=== Préfiguration de la grande région ===
+[[Fichier:France igamies (1948) map.svg|vignette|1948 - Carte des Igamies.]]
+Entre 1948 et 1964, l’État institua les [[igamie]]s. Il s’agissait de [[circonscription]]s à vocation économique administrées par un représentant de l'État. Elles correspondaient aux régions militaires et permettaient de coordonner l'action des préfets de départements. L’igamie de Lyon couvrait les mêmes départements que l’Auvergne-Rhône-Alpes<ref>{{Lien web|titre = Histoire de l'Auvergne|url = http://www.cosmovisions.com/histAuvergne.htm|site = www.cosmovisions.com|consulté le = 2015-12-27}}</ref>.
+
+En {{date-|décembre 1961}}, un groupe de travail d'experts nationaux des politiques régionales établit une délimitation régionale de la [[Communauté économique européenne]], essentiellement dans un but d’études statistiques. En France, neuf « Grandes Régions socio-économiques » furent définies par l’[[Institut national de la statistique et des études économiques|Insee]]. La région Massif Central regroupait l’Auvergne et le Limousin, alors que la région Sud-est regroupait la Bourgogne et Rhône-Alpes. Ces régions furent remplacées en 1967 par huit [[Zone d'études et d'aménagement du territoire|ZEAT]] également reprises par l'[[Union européenne]] dans la catégorie [[Nomenclature des unités territoriales statistiques|NUTS-1]]. La région Centre-est correspondait également à l’ensemble Auvergne-Rhône-Alpes.
+
+=== La proposition de la commission Balladur ===
+[[Fichier:France proposal regions (2009) map.svg|vignette|Étude {{n°|1}} (15 régions)<ref>D'après ''[[Agence Bretagne Presse]]'' et ''[[Mediapart]]'' (dans des articles de février 2009)</ref>. L'Auvergne est réunie au Limousin, Rhône-Alpes reste en l'état.]]
+[[Fichier:France proposal regions (2009) map2.svg|vignette|Étude {{n°|2}} (15 régions)<ref>D'après ''[[Le Figaro]]'' et ''[[La Nouvelle République du Centre-Ouest]]''</ref>. L'Auvergne et Rhône-Alpes sont réunies.]]
+En 2009, le [[Comité pour la réforme des collectivités locales]], dirigé par l’ancien Premier ministre [[Édouard Balladur]], propose de ramener le nombre de régions françaises de 22 à 15. Le rapport fait deux propositions. La première propose de laisser la région Rhône-Alpes en l'état mais d'unir l'Auvergne avec le [[Limousin (ancienne région administrative)|Limousin]]. La seconde propose de réunir l'Auvergne et Rhône-Alpes. Le président de la Région Rhône-Alpes [[Jean-Jack Queyranne]] objecte alors que {{Citation|Rhône-Alpes n'a pas de visées expansionnistes}} et qu'il n'envisage pas une fusion entre l'Auvergne et Rhône-Alpes car {{Citation|Une fusion ne correspondrait ni à la réalité ni à l'efficacité économique}}<ref name="Figaro1">{{Article|prénom1=Frédéric|nom1=Poignard|titre=Le Grand Lyon, laboratoire du «big bang territorial»|périodique=[[Le Figaro]]|jour=10|mois=octobre|année=2008|lire en ligne=http://www.lefigaro.fr/politique/2008/10/10/01002-20081010ARTFIG00014-le-grand-lyon-laboratoire-du-big-bang-territorial-.php|consulté le=4 octobre 2017}}.</ref>. Il en profite pour rappeler que {{Citation|Rhône-Alpes était déjà une région de taille européenne, qu’elle était plus peuplée que dix États de l’Union européenne}} et {{Citation|qu'il ne voyait pas l’intérêt de s’étendre}}<ref name="CB">{{Lien web|url=http://www.cyberbougnat.net/actus/Rapport-Balladur-Que-pensez-vous,2780|titre=Rapport Balladur : Que pensez-vous de la fusion Auvergne et Rhône-Alpes ?|jour=25|mois=février|année=2009|site=Cyberbougnat|consulté le=4 octobre 2017}}.</ref>. Son homologue auvergnat [[René Souchon]] est tout aussi opposé et affirme : {{Citation|Cette idée est stupide parce que l'Auvergne a une forte identité historique, géographique, économique et la supprimer ne résout rien et n'apporte pas plus d'efficacité}}<ref name="Figaro2">{{Article|prénom1=Julien|nom1=Licourt|titre=La réduction du nombre de régions réveille les susceptibilités locales|périodique=[[Le Figaro]]|jour=15|mois=janvier|année=2014|lire en ligne=http://www.lefigaro.fr/politique/2014/01/15/01002-20140115ARTFIG00679-la-reduction-du-nombre-de-regions-reveillent-les-susceptibilites-locales.php|consulté le=4 octobre 2017}}.</ref>.
+
+=== Une réforme mal accueillie ===
+Le {{date-|2 juin 2014}}, dans le cadre de l'[[Acte III de la décentralisation]], le président [[François Hollande]] annonce le passage de 22 à {{nobr|14 régions}} métropolitaines<ref>{{Article|prénom1=Emmanuel|nom1=Berretta|titre=14 nouvelles régions : gare aux conséquences économiques !|périodique=[[Le Point]]|jour=2|mois=juin|année=2014|lire en ligne=http://www.lepoint.fr/politique/emmanuel-berretta/reforme-territoriale-la-carte-des-12-regions-presque-prete-02-06-2014-1830290_1897.php|consulté le=4 octobre 2017}}.</ref>. Toutes les études proposées dans le cadre du projet envisagent de réunir Rhône-Alpes et l'Auvergne.
+
+La proposition est mal accueillie en Auvergne. Un sondage [[Louis Harris 2|LH2]]-[[Syndicat de la presse quotidienne régionale|SPQR]] montre alors que 79 % des [[Auvergnats]] expriment un attachement fort à leur région, que 50 % sont défavorables au regroupement de leur région avec une autre et que 77 % ont peur de voir leur région disparaître<ref>{{Article|titre=Sondage LH2-SPQR : des Auvergnats attachés à leur région|périodique=La Montagne|jour=10|mois=avril|année=2014|lire en ligne=http://www.lamontagne.fr/clermont-ferrand/vie-pratique-consommation/2014/04/10/sondage-lh2-spqr-des-auvergnats-attaches-a-leur-region_1958859.html|consulté le=4 octobre 2017}}.</ref>.
+
+{{Diagramme circulaire
+ | thumb     = right
+ | caption   = Part du PIB par régions en 2015<ref name="IM">''Info Magazine'', édition Puy-de-Dôme, 30 juin 2014.</ref>
+ | autre     = 
+ | label1    = <small>Auvergne, 34 Mrd €</small>
+ | valeur1   = 14.5
+ | couleur1  = #FFFF00
+ | label2    = <small>Rhône-Alpes, 200 Mrd €</small>
+ | valeur2   = 85.5
+ | couleur2  = #4674C0
+}}
+
+Maxime Maury, directeur régional de la Banque de France pour l’Auvergne souligne que le poids économique de l’Auvergne se situe entre 14 et 17 % du poids de Rhône-Alpes et affirme {{Citation|''qu’il est difficile de parler d'une fusion mais plutôt d’une absorption''}}<ref>{{Lien web|url=http://www.info-mag-annonce.com/journal/blog/puy-de-dome/la-petite-valeur-ajoutee-de-lauvergne/191234 |titre=La (petite) valeur ajoutée de l’Auvergne|année=30 juin 2014 |éditeur=Info Clermont Métropole |consulté le=19 mars 2019}}</ref>. Daniel Dugléry, le président du groupe d’opposition au Conseil régional, n'hésite pas à rajouter : {{Citation|''Notre région n’est pas en état de marche. Rhône-Alpes nous bouffera''}}<ref>{{Article|titre=Fusion des régions : Avec qui l'Auvergne doit-elle s'unir ? [sondage]|périodique=La Montagne|jour=16|mois=janvier|année=2014|lire en ligne=http://www.lamontagne.fr/auvergne/actualite/2014/01/16/fusion-des-regions-avec-qui-l-auvergne-doit-elle-s-unir-sondage_1836375.html|consulté le=4 octobre 2017}}</ref>.
+
+[[Vincent Descoeur]], le président du [[Conseil général du Cantal]], fustige le projet de fusion. Selon lui, il s'agit {{Citation|du pire scénario pour le département du Cantal. Un scénario qui ignore le Massif central et surtout qui consacre l’éloignement des centres de décision}}. [[René Souchon]], le président du [[Conseil régional d'Auvergne]], émet la crainte que, dans le cas où il en aurait la possibilité, le Cantal rejoigne la région de Toulouse et provoque ainsi l'éclatement de l'Auvergne<ref>{{Article|prénom1=Sébastien|nom1=Pommier|titre=« Avec Rhône-Alpes, c'est une fusion par défaut »|périodique=[[L'Express]]|jour=4|mois=juin|année=2014|lire en ligne=http://www.lexpress.fr/actualite/politique/avec-rhone-alpes-c-est-une-fusion-par-defaut_1548690.html|consulté le=4 octobre 2017}}.</ref>.
+
+Ce dernier propose alors une région regroupant une dizaine de départements du Massif Central. Les négociations entre régions se poursuivant, il propose dans un deuxième temps le regroupement des régions [[Centre-Val de Loire|Centre]], [[Auvergne]] et [[Limousin (ancienne région administrative)|Limousin]]<ref name="LM4">{{Lien web|url=http://www.lamontagne.fr/auvergne/actualite/departement/puy-de-dome/clermont-ferrand/2014/04/11/redecoupage-des-regions-l-entretien-exclusif-avec-rene-souchon-president-ps-de-la-region-auvergne_1960632.html|titre=Redécoupage des Régions : l'entretien exclusif avec René Souchon, président PS de la Région Auvergne|jour=11|mois=avril|année=2014|site=[[La Montagne (journal)|La Montagne]]}}.</ref>{{,}}<ref name="RSOB">[[René Souchon]], [http://renesouchon.over-blog.com/ ''Réforme territoriale, franchir le cap de la modernité !''].</ref>.
+
+À l'inverse, le député-maire du Puy [[Laurent Wauquiez]] prononce un avis favorable. Pour lui, la Haute-Loire a une carte à jouer dans cette réforme alors qu'une grande région au cœur de la France ne le convainc pas<ref name="RS">{{Lien web|url=https://www.radioscoop.com/infos.php?id=92415|titre=Rhône-Alpes et l'Auvergne fusionnent : quel avenir pour la Haute-Loire ?|site=Radio Scoop|jour=3|mois=juin|année=2014}}.</ref>.
+
+Dans la région Rhône-Alpes, la proposition gouvernementale suscite moins d'opposition. Pour rassurer ses voisins, [[Jean-Jack Queyranne]] affirme {{Citation|qu'il n’a jamais eu de velléités d’annexion et n’entend pas exercer une centralisation des décisions depuis Lyon}}<ref name="PG">{{Lien web|url=http://www.placegrenet.fr/2014/06/08/regions-rhone-alpes-rit-auvergne-pleure/33606|titre=Région Rhône-Alpes qui rit, Auvergne qui pleure.|site=Place Gre’net|jour=8|mois=juin|année=2014}}.</ref>.
+
+=== Résignation et désillusion ===
+Malgré ces oppositions, le gouvernement de [[Manuel Valls]] reste ferme. Les deux régions doivent obtempérer et une négociation est initiée. Au terme de celle-ci, il est décidé que les assemblées plénières du conseil régional se feront à Lyon et que les commissions permanentes se feront à Clermont-Ferrand. L'administration des quatre départements auvergnats restera sur le territoire de l'Auvergne pour gérer la proximité.
+
+D'autre part, les deux présidents de région ont décidé du maintien de deux directions de la future grande région (les nouvelles technologies du numérique au service de l’aménagement et du développement des territoires ruraux et de montagne, ainsi que l’agriculture et la forêt) à l'Hôtel de région de Clermont-Ferrand.
+
+René Souchon a également émis le souhait que cette déconcentration régionale s’accompagne du maintien d’au moins une administration de l’État {{pas clair|à compétence territoriale Auvergne-Rhône-Alpes}} à Clermont-Ferrand, comme celle de l’agriculture et du développement rural<ref>{{Lien web|url=http://www.zoomdici.fr/actualite/Future-Region-Clermont-conserverait-certaines-administrations-id143624.html|titre=Future Région : Clermont conserverait certaines administrations|jour=24|mois=avril|année=2015|site=zoomdici.fr}}.</ref>.
+
+Le {{date-|8 avril 2016}}, [[Valéry Giscard d'Estaing]] exprime son désaccord avec la création de la nouvelle région. Selon son analyse {{Citation|une région comme l'Auvergne pouvait avoir un pouvoir et peser sur les décisions ; dans une grande région elle ne pourra pas peser. Toutes les administrations de conception vont partir pour Lyon et l'Auvergne a beaucoup à y perdre}}<ref>''La Montagne'', 9 avril 2016, {{p.}}3 et 39.</ref>{{,}}<ref>{{Lien web|auteur=Cédric Gourin|titre=Pour Giscard, la fusion de l'Auvergne avec Rhône-Alpes est une "erreur"|année=2016|mois=avril|jour=9|url=https://www.lamontagne.fr/clermont-ferrand/politique/2016/04/09/pour-giscard-la-fusion-de-l-auvergne-avec-rhone-alpes-est-une-erreur_11863210.html|auteur institutionnel=[[La Montagne (journal)|La Montagne]]|consulté le=26 décembre 2018}}.</ref>.
+
+== Politique ==
+{{article détaillé|Conseil régional d'Auvergne-Rhône-Alpes}}
+Les élections des [[Élections régionales de 2015 en Auvergne-Rhône-Alpes|6 et 13 décembre 2015]] ont été gagnées par le maire du [[Le Puy-en-Velay|Puy-en-Velay]], [[Laurent Wauquiez]] ([[Les Républicains|LR]]).
+
+La Région signe en 2019 une charte avec plusieurs partenaires pour porter la [[méthanisation]] à 12% de la production énergétique en 2030, en s'appuyant sur des ressources tant agricoles qu'urbaines, notamment en subventionnant des installations<ref>{{lien web|url=https://www.lesechos.fr/pme-regions/actualite-des-marches-publics/auvergne-rhone-alpes-vers-un-doublement-du-nombre-de-methaniseurs-dici-a-2023-1030155|site=lesechos.fr|auteur=Léa Delpont|titre=Auvergne-Rhône-Alpes: vers un doublement du nombre de méthaniseurs d'ici à 2023|date=18 juin 2019|consulté le=22 juin 2019}}.</ref>.
+
+== Économie ==
+{{Article détaillé|Économie d'Auvergne-Rhône-Alpes}}
+
+== Axes de communication et transports ==
+=== Lignes ferroviaires ===
+La région est traversée par la [[LGV Rhône-Alpes|ligne à grande vitesse Rhône-Alpes]]. Le trafic régional est organisé en un réseau, [[TER Auvergne-Rhône-Alpes]].
+
+==== Lignes à grande vitesse ====
+[[Fichier:Lyon Part-Dieu TGV Duplex.jpg|vignette|gauche|Train en gare de [[Gare de Lyon-Part-Dieu|Lyon-Part-Dieu]].]]
+Le TGV dessert de nombreuses villes de la région, toutes situées dans la vallée du Rhône ou dans les Alpes. En 2017 le temps de trajet entre Lyon et Paris descendait jusqu'à {{heure|1|57|durée=oui}} et celui entre Lyon et Marseille à {{heure|1|40|durée=oui}}. Les départements auvergnats restent à l'écart du réseau TGV et souffrent d'un infrastructure ferroviaire vieillie et peu performante. Le temps de trajet Paris - Clermont-Ferrand est d'environ {{heure|3|40|durée=oui}} ; les trains desservant cette ville ne sont plus en mesure d'être accueillis en gare de Lyon.<br>Les liaisons TGV desservant les départements Rhône-Alpins sont les suivantes :
+* vers le réseau [[LGV Méditerranée]] (dessert notamment [[Gare de Marseille-Saint-Charles|Marseille]] et [[Gare de Montpellier-Saint-Roch|Montpellier]]) : [[Gare de Lyon-Part-Dieu|Lyon Part-Dieu]], [[Gare de Valence TGV|Valence TGV]], [[Gare de Montélimar|Montélimar]] (à terme peut-être compromise par la future gare d'[[Allan (Drôme)|Allan]]) ;
+* vers Paris : [[Gare de Lyon-Part-Dieu|Lyon Part-Dieu]], [[Gare de Valence TGV|Valence TGV]], [[Gare de Bourg-en-Bresse|Bourg-en-Bresse]], [[Gare de Bellegarde|Bellegarde]], [[Gare de Thonon-les-Bains|Thonon-les-Bains]], [[Gare d'Évian-les-Bains|Évian-les-Bains]], [[Gare de Montélimar|Montélimar]], [[Gare de Grenoble|Grenoble]], [[Gare de Saint-Étienne-Châteaucreux|Saint-Étienne]], [[Gare d'Annecy|Annecy]], [[Gare de Chambéry - Challes-les-Eaux|Chambéry]], [[Gare de Bourg-Saint-Maurice|Bourg Saint-Maurice]], [[Gare de Cluses|Cluses]], [[Gare de Saint-Gervais-les-Bains-Le Fayet|Saint-Gervais-les-Bains-Le Fayet]], [[Gare de Saint-Jean de Maurienne - Vallée de l'Arvan|St-Jean de Maurienne]] et [[Gare de Modane|Modane]], etc ;
+* la liaison TGV Paris-Grenoble dessert la gare et aéroport international de Lyon Saint-Exupéry ;
+De plus, d'autres voies sont en projet ou en construction ;
+* la liaison TGV Paris-Milan qui dessert l'aéroport de Lyon, Chambéry, St Jean de Maurienne et Modane
+* une ligne en construction vers le nord-est desservira [[Gare de Dijon-Ville|Dijon]], [[Gare de Besançon Franche-Comté TGV|Besançon]], [[Gare de Strasbourg-Ville|Strasbourg]], Lyon Part-Dieu et Bourg-en-Bresse.
+Il existe un projet de ligne TGV vers l'Italie qui devrait desservir Turin. Celle-ci partirait de Lyon Part-Dieu jusqu'à la [[Gare de Chambéry - Challes-les-Eaux|Chambéry]]. Un projet de ligne [[LGV Paris Orléans Clermont-Ferrand Lyon]] a été évoqué mais sa réalisation n'est pas prévue à court ou à moyen terme.
+
+==== Réseau régional ====
+[[Fichier:X 76532 en gare de Vichy 2014-11-08.JPG|vignette|[[TER Auvergne]] dans la [[gare de Vichy]].]]
+{{ Article détaillé| TER Auvergne-Rhône-Alpes}}
+Le réseau des [[Transport express régional|Trains express régionaux]] d'Auvergne-Rhône-Alpes est le fruit du regroupement de deux anciens réseaux aux caractéristiques très différentes : le réseau [[TER Rhône-Alpes]] et le réseau [[TER Auvergne]]. Le réseau rhônalpin était l'un des plus denses de France alors que son homologue auvergnat ne comportait que quatre-vingts gares et {{unité|1037|km}} de voies (dont seulement {{unité|106|km}} électrifiées). Les deux anciens réseaux ne sont reliés l’un à l’autre que par deux voies secondaires non électrifiées. L’ensemble ainsi formé apparait comme peu cohérent.
+* La ligne ferroviaire [[Ligne Lyon - Saint-Étienne|Lyon - Saint-Étienne]], est une des lignes régionales de province en France les plus fréquentées. La liaison Mâcon-Lyon est également très fréquentée.
+* Un projet de RER baptisé [[Réseau express de l'aire urbaine lyonnaise]], soit REAL est à l'étude<ref name="Focus sur le projet REAL">{{Lien brisé|langue=|titre=Focus sur le projet REAL|url=http://www.rhone.fr/amenagement_du_territoire/infrastructures_deplacements/transports/focus_sur_le_projet_real|site=[http://www.rhone.fr rhone.fr]|éditeur=''[[Conseil général du Rhône]]''|date=27 octobre 2010|consulté le=6 janvier 2012.|auteur=}}</ref>.
+* La ligne dite du [[Ligne du Sillon Alpin|Sillon Alpin]] est une ligne à forte fréquentation reliant [[Gare de Valence-Ville|Valence-Ville]], [[Gare de Valence TGV|Valence TGV]], [[Gare de Grenoble|Grenoble]], [[Gare de Grenoble-Universités-Gières|Grenoble-Universités-Gières]], [[Gare de Chambéry-Challes-les-Eaux|Chambéry]], [[Gare d'Aix-les-Bains-Le Revard|Aix-les-Bains]], [[Gare d'Annecy|Annecy]] et [[Gare de Genève-Cornavin|Genève]]. La Région Rhône-Alpes a engagé de 2007 à 2009 d'importants travaux de modernisation de l'axe dit du Sillon alpin sud entre Romans et Moirans ([[ligne Valence - Moirans]]) ainsi que Gières - Montmélian ([[ligne Grenoble - Montmélian]]) avec remise à double voie de la section de ligne Romans - Moirans. Les travaux d'électrification intégrale concernent Valence - Grenoble - Montmélian. À [[Gare de Valence TGV|Valence TGV]], une bretelle de raccorde directement la ligne classique à la ligne TGV.
+* Pendant les week-ends des vacances d'hiver, les gares de Bourg-Saint-Maurice, Saint-Jean-de-Maurienne et Modanne sont parmi les gares les plus fréquentées d'Auvergne-Rhône-Alpes avec des TGV venant de Paris, Londres ou Bruxelles.
+* Dans la région [[Grand Genève|genevoise]], le RER transfrontalier [[Léman Express]] a été complètement mis en service le {{-|15 décembre 2019|dans les chemins de fer}} et relie grâce à ses six lignes [[Évian-les-Bains]] (L1), [[Annecy]] (L2), [[Saint-Gervais-les-Bains]] (L3) [[Annemasse]] (L4), [[La Plaine (canton de Genève)|La Plaine]] (L5), [[Bellegarde-sur-Valserine]] (L6) à [[Genève]] et [[Coppet]]<ref>{{Lien web |langue=fr-FR |prénom=Ats |nom=Keystone |titre=Le Léman Express est désormais opérationnel |url=https://www.radiolac.ch/actualite/le-leman-express-est-desormais-operationnel/ |consulté le=2020-08-27}}.</ref> ;
+* La liaison Lyon - Clermont comporte des sections non électrifiées et souffre d'une desserte irrégulière et lente.
+* La voie reliant Saint-Étienne au Puy-en-Velay est une voie unique et sinueuse non électrifiée.
+* La ligne Paris - Clermont-Ferrand est exploitée avec un matériel vétuste<ref>[https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/comment-etat-compte-ameliorer-ligne-sncf-clermont-ferrand-paris-1718851.html France3 Auvergne-Rhône-Alpes] consulté le 21/06/2020.</ref>. L'infrastructure est dégradée et le temps de parcours entre les deux ville s'allonge au fil des ans<ref>[https://ressources.data.sncf.com/explore/dataset/meilleurs-temps-des-parcours-des-trains/table/?disjunctive.relations&sort=-annee&refine.relations=PARIS+-+CLERMONT+FERRAND Ressources data SNCF] consulté le 21/06/2020.</ref>. En 2020 un plan de rénovation était à l'étude.
+* Les autres lignes auvergnates sont menacées ou déjà abandonnées comme la ligne [[Ligne d'Eygurande - Merlines à Clermont-Ferrand|Clermont - Tulle]]<ref>[https://www.lamontagne.fr/clermont-ferrand-63000/actualites/les-petites-lignes-ferroviaires-d-auvergne-dans-un-etat-critique_11936279/ La Montagne.fr consulté le 21/06/2020].</ref>.
+
+==== Lignes touristiques ====
+[[Fichier:Tramway Mont-Blanc.jpg|vignette|Tramway du Mont-Blanc.]]
+
+Enfin, la région dispose de lignes ferroviaires touristiques circulant au cœur de beaux paysages :
+* la [[ligne des Alpes]] de la SNCF [[Gare de Grenoble|Grenoble]] – [[Gare de Clelles - Mens|Clelles]] – [[Gare de Veynes - Dévoluy|Veynes - Dévoluy]] – [[Gare de Gap|Gap]] (avec correspondances à [[Gare de Veynes - Dévoluy|Veynes - Dévoluy]] pour [[Gare de Sisteron|Sisteron]], [[Gare d'Aix-en-Provence|Aix-en-Provence]] et [[Gare de Marseille-Saint-Charles|Marseille]]) ;
+* la ligne franco-suisse SNCF ([[Ligne de Saint-Gervais-les-Bains-Le Fayet à Vallorcine (frontière)|ligne Saint-Gervais - Vallorcine]]) - TPC ([[Chemin de fer Martigny–Châtelard]]) [[Gare de Saint-Gervais-les-Bains-Le Fayet|Saint-Gervais]] – [[Gare de Chamonix-Mont-Blanc|Chamonix]] – [[Gare de Vallorcine|Vallorcine]] – [[Martigny]] ;
+* le [[chemin de fer du Vivarais]], en Ardèche ;
+* le [[chemin de fer de la Mure]], au sud de Grenoble ;
+* le [[chemin de fer du Montenvers]], près de [[Chamonix-Mont-Blanc|Chamonix]], dans le massif du Mont-Blanc ;
+* le [[tramway du Mont-Blanc]], au Fayet près de [[Saint-Gervais-les-Bains]], dans le massif du Mont-Blanc ;
+* le [[Panoramique des Dômes]], [[chemin de fer à crémaillère]] qui permet l'accès au sommet du [[puy de Dôme]] ;
+* le [[Tour du Cantal en train]] ;
+* la [[Gentiane express]], train touristique de [[Riom-ès-Montagnes]] et [[Lugarde]]-[[Marchastel (Cantal)|Marchastel]], basé à [[Bort-les-Orgues]] ;
+* le [[train touristique du musée de la mine de Noyant-d'Allier]] ;
+* le train [[Agrivap les trains de la découverte|Agrivap]] dans la vallée de la [[Dore (rivière)|Dore]] aux alentours d'[[Ambert]].
+
+=== Réseau routier ===
+
+==== Autoroutes ====
+[[Fichier:AURA réseau autoroutier.gif|thumb|left|Réseau autoroutier de la région Auvergne-Rhône-Alpes]]
+[[Fichier:140614-Autoroute-A7-02.jpg|vignette|L'[[Autoroute A7 (France)|autoroute A7]] à [[Vienne (Isère)|Vienne]] en direction de [[Lyon]].]]
+L’Auvergne-Rhône-Alpes est une région comprenant un réseau autoroutier dense surtout entre les Alpes et [[Lyon]], carrefour autoroutier entre le Nord, le Sud et l'Italie. En excluant l'[[Ardèche (département)|Ardèche]], tous les départements sont au moins traversés par une voie autoroutière (même si en [[Haute-Loire]] il n'y qu'une petite quinzaine de kilomètres de l'A75 à l’extrême nord-ouest du département).
+
+L'une des voies les plus empruntées est l'[[Autoroute A6 (France)|autoroute A6]] débutant et se terminant à [[Lyon]]. La voie continue au sud en direction de la Méditerranée en prenant le nom d'[[Autoroute A7 (France)|A7]], elle suit la [[vallée du Rhône (France)|vallée du Rhône]]. L'[[Autoroute A46 (France)|autoroute A46]] est une voie de substitution de l'[[Autoroute A7 (France)|autoroute du Soleil]] à hauteur de la capitale régionale. En outre, Lyon prouve sa position de carrefour avec l'A40 qui la connecte avec [[Genève]] et l'[[Autoroute A43 (France)|A43]] partant en direction de [[Turin]] en passant par [[Chambéry]] et le tunnel du [[Tunnel routier du Fréjus|Fréjus]].
+
+[[Clermont-Ferrand]] est aussi un carrefour autoroutier étant donné qu'elle est reliée à Paris et [[Orléans]] par l'intermédiaire de l'[[Autoroute A71 (France)|A71]], à [[Montpellier]] et [[Béziers]] grâce à l'[[Autoroute A75 (France)|A75]]. L'autoroute [[Autoroute A89 (France)|A89]] relie la capitale auvergnate à [[Bordeaux]] et la connecte à l'ancienne région [[Rhône-Alpes|rhônalpine]] puisque la voie se termine à Lyon via Thiers.
+
+D'autres villes concentrent des autoroutes comme [[Grenoble]] avec l'[[Autoroute A41 (France)|A41]], l'[[Autoroute A48 (France)|A48]] et l'[[Autoroute A51 (France)|A51]], [[Saint-Étienne]] avec l'[[Autoroute A47 (France)|A47]] et l'[[Autoroute A72 (France)|A72]] ou [[Clermont-Ferrand]] avec l'[[Autoroute A711 (France)|A711]], l'[[Autoroute A711 (France)|A712]], l'[[Autoroute A75 (France)|A75]] et l'[[Autoroute A71 (France)|A71]].
+
+Dans l'Allier, l'[[Autoroute A79 (France)|autoroute A79]] constitue une partie de la [[Route Centre-Europe Atlantique]]. Ouverte en 2022, elle remplace la [[Route nationale 79 (France)|route nationale 79]], tristement surnommée la ''route de la mort'' du fait de sa dangerosité et de son nombre important d'accidents graves.
+
+==== Autres voies ====
+[[Fichier:Costaros - N 88 direction Le Puy.JPG|vignette|La route nationale 88 en direction du [[Le Puy-en-Velay|Puy]].]]
+
+En plus des autoroutes, le trafic routier de la région est concentré autour des voies nationales telles que la [[Route nationale 7 (France métropolitaine)|route nationale 7]] qui passe en périphérie de [[Moulins (Allier)|Moulins]], [[Roanne]] et [[Lyon]] avant de suivre la [[vallée du Rhône (France)|vallée du Rhône]] jusqu'à [[Valence (Drôme)|Valence]] où elle constitue une rocade pour cette ville puis se dirige vers [[Avignon]].
+
+Dans certains départements comme le [[Cantal (département)|Cantal]], la [[Haute-Loire]] ou l'[[Ardèche (département)|Ardèche]], des routes nationales importantes ([[Route nationale 88 (France)|N88]], [[Route nationale 102 (France métropolitaine)|N102]], [[Route nationale 122|N122]]) complètent le maillage autoroutier et relient les villes moyennes aux métropoles régionales.
+
+Certaines rocades de grandes villes sont classées routes nationales. C'est le cas à [[Lyon]], [[Saint-Étienne]], [[Grenoble]] ou [[Valence (Drôme)|Valence]].
+
+=== Trafic aérien ===
+Le principal aéroport de la région est celui de [[Aéroport de Lyon-Saint-Exupéry|Lyon Saint-Exupéry]], {{4e}} aéroport français et {{54e|aéroport}} européen en 2014. L'[[Aéroport international de Genève|aéroport de Genève]] ({{32e|aéroport}} européen), bien que n'étant pas sur le territoire de la région, dessert une grande partie de celle-ci.
+
+Les aéroports de [[aéroport de Clermont-Ferrand Auvergne|Clermont-Ferrand Auvergne]], [[Aéroport de Saint-Étienne-Loire|Saint-Étienne-Loire]], et d'[[Aéroport d'Aurillac|Aurillac]] accueillent un trafic bien plus faible, tandis que les aéroports de [[Aéroport de Grenoble-Isère|Grenoble]] et [[Aéroport de Chambéry - Savoie|Chambéry]] sont principalement utilisés l'hiver par des [[compagnies aériennes à bas prix]] et des [[compagnie aérienne charter|compagnies aériennes charter]].
+
+== Administration ==
+[[Fichier:Auvergne-Rhône-Alpes - préfectures et départements.svg|thumb|Préfectures de la région Auvergne-Rhône-Alpes<ref group="Note">La carte ne prend pas en compte la création de la [[métropole de Lyon]], qui partage sa préfecture avec le département du [[Rhône (département)|Rhône]].</ref>.]]
+
+=== Divisions administratives ===
+* Superficie : {{unité|69711|km|2}}
+* Population : {{unité|{{Population de France/dernière_pop}}|habitants}} (en {{Population de France/dernière_année}})
+* Préfecture régionale : [[Lyon]]
+* Préfectures : [[Bourg-en-Bresse]], [[Moulins (Allier)|Moulins]], [[Privas]], [[Aurillac]], [[Valence (Drôme)|Valence]], [[Grenoble]], [[Saint-Étienne]], [[Le Puy-en-Velay]], [[Clermont-Ferrand]], [[Chambéry]], [[Annecy]]
+* Densité : {{unité|{{Population de France/densité}}|habitants/km|2}} (en {{Population de France/dernière_année}})
+
+{| class="wikitable centre sortable" style="text-align:center; width:80%;"
+|+ Départements et métropoles à statut de collectivité territoriale d'Auvergne-Rhône-Alpes
+|- align="center" bgcolor="#cccccc"
+! colspan="2" | Département ou métropole
+! Préfecture
+! Sous-préfectures
+! Superficie<br><small>({{Abréviation discrète|km{{2}}|kilomètres carrés}})</small>
+! Population<br><small>(en {{Population de France/dernière_année||Ain (département)}})</small>
+! Densité<br><small>{{nobr|({{Abréviation discrète|hab./km{{2}}|habitants par kilomètre carré}})}}</small>
+|-
+! style="background-color:FFFFFF" | 01
+| align="left" | [[Ain (département)|Ain]] || align="left" | [[Bourg-en-Bresse]] || align="left" | [[Belley]], [[Gex]] et [[Nantua]] || {{smn|5762|7}} || {{formatnum:{{Population de France/dernière_pop||Ain (département)}}}}<!-- Insertion automatique, ne pas modifier --> || {{smn|{{Population de France/densité||nom=Ain (département)}}}}<!-- Insertion automatique, ne pas modifier -->
+|-
+! style="background-color:FFFFFF" | 03
+| align="left" | [[Allier (département)|Allier]]  || align="left" | [[Moulins (Allier)|Moulins]] || align="left" | [[Montluçon]] et [[Vichy]]  || {{smn|7340|7}} || {{formatnum:{{Population de France/dernière_pop||Allier (département)}}}}<!-- Insertion automatique, ne pas modifier --> || {{smn|{{Population de France/densité||nom=Allier (département)}}}}<!-- Insertion automatique, ne pas modifier -->
+|-
+! style="background-color:FFFFFF" | 07
+| align="left" | [[Ardèche (département)|Ardèche]] || align="left" | [[Privas]] || align="left" | [[Largentière]] et [[Tournon-sur-Rhône]]  || {{smn|5529|7}} || {{formatnum:{{Population de France/dernière_pop||Ardèche (département)}}}}<!-- Insertion automatique, ne pas modifier --> || {{smn|{{Population de France/densité||nom=Ardèche (département)}}}}<!-- Insertion automatique, ne pas modifier -->
+|-
+! style="background-color:FFFFFF" | 15
+| align="left" | [[Cantal (département)|Cantal]] || align="left" | [[Aurillac]] || align="left" | [[Mauriac (Cantal)|Mauriac]] et [[Saint-Flour (Cantal)|Saint-Flour]] || {{smn|5726|7}} || {{formatnum:{{Population de France/dernière_pop||Cantal (département)}}}}<!-- Insertion automatique, ne pas modifier --> || {{smn|{{Population de France/densité||nom=Cantal (département)}}}}<!-- Insertion automatique, ne pas modifier -->
+|-
+! style="background-color:FFFFFF" | 26
+|  align="left" | [[Drôme (département)|Drôme]]  || align="left" | [[Valence (Drôme)|Valence]] || align="left" | [[Die (Drôme)|Die]] et [[Nyons]] || {{smn|6530|7}} || {{formatnum:{{Population de France/dernière_pop||Drôme (département)}}}}<!-- Insertion automatique, ne pas modifier --> || {{smn|{{Population de France/densité||nom=Drôme (département)}}}}<!-- Insertion automatique, ne pas modifier -->
+|-
+! style="background-color:FFFFFF" | 38
+| align="left" | [[Isère (département)|Isère]] || align="left" | [[Grenoble]] || align="left" | [[La Tour-du-Pin]] et [[Vienne (Isère)|Vienne]] || {{smn|7431|7}} || {{formatnum:{{Population de France/dernière_pop||Isère (département)}}}}<!-- Insertion automatique, ne pas modifier --> || {{smn|{{Population de France/densité||nom=Isère (département)}}}}<!-- Insertion automatique, ne pas modifier -->
+|-
+! style="background-color:FFFFFF" | 42
+| align="left" | [[Loire (département)|Loire]] || align="left" | [[Saint-Étienne]] || align="left" | [[Montbrison (Loire)|Montbrison]] et [[Roanne]] || {{smn|4781|7}} || {{formatnum:{{Population de France/dernière_pop||Loire (département)}}}}<!-- Insertion automatique, ne pas modifier --> || {{smn|{{Population de France/densité||nom=Loire (département)}}}}<!-- Insertion automatique, ne pas modifier -->
+|-
+! style="background-color:FFFFFF" | 43
+| align="left" | [[Haute-Loire]] || align="left" | [[Le Puy-en-Velay]] || align="left" | [[Brioude]] et [[Yssingeaux]] || {{smn|4977|7}}  || {{formatnum:{{Population de France/dernière_pop||Haute-Loire}}}}<!-- Insertion automatique, ne pas modifier --> || {{smn|{{Population de France/densité||nom=Haute-Loire}}}}<!-- Insertion automatique, ne pas modifier -->
+|-
+! style="background-color:FFFFFF" | 63
+| align="left" | [[Puy-de-Dôme]] || align="left" | [[Clermont-Ferrand]] || align="left" | [[Ambert]], [[Issoire]], [[Riom]] et [[Thiers]]  || {{smn|7970|7}} || {{formatnum:{{Population de France/dernière_pop||Puy-de-Dôme}}}}<!-- Insertion automatique, ne pas modifier --> || {{smn|{{Population de France/densité||nom=Puy-de-Dôme}}}}<!-- Insertion automatique, ne pas modifier -->
+|-
+! style="background-color:FFFFFF" | 69D
+| align="left" | [[Rhône (département)|Rhône]] || align="left" | [[Lyon]] || align="left" | [[Villefranche-sur-Saône]] || {{smn|2715|7}} || {{formatnum:{{Population de France/dernière pop||Rhône (département)}}}}<!-- Insertion automatique, ne pas modifier --><!--Population sans la Métropole de Lyon--> || {{Population de France/densité||nom=Rhône (département)}}<!-- Insertion automatique, ne pas modifier --><!--Densité sans la Métropole de Lyon-->
+|-
+! style="background-color:FFFFFF" | 69M
+| align="left" | [[Métropole de Lyon]] || align="left" | [[Lyon]] ||    || {{smn|534|7}} || {{formatnum:{{Population de France/dernière_pop||Métropole de Lyon}}}}<!-- Insertion automatique, ne pas modifier --> || {{Population de France/densité||nom=Métropole de Lyon}}<!-- Insertion automatique, ne pas modifier -->
+|-
+! style="background-color:FFFFFF" | 73
+| align="left" | [[Savoie (département)|Savoie]]  || align="left" | [[Chambéry]] || align="left" | [[Albertville]] et [[Saint-Jean-de-Maurienne]] || {{smn|6028|7}} || {{formatnum:{{Population de France/dernière_pop||Savoie (département)}}}}<!-- Insertion automatique, ne pas modifier --> || {{smn|{{Population de France/densité||nom=Savoie (département)}}}}<!-- Insertion automatique, ne pas modifier -->
+|-
+! style="background-color:FFFFFF" | 74
+| align="left" | [[Haute-Savoie]] || align="left" | [[Annecy]] || align="left" | [[Bonneville (Haute-Savoie)|Bonneville]], [[Saint-Julien-en-Genevois]] et [[Thonon-les-Bains]] || {{smn|4388|7}} || {{formatnum:{{Population de France/dernière_pop||Haute-Savoie}}}}<!-- Insertion automatique, ne pas modifier --> || {{smn|{{Population de France/densité||nom=Haute-Savoie}}}}<!-- Insertion automatique, ne pas modifier -->
+|}
+
+=== L'intercommunalité en Auvergne-Rhône-Alpes ===
+{{formatnum:4036}} des {{unité|4095|communes}} d’Auvergne-Rhône-Alpes adhèrent à un [[établissement public de coopération intercommunale]] (EPCI)<ref>{{Lien web|prénom1=Sylvain|nom1=Brouillet|titre=La nouvelle carte de l'intercommunalité en Auvergne-Rhône-Alpes|url=https://www.insee.fr/fr/statistiques/3131812|site=insee.fr|jour=5|mois=octobre|année=2017|consulté le=30 octobre 2017}}.</ref>. La [[métropole de Lyon]] n'est pas quant à elle un EPCI mais une collectivité territoriale à statut particulier incluant 59 communes.
+
+Le nombre d'EPCI de la région est passé de 285 en 2015 à 167 en 2017, soit une diminution de 41 % en deux ans, conséquence de l'application la [[Loi portant nouvelle organisation territoriale de la République|loi du {{nobr|7 août 2015}} portant nouvelle organisation territoriale de la République]], dite loi NOTRe. Aucun EPCI ne se situe sous le seuil des {{unité|5000|habitants}}, et 55 ont moins de {{unité|15000|habitants}} (population totale regroupée).
+
+Il existe trois formes d'EPCI, à la date du {{Date-|1 janvier 2018}} :
+* trois [[Métropole (intercommunalité française)|métropoles]] de droit commun : [[Grenoble-Alpes Métropole]], [[Saint-Étienne Métropole]] et de [[Clermont Auvergne Métropole]] ;
+* {{nobr|25 [[Communauté d'agglomération|communautés d'agglomération]]}} : ces intercommunalités ({{unité|88000|habitants}} en moyenne) rassemblent 24 % des communes et 28 % de la population sur 22 % du territoire. La plus grande ([[Communauté d'agglomération Valence Romans Agglo|Valence Romans Agglo]]) dépasse les {{unité|200000|habitants}}, quand celles d’[[Annonay Rhône Agglo]] ou [[Communauté d'agglomération Privas Centre Ardèche|Privas Centre Ardèche]] comptent moins de {{unité|50000|habitants}} ;
+* {{nobr|138 [[Communauté de communes|communautés de communes]]}} : avec 72 % des communes et 40 % de la population sur 75 % du territoire, les {{nobr|138 communautés}} de communes (CC) de la région demeurent majoritaires. Plus de la moitié d’entre elles ont entre {{formatnum:15000}} et {{unité|50000|habitants}}.
+
+== Le Conseil économique, social et environnemental régional (CESER) ==
+Il constitue la seconde institution régionale. C’est l’assemblée consultative de la Région Auvergne-Rhône-Alpes<ref>{{Lien web |titre=L'institution |url=https://ceser.auvergnerhonealpes.fr/institution-ceser |site=ceser.auvergnerhonealpes.fr |date=2022 |consulté le=8 juin 2022}}</ref>.
+
+=== Missions ===
+Le CESER a pour mission principale d’informer et d’éclairer l’exécutif du Conseil régional sur les enjeux et conséquences économiques, sociales et environnementales des politiques régionales. ll  émet des avis lorsqu'il est saisi par le Conseil régionale et  des contributions lorsqu'il s'autosaisit. il a  une mission d’évaluation des politiques publiques.
+
+=== Composition ===
+Le Conseil comprend 190 membres nommés par le préfet pour 6 ans. Ils sont répartis en 4 collèges : 
+
+* le premier collège comprend 61 membres issus de 38 organisations. Il représente les entreprises et les activités non salariés.
+* le second collège de 61 conseillers issus de 8 organisations représente les organisations syndicales de salariés.
+* le troisième collège de 61 conseillers issus de 75 organisations représente les associations et autres organismes.
+* le quatrième collège de 7 membres regroupe des personnalités qualifiées.
+
+== Population ==
+{{article connexe|Démographie d'Auvergne-Rhône-Alpes}}
+
+=== Démographie ===
+[[Fichier:Densité population Auvergne-Rhône-Alpes 2006.jpg|vignette|Densité de population de la région Auvergne-Rhône-Alpes en 2006<ref>[http://www.insee.fr/fr/themes/document.asp?ref_id=14200&page=pages_de_profils/P09_50/graphiques.htm#illustration1 INSEE], consulté le 12/06/2015</ref>.]]
+
+Avec {{nombre|7877698|habitants}}<ref group="Note">Addition des populations des deux anciennes régions Auvergne et Rhône-Alpes</ref> en 2015<ref name="INSEE1">[https://insee.fr/fr/statistiques/3292629?sommaire=3292701 Populations légales 2015 des régions de France] sur le site de l'[[Institut national de la statistique et des études économiques|Insee]], consulté le 4 janvier 2018.</ref>, la région se place au deuxième rang des régions métropolitaines pour sa population mais aussi pour son nombre d’emplois. Entre 2009 et 2014, cette population a augmenté de {{nombre|300000|habitants}}<ref>{{Lien web|langue=fr|nom1=Régis|prénom1=Mathilde|titre=Recensement en région : 300 000 nouveaux habitants entre 2009 et 2014|url=http://www.lyoncapitale.fr/Journal/Lyon/Actualite/Actualites/Recensement-en-region-300-000-nouveaux-habitants-entre-2009-et-2014|site=lyoncapitale.fr|date=2017-01-01|consulté le=2017-10-04}}</ref>. Sa densité de population, 109 hab/km{{2}}, est voisine de celle de la France mais sa croissance démographique est supérieure à celle du territoire métropolitain. Toutefois, il se cache derrière ces chiffres des écarts extrêmes entre les territoires des deux anciennes régions Auvergne et Rhône-Alpes<ref name="INSEE2">[http://www.rhone-alpes.cci.fr/economie/panorama/3_2_c_population.html Des écarts de densité de population entre les territoires de Rhône-Alpes], sur CCI Rhône-Alpes, consulté le 15 février 2016.</ref>.
+
+L’Ardèche mise à part, ce sont les départements rhônalpins qui concentrent l'essentiel de la vitalité démographique de la région. Avec {{nombre|509|habitants/km|2}}, l'ensemble formé par le département du Rhône et la [[métropole de Lyon]] forme le territoire français le plus densément peuplé après l'[[Île-de-France]]. La Haute-Savoie, l’Isère et la Loire ont également une densité supérieure à la moyenne nationale. Le [[sillon alpin]] (Annemasse, Annecy, Chambéry, Grenoble) a connu une progression de sa population de plus de 10 % entre 1990 et 2000. La dynamique de l’aire urbaine lyonnaise s’étend dans le département de l’Ain et dans la vallée du Rhône. À l’ouest, en lisière du Massif central, le département de la Loire a connu une baisse de population jusqu’en 1999 mais progresse au même rythme que la moyenne nationale depuis<ref name="INSEE3">[http://www.insee.fr/fr/themes/document.asp?ref_id=13342&reg_id=8 Loire : un léger regain démographique.], sur le site insee.fr, consulté le 15 février 2016.</ref>.
+
+Sur la bordure est, une zone à très faible densité de population suit les sommets alpins. Au centre, une bande verticale également faiblement peuplée suit les [[monts de la Madeleine]], du [[Monts du Forez|Forez]] et du [[Monts du Vivarais|Vivarais]] et retrace en creux les frontières historiques entre provinces. À l'ouest, une vaste zone de dépression démographique se prolonge sur le [[Limousin (ancienne région administrative)|Limousin]] et le sud du [[Massif central]].
+
+Situés au cœur du Massif central, les quatre départements auvergnats sont ceux où la population vit en moyenne le plus en altitude. S’inscrivant dans la [[diagonale du vide]], leur densité de population moyenne n’est que de {{nombre|52|habitants/km|2}}. Les départements de l’Allier, du Cantal, et la moitié ouest de la Haute-Loire sont marqués par une faible natalité et un vieillissement de la population. À l'origine très rurale, leur population tend à s'urbaniser : plus de sept habitants sur dix vivent en ville. Grâce à l'attractivité de l’agglomération clermontoise et l’arrivée de jeunes familles, le Puy-de-Dôme limite cette tendance<ref name="INSEE4">[http://insee.fr/fr/themes/document.asp?reg_id=10&ref_id=16326 INSEE : Prospectives démographiques des territoires du Puy-de-Dôme]</ref>. Clermont-Ferrand se trouve au milieu d’un couloir urbain de {{unité|601000|habitants}} qui s'étend de [[Vichy]] à [[Issoire]] en passant par [[Thiers]] en suivant l’Allier<ref name="INSEE6">[http://www.insee.fr/fr/regions/auvergne/default.asp?page=faitsetchiffres/presentation/presentation.htm INSEE : Auvergne]</ref>. Grâce au solde migratoire, les quatre départements ont malgré tout gagné {{nombre|15800|habitants}} entre 2008 et 2013<ref name="INSEE7">[http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=TER&millesime=2013&typgeo=ANCREG&typesearch=territoire&codgeo=Auvergne+%2883%29&territoire=OK INSEE Séries historiques des résultats du recensement dans l'ancienne région d'Auvergne], consulté le 11 juillet 2016.</ref>.
+
+=== Typologie socio-économique des territoires ===
+[[Fichier:Profils Bassins de Vie Auvergne-Rhône-Alpes.png|vignette|Typologie des bassins de vie<ref name="Insee 2016">[http://www.insee.fr/fr/themes/document.asp?reg_id=10&ref_id=23679%C2 Des profils de territoires contrastés en Auvergne Rhône-Alpes], sur le site de [[INSEE]], consulté le 15 février 2016.</ref>.]]
+
+La typologie des « bassins de vie » de la région établie par l'Agence régionale de développement des territoires d'Auvergne (ARDTA) et l'[[Insee]] identifie six types de bassins de vie aux caractéristiques différentes. Leur distribution géographique fait réapparaître les deux anciennes régions : [[Auvergne]] et [[Rhône-Alpes]].
+
+Les grandes agglomérations de Lyon, Clermont-Ferrand, Grenoble et Valence en croissance démographique depuis 1975, ainsi que celle de Saint-Étienne, stimulent des bassins de vie suburbains grâce à leur attraction économique. Si l'aire urbaine de Clermont-Ferrand reste isolée à l'ouest, toutes les autres forment un continuum polarisé par Lyon. À l'est, les zones rurales des Alpes bénéficient d'une situation économique très favorable grâce à l'apport bénéfique du [[Sport d'hiver|tourisme d'hiver]].
+
+Des agglomérations moyennes comme [[Moulins (Allier)|Moulins]], [[Vichy]], [[Montluçon]], [[Aurillac]], [[Thiers]] à l'ouest ou [[Annecy]] et [[Privas]] plus à l'est se placent en situation intermédiaire entre ces deux derniers types.
+
+[[Fichier:Arrondissements AURA - Médianes revenu disponible par UC (2013).png|vignette|alt=Carte des arrondissement de la région Auvergne-Rhône-Alpes en fonction de la médiane du revenu disponible par UC en 2013|Médianes du revenu disponible par unité de consommation pour chaque arrondissement de la région<ref>{{Lien web|url=https://www.insee.fr/fr/statistiques/zones/2011101?debut=0|titre=Dossier complet
+|auteur=Insee|site=insee.fr|consulté le= 5 mai 2017}}</ref> :<br />
+{{Légende/Début}}
+{{Légende|#FCFFE5|'''Jaune clair :'''  ⩽ 18 000 €}}
+{{Légende|#FFFF00|'''Jaune :''' 18 000 → 20 000 €}}
+{{Légende|Orange|'''Orange clair :''' 20 000 → 22 000 €}}
+{{Légende|OrangeRed|'''Orange :''' 22 000 → 24 000 €}}
+{{Légende|red|'''Rouge :''' 24 000 → 26 000 €}}
+{{Légende|FireBrick|'''Rouge foncé :''' 26 000 → 28 000 €}}
+{{Légende|#800040|'''Rouge-violet :''' ⩾ 28 000 €}}
+{{Légende/Fin}}]]
+
+À l'opposé, deux types de zones rurales en difficultés se font face. La première, située pour l'essentiel dans l'ancienne [[région Auvergne]], correspond à des territoires de moyenne montagne, habités par une population âgée et majoritairement agricole. Les services publics et privés y sont insuffisants<ref>Journal "La Montagne" mardi 9 février 2016 Page 3</ref>. Dans le Cantal, près de 17 % des personnes âgées de plus de {{nombre|75|ans}} vivent sous le seuil de pauvreté alors qu'elles ne sont que 9,3 % en Auvergne-Rhône-Alpes<ref name="Insee 2016" />.
+
+La deuxième se retrouve au sud des départements de l'Ardèche et de la Drôme et plus localement en [[Bocage bourbonnais]] ou dans le [[Livradois]]. Il s'agit de bassins de vie ruraux très fragilisés socialement<ref name="Insee 2016" />. Fortement touchées par le chômage, ces régions voient 5 % de leur population active sans emploi depuis plus d'un an contre moins de 4 % pour l'ensemble de la grande région<ref name="Insee 2016" />.
+
+[[Fichier:Population département Auvergne Rhone-alpes 2015.jpg|vignette|centre|upright=2.7|Population par départements et métropole à statut de collectivité territoriale de la région Auvergne - Rhône-Alpes selon le recensement de 2012 (en bleu les départements de Rhône-Alpes, en jaune et orangé, les départements d'Auvergne).]]
+{{Clr|left}}
+
+=== Villes principales ===
+==== Pôles urbains et aires urbaines ====
+Liste des [[Liste des aires urbaines de France|aires urbaines]] comptant plus de {{unité|50000 habitants}} (population au {{date-|1 janvier 2014}}) et des pôles urbains correspondants.
+
+{| class="wikitable centre sortable" |border="0" style="border: 1px solid #999; background-color:#FFFFFF"
+|- align="center" bgcolor="#cccccc"
+!Ville-centre || [[Aire urbaine (France)|Aire urbaine]] [[2016]]<br>(habitants)<ref>[https://www.insee.fr/fr/information/2867866 Insee - Résultats du recensement de la population 2014]</ref> || [[Pôle urbain]] [[2014]]<br>(habitants)
+|- align="right" bgcolor="#efefef"
+| align="left" | [[Lyon]] || {{formatnum:2310850}} || {{formatnum:1620331}}
+|- align="right"
+| align="left" | [[Grenoble]] || {{formatnum:687985}} || {{formatnum:510368}}
+|- align="right" bgcolor="#efefef"
+| align="left" | [[Saint-Étienne (Loire)|Saint-Étienne]] || {{formatnum:519834}} || {{formatnum:372308}}
+|- align="right"
+| align="left" | [[Clermont-Ferrand]] || {{formatnum:482472}} || {{formatnum:264704}}
+|- align="right" bgcolor="#efefef"
+| align="left" | [[Aire urbaine de Genève - Annemasse (partie française)|Genève - Annemasse (partie française)]] || {{formatnum:320475}} || {{formatnum:174566}}
+|- align="right"
+| align="left" | [[Annecy]] || {{formatnum:236407}} || {{formatnum:166143}}
+|- align="right" bgcolor="#efefef"
+| align="left" | [[Chambéry]] || {{formatnum:224811}} || {{formatnum:186355}}
+|- align="right"
+| align="left" | [[Valence (Drôme)|Valence]] || {{formatnum:180075}} || {{formatnum:128461}}
+|- align="right" bgcolor="#efefef"
+| align="left" | [[Bourg-en-Bresse]] || {{formatnum:127049}} || {{formatnum:59816}}
+|- align="right"
+| align="left" | [[Vienne (Isère)|Vienne]] || {{formatnum:114794}} || {{formatnum:94317}}
+|- align="right" bgcolor="#efefef"
+| align="left" | [[Roanne]] || {{formatnum:107401}} || {{formatnum:80098}}
+|- align="right"
+| align="left" | [[Cluses]] || {{formatnum:95532}} || {{formatnum:88260}}
+|- align="right" bgcolor="#efefef"
+| align="left" | [[Thonon-les-Bains]] || {{formatnum:93099}} || {{formatnum:75410}}
+|- align="right"
+| align="left" | [[Vichy]] || {{formatnum:82963}} || {{formatnum:65938}}
+|- align="right" bgcolor="#efefef"
+| align="left" |[[Montélimar]] || {{formatnum:79087}} || {{formatnum:54498}}
+|- align="right"
+| align="left" | [[Montluçon]] || {{formatnum:77346}} || {{formatnum:56928}}
+|- align="right" bgcolor="#efefef"
+| align="left" | [[Le Puy-en-Velay]] || {{formatnum:75653}} || {{formatnum:38002}}
+|- align="right"
+| align="left" | [[Romans-sur-Isère]] || {{formatnum:74895}} || {{formatnum:56420}}
+|- align="right" bgcolor="#efefef"
+| align="left" | [[Aurillac]] || {{formatnum:65078}} || {{formatnum:32368}}
+|- align="right"
+| align="left" | [[Moulins (Allier)|Moulins]] || {{formatnum:62175}} || {{formatnum:38266}}
+|- align="right" bgcolor="#efefef"
+| align="left" | [[Aubenas]] || {{formatnum:61374}} || {{formatnum:41069}}
+|- align="right"
+|}
+
+==== Communes ====
+[[Fichier:Blank map of Auvergne-Rhône-Alpes, with communes and departments on 2019 January 1st.svg|vignette|Carte régionale des communes au premier janvier 2019.]]
+{{Composition en communes division de France
+|charte=région
+|titre=Liste des communes de plus de {{unité|30000 habitants}} de la région
+| commune 1 = Lyon
+| commune 2 = Saint-Étienne
+| commune 3 = Grenoble
+| commune 4 = Villeurbanne
+| commune 5 = Clermont-Ferrand
+| commune 6 = Annecy
+| commune 7 = Vénissieux
+| commune 8 = Valence (Drôme)
+| commune 9 = Chambéry
+| commune 10 = Vaulx-en-Velin
+| commune 11 = Saint-Priest
+| commune 12 = Caluire-et-Cuire
+| commune 13 = Bron
+| commune 14 = Bourg-en-Bresse
+| commune 15 = Montélimar
+| commune 16 = Saint-Martin-d'Hères
+| commune 17 = Échirolles
+| commune 18 = Annemasse
+| commune 19 = Villefranche-sur-Saône
+| commune 20 = Thonon-les-Bains
+| commune 21 = Saint-Chamond
+| commune 22 = Meyzieu
+| commune 23 = Montluçon
+| commune 24 = Roanne
+| commune 25 = Romans-sur-Isère
+| commune 26 = Rillieux-la-Pape
+| commune 27 = Aix-les-Bains
+}}
+
+== Culture ==
+=== Langues régionales ===
+[[Fichier:Carte linguistique Auvergne-Rhône-Alpes.png|vignette|410x410px|Carte linguistique de la région Auvergne-Rhône-Alpes par communes selon l'''Atlas sonore des langues régionales'' (CNRS, 2020)<ref>{{Lien web |langue=français |auteur=[[CNRS]] |titre=Atlas sonore des langues régionales de France |url=https://atlas.limsi.fr/?tab=Hexagone |site=https://atlas.limsi.fr/ |lieu=Paris |date=2020}}</ref>{{,}}<ref>{{Article|langue=anglais|auteur1=Philippe Boula de Mareüil, Frédéric Vernier, Albert Rilliard|titre=A Speaking Atlas of the Regional Languages of France|périodique=Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)|lieu=[[Miyazaki]]|date=2018|lire en ligne=https://aclanthology.org/L18-1652.pdf|pages=4134-4138}}</ref>.- En bleu : la [[langue d'oïl]] dont le [[Bourbonnais (dialectes)|bourbonnais]] et le [[Bourguignon-morvandiau|bourguignon]] (pointe nord de l'Ain).- En vert : le [[francoprovençal]].- En marron : les parlers du [[Croissant (linguistique)|Croissant]] (transition occitan / langue d'oïl).- En jaune orangé : le [[nord-occitan]] (dont [[auvergnat]] et [[vivaro-alpin]]).- En orange : l'[[Provençal|occitan provençal]] (sud Drôme).- En rouge : l'[[Languedocien|occitan languedocien]] (dont [[Aurillacois (dialecte)|aurillacois]] dans le Cantal).]]
+Trois langues régionales, dont deux sont encouragées par la région (l'arpitan ou francoprovençal et l'occitan<ref>[http://arpitan.com/region-rhone-alpes-reconnaissance-francoprovencal ''La région Rhône-Alpes reconnaît officiellement l’arpitan et l'occitan''], Fédération internationale de l'arpitan/francoprovençal</ref>{{,}}<ref>[http://bale.ch/journal/rhone-alpes-aoste-charte-francoprovencal/ Rhône-Alpes et la vallée d'Aoste signent une charte de coopération pour l'arpitan] in Journal de Bâle et Genève, 29.05.2015</ref>{{,}}<ref>[http://www.auvergnerhonealpes.eu/55-langues-regionales.htm Langues régionales: 2 langues historiques], sur le site officiel de la région Auvergne-Rhône-Alpes.</ref>{{,}}<ref>{{Lien web|langue=français|titre=L'occitan : patrimoine immatériel du Cantal|url=http://www.cantal.fr/loccitan-patrimoine-immateriel-du-cantal/|site=cantal.fr ; site officiel du [[département du Cantal]]|date=}}.</ref>), restent pratiquées très minoritairement dans la grande région administrative :
+* La [[langue d'oïl]]. Le [[Bourbonnais (dialecte)|bourbonnais]], généralement associé au [[berrichon]]<ref>{{Ouvrage|langue=en|auteur1=[[Observatoire linguistique|Linguasphere Observatory]]|titre=The Linguasphere Register|sous-titre=The indo-european phylosector|éditeur=Linguasphere Observatory|date=1999-2000|isbn=|lire en ligne=http://www.linguasphere.info/lcontao/tl_files/pdf/master/OL-SITE%201999-2000%20MASTER%20ONE%20Sectors%205-Zones%2050-54.pdf}}.</ref>{{,}}<ref>{{Article|langue=français|auteur1=Philippe Boula de Mareüil, Frédéric Vernier et Albert Rilliard|titre=Enregistrements et transcriptions pour un atlas sonore des langues régionales de France|périodique=Géolinguistique|volume=17|lieu=[[Grenoble]]|éditeur=[[Université Grenoble-Alpes]]|date=2017|lire en ligne=https://journals.openedition.org/geolinguistique/365|pages=23-48}}.</ref>, est originaire de la moitié nord du [[Duché de Bourbon|Bourbonnais]] ([[Allier (département)|Allier]]) autour des villes de Moulins, [[Bourbon-l'Archambault]] et [[Saint-Pourçain-sur-Sioule]]<ref>{{Ouvrage|langue=fr|auteur1=[[Frantz Brunet]]|titre=Dictionnaire du parler bourbonnais et des régions voisines|éditeur=[[De Borée]]|lieu=Clermont-Ferrand|année=2002|pages totales=258|isbn=2-84494-131-1|lire en ligne=http://catalogue.clermont-universite.fr/catalog/662258}}.</ref>{{,}}<ref>[[Frédéric Godefroy]], ''Dictionnaire de l’ancienne langue française et de tous ses dialectes du {{s-|IX|e}} au {{s-|XV|e}}'', 9 vol, 1891-1902 ; Tomes [https://gallica.bnf.fr/ark:/12148/bpt6k4187d 1], [https://gallica.bnf.fr/ark:/12148/bpt6k4188q 2], [https://gallica.bnf.fr/ark:/12148/bpt6k41891 3], [https://gallica.bnf.fr/ark:/12148/bpt6k4190h 4], [https://gallica.bnf.fr/ark:/12148/bpt6k4191t 5], [https://gallica.bnf.fr/ark:/12148/bpt6k41924 6], [https://gallica.bnf.fr/ark:/12148/bpt6k4193f 7], [https://gallica.bnf.fr/ark:/12148/bpt6k4194r 8], [https://gallica.bnf.fr/ark:/12148/bpt6k41952 9] sur ''[[Gallica]].''</ref>. Le [[Bourguignon-morvandiau|bourguignon]], aussi de langue d'oïl, est parlé à la pointe nord de l'Ain.
+* Le [[Croissant (linguistique)|Croissant]], zone de transition entre la langue occitane et la langue d'oïl dans la moitié sud de l'[[Allier (département)|Allier]] et le nord du [[Puy-de-Dôme]]<ref>{{Lien web |langue=français |titre=Atlas sonore des langues régionales de France - Zone du Croissant |url=https://atlas.limsi.fr/?tab=cro |site=https://atlas.limsi.fr/ ; site officiel de l'Atlas sonore des langues régionales de France |date=2020}}</ref>{{,}}<ref>{{Article|langue=français|auteur1=Philippe Boula de Mareüil, Gilles Adda, Lori Lamel|titre=Comparaison dialectométriques de parlers du Croissant avec d’autres parlers d’oc et d’oïl|périodique=Le Croissant linguistique entre oc, oïl et francoprovençal : des mots à la grammaire, des parlers aux aires|date=2021|lire en ligne=https://hal.archives-ouvertes.fr/hal-03318765/document}}.</ref>{{,}}<ref>Pierre Goudot, ''Microtoponymie rurale et histoire locale : dans une zone de contact français-occitan, la Combraille'', Cercle d'archéologie de Montluçon, [[Montluçon]], 2004, {{ISBN|2-915233-01-2}}.</ref>.
+* L'[[occitan]] est représenté dans la région par quatre dialectes<ref>{{Ouvrage|langue=français|auteur1=Domergue Sumien|titre=La standardisation pluricentrique de l’occitan: Nouvel enjeu sociolinguistique, développement du lexique et de la morphologie|lieu=[[Turnhout]]|éditeur=[[Brepols]]|collection=Publications de l'Association Internationale d'Etudes Occitanes|date=2006|pages totales=514|isbn=978-2-503-51989-0|lire en ligne=https://www.brepolsonline.net/doi/book/10.1484/M.PAIEO-EB.5.112500}}</ref>{{,}}<ref>{{Article |langue=oc |auteur1=Domergue Sumien |titre=Classificacion dei dialèctes occitans |périodique=Linguistica occitana |volume=7 |lieu=[[Montpellier]] |date=2009 |issn=0338-2419 |lire en ligne=http://revistadoc.com/wp-content/uploads/2013/07/Linguistica-occitana-7-Sumien.pdf |format=pdf |pages= }}.</ref> :
+** l'[[auvergnat]] est parlé dans la majorité de l'[[Auvergne]]<ref>{{Ouvrage|langue=fr oc|auteur1=[[Jean Roux (occitaniste)|Jean Roux]]|titre=L'auvergnat de poche|lieu=[[Chennevières-sur-Marne]]|éditeur=[[Assimil]]|collection=Assimil évasion|date=2002|pages totales=246|isbn=2-7005-0319-8|issn=1281-7554|bnf=38860579r|lire en ligne=}}.</ref>{{,}}<ref>{{Ouvrage|auteur1=|prénom1=Cristian|nom1=Omelhièr|titre=Petit dictionnaire français-occitan d'Auvergne|sous-titre=selon les parlers d'Auvergne méridionale, pays de Massiac et Cézallier|lieu=Aurillac|éditeur=Ostal del libre|année=2003|date=|isbn=978-2-914662-06-2|lire en ligne=https://locongres.org/oc/aplicacions/dicodoc-oc/dicodoc-recerca}}</ref> ainsi qu’une partie de l’[[Ardèche (département)|Ardèche]]<ref>{{Ouvrage|langue=fr oc|auteur1=|prénom1=Jean|nom1=Roux|titre=Vocabulaire occitan d'Auvergne et du Velay|lieu=[[Clermont-Ferrand]]|éditeur=[[Institut d'études occitanes]] et CREO Auvergne|année=1984|date=|isbn=|lire en ligne=}}.</ref> et de la [[Lozère (département)|Lozère]]<ref>[[Jean-Pierre Chambon (linguiste)|Jean-Pierre Chambon]] ([[Université Sorbonne-Nouvelle|Université Paris-La Sorbonne]]), Philippe Olivier, « L’histoire linguistique de l’Auvergne et du Velay : notes pour une synthèse provisoire », ''Travaux de linguistique et de philologie'' 38, 2009. p. 83-153</ref>. Ce dernier est utilisé depuis le [[Moyen Âge|Moyen Age]] dans le cadre de l'administration<ref>{{Article |langue=français |auteur1=Philippe Olivier, [[Jean-Pierre Chambon (linguiste)|Jean-Pierre Chambon]], Johan Picot |titre=Contribution à l’histoire de l’ancien occitan de basse Auvergne. Un accord amiable en ancien occitan auvergnat réglant un différend fiscal entre les consuls de Mozac et ceux de Riom (1360) |périodique=''Bulletin historique et scientifique de l’Auvergne'' |date=2016 |issn=1153-2580 |lire en ligne=https://s3.amazonaws.com/academia.edu.documents/57919842/BHSA_2016_2.pdf?response-content-disposition=inline%3B%20filename%3Davec_Philippe_Olivier_et_Jean-Pierre_Cha.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIATUSBJ6BAKKNDIH5Z%2F20200327%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200327T093707Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDKLOYFbUzhW30%2BJH9dknU9S3pgfcmThEtLAm5GHaJd7AIger6d%2BIt8KsAPRnGLnBYFC2W%2F%2FTcTTJMP5uwdiO6IYdYqvQMIoP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwyNTAzMTg4MTEyMDAiDF%2FxYZNWPUd0FenLvyqRA1jG2Cx4WlR8MtZ29s%2BW1Ax6YIiN%2F4fpnHlT%2FlHxt95RNMkEL%2BcqPGyIrOLKMQY7QG4QXa%2FP7eIpN7wUDUYw9pc5vUWa707iwKIWzgytKcdfKPl49ZsYY9B1dSRN2CvVEgh9OR6GevmBzkrcCGjF7sAZj06SqFfW5PdQpxet2bfUA55W9aHENmzxJoZuVsquTTKmV6DLb%2BxfMXVvA6fxu%2FKgGDatiGqtHYrQdK9%2F%2B3qW4rVfKpVOwus%2FGA4K8orWP1uSzwkVUBrk5bfEA9Ech80agiV%2FFUEsPow4S%2Bwz%2Fo73OSI0U9aa%2FYSq5sWXwNflvE0da1jd%2FMD7z%2F4x1e04C8RsgZbJV0wjI4jpWKX6LxU7al9Tto3zkA0Kvcf4%2BDALuFJ547CBngqth3CYNPzw3zW9jCmX9j2gA1s1wdsPGFxCWgIalT0E9BUdBTNUcGQCGjguOUs5NUtLR0fnO047BH5MASTh0upvON3hZ0yuRpCQbL5QiEcQcPSTSIIPzjjRrLl50lnRZ%2FQoP%2FfUyZlKiWu5MJvN9vMFOusBcg0zl4r6LQWytMRXmgW6LWiBdF13c53F2fkVNOuMBHMHnZFGoessPXP8DdIfIqoZs8P3hcaa%2B5mYaoiSqyUeFKu3j3yeAN2i%2F535%2FVQV3FHktipiPrc%2FeS6Fi11N6lCsYbSS0zJ0ygRBHmQrlpqCa58MxvXiPGhQeC3DqabjzQThXFkiD4Mz2rbtgrpDtqU5vPVLdi9iUiJhs96xZayi%2FEFmwNH%2FpA5xGk%2B5d80lmaWIfytMYakDFe%2B9gpjtKQwlcqS283aAW5Vyji4%2Ftaxgw%2BnESCLS9da0q3gre63NVN2T%2BQNMgajiHCLmEw%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=e86fd72f98c93abdbdb8724989b48a579f0063844d6265e73499ad8a0fc0224b |pages=179-188 }}.</ref> en plus de celui de la [[Littérature occitane|littérature]] ([[troubadour]]s [[Peire d'Alvernhe|Peire d'Alvernha]], comte [[Robert IV Dauphin d'Auvergne|Dalfi d'Auvèrnha]], [[Peirol d'Auvernha|Peirol]], etc)<ref>{{Ouvrage|langue=fr oc|auteur1=|prénom1=Philippe|nom1=Olivier|titre=Dictionnaire d'ancien occitan auvergnat, Mauriacois et Sanflorain (1340-1540)|lieu=[[Tübingen]]|éditeur=Max Niemeyer Verlag|année=2009|date=|pages totales=1306|isbn=978-3-484-52349-4|lire en ligne=}} ([https://books.google.fr/books?hl=fr&lr=&id=jlFnmgzMVEUC&oi=fnd&pg=PR1&dq=auvergnat+occitan&ots=af8s4YVsAC&sig=N5FRqxj4ZKRB4fFMzDQwJnsOKjw#v=onepage&q=auvergnat%20occitan&f=false aperçu limité en ligne]).</ref>.
+** le [[languedocien]] septentrional parlé dans le sud-ouest du [[Cantal (département)|Cantal]], où la variante est nommée [[Aurillacois (dialecte)|aurillacois]]<ref>{{Ouvrage|langue=fr|auteur1=Jean Lhermet|titre=Contribution à la lexicologie du dialecte aurillacois ; Thèse de Linguistique|éditeur=Marseille : Laffitte-Reprints, 1978|lieu=Paris|année=1931|isbn=978-2-600-02902-5}}</ref>, une autre variante est utilisée dans l'[[Ardèche (département)|Ardèche]] ;
+** le [[provençal]] parlé dans le sud de la [[Drôme (département)|Drôme]] ;
+** le [[vivaro-alpin]] dans le [[Vivarais]], l'est du [[Velay]] autour d'[[Yssingeaux]]<ref>{{Ouvrage|langue=fr oc|auteur1=[[Jean Roux (occitaniste)|Jean Roux]]|titre=Huit siècles de littérature occitane en Auvergne et Velay|lieu=Lyon|éditeur=EMCC|date=2015|pages totales=218|isbn=978-2-357405-09-7|lire en ligne=https://www.decouvertes-occitanes.fr/fr/767-huit-siecles-de-litterature-occitane-en-auvergne-et-velay-9782357405097.html#idTab9}}</ref>{{,}}<ref>{{Ouvrage|langue=français|auteur1=[[Jean-Baptiste Martin (linguiste)|Jean-Baptiste Martin]] ([[Université Jean-Moulin-Lyon-III]])|titre=Le parler occitan d'Yssingeaux (Haute-Loire)|lieu=Yssingeaux|éditeur=Histoire et patrimoine|année=1997|date=|pages totales=263|isbn=2-9511130-0-5|lire en ligne=}}.</ref>[[Fichier:Pers-Jussy panneau arpitan.jpg|vignette|Panneaux signalétiques en français et en [[Savoyard (langue)|arpitan savoyard]]<ref>[http://arpitan.com/signalisation-langue-regionale-maurienne/ Nouvelle signalisation bilingue français-arpitan en Savoie].</ref>.]]et le [[Dauphiné]] méridional ainsi que dans les franges de l'est et du sud du département de la [[Loire (département)|Loire]]<ref>{{Ouvrage|langue=Français|auteur1=Joannès DUFAU|titre=Dictionnaire Français - Nord-Occitan Nord du Vivarais et du Velay|lieu=Saint-Julien-Molin-Molette|éditeur=Jean-Pierre Huguet|année=1998|date=|pages totales=335|isbn=9782907410236|lire en ligne=}}</ref>{{,}}<ref>[[Jean-Marie Klinkenberg]], ''Des langues romanes. Introduction aux études de linguistique romane'', De Boeck, {{2e}} édition, 1999.</ref>
+* Le [[francoprovençal]] (ou arpitan) est présent dans la majeure partie de l'ancienne région Rhône-Alpes qui, en 2015, a signé avec la région autonome italienne de la [[Vallée d'Aoste]] la « charte de coopération interrégionale et transfrontalière de développement de la langue arpitane »<ref>{{Lien web |langue=français |auteur=Journal de Bâle et Genève |url=http://bale.ch/journal/rhone-alpes-aoste-charte-francoprovencal/ |titre=Rhône-Alpes et la vallée d'Aoste signent une charte de coopération pour l'arpitan |mois=mai |année=2015 |site=Journal de Bâle et Genève |consulté le=08.01.2019}}.</ref>. Chaque année, une fête internationale est organisée à tour de rôle en France, en Suisse ou en Italie, qui permet aux locuteurs ou non de se rencontrer<ref>{{Lien web |langue=français |auteur=Fédération internationale de l'arpitan |url=http://arpitan.com/fetes-internationales-historique/ |titre=Fêtes internationales de l’arpitan : chronologie |mois=juin |année=2016 |site=Arpitan.com |consulté le=6 août 2016}}.</ref>. Cette langue est défendue principalement par la [[Francoprovençal#Les instituts de la langue|Fédération internationale de l'arpitan]]<ref>[http://arpitan.com/aca/ ACA - Fédération internationale de l'arpitan / francoprovençal].</ref>. Les principaux dialectes de la région arpitanophone française sont :
+** le [[Savoyard (langue)|savoyard]]<ref group="Note">La délibération relative aux langues régionales prévoit de développer ces langues dans la région, à travers les médias, le tourisme et l'enseignement notamment [http://www.rhonealpes.fr/uploads/Document/48/WEB_CHEMIN_5066_1255705034.pdf ''Reconnaitre, valoriser, promouvoir l'occitan et le francoprovençal, langues régionales de Rhône-Alpes''] {{pdf}}, sur le site de la région Rhône-Alpes.</ref> ; il est notamment défendu par l'[[Institut de la langue savoyarde]] (ILS) ;
+** le [[Lyonnais (langue)|lyonnais]], parlé aux alentours de Lyon ;
+** le [[bressan]], présent en [[Bresse]] dite « savoyarde ».
+** le [[forézien]].
+**le [[dauphinois (dialecte)|dauphinois]].
+
+La commune savoyarde de [[Vallorcine]] a la particularité d'avoir pour langue régionale, en plus du francoprovençal, l'[[alémanique]], langue germanique parlé par la population locale des [[Walser (peuple)|Walsers]]<ref>{{Article|langue=français|auteur1=Mathieu Petite|titre=((Ré)-imaginer la communauté Walser : Mobilisation de ressources symboliques dans un projet INTERREG|périodique=[[Revue de géographie alpine]] - Journal of alpine research|lieu=[[Grenoble]]|éditeur=[[Université Grenoble-Alpes|UGA éditions]]|date=2009|issn=1760-7426|doi=https://doi.org/10.4000/rga.907|lire en ligne=https://journals.openedition.org/rga/907}}</ref>. La langue a pu être parlée dans d'autres localités savoyardes par le passé<ref>{{Article|langue=français|auteur1=[[Henri Rougier (géographe)|Henri Rougier]]|titre=Les Walser. Migration d'un peuple, façonnement et pérennité d'un paysage|traduction titre=(The Walser minority)|périodique=Bulletin de l'Association de Géographes Français|volume=66|numéro=3|lieu=[[Paris]]|éditeur=Association des géographes français|date=1989|e-issn=2275-5195|lire en ligne=https://www.persee.fr/doc/bagf_0004-5322_1989_num_66_3_1484|pages=213-219}}</ref>.
+
+== Sport ==
+
+[[Fichier:Stade Geoffroy-Guichard - Saint-Etienne (10-11-2013).jpg|vignette|Le [[Olympique lyonnais - AS Saint-Étienne en football|derby ASSE-OL]] au [[stade Geoffroy-Guichard]].]]
+
+Les clubs professionnels de football de la région sont :
+* [[Championnat de France de football|Ligue 1]] : [[Clermont Foot 63|Clermont-Ferrand]], [[Olympique lyonnais|Lyon]]
+* [[Championnat de France de football féminin|D1 féminine]] : [[Olympique lyonnais (féminines)|Lyon]]
+* [[Championnat de France de football|Ligue 2]] : [[Football Club d'Annecy|Annecy]], [[Grenoble Foot 38|Grenoble]], [[Association sportive de Saint-Étienne|Saint-Étienne]]
+* [[Championnat de France de football féminin D2|D2 féminine]] : [[Football Club Aurillac Arpajon Cantal Auvergne (féminines)|FC Aurillac Arpajon CA]], [[Grenoble Foot 38 (féminines)|Grenoble Foot 38]], [[Le Puy Foot 43 Auvergne (féminines)|Le Puy Foot]], [[Football féminin Yzeure Allier Auvergne|FF Yzeure]].
+
+Dans les échelons inférieurs, on peut citer le [[Football Bourg-en-Bresse Péronnas 01]] et [[Lyon - La Duchère]] qui évoluent respectivement en [[Championnat de France de football National|National]] et [[Championnat de France de football de National 2|National 2]].
+
+En rugby à XV, la région compte de nombreux clubs professionnels :
+* [[Championnat de France de rugby à XV|Top 14]] : [[ASM Clermont Auvergne|Clermont]], [[Lyon olympique universitaire rugby|Lyon]]
+* [[Championnat de France de rugby à XV de 2e division|Pro D2]] : [[Stade aurillacois Cantal Auvergne|Aurillac]], [[Football Club de Grenoble rugby|Grenoble]], [[Oyonnax rugby|Oyonnax]].
+Elle compte également de nombreux clubs de rugby féminin au plus haut niveau : [[Lyon olympique universitaire rugby (féminines)|LOU Rugby]], [[Football Club de Grenoble rugby (féminines)|FC Grenoble Amazones]] et [[ASM Romagnat rugby féminin|ASM Romagnat]] en [[Championnat de France féminin de rugby à XV|Élite 1]], et [[Rugby Clermont La Plaine|Rugby Clermont la Plaine]] en [[Championnat de France féminin de rugby à XV de 2e division|Élite 2]].
+
+Dans les échelons inférieurs, on peut citer le [[Club sportif Bourgoin-Jallieu rugby|CS Bourgoin-Jallieu]] qui fut un des cadors du championnat de France.
+
+Plusieurs clubs champions de France de basketball sont présents dans la région :
+* [[Championnat de France de basket-ball|Élite]] : [[ASVEL Lyon-Villeurbanne|ASVEL]], [[Chorale Roanne Basket|Chorale Roanne]] ;
+* [[Ligue féminine de basket]] : [[Lyon ASVEL féminin|ASVEL féminin]] ;
+* [[Championnat de France de basket-ball de Pro B|Pro B]] : [[Jeunesse laïque de Bourg-en-Bresse|JL Bourg]], [[Aix Maurienne Savoie Basket]], [[Saint-Chamond Basket|Saint-Chamond]] et [[JA Vichy-Clermont Métropole Basket|JA Vichy-Clermont]].
+
+Parmi les autres sports, figurent les clubs professionnels de [[Chambéry Savoie Mont-Blanc Handball|Chambéry]] en [[handball]] ; en [[hockey sur glace]] ceux des [[Grenoble métropole hockey 38|Brûleurs de loups de Grenoble]], des [[Chamonix-Morzine Hockey Club|Pionniers de Chamonix]], des [[Lyon Hockey Club|Lions de Lyon]], des [[Hockey Club Val Vanoise|Bouquetins de Val Vanoise]] et des [[Hockey Clermont Communauté Auvergne|Sangliers Arvernes de Clermont-Ferrand]]. En volley, on trouve aussi l'[[ASUL Lyon Volley-Ball]] dans le championnat masculin et le [[Volley-Ball Club Chamalières]] dans le championnat féminin.
+
+Plusieurs clubs de [[football américain]] existent ([[Giants de Saint-Étienne]], [[Falcons de Bron-Villeurbanne]], Servals de Clermont-Ferrand, [[Centaures de Grenoble]]), ainsi qu'en aviron ou en [[canoë-kayak]].
+
+'''Sports d'hiver''' : la région Auvergne-Rhône-Alpes est une des premières régions mondiales pour son domaine skiable, notamment dans la [[vallée de la Tarentaise]] et la [[vallée de la Maurienne]] et secondairement dans les massifs du [[Massif du Giffre|Giffre]], du [[Massif du Chablais|Chablais]], des [[Chaîne des Aravis|Aravis]] et des [[Grandes Rousses]].
+
+Elle a notamment accueilli les trois éditions françaises des [[Jeux olympiques d'hiver]] :
+* à [[Jeux olympiques d'hiver de 1924|Chamonix en 1924]],
+* à [[Jeux olympiques d'hiver de 1968|Grenoble en 1968]],
+* à [[Jeux olympiques d'hiver de 1992|Albertville en 1992]].
+La région était également candidate pour accueillir les [[Jeux olympiques d'hiver de 2018]] à Annecy, mais la candidature a été éliminée en phase finale de vote.
+
+== Tourisme ==
+Parmi les nombreuses activités contribuant au tourisme dans la région figure le [[vélorail]], un {{cita|moyen de transport original et ludique}} qui a le {{cita|vent en poupe}}<ref>"LE TOP 5 DES VÉLO-RAILS" le 15 juin 2022 dans ''La lettre du cheminot'' [https://www.lettreducheminot.fr/voyage/le-top-5-des-velo-rails/]</ref>. Il se pratique notamment dans les Gorges du Doux, aux portes du [[Parc naturel régional des Monts d'Ardèche]], avec quatre parcours, de 8 à 20 km, qui tous ont pour point de départ la gare de Boucier-le-Roi (Ardèche), les trajets en montée s'effectuant à bord d'un autorail diesel<ref name=Oùfaire>"Où faire du vélorail dans votre région ?" par Jean-Marc De Jaeger le 01/06/202 ''[[Le Figaro]]'' [https://www.lefigaro.fr/voyages/ou-faire-du-velorail-dans-votre-region-1-20200601] </ref>. La «descente des Viaducs» (2h30), jugée sportive, permet de franchir le 45e parallèle Nord, exactement à mi-chemin entre le Pôle Nord et l'Équateur<ref name=Oùfaire/>.
+
+== Enseignement supérieur ==
+Pour l'année universitaire 2019-2020, l'effectif total des étudiants est de 357 173<ref>{{Lien web |auteur=Ministère de l'ensignement supérieur de la recherche et de l'innovation Atlas |titre=Atlas régional Auvergne-Rhône-Alpes. Effectif étudiants 2019-2020 |url=https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2021-10/fascicule-auvergne-rh-ne-alpes-19-20-13852.pdf |site=enseignementsup-recherche.gouv.fr |date=3e trimestre 2021 |consulté le=17 mai 2022}}</ref>, chiffre en augmentation de 14,4 % par rapport à l'année universitaire 2014-2015. Le plus grand nombre est inscrit dans les universités : {{nombre|209820}}, plus {{nombre|7037}} dans les établissements universitaires privés. {{nombre|10268}} sont élèves d'une [[Classe préparatoire aux grandes écoles]] (CPGE), {{nombre|29322}} dans une classe de BTS ou assimilés, {{nombre|29455}} dans une [[école de commerce]], de gestion ou de comptabilité. Les écoles  paramédicales et sociales accueillent {{nombre|15 589 élèves}}, les écoles supérieures art et culture {{nombre|12598}}, les autres formations d’ingénieurs {{nombre|15849}}, les grands établissements {{nombre|5780}}, les  écoles normales supérieures {{nombre|2102}}, les écoles juridiques et administratives {{nombre|2755}} et les autres écoles de spécialités diverses {{nombre|9257}}.
+
+== Notes et références ==
+=== Notes ===
+{{Références|groupe=Note|taille=30}}
+=== Références ===
+{{Références|taille=30}}
+
+== Voir aussi ==
+=== Articles connexes ===
+* [[Auvergne]]
+* [[Rhône-Alpes]]
+* [[Région française]]
+
+=== Liens externes ===
+* {{Autorité}}
+* {{Bases}}
+* {{Dictionnaires}}
+* {{Site officiel}}
+* [http://www.prefectures-regions.gouv.fr/auvergne-rhone-alpes Préfecture de région]
+
+{{Palette|Découpage administratif de Auvergne-Rhône-Alpes|Régions et territoires de France}}
+{{Portail|Auvergne-Rhône-Alpes|régions de France}}
+
+[[Catégorie:Auvergne-Rhône-Alpes|*]]
+[[Catégorie:Division administrative fondée en 2016]]
+

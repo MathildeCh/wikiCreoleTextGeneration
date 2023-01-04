@@ -1,0 +1,2594 @@
+{{Autre4|la région administrative de Bourgogne-Franche-Comté|les deux régions culturelles et historiques|Bourgogne|Franche-Comté}}
+{{Voir homonymes|BFC}}
+{{Infobox Région de France
+ | nom                       = Bourgogne-Franche-Comté
+ | logo                      = Bourgogne-Franche-Comté 2016.svg
+ | légende                   = [[#Logotype|Logotype]].
+ | blason                    = Coats of arms of Bourgogne-Franche-Comté (fixed colors, no reflection).svg
+ | légende blason            = Armoiries de la Bourgogne-Franche-Comté
+ | drapeau                   = Flag of the region Bourgogne-Franche-Comté (fixed).svg
+ | légende drapeau           = Armoiries de la Bourgogne-Franche-Comté
+ | insee                     = 27
+ | siège du conseil régional = [[Besançon]]
+ | préfecture                = [[Dijon]]
+ | départements              = [[Côte-d'Or]] (21)<br>[[Doubs (département)|Doubs]] (25)<br>[[Jura (département)|Jura]] (39)<br>[[Nièvre (département)|Nièvre]] (58)<br>[[Haute-Saône]] (70)<br>[[Saône-et-Loire]] (71)<br>[[Yonne (département)|Yonne]] (89)<br>[[Territoire de Belfort]] (90)
+ | arrondissements           = 24
+ | cantons                   = 152
+ | communes                  = 3700
+ | conseil régional          = [[Conseil régional de Bourgogne-Franche-Comté]]
+ | président                 = 
+ | présidente                = [[Marie-Guite Dufay]] ([[Parti socialiste (France)|PS]])
+ | mandat                    = [[Élections régionales françaises de 2021|2021]]-2028
+ | site web                  = [https://www.bourgognefranchecomte.fr/ bourgognefranche<br>comte.fr]
+ | préfet                    = [[Fabien Sudry]]
+ | superficie                = 47784
+ | rang superficie           = {{6e}} sur 18
+ | population                = {{Population de France/dernière_pop}}<!-- Insertion automatique, ne pas modifier -->
+ | année_pop                 = {{Population de France/dernière_année}}<!-- Insertion automatique, ne pas modifier -->
+ | rang population           = {{11e}} sur 18
+ | gentilé                   = Bourguignons<br> et Francs-Comtois
+ | langue                    = [[Bourguignon-morvandiau]]<br>[[Brionnais-charolais]]<br>[[Franc-comtois (langue)|Franc-comtois]]<br>[[Francoprovençal]] ([[burgondan]], [[jurassien]], [[mâconnais (dialecte)|mâconnais]])
+}}
+
+La '''Bourgogne-Franche-Comté''' (parfois abrégée '''BFC''') est une [[région française|région administrative]] située dans le quart nord-est de la [[France]]. Elle est issue de la fusion administrative, le {{date|1|janvier|2016}}, des deux anciennes régions de [[Bourgogne (ancienne région administrative)|Bourgogne]] et de [[Franche-Comté (ancienne région administrative)|Franche-Comté]].
+
+D'une superficie de {{unité|47784|km|2}}, elle est la cinquième plus vaste des treize régions de [[France métropolitaine]] et rassemble huit [[Département français|départements]] : la [[Côte-d'Or]], le [[Doubs (département)|Doubs]], la [[Haute-Saône]], le [[Jura (département)|Jura]], la [[Nièvre (département)|Nièvre]], la [[Saône-et-Loire]], le [[Territoire de Belfort]] et l'[[Yonne (département)|Yonne]].
+
+Sa population s'élevait à {{unité|{{Population de France/dernière pop}}|habitants}} en {{Population de France/dernière année}}, ce qui en faisait la troisième région la moins peuplée et la deuxième la moins densément peuplée ({{unité|{{Population de France/densité}}|hab./km2}}).
+
+Son [[Préfecture#France|chef-lieu]] est [[Dijon]] tandis que [[Besançon]] accueille le [[Siège social|siège]] du [[Conseil régional (France)|conseil régional]].
+{{Sommaire|niveau=2}}
+
+== Toponymie ==
+La dénomination « Bourgogne-Franche-Comté », parfois abrégée « BFC »<ref>{{Lien web|url=http://www.bienpublic.com/cote-d-or/2014/12/12/premiere-convention-bfc-le-rassemblement-est-en-marche|titre=Première convention BFC, le rassemblement est en marche avec Joyandet !|site=Le Bien Public|date=12 décembre 2014|consulté le=22 décembre 2014}}.</ref>{{,}}<ref>{{Lien web|url=http://www.univ-fcomte.fr/index.php?id=actualite_7054_81_1&art=11989&itemracine=16389&global_id_item=17206|titre=Grande région BFC: paroles aux Francs-Comtois!|site=univ-fcomte.fr|consulté le=22 décembre 2014}}.</ref>, est un [[mot composé]], formé à partir du nom des deux régions fusionnées, dans l’ordre alphabétique.
+
+Le [[Conseil régional (France)|conseil régional]] a lancé en février 2016 une concertation locale en ligne<ref>[https://www.bourgognefranchecomte.fr/Consultations-publiques,1126 Nom de la nouvelle région : donnez votre avis !] sur le site du conseil régional</ref> où les internautes pouvaient soumettre leurs propositions ; à la date de clôture le 13 mars 2016, {{Unité|1461|personnes}} avaient participé et près de 71 % des suffrages ont opté pour la conservation de l'appellation plutôt que d'autres propositions comme [[Burgondes|Burgondie]] ou [[Séquanes|Séquanie]].
+
+À la suite de cette concertation et de l’avis du [[Conseil économique, social et environnemental régional|CESER]], l’assemblée régionale confirme ce choix à l'unanimité<ref>[https://www.bourgognefranchecomte.fr/La-region-s-appellera-Bourgogne-Franche-Comte, 1123, 10418 La région s’appellera « Bourgogne-Franche-Comté » !]</ref> et transmettra la proposition au gouvernement qui devra être approuvée par [[décret en Conseil d'État]], avant le {{date|1|juillet|2016}}<ref>{{lien web|url=http://www.vie-publique.fr/actualite/dossier/reforme-collectivites-territoriales/carte-regions-2015.html|titre=La carte des régions en 2015|site=vie-publique.fr}}.</ref>.
+
+== Géographie ==
+=== Situation ===
+La composition de la région en départements est la suivante.
+{{Composition Division de France
+ | charte = région
+ | région = Bourgogne-Franche-Comté
+ | liste de = départements
+}}
+
+La région est située dans le quart nord-est de la France. Elle est limitrophe des régions [[Grand Est]] au nord, [[Île-de-France]] et [[Centre-Val de Loire]] à l'ouest, [[Auvergne-Rhône-Alpes]] au sud, et elle partage une [[Frontière entre la France et la Suisse|frontière avec la Suisse]] à l'est.
+
+La région Bourgogne-Franche-Comté, qui résulte de la fusion de deux collectivités territoriales ([[Bourgogne (ancienne région administrative)|Bourgogne]] et [[Franche-Comté (ancienne région administrative)|Franche-Comté]]) décidée dans le cadre de la [[Loi relative à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral|réforme territoriale de 2014]], s’étend sur {{unité|47784|km|2}}. Elle est, en superficie, la cinquième des treize régions de [[France métropolitaine]] (soit 9 % du territoire métropolitain<ref name=":1">{{Lien web |titre=La stratégie de mandat 2016-2021 |url=https://www.calameo.com/read/003030380d8a8b6b30b50 |site=calameo.com |consulté le=2020-11-01}}</ref>), et possède ainsi un territoire de taille comparable à des pays tels que la [[Slovaquie]], la [[Suisse]] ou l'[[Estonie]]. Elle est l'une des deux régions constitutives du [[Grand Est français]] avec la région [[Grand Est]].
+
+=== Géologie ===
+[[Fichier:Ressources Bourgogne-Franche-Comté.svg|thumb|upright=2|Les ressources minéralogiques de la région.
+{{Début de colonnes|nombre=2}}
+{{Légende/Début}}
+{{Légende|#000000|[[Charbon]]}}
+{{Légende|#00FF80|[[Halite|Sel gemme]]}}
+{{Légende|#008000|Charbon et sel gemme}}
+{{Légende|#FFFF00|[[Schiste bitumineux]]}}
+{{Légende|#FF0000|[[Fer]]}}
+{{Légende|#80FFFF|[[Métal précieux|Métaux précieux]]}}
+{{Légende/Fin}}
+{{fin de colonnes}}]]
+
+Le [[Sous-sol (géologie)|sous-sol]] contient de l'[[argile]], du [[Grès (géologie)|grès]], du [[calcaire]] (qui fournit par exemple les [[Pierre à bâtir|pierres de construction]] [[Pierre du Châtillonnais|du Châtillonnais]], [[Comblanchien|de Comblanchien]] et [[Pierre de Molay|de Molay]]), du [[gypse]] et des [[alluvion]]s ([[Extraction de sable|sablières]] de [[Lure]]) exploités dans des [[Carrière (géologie)|carrières]] et de nombreuses ressources anciennement exploitées dans des [[Mine (gisement)|mines]] telles que des [[Métal précieux|métaux précieux]], du [[minerai de fer]] et du [[Halite|sel gemme]] : [[Histoire du sel du Jura|dans le Jura]] ([[Saline (usine)|salines]] [[Saline royale d'Arc-et-Senans|d'Arc-et-Senans]], [[Salines de Salins-les-Bains|de Salins-les-Bains]] et [[Salines de Lons-le-Saunier|de Lons-le-Saunier]]) et [[Histoire du sel de Haute-Saône|en Haute-Saône]] avec les [[Houillères et saline de Gouhenans|salines de Gouhenans]], [[Houillères et saline de Saulnot|Saulnot]] et [[Houillères et saline de Mélecey|Mélecey]].
+
+La principale ressource du sous-sol est le [[charbon]], dont l'extraction est abandonnée depuis la seconde moitié du {{s-|XX}}, surtout localisée dans le sud de la Bourgogne avec les [[houillères de Blanzy]] formées de trois gisements : Blanzy, [[Houillères d'Épinac|Épinac]] et [[Houillères de Decize|Decize]] entourés de petits gisements restés indépendants : [[Houillères de La Chapelle-sous-Dun|La Chapelle-sous-Dun]] et [[Houillères d'Aubigny-la-Ronce|Aubigny-la-Ronce]]. L'important [[Mine de charbon du Sud Nivernais|gisement du Sud Nivernais]] découvert assez récemment (son existence a été rendue publique en {{date-|1986}}) est inexploité pour ne pas nuire à l'environnement. À l'est, les [[bassins houillers des Vosges et du Jura]] comptent trois gisements sur le territoire comtois : le [[Bassin houiller stéphanien sous-vosgien|sous-vosgien]] et le [[Bassin houiller keupérien de Haute-Saône|bassin keupérien]] ont été exploités dans une moindre mesure que Blanzy, seules les [[houillères de Ronchamp]], fermées en {{date-|1958}} ayant été industrialisées ; le bassin [[Bassin houiller du Jura|stéphanien jurassien]] est uniquement prospecté et seules de faibles quantités de [[Gaz de couche|gaz]] y ont été extraites jusqu'en {{date-|1964}}. De l'[[anthracite]] est [[Houillères de Sincey|extrait à Sincey-lès-Rouvray]] jusqu'en {{date-|1908}} et du [[lignite]] anciennement exploité en [[Côte-d'Or]], dans l'[[Yonne (département)|Yonne]] et dans le [[Doubs (département)|Doubs]]. Le sous-sol contient également du [[schiste bitumineux]], exploité de façon industrielle jusqu'en {{date-|1957}} dans la [[mine des Télots]] dans le [[gisement de schiste bitumineux d'Autun]] et plus brièvement, dans l'[[entre-deux-guerres]], dans [[Exploitation de schiste de Creveney|celle de Creveney]], non loin de [[Vesoul]].
+
+=== Topographie ===
+[[Fichier:Bourgogne-Franche-Comté region relief location map.jpg|thumb|left|upright=1.5|Carte topographique et hydrographique.]]
+
+Trois principaux [[Chaîne de montagnes|massifs montagneux]] marquent le paysage. Le [[massif des Vosges]] est situé au nord-est, le [[point culminant]] dans la région est le [[ballon d'Alsace]] ({{unité|1247|mètres}}). Le [[Massif du Jura|Jura]] s'étend sur toute la limite orientale et culmine dans le département homonyme au [[Crêt Pela]] ({{unité|1495|mètres}}), ce dernier est également le plus haut sommet de la région. Les Vosges et le Jura se rejoignent dans la [[Trouée de Belfort]]. Le [[Morvan]] occupe une place centrale dans la partie ouest, son point culminant est le [[Haut-Folin]] ({{unité|901|mètres}}).
+
+D'autres massifs plus modestes existent. Au nord-est du Morvan se trouve la [[côte d'Or]], un escarpement créé par la formation d'un [[rift]], qui culmine à {{unité|641|mètres}} d’[[altitude]]. Le [[Massif central]] atteint la partie sud de la région par le [[Mâconnais]] qui est dominé par la [[Mont Saint-Cyr]] ({{unité|771|mètres}}).
+
+<gallery mode="packed">
+Panoramic view from the Mont d'Or (14424056923).jpg|Le [[Mont d'Or (Doubs)|mont d'Or]] ([[massif du Jura]]).
+2016-05 - Arpenans - 01.JPG|Les [[Vosges saônoises]].
+Bibracte capitale gauloise sur le mont beuvray (Nièvre, Saône-et-Loire, Morvan, Bourgogne, France).jpg|Le massif du [[mont Beuvray]] ([[Morvan]]).
+</gallery>
+
+=== Hydrographie ===
+Les principaux cours d'eau navigables sont la [[Saône]] et le [[Doubs (rivière)|Doubs]]. La [[Loire]] traverse le sud-ouest de la région au niveau de [[Nevers]] mais elle n'est pas praticable en raison des bancs de sable. La [[Seine]] y prend aussi sa source en Côte-d'Or.
+
+Une partie du réseau hydrographique régional prend sa source en Suisse voisine (notamment le bassin versant de l'[[Allaine|Allan]]).
+
+La région possède des dizaines de lacs, comme le [[lac des Rousses]], [[lac de Chalain]], [[lac du Vernois]], lac de [[Lamoura]], [[lac de Vesoul-Vaivre]], [[lac de Saint-Point]] ({{3e|plus}} grand lac naturel de France), [[lac de Remoray]], [[lac de Bonlieu]], [[lac de Narlay]], le [[lac des Settons]], le [[lac de Pannecière]] et le fameux [[lac de Vouglans]] qui est la troisième retenue artificielle française avec 605 millions de mètres cubes. Dans les [[Vosges saônoises]] se trouve le [[Région des Mille étangs|Plateau des Mille étangs]].
+
+<gallery mode="packed">
+Loire River in Nevers (3).jpg|La [[Loire]] à [[Nevers]].
+Lac de Vouglans.jpg|Le [[lac de Vouglans]].
+Larnod, boucle du Doubs à Rancenay.jpg|Le [[Doubs (rivière)|Doubs]] à [[Rancenay]].
+2020-05 - Étangs de Servance - 01.jpg|La [[région des Mille étangs]], en [[Haute-Saône]].
+</gallery>
+
+=== Axes de communication et transports ===
+La Bourgogne-Franche-Comté est un carrefour entre l'[[Allemagne]], la [[Suisse]], l'[[Italie]] à l'est et l'[[Île-de-France]], la [[côte atlantique française]] à l'ouest, mais aussi entre le [[Benelux]] au nord et la [[mer Méditerranée]] au sud.
+
+==== Transports routiers ====
+[[Fichier:2011-11-04 17-32-04-a36.jpg|vignette|L'[[Autoroute A36 (France)|autoroute A36]] à [[Montbéliard]].]]
+La région est composée d'un réseau de {{Unité|868|km}} d'[[autoroute]]s<ref name=":1" /> : l'axe autoroutier principal est l'[[Autoroute A6 (France)|A6]], dite ''Autoroute du Soleil'', qui relie [[Paris]] et [[Lyon]] en traversant la région du nord-ouest au sud sur près de {{Unité|300|km}} et dessert les villes d'[[Auxerre]], [[Beaune]], [[Chalon-sur-Saône]] et [[Mâcon]]. La seconde autoroute d'importance est l'[[Autoroute A36 (France)|A36]], surnommée ''La Comtoise'', qui part de Beaune, au centre de la région, et part vers l'est pour rejoindre l'Alsace et la frontière allemande au niveau de [[Mulhouse]]. Parcourant environ {{Unité|200|km}} au sein de la Bourgogne-Franche-Comté, elle dessert les agglomérations de [[Dole (Jura)|Dole]], [[Besançon]], [[Montbéliard]] et [[Belfort]]. Comptabilisant {{Unité|120|km}} sur le territoire régional, l'[[Autoroute A39 (France)|A39]] relie [[Dijon]] au sud de la région selon un axe nord-sud qui permet de délester l'A6 en passant à proximité de Dole et [[Lons-le-Saunier]]. Partant de Beaune vers le nord, l'[[Autoroute A31 (France)|A31]] ({{Unité|80|km}} en Bourgogne-Franche-Comté) permet de rejoindre la Lorraine et le Luxembourg en passant par Dijon. L'autoroute [[Autoroute A77 (France)|A77]] dessert exclusivement le département de la [[Nièvre (département)|Nièvre]] sur {{Unité|80|km}}, selon un axe nord-sud le long de la limite occidentale de la région : elle relie [[Nevers]] à l'[[Île-de-France]]. Quelques barreaux autoroutiers de moindre importance complètent le réseau, l'[[Autoroute A5 (France)|A5]] ({{Unité|40|km}}), l'[[Autoroute A19 (France)|A19]] ({{Unité|30|km}}), l'[[Autoroute A38 (France)|A38]] ({{Unité|40|km}}), l'[[Autoroute A40 (France)|A40]] ({{Unité|3|km}}), l'[[Autoroute A406 (France)|A406]] ({{Unité|2|km}}), l'[[Autoroute A391 (France)|A391]] ({{Unité|4|km}}), l'[[Autoroute A311 (France)|A311]] ({{Unité|5|km}}).
+
+Le réseau routier principal est complété par {{Unité|768|km}} de [[Liste des routes nationales de France|routes nationales]]. Reliant [[Nancy]] à la [[frontière franco-suisse]] selon un itinéraire nord-sud, la [[route nationale 57 (France)|route nationale 57]] parcourt {{Unité|180|km}} à travers les départements de la [[Haute-Saône]] et du [[Doubs (département)|Doubs]] en passant par [[Luxeuil-les-Bains]], [[Vesoul]], [[Besançon]] et [[Pontarlier]]. La N151 relie [[Auxerre]] à [[La Charité-sur-Loire]] ({{Unité|100|km}}) via [[Clamecy (Nièvre)|Clamecy]]. La N19 [[Langres]]-[[Belfort]] qui compte une centaine de kilomètres d'est en ouest à travers la Haute-Saône dessert Vesoul et [[Lure]]. En [[Saône-et-Loire]], la [[Route nationale 79 (France)|N79]] qui traverse le département d'est en ouest sur {{Unité|80|km}}, de [[Mâcon]] à [[Digoin]] en passant par [[Paray-le-Monial]], la [[Route nationale 70 (France)|N70]] qui relie cette dernière à [[Montchanin]] sur {{Unité|40|km}} et la [[Route nationale 80 (France)|N80]] de Montchanin à [[Chalon-sur-Saône]] ({{Unité|30|km}}), constituent la portion bourguignonne de la [[route Centre-Europe Atlantique]] (RCEA). Connue pour son accidentologie élevée, elle est progressivement transformée en voie rapide à 2x2 voies. La N5 sillonne le département du Jura sur {{Unité|70|km}} de Poligny à Champagnole et jusqu'aux [[Les Rousses|Rousses]], à la frontière entre la France et la Suisse. De Besançon à Poligny, la [[Route nationale 83 (France)|N83]] s'étire sur une soixantaine de kilomètres.
+
+==== Transports ferroviaires ====
+{{Article détaillé|TER Bourgogne-Franche-Comté}}
+[[Fichier:Railway map of France - BFC - 2020 - fr - small.svg|vignette|gauche|Le réseau ferré de la région.]]
+
+Le réseau ferré en Bourgogne-Franche-Comté s’organise autour des principales agglomérations : [[Besançon]] et [[Dijon]]. La principale ligne est la ligne [[Paris]]-[[Belfort]] via [[Dijon]] et [[Besançon]]. Cette ligne est LGV de Paris à [[Montbard]] ([[LGV Sud-Est]]) et de Dijon à Belfort ([[LGV Rhin-Rhône]]). Le territoire est également quadrillé par des voies secondaires, où circulent principalement des [[TER Bourgogne-Franche-Comté]], sur un réseau de {{unité|1951|km}}<ref name=":1" />.
+
+La plus grande gare de la région est [[Gare de Dijon-Ville|Dijon-Ville]], qui en 2019 accueille {{unité|5,8|millions}} de voyageurs<ref>SNCF Open Data, [https://ressources.data.sncf.com/explore/dataset/frequentation-gares/?sort=nom_gare&q=dijon Lire en ligne] (consulté en aout 2019).</ref> ; viennent ensuite les gares de [[Gare de Besançon-Viotte|Besançon-Viotte]] ({{unité|2,2|millions}} de voyageurs en 2019<ref>SNCF Open Data, [https://ressources.data.sncf.com/explore/dataset/frequentation-gares/?sort=nom_gare&q=besançon+viotte Lire en ligne] (consulté en aout 2019).</ref>) et de [[Gare de Belfort|Belfort-Ville]] ({{nobr|1,1 million}} de voyageurs en 2019<ref>SNCF Open Data, [https://ressources.data.sncf.com/explore/dataset/frequentation-gares/?sort=nom_gare&q=belfort Lire en ligne] (consulté en aout 2019).</ref>). Toutes les autres gares ont desservi moins d'un million de voyageurs en 2019. À noter que les villes de [[Besançon]], [[Belfort]] et [[Montbéliard]] disposent d'une deuxième gare sur la [[LGV Rhin-Rhône]] : [[Gare de Besançon Franche-Comté TGV|Besançon Franche-Comté TGV]] et [[Gare de Belfort - Montbéliard TGV|Belfort - Montbéliard TGV]].
+
+[[Fichier:Gare de Besançon Viotte.jpg|vignette|Avec plus de {{nobr|2 millions}} de voyageurs par an, la [[gare de Besançon-Viotte]] est la deuxième plus importante au niveau régional et le principal nœud ferroviaire de [[Franche-Comté]].]]
+
+La mise en service de la première phase de la branche Est de la [[LGV Rhin-Rhône]] en 2011 a permis de raccourcir significativement les temps de parcours. La durée du trajet entre Belfort et Paris ([[Paris-Gare-de-Lyon|gare de Lyon]]) est ainsi passée de {{heure|3|durée=oui}} à {{heure|2|30|durée=oui}}<ref name="LGV">[http://www.lgvrhinrhone.com/no/la-branche-est/140-kilometres-en-service/une-ligne-performante/des-gains-de-temps-significatifs.html Des gains de temps significatifs], www.lgvrhinrhone.com.</ref>, entre Besançon et Paris de {{heure|2|30|durée=oui}} à {{heure|2|durée=oui}}<ref name="LGV" />, entre Besançon et Lyon de {{heure|2|20|durée=oui}} à {{heure|1|55|durée=oui}}<ref name="LGV" /> et entre Besançon et Strasbourg, de {{heure|2|30|durée=oui}} à {{heure|1|40|durée=oui}}<ref name="LGV" />. Dans le même temps, les liaisons entre plusieurs villes de la région ont également été raccourcies, passant d’un trajet de {{heure|1|durée=oui}} à {{heure|0|30|durée=oui}} entre Dijon et Besançon et de {{heure|1|15|durée=oui}} à {{heure|0|25|durée=oui}} entre Besançon et Belfort<ref name="LGV" />. En tout, ce sont 14 gares qui sont desservies par le TGV dans la région<ref name=":1" />.
+
+Plusieurs prolongements de la LGV Rhin-Rhône sont envisagés : la deuxième phase de la branche Est, qui constituera {{Unité|50|km}} de ligne nouvelle dont {{Unité|35|km}} à l'est et {{Unité|15|km}} à l'ouest, pourrait être financée d'ici 2027 ou 2038<ref>{{Lien web|langue=fr|titre=Analyse de la deuxième phase de la branche Est de la ligne à grande vitesse Rhin-Rhône|url=http://www.cgedd.developpement-durable.gouv.fr/IMG/pdf/012304-01_rapport_cle24731a.pdf|site=cgedd.developpement-durable.gouv.fr|date=novembre 2018|consulté le=2018-12-30|page=7}}</ref> ; la {{nobr|branche Ouest}}, en projet, destinée à raccorder la {{nobr|branche Est}} à la {{nobr|[[LGV Sud-Est]]}}, et ainsi à la région parisienne, en traversant l'agglomération dijonnaise par sa bordure orientale ; enfin, la {{nobr|branche sud}}, également au stade de projet, qui représenterait environ {{Unité|150|km}} de ligne nouvelle pour relier la {{nobr|branche Est}} à [[Lyon]] et à la {{nobr|[[LGV Méditerranée]]}}, assurant une connexion des bassins de population des villes de l'Est de la France, du [[Benelux]], de l'[[Allemagne]] et du nord de la [[Suisse]] à la [[Métropole de Lyon|métropole lyonnaise]] et à l'[[arc méditerranéen]].
+
+==== Transports aériens ====
+[[Fichier:Aéroport Dôle-Jura.png|vignette|L’[[aéroport de Dole-Jura]], aéroport régional de Bourgogne-Franche-Comté.]]
+
+La région est desservie par le seul [[aéroport de Dole-Jura]], propriété du [[conseil départemental du Jura]]. Situé entre Besançon et Dijon, il a accueilli plus de {{unité|100000|passagers}} en 2018<ref>{{Lien web|url=http://www.aeroport.fr/view-statistiques/dole-jura|titre=Statistiques annuelles de l'aéroport de Dole - Jura|auteur=Union des aéroports français|site=aeroport.fr|consulté le=8 juillet 2014}}.</ref> et propose plusieurs lignes régulières en France ou à l'étranger.
+
+Les aéroports de [[Aérodrome de Besançon - La Vèze|Besançon - La Vèze]] et de [[Aéroport de Dijon-Bourgogne|Dijon-Bourgogne]] sont uniquement tournés vers les vols d’affaires en l’absence de lignes commerciales régulières.
+
+L'absence de grandes structures aéroportuaires s'explique par la proximité d'aéroports internationaux à [[Paris]], [[Bâle]], [[Genève]] et [[Lyon]], aisément accessibles depuis la région.
+
+==== Transports fluviaux ====
+La région est desservie par de nombreux canaux ([[canal du Rhône au Rhin]], [[canal de Bourgogne]], [[canal du Centre (France)|canal du Centre]], [[canal du Nivernais]], [[canal latéral de Roanne à Digoin]]).
+
+== Histoire ==
+{{Article connexe|Histoire de la Bourgogne|Histoire de la Franche-Comté}}
+
+=== Moyen Âge ===
+Le territoire des actuelles Bourgogne et [[Franche-Comté]] est inclus au {{s|V}} dans le [[royaume des Burgondes]], que prolonge le [[Royaume de Bourgogne (534-843)|royaume de Bourgogne mérovingien]]. Sous les [[Carolingiens]], le [[traité de Verdun]] en {{date-|843}} conduit à distinguer une « Bourgogne franque », à l'origine du [[duché de Bourgogne]] (Bourgogne actuelle), et une « Bourgogne impériale », ou « Haute Bourgogne », où se constitue le [[comté de Bourgogne]] (Franche-Comté). Les deux provinces passent sous vassalité commune (mais restent sous souverainetés différentes) de 1330 à 1361, par la [[Maison capétienne de Bourgogne|première maison de Bourgogne]], puis par les [[Liste des ducs de Bourgogne#Seconde Maison de Bourgogne (Valois-Bourgogne)|ducs-comtes Valois]] (1384-1477/1493) au sein des [[État bourguignon|États bourguignons]]. Elles sont séparées à la fin du {{s-|XV}}, le duché étant incorporé au [[domaine royal français]] alors que le comté reste sujet de la comtesse [[Marie de Bourgogne]] et de ses descendants, les [[Maison de Habsbourg|Habsbourg-Bourgogne]]<ref>{{Ouvrage|auteur1=Paul Delsalle|titre=La Franche-Comté au temps de Charles Quint|éditeur=Presses universitaires de Franche-Comté|année=2001|année première édition=2000|pages totales=349|isbn=978-2-84867-077-5|lire en ligne=https://books.google.com/books?id=1RgwrkWrReIC&printsec=frontcover|passage=11-13}}.</ref>.
+
+<gallery mode="packed" heights="250px">
+Le royaume Burgonde au Ve siècle.png|Le royaume burgonde au {{s-|V}}.
+Duché et Comté de Bourgogne au XIVe siecle.svg|Duché et Comté de Bourgogne au {{s-|XIV}}.
+</gallery>
+
+=== Époque moderne ===
+La [[Franche-Comté|Comté]] n'est intégrée au royaume de France qu'après sa conquête en 1678 par les troupes de [[Louis XIV]] et la reddition de [[Dole (Jura)|Dole]], l'ancienne capitale franc-comtoise, cependant que [[Besançon]] hérite du statut de capitale. Le duché de Bourgogne et la Franche-Comté forment alors deux provinces et généralités distinctes, avec leur propre capitale de gouvernement (respectivement [[Dijon]] et Besançon).
+
+Si la majeure partie de son territoire se rattache à ces deux anciennes provinces, la région comprend aussi l'essentiel du [[Nivernais]] (correspondant à peu près au département de la [[Nièvre (département)|Nièvre]]), une partie de la [[Champagne (province)|Champagne]] (la partie nord du département de l'[[Yonne (département)|Yonne]] avec [[Sens (Yonne)|Sens]] et [[Tonnerre (Yonne)|Tonnerre]] notamment), une partie de l'[[Orléanais]] (la partie sud-ouest de l'[[Yonne (département)|Yonne]] avec [[Toucy]]), la partie de l'[[Alsace]] restée française après 1871 (l'actuel [[Territoire de Belfort]]), ainsi qu'une infime partie de l'[[Île-de-France]] (la partie nord-ouest de l'[[Yonne (département)|Yonne]]).
+
+Les [[Territoires du royaume de France|anciennes provinces de France]] sont supprimées pendant la [[Révolution française|Révolution]].
+
+[[Fichier:Bourgogne-Franche-Comté et provinces.svg|thumb|center|upright=2|Carte de la région avec ses départements, montrant les provinces et États qui existaient sur son territoire au {{s|XVIII}}.
+{{Début de colonnes|nombre=3}}
+{{Légende/Début}}
+{{Légende|#e1c44a|[[Bourgogne (ancienne région administrative)|Bourgogne]]}}
+{{Légende|#a3d283|[[Franche-Comté]]}}
+{{Légende|#7db3c7|[[Nivernais]]}}
+{{Légende|#efb3c7|[[Champagne (province)|Champagne]]}}
+{{Légende|#838a9d|[[Alsace]]}}
+{{Légende|#b9b983|[[Orléanais]]}}
+{{Légende|#d84d64|[[Principauté de Montbéliard|Montbéliard]]}}
+{{Légende|#92dbc9|[[Île-de-France]]}}
+{{Légende|#b98ab9|Autres}}
+{{Légende/Fin}}{{fin de colonnes}}]]
+
+=== Époque contemporaine ===
+De {{date-|1941}} à {{date-|1944}}, une [[Préfet de région|préfecture régionale]] du [[régime de Vichy]] regroupe Bourgogne et Franche-Comté, tout comme l'[[igamie]] de Dijon de {{date-|1948}} à {{date-|1964}}. Cependant, lors de la création des [[Région française|régions]] comme [[Établissement public (France)|établissements publics]] en {{date-|1972}} puis comme [[collectivité territoriale en France|collectivités locales]] en {{date-|1982}}, Bourgogne et Franche-Comté forment deux régions séparées.
+
+En 2009, le comité Balladur propose une première fois de fusionner [[Bourgogne (ancienne région administrative)|Bourgogne]] et [[Franche-Comté]].
+
+Le {{date|14|avril|2014}}, les présidents des régions [[Bourgogne (ancienne région administrative)|Bourgogne]] et [[Franche-Comté]], respectivement [[François Patriat]] et [[Marie-Guite Dufay]], annoncent, lors d'une conférence de presse, vouloir rapprocher leurs deux régions à la suite des déclarations du [[Premier ministre français|Premier ministre]] [[Manuel Valls]] qui souhaite simplifier le [[Administration territoriale de la France|découpage administratif français]]<ref>{{lien web|url=http://france3-regions.blog.francetvinfo.fr/fusion-bourgogne-franche-comte/2014/06/01/14-avril-2014-les-presidents-des-regions-franche-comte-et-bourgogne-annoncent-quils-veulent-se-rapprocher.html|titre=14 avril 2014 : les présidents des régions Franche-Comté et Bourgogne annoncent qu’ils veulent « se rapprocher »|série=Chronique d'une fusion annoncée|site=[[France 3 Franche-Comté]]}}.</ref>.
+
+Le 2 juin suivant, les deux régions se retrouvent associées sans surprise sur la carte présentée par le [[Président de la République française|président de la République]], [[François Hollande]]<ref>{{lien web|url=http://france3-regions.blog.francetvinfo.fr/fusion-bourgogne-franche-comte/2014/06/02/reforme-territoriale-la-bourgogne-et-la-franche-comte-reunies-sans-surprise.html|titre=Réforme territoriale : la Bourgogne et la Franche-Comté réunies…sans surprise|site=Chronique d'une fusion annoncée}} de [[France 3 Franche-Comté]].</ref>. Ces deux régions sont les seules à s'être rapprochées politiquement pour une fusion<ref>{{lien web|url=http://www.lexpress.fr/actualite/politique/redecoupage-des-regions-franche-comte-et-bourgogne-pretes-a-fusionner_1314852.html|titre=Redécoupage des régions: Franche-Comté et Bourgogne prêtes à fusionner|site=[[L'Express]]}}.</ref> et, contrairement à d'autres projets de fusion, l'alliance entre la Bourgogne et la Franche-Comté n'est pas révisée par l'[[Assemblée nationale (France)|Assemblée nationale]] ou par le [[Sénat (France)|Sénat]]<ref>{{lien web|url=http://www.lejdd.fr/Politique/Reforme-territoriale-les-deputes-reprennent-leur-carte-des-regions-700278|titre=Les députés reprennent leur carte des régions|site=[[Le Journal du dimanche|Le JDD]]}}.</ref>. En effet, les deux régions sont en partie historiquement et économiquement liées<ref name="strategie.gouv.fr">[http://www.strategie.gouv.fr/publications/reforme-territoriale-coherence-economique-regionale Strategies.gouv.fr - ''Note d'analyse - Réforme territoriale et cohérence économique régionale''] - Arno Amabile, France Stratégie ; Claire Bernard, France Stratégie, et Anne Épaulard, Université Paris-Dauphine et France Stratégie : ''Trois départements de la région Bourgogne – Franche-Comté sont concernés par des forces centrifuges. C’est le cas du Territoire de Belfort qui a des liens forts avec la grande région du nord-est de la France. Par ailleurs, les départements de la Nièvre et de Saône-et-Loire attirent des travailleurs venus des régions limitrophes. Cela est dû à la situation géographique de Nevers et de Mâcon, à la limite de la région. Cette région se caractérise par des déplacements de travailleurs et des liens financiers relativement soutenus mais elle ne se distingue ni par un degré d’intégration élevé, ni par une ouverture forte.''</ref>.
+
+Cependant, en 2015, la volonté de fusionner les deux régions semble principalement être issue de quelques élus, voire des [[Bourguignons (habitants)|Bourguignons]]. Selon un sondage d'opinion [[BVA (entreprise)|BVA]] pour la presse régionale<ref>{{Lien web |langue=fr|titre=Élections régionales 2015 - Les Français et le redécoupage des régions |url=https://www.bva-group.com/sondages/elections-regionales-2015-les-francais-et-le-redecoupage-des-regions/ |site=BVA Group |consulté le=2022-01-18}}</ref>, les Bourguignons et [[Francs-Comtois]] sont à 49 % satisfaits (contre 41 % insatisfaits) de leur nouvelle région. Le clivage est beaucoup plus prononcé entre Bourguignons et Francs-Comtois : ceux-ci sont respectivement satisfaits à 57 % et 37 % de ce découpage. Les divergences sont encore plus fortes sur la question de la capitale régionale à [[Dijon]] : 79 % des Bourguignons jugent que c'est plutôt une bonne chose, contre 29 % de Francs-Comtois.
+
+<gallery caption="Logo du projet">
+Bourgogne-Franche-Comté - Projet Logo 2014.png|En 2014.
+Bourgogne-Franche-Comté - Projet Logo 2015.png|En 2015.
+</gallery>
+
+L'année [[2015]] est une période de transition et de rapprochement pour les deux régions. Trois instances politiques sont mises en place<ref>{{lien web|titre=Rapprochement entre Franche-Comté et Bourgogne : comment ça va se passer ?|url=http://france3-regions.blog.francetvinfo.fr/fusion-bourgogne-franche-comte/2014/12/19/rapprochement-entre-franche-comte-et-bourgogne-comment-ca-va-se-passer.html|site=Chronique d'une fusion annoncée}} de [[France 3 Franche-Comté]].</ref> :
+* la conférence des [[Conseil régional (France)|présidents de région]] et de leur entourage direct qui se réunissent chaque mois ;
+* la commission mixte Bourgogne-Franche-Comté (qui regroupe les différentes tendances politiques) étudie les dossiers sélectionnés par la conférence des présidents ;
+* la conférence des territoires est chargée de faire le lien avec les autres [[Collectivité territoriale en France|collectivités]] ([[Département français|départements]] et [[Commune (France)|communes]] notamment).
+
+Dans le cadre de l'[[acte III de la décentralisation]], la fusion des deux régions est adoptée le {{date|17|décembre|2014}}<ref>{{Lien web|url=http://www.assemblee-nationale.fr/14/ta/ta0455.asp|titre=Adoption du projet de loi relatif à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral|site=assemblee-nationale.fr|consulté le=18 décembre 2014}}.</ref>. Son entrée en vigueur est effective le {{date|1|janvier|2016}}<ref>{{Lien web|url=http://www.assemblee-nationale.fr/14/pdf/rapports/r2120.pdf|titre=Rapport fait au nom de la commission des lois constitutionnelles, de la législation et de l’administration générale de la république, sur le projet de loi ({{n°|2100}}) adopté par le sénat après engagement de la procédure accélérée, relatif à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral|auteur=M. Carlos Da Silva, député|date=10 juillet 2014|site=senat.fr|consulté le=19 juillet 2014}}, {{p.|22}}.</ref>.
+
+L'instauration d'un droit d'option dans la [[loi relative à la délimitation des régions, aux élections régionales et départementales et modifiant le calendrier électoral|loi relative à la délimitation des régions]] permet toutefois au [[Territoire de Belfort]] de se prononcer, après le {{1er}} janvier 2016, pour une intégration à la nouvelle région [[Grand Est]] ([[Alsace-Champagne-Ardenne-Lorraine]])<ref>[http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000023243806&cidTexte=LEGITEXT000006070633&dateTexte=20101218 Code général des collectivités territoriales Article L4122-1-1] : ''Un département et deux régions contiguës peuvent demander, par délibérations concordantes de leurs assemblées délibérantes, une modification des limites régionales visant à inclure le département dans le territoire d'une région qui lui est limitrophe.''</ref>, évoquée par certains élus<ref>[http://www.dna.fr/actualite/2014/06/05/les-elus-du-territoire-de-belfort-pensent-a-un-rattachement-avec-l-alsace DNA - Les élus du Territoire-de-Belfort pensent à un rattachement avec l’Alsace]</ref>{{,}}<ref>[http://www.bmhmagazine.com/fr/blog/politique/rattachement-belfort-alsace.html BHM magazine - Rattacher le seul Territoire de Belfort à l'Alsace ?]</ref>{{,}}<ref>[https://www.estrepublicain.fr/economie/2014/10/08/favorables-au-rattachement-du-territoire-a-l-alsace Est républicain CCI - À Belfort et Mulhouse favorables au rattachement du Territoire à l’Alsace]</ref>{{,}}<ref>[https://france3-regions.francetvinfo.fr/franche-comte/territoire-de-belfort/les-elus-du-territoire-de-belfort-pensent-un-rattachement-avec-l-alsace-492105.html France 3 Franche-Comté - Les élus du Territoire-de-Belfort pensent à un rattachement avec l'Alsace]</ref>.
+
+== Politique et administration ==
+{{Article détaillé|Conseil régional de Bourgogne-Franche-Comté}}
+
+=== Préfecture de région et directions régionales de l'État ===
+Le {{date|24|juin|2016}}, les conseillers régionaux choisissent Dijon comme chef-lieu de la région Bourgogne, siège de la préfecture de région. Cette décision est entérinée par un décret du Conseil d'État publié le {{date|28|septembre|2016}}.
+
+Les services [[Déconcentration|déconcentrés]] de l'État sont répartis entre les deux capitales des anciennes régions [[Bourgogne (ancienne région administrative)|Bourgogne]] et [[Franche-Comté]]. [[Besançon]] accueille les directions régionales de l'[[Institut national de la statistique et des études économiques|Insee]], de la [[Direction régionale de l'économie, de l'emploi, du travail et des solidarités|DREETS]], de la [[Direction régionale de l'Environnement, de l'Aménagement et du Logement|DREAL]], de l'Agence régionale pour la biodiversité et de la [[Académie (éducation en France)|région académique]] ; à [[Dijon]] sont notamment implantés les directions régionales de l'[[Agence régionale de santé|ARS]] et de la [[Direction régionale des Affaires culturelles|DRAC]].
+
+{| class="wikitable centre sortable" |border="0" style="border: 1px solid #999; background-color:#FFFFFF"
+|- align="center" bgcolor="#cccccc"
+!Direction régionale || Ville || Adresse
+|-
+| align="left" | [[Agence de l'environnement et de la maîtrise de l'énergie]] (ADEME) || [[Besançon]] || 44, rue de Belfort
+|-
+| align="left" | [[Agence française pour la biodiversité|Agence régionale de la biodiversité]] (ARB) || [[Besançon]] || 4, square Castan
+|-
+| align="left" | [[Agence régionale de santé]] (ARS) || [[Dijon]] || 2, place des Savoirs
+|-
+| align="left" | [[Agence de services et de paiement]] (ASP) || [[Dijon]] || 18 A, boulevard Winston-Churchill
+|-
+| align="left" | [[Centre régional des œuvres universitaires et scolaires]] (CROUS) || [[Besançon]] || 40, avenue de l’Observatoire
+|-
+| align="left" | [[Chambre régionale des comptes]] (CRC) || [[Dijon]] || 28-30, rue Pasteur
+|-
+| align="left" | [[Chambre de métiers et de l'artisanat|Chambre régionale de métiers et de l'artisanat]] (CMA) || [[Dole (Jura)|Dole]] || 2, rue de la Verne
+|-
+| align="left" | [[Délégué régional à la Recherche et à la Technologie|Délégation régionale à la Recherche et à la Technologie]] (DRRT) || [[Dijon]] || 22 avenue Garibaldi
+|-
+| align="left" | [[Délégation régionale académique à la Jeunesse, à l'Engagement et aux Sports]] (DRAJES) || [[Dijon]] || 10, boulevard Carnot
+|-
+| align="left" | [[Direction régionale des Affaires culturelles]] (DRAC) || [[Dijon]] || 39, rue Vannerie
+|-
+| align="left" | [[Direction régionale de l'Alimentation, de l'Agriculture et de la Forêt]] (DRAAF) || [[Dijon]] || 4 bis, rue Hoche
+|-
+| align="left" | [[Direction régionale de l'économie, de l'emploi, du travail et des solidarités|Direction régionale de l'Économie, de l'Emploi, du Travail et des Solidarités]] (DREETS) || [[Besançon]] || 5, place Jean-Cornet
+|-
+| align="left" | [[Direction régionale de l'Environnement, de l'Aménagement et du Logement]] (DREAL) || [[Besançon]] || 5, voie Gisèle-Halimi
+|-
+| align="left" | [[Services déconcentrés de la direction générale des Finances publiques|Direction régionale des Finances publiques]] (DRFiP) || [[Dijon]] || 1 bis, place de la Banque
+|-
+| align="left" | [[Institut national de la statistique et des études économiques]] (INSEE) || [[Besançon]] || 5, voie Gisèle-Halimi
+|-
+| align="left" | [[Académie (éducation en France)|Rectorat de région académique]] || [[Besançon]] || 10, rue de la Convention
+|}
+
+=== Hôtel de région, directions du conseil régional et réunions ===
+Le {{date|24|juin|2016}}, les conseillers régionaux choisissent [[Besançon]] comme siège de l'Hôtel de région et [[Dijon]] comme lieu des assemblées du [[Conseil régional de Bourgogne-Franche-Comté|conseil régional]]. Sur les vingt-neuf directions de services de la région, dix-sept sont localisées à Dijon<ref>{{Lien web|url=https://www.macommune.info/decouvrez-quelles-directions-siegent-a-besancon-145939/|titre=Découvrez quelles directions régionales siègent à Besançon !|site= maCommune.info|consulté le=28 octobre 2019}}.</ref> :
+{{colonnes|taille=30|1=
+* Transport et infrastructures
+* Mobilités du quotidien
+* Agriculture et forêt ; Tourisme
+* Recherche et enseignement supérieur
+* Culture, sport, jeunesse et vie associative
+* Numérique éducatif
+* Aménagement du territoire et numérique
+* Environnement
+* Europe et rayonnement international
+* Prospective
+* Pilotage de projets
+* Finances et budget
+* Ressources humaines
+* Moyens généraux
+* Achats
+* Assemblée
+* Documentation
+}}
+
+Les douze directions restantes sont situées à Besançon :
+{{colonnes|taille=30|1=
+* Cabinet
+* Relations avec les citoyens
+* Économie
+* Formation professionnelle des demandeurs d'emploi
+* Transitions professionnelles et orientation
+* Lycées
+* Cartes des formations, apprentissage, formations sanitaires et sociales
+* Transition énergétique
+* Évaluation
+* Systèmes d'information
+* Affaires juridiques et archives
+* Patrimoine et gestion immobilière
+}}
+
+=== Rôles ===
+{{Article connexe|Loi portant nouvelle organisation territoriale de la République}}
+{{...}}
+
+=== Tendances politiques ===
+{{Article connexe|Élections régionales françaises de 2015|Élections régionales de 2015 en Bourgogne-Franche-Comté|Élections régionales françaises de 2021|Élections régionales de 2021 en Bourgogne-Franche-Comté}}
+
+==== Récapitulatif des résultats électoraux récents ====
+{| class="wikitable centre" style="text-align:center"
+! rowspan="2" scope="col" |Scrutin
+! rowspan="2" |Département
+! colspan="13" scope="col" |{{1er}} tour
+! colspan="13" scope="col" |{{2nd}} tour
+|-
+! colspan="2" scope="col" |{{1er}}
+! scope="col" |%
+! colspan="2" scope="col" |{{2e}}
+! scope="col" |%
+! colspan="2" scope="col" |{{3e}}
+! scope="col" |%
+! colspan="2" scope="col" |{{4e}}
+! scope="col" |%
+!Abs
+! colspan="2" scope="col" |{{1er}}
+! scope="col" |%
+! colspan="2" scope="col" |{{2e}}
+! scope="col" |%
+! colspan="2" scope="col" |{{3e}}
+! scope="col" |%
+! colspan="2" |4<sup>e</sup>
+!%
+!Abs
+|-
+! rowspan="9" |[[Élection présidentielle française de 2012|Présidentielle 2012]]
+!Bourgogne-Franche-Comté
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+!PS
+!27,12
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+!UMP
+!26,65
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!FN
+!20,74
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+!FG
+!10,66
+!17,93
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+!PS
+!50,02
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+!UMP
+!49,98
+| colspan="3" rowspan="9" |''Pas de 3<sup>e</sup>''
+| colspan="3" rowspan="9" |''Pas de 4<sup>e</sup>''
+!17,62
+|-
+!21
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|28,57
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|27,79
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|18,84
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[Front de gauche (France)|FG]]
+|9,51
+!16,99
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|51,55
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|48,45
+!16,59
+|-
+!25
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|28,49
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|26,28
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|19,19
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[Front de gauche (France)|FG]]
+|10,96
+!17,20
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|51,91
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|48,09
+!16,74
+|-
+!39
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|25,83
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|24,60
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|20,41
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[Front de gauche (France)|FG]]
+|12,55
+!16,42
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|50,58
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|49,42
+!16,34
+|-
+!58
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|32,64
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|22,51
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|19,58
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[Front de gauche (France)|FG]]
+|11,95
+!19,24
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|58,81
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|41,19
+!18,85
+|-
+!70
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|26,38
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|25,23
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|25,12
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[Front de gauche (France)|FG]]
+|9,64
+!16,84
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|50,36
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|49,64
+!16,48
+|-
+!71
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|28,69
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|26,01
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|20,03
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[Front de gauche (France)|FG]]
+|10,64
+!18,92
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|51,86
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|48,14
+!18,69
+|-
+!89
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|27,62
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|24,00
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|23,68
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[Front de gauche (France)|FG]]
+|10,05
+!19,26
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|53,12
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|46,88
+!19,12
+|-
+!90
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|26,01
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|23,88
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|23,74
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[Front de gauche (France)|FG]]
+|11,41
+!19,37
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|50,52
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|49,48
+!18,97
+|-
+! rowspan="9" scope="row" |[[Élections européennes de 2014 en France|Européennes 2014]]
+!Bourgogne-Franche-Comté
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!FN
+!27,82
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+!UMP
+!22,85
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+!PS
+!14,18
+| {{Infobox Parti politique français/couleurs|MODEM}} |<br />
+!MODEM
+!7,88
+!54,45
+| colspan="13" rowspan="9" |''Tour unique''
+|-
+!21
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|26,44
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|22,07
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|15,25
+| {{Infobox Parti politique français/couleurs|MDM}} |<br />
+|[[Mouvement démocrate (France)|MODEM]]
+|8,77
+!53,53
+|-
+!25
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|26,77
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|24,39
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|14,14
+| {{Infobox Parti politique français/couleurs|MDM}} |<br />
+|[[Mouvement démocrate (France)|MODEM]]
+|7,88
+!53,93
+|-
+!39
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|26,69
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|22,07
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|13,00
+| {{Infobox Parti politique français/couleurs|MDM}} |<br />
+|[[Mouvement démocrate (France)|MODEM]]
+|8,54
+!52,50
+|-
+!58
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|27,33
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|18,56
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|16,63
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[Front de gauche (France)|FG]]
+|8,55
+!55,29
+|-
+!70
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|34,23
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|22,43
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|13,15
+| {{Infobox Parti politique français/couleurs|MODEM}} |<br />
+|[[Mouvement démocrate (France)|MODEM]]
+|6,79
+!50,85
+|-
+!71
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|25,36
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|24,91
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|14,91
+| {{Infobox Parti politique français/couleurs|MDM}} |<br />
+|[[Mouvement démocrate (France)|MODEM]]
+|7,29
+!57,19
+|-
+!89
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|31,37
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|21,99
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|12,02
+| {{Infobox Parti politique français/couleurs|MDM}} |<br />
+|[[Mouvement démocrate (France)|MODEM]]
+|7,74
+!55,03
+|-
+!90
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|30,24
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Union pour un mouvement populaire|UMP]]
+|21,53
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|13,22
+| {{Infobox Parti politique français/couleurs|MODEM}} |<br />
+|[[Mouvement démocrate (France)|MODEM]]
+|8,91
+!55,95
+|-
+! rowspan="9" scope="row" |[[Élections régionales de 2015 en Normandie|Régionales 2015]]
+!Bourgogne-Franche-Comté
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!FN
+!31,48
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+!UDI
+!24,00
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+!PS
+!22,99
+| {{Infobox Parti politique français/couleurs|DLF}} |<br />
+!DLF
+!5,17
+!49,44
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+!PS
+!34,67
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+!UDI
+!32,89
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!FN
+!32,44
+| colspan="3" rowspan="9" |''Pas de 4<sup>e</sup>''
+!38,85
+|-
+!21
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|30,75
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|27,71
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|22,26
+| {{Infobox Parti politique français/couleurs|DLF}} |<br />
+|[[Debout la France|DLF]]
+|4,33
+!47,38
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|38,55
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|32,98
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|28,47
+!36,95
+|-
+!25
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|31,74
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|26,09
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|22,78
+| {{Infobox Parti politique français/couleurs|DLF}} |<br />
+|[[Debout la France|DLF]]
+|4,35
+!48,32
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|37,42
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|31,29
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|31,29
+!37,14
+|-
+!39
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|29,93
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|23,34
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|23,19
+| {{Infobox Parti politique français/couleurs|DLF}} |<br />
+|[[Debout la France|DLF]]
+|5,57
+!47,88
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|36,11
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|32,89
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|31,00
+!36,64
+|-
+!58
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|31,36
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|24,51
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|18,06
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[Front de gauche (France)|FG]]
+|7,36
+!52,04
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|39,38
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|33,83
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|26,79
+!42,16
+|-
+!70
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|37,35
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|23,88
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|20,89
+| {{Infobox Parti politique français/couleurs|DLF}} |<br />
+|[[Debout la France|DLF]]
+|4,76
+!44,79
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|38,54
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|33,14
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|28,33
+!34,71
+|-
+!71
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|28,99
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|25,12
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|22,89
+| {{Infobox Parti politique français/couleurs|DLF}} |<br />
+|[[Debout la France|DLF]]
+|6,31
+!53,17
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|34,91
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|34,42
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|30,68
+!42,28
+|-
+!89
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|36,19
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|22,45
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|18,42
+| {{Infobox Parti politique français/couleurs|DLF}} |<br />
+|[[Debout la France|DLF]]
+|6,23
+!50,68
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|37,63
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|32,73
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|29,64
+!40,95
+|-
+!90
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|34,76
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|20,72
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|18,76
+| {{Infobox Parti politique français/couleurs|MDM}} |<br />
+|[[Mouvement démocrate (France)|MODEM]]
+|7,99
+!49,71
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|35,30
+| {{Infobox Parti politique français/couleurs|PS}} |<br />
+|[[Parti socialiste (France)|PS]]
+|34,40
+| {{Infobox Parti politique français/couleurs|UDI}} |<br />
+|[[Union des démocrates et indépendants|UDI]]
+|30,30
+!39,08
+|-
+! rowspan="9" scope="row" |[[Élection présidentielle française de 2017|Présidentielle 2017]]
+!Bourgogne-Franche-Comté
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!FN
+!25,09
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+!EM
+!21,89
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+!LR
+!19,70
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+!LFI
+!17,93
+!20,63
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+!EM
+!60,48
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!FN
+!39,52
+| colspan="3" rowspan="9" |''Pas de {{3e}}''
+| colspan="3" rowspan="9" |''Pas de 4<sup>e</sup>''
+!22,65
+|-
+!21
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|23,65
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|22,52
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|21,26
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|17,84
+!19,04
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|64,17
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|35,83
+!21,42
+|-
+!25
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|23,45
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|22,50
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|21,09
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|17,88
+!20,68
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|63,77
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|36,23
+!22,98
+|-
+!39
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|24,14
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|21,33
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|20,28
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|18,97
+!19,19
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|61,37
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|38,63
+!21,58
+|-
+!58
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|24,76
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|22,71
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|19,16
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|17,25
+!22,24
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|59,92
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|40,08
+!23,95
+|-
+!70
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|31,36
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|19,59
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|18,05
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|15,88
+!19,52
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|51,71
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|48,29
+!20,81
+|-
+!71
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|24,28
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|22,33
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|19,39
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|17,83
+!21,35
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|61,63
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|38,37
+!23,29
+|-
+!89
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|28,52
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|19,91
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|19,63
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|16,70
+!21,80
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|55,04
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|44,96
+!23,56
+|-
+!90
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|26,89
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|20,64
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|19,10
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|17,70
+!22,71
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|EM]]
+|58,18
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|FN]]
+|41,82
+!24,33
+|-
+! rowspan="9" scope="row" |[[Élections européennes de 2019 en France|Européennes 2019]]
+!Bourgogne-Franche-Comté
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!RN
+!26,26
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+!LREM
+!20,41
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+!EELV
+!11,62
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+!UDC
+!9,67
+!46,96
+| colspan="13" rowspan="9" |''Tour unique''
+|-
+!21
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|23,91
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|22,46
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|12,84
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UDC]]
+|9,40
+!45,89
+|-
+!25
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|22,54
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|21,59
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|13,84
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UDC]]
+|10,38
+!48,21
+|-
+!39
+| {{Infobox Parti politique français/couleurs|RN}} |<br />
+|[[Rassemblement national|RN]]
+|24,55
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|20,29
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|13,01
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UDC]]
+|9,24
+!45,11
+|-
+!58
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|28,04
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|19,45
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|8,91
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UDC]]
+|7,08
+!46,37
+|-
+!70
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|32,80
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|16,57
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|10,06
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UDC]]
+|9,14
+!44,18
+|-
+!71
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|25,30
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|21,27
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UDC]]
+|11,54
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|10,51
+!49,06
+|-
+!89
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|31,85
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|18,29
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|9,83
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UDC]]
+|8,67
+!46,66
+|-
+!90
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|27,11
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|19,08
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|12,22
+| {{Infobox Parti politique français/couleurs|UCD}} |<br />
+|[[Union de la droite et du centre|UDC]]
+|9,21
+!48,00
+|-
+! rowspan="9" |[[Élections régionales françaises de 2021|Régionales 2021]]
+!Bourgogne-Franche-Comté
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+!UG
+!26,52
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!RN
+!23,19
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+!LR
+!21,04
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+!LREM
+!11,69
+!65,12
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+!UG
+!42,20
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+!LR
+!24,23
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!RN
+!23,78
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+!LREM
+!9,79
+!63,46
+|-
+!21
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|24,68
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|22,02
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|21,42
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|12,92
+!63,93
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|41,94
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|25,21
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|22,15
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|10,70
+!67,09
+|-
+!25
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|32,17
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|22,47
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|19,26
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|10,15
+!65,94
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|46,92
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|23,33
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|22,38
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|7,36
+!64,16
+|-
+!39
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|29,25
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|22,05
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|20,56
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|11,99
+!64,47
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|45,56
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|25,43
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|21,74
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|7,21
+!62,80
+|-
+!58
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|25,40
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|23,20
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|23,03
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|10,38
+!65,96
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|40,38
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|24,27
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|22,58
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|12,77
+!63,14
+|-
+!70
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|29,10
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|26,98
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|19,81
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|9,79
+!59,84
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|41,06
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|28,62
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|21,73
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|8,60
+!57,30
+|-
+!71
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|28,68
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|24,42
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|19,85
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|10,93
+!67,43
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|39,82
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|32,07
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|19,45
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|8,65
+!66,13
+|-
+!89
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|30,15
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|22,78
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|18,50
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|10,66
+!65,08
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|38,31
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|31,01
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|21,86
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|8,82
+!63,84
+|-
+!90
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|24,15
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|23,93
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|19,78
+| {{Infobox Parti politique français/couleurs|EELV}} |<br />
+|[[Europe Écologie Les Verts|EELV]]
+|11,55
+!66,77
+| {{Infobox Parti politique français/couleurs|DVG}} |<br />
+|[[Union de la gauche|UG]]
+|43,28
+| {{Infobox Parti politique français/couleurs|LR}} |<br />
+|[[Les Républicains|LR]]
+|24,03
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|23,95
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|8,75
+!70,35
+|-
+! rowspan="9" |[[Élection présidentielle française de 2022|Présidentielle 2022]]
+!Bourgogne-Franche-Comté
+| {{Infobox Parti politique français/couleurs|RN}} |<br />
+!RN
+!27,35
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+!LREM
+!26,31
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+!LFI
+!18,56
+| {{Infobox Parti politique français/couleurs|REC}} |<br />
+!REC
+!7,15
+!22,92
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+!LREM
+!52,88
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+!RN
+!47,12
+| colspan="3" rowspan="9" |''Pas de {{3e}}''
+| colspan="3" rowspan="9" |''Pas de 4<sup>e</sup>''
+!25,17
+|-
+!21
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|28,55
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|24,44
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|19,05
+| {{Infobox Parti politique français/couleurs|REC}} |<br />
+|[[Reconquête (parti politique)|REC]]
+|7,66
+!21,23
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|57,27
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|42,73
+!24,41
+|-
+!25
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|27,55
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|24,07
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|20,06
+| {{Infobox Parti politique français/couleurs|REC}} |<br />
+|[[Reconquête (parti politique)|REC]]
+|7,03
+!22,83
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|57,16
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|42,84
+!25,91
+|-
+!39
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|26,29
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|24,88
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|19,89
+| {{Infobox Parti politique français/couleurs|REC}} |<br />
+|[[Reconquête (parti politique)|REC]]
+|6,65
+!21,84
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|53,07
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|46,93
+!24,06
+|-
+!58
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|29,20
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|25,51
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|17,72
+| {{Infobox Parti politique français/couleurs|REC}} |<br />
+|[[Reconquête (parti politique)|REC]]
+|6,56
+!25,20
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|50,11
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|49,89
+!26,64
+|-
+!70
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|34,60
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|22,42
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|15,65
+| {{Infobox Parti politique français/couleurs|REC}} |<br />
+|[[Reconquête (parti politique)|REC]]
+|7,18
+!21,97
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|56,88
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|43,12
+!22,80
+|-
+!71
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|27,61
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|27,39
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|17,49
+| {{Infobox Parti politique français/couleurs|REC}} |<br />
+|[[Reconquête (parti politique)|REC]]
+|6,91
+!23,67
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|53,33
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|46,67
+!25,39
+|-
+!89
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|31,25
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|24,14
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|17,90
+| {{Infobox Parti politique français/couleurs|REC}} |<br />
+|[[Reconquête (parti politique)|REC]]
+|7,33
+!24,18
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|51,59
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|48,41
+!25,94
+|-
+!90
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|27,37
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|24,07
+| {{Infobox Parti politique français/couleurs|FI}} |<br />
+|[[La France insoumise|LFI]]
+|20,96
+| {{Infobox Parti politique français/couleurs|REC}} |<br />
+|[[Reconquête (parti politique)|REC]]
+|8,02
+!23,73
+| {{Infobox Parti politique français/couleurs|EM}} |<br />
+|[[La République en marche|LREM]]
+|51,44
+| {{Infobox Parti politique français/couleurs|FN}} |<br />
+|[[Rassemblement national|RN]]
+|48,56
+!26,68
+|}
+
+==== Circonscriptions législatives ====
+La Bourgogne-Franche-Comté compte au total 27 circonscriptions (soit une moyenne de 103 910 habitants par circonscription) :
+{| class="wikitable centre" style="text-align:center"
+![[Côte-d'Or]]
+![[Doubs (département)|Doubs]]
+![[Jura (département)|Jura]]
+![[Nièvre (département)|Nièvre]]
+|-
+|
+* [[Première circonscription de la Côte-d'Or|1ère circonscription]]
+* [[Deuxième circonscription de la Côte-d'Or|2ème circonscription]]
+* [[Troisième circonscription de la Côte-d'Or|3ème circonscription]]
+* [[Quatrième circonscription de la Côte-d'Or|4ème circonscription]]
+* [[Cinquième circonscription de la Côte-d'Or|5ème cironscription]]
+|
+* [[Première circonscription du Doubs|1ère circonscription]]
+* [[Deuxième circonscription du Doubs|2ème circonscription]]
+* [[Troisième circonscription du Doubs|3ème circonscription]]
+* [[Quatrième circonscription du Doubs|4ème circonscription]]
+* [[Cinquième circonscription du Doubs|5ème circonscription]]
+|
+* [[Première circonscription du Jura|1ère circonscription]]
+* [[Deuxième circonscription du Jura|2ème circonscription]]
+* [[Troisième circonscription du Jura|3ème circonscription]]
+|
+* [[Première circonscription de la Nièvre|1ère circonscription]]
+* [[Deuxième circonscription de la Nièvre|2ème circonscription]]
+|-
+![[Haute-Saône]]
+![[Saône-et-Loire]]
+![[Yonne (département)|Yonne]]
+![[Territoire de Belfort]]
+|-
+|
+* [[Première circonscription de la Haute-Saône|1ère circonscription]]
+* [[Deuxième circonscription de la Haute-Saône|2ème circonscription]]
+|
+* [[Première circonscription de Saône-et-Loire|1ère circonscription]]
+* [[Deuxième circonscription de Saône-et-Loire|2ème circonscription]]
+* [[Troisième circonscription de Saône-et-Loire|3ème circonscription]]
+* [[Quatrième circonscription de Saône-et-Loire|4ème circonscription]]
+* [[Cinquième circonscription de Saône-et-Loire|5ème circonscription]]
+|
+* [[Première circonscription de l'Yonne|1ère circonscription]]
+* [[Deuxième circonscription de l'Yonne|2ème circonscription]]
+* [[Troisième circonscription de l'Yonne|3ème circonscription]]
+|
+* [[Première circonscription du Territoire de Belfort|1ère circonscription]]
+* [[Deuxième circonscription du Territoire de Belfort|2ème circonscription]]
+|}
+{| class="wikitable centre" style="text-align:center"
+|+
+! rowspan="2" |Circonscription
+! colspan="12" |[[Député français|Député.e.s]] et leurs groupes à l'[[Assemblée nationale (France)|assemblée nationale]]
+|-
+! colspan="3" |[[Côte-d'Or]]
+! colspan="3" |[[Doubs (département)|Doubs]]
+! colspan="3" |[[Jura (département)|Jura]]
+! colspan="3" |[[Nièvre (département)|Nièvre]]
+|-
+!<small>Première</small>
+| {{Infobox Parti politique français/couleurs|EM}} |
+|[[Groupe Renaissance|<small>RE</small>]]
+|[[Didier Martin]]
+| {{Infobox Parti politique français/couleurs|MDM}} |
+|[[Groupe démocrate, MoDem et indépendants|<small>MODEM</small>]]
+|[[Laurent Croizier]]
+| {{Infobox Parti politique français/couleurs|EM}} |
+|[[Groupe Renaissance|<small>RE</small>]]
+|[[Danielle Brulebois]]
+| {{Infobox Parti politique français/couleurs|MDM}} |
+|[[Groupe démocrate, MoDem et indépendants|<small>MODEM</small>]]
+|[[Perrine Goulet]]
+|-
+!<small>Deuxième</small>
+| {{Infobox Parti politique français/couleurs|EM}} |
+|[[Groupe Renaissance|<small>RE</small>]]
+|[[Benoît Bordat]]
+| {{Infobox Parti politique français/couleurs|EM}} |
+|[[Groupe Renaissance|<small>RE</small>]]
+|[[Éric Alauzet]]
+| {{Infobox Parti politique français/couleurs|LR}} |
+|[[Groupe Les Républicains (Assemblée nationale)|<small>LR</small>]]
+|[[Marie-Christine Dalloz]]
+| {{Infobox Parti politique français/couleurs|EM}} |
+|[[Groupe Renaissance|<small>RE</small>]]
+|[[Patrice Perrot]]
+|-
+!<small>Troisème</small>
+| {{Infobox Parti politique français/couleurs|EM}} |
+|[[Groupe Renaissance|<small>RE</small>]]
+|[[Fadila Khattabi]]
+| {{Infobox Parti politique français/couleurs|EM}} |
+|[[Groupe Renaissance|<small>RE</small>]]
+|[[Nicolas Pacquot]]
+| {{Infobox Parti politique français/couleurs|LR}} |
+|[[Groupe Les Républicains (Assemblée nationale)|<small>LR</small>]]
+|[[Justine Gruet]]
+|
+|
+|
+|-
+!<small>Quatrième</small>
+| {{Infobox Parti politique français/couleurs|LR}} |
+|[[Groupe Les Républicains (Assemblée nationale)|<small>LR</small>]]
+|[[Hubert Brigand]]
+| {{Infobox Parti politique français/couleurs|FN}} |
+|[[Groupe Rassemblement national|<small>RN</small>]]
+|[[Géraldine Grangier]]
+|
+|
+|
+|
+|
+|
+|-
+!<small>Cinquième</small>
+| {{Infobox Parti politique français/couleurs|EM}} |
+|[[Groupe Renaissance|<small>RE</small>]]
+|[[Didier Paris]]
+| {{Infobox Parti politique français/couleurs|LR}} |
+|[[Groupe Les Républicains (Assemblée nationale)|<small>LR</small>]]
+|[[Annie Genevard]]
+|
+|
+|
+|
+|
+|
+|-
+!Circonscription
+! colspan="3" |[[Haute-Saône]]
+! colspan="3" |[[Saône-et-Loire]]
+! colspan="3" |[[Yonne (département)|Yonne]]
+! colspan="3" |[[Territoire de Belfort]]
+|-
+!<small>Première</small>
+| {{Infobox Parti politique français/couleurs|FN}} |
+|[[Groupe Rassemblement national|<small>RN</small>]]
+|[[Antoine Villedieu (homme politique, 1989)|Antoine Villedieu]]
+| {{Infobox Parti politique français/couleurs|EM}} |
+|[[Groupe Renaissance|<small>RE</small>]]
+|[[Benjamin Dirx]]
+| {{Infobox Parti politique français/couleurs|FN}} |
+|[[Groupe Rassemblement national|<small>RN</small>]]
+|[[Daniel Grenon]]
+| {{Infobox Parti politique français/couleurs|LR}} |
+|[[Groupe Les Républicains (Assemblée nationale)|<small>LR</small>]]
+|[[Ian Boucard]]
+|-
+!<small>Deuxième</small>
+| {{Infobox Parti politique français/couleurs|FN}} |
+|[[Groupe Rassemblement national|<small>RN</small>]]
+|[[Émeric Salmon]]
+| {{Infobox Parti politique français/couleurs|LR}} |
+|[[Groupe Les Républicains (Assemblée nationale)|<small>LR</small>]]
+|Josiane Corneloup
+| {{Infobox Parti politique français/couleurs|Horizons}} |
+|<small>[[Groupe Horizons et apparentés|Hor.]]</small>
+|[[André Villiers (homme politique)|André Villiers]]
+| {{Infobox Parti politique français/couleurs|FI}} |
+|[[Groupe La France insoumise - Nouvelle Union populaire écologique et sociale|<small>LFI</small>]]
+|[[Florian Chauche]]
+|-
+!<small>Troisème</small>
+|
+|
+|
+| {{Infobox Parti politique français/couleurs|EM}} |
+|[[Groupe Renaissance|<small>RE</small>]]
+|[[Rémy Rebeyrotte]]
+| {{Infobox Parti politique français/couleurs|FN}} |
+|[[Groupe Rassemblement national|<small>RN</small>]]
+|[[Julien Odoul]]
+|
+|
+|
+|-
+!<small>Quatrième</small>
+|
+|
+|
+| {{Infobox Parti politique français/couleurs|PS}} |
+|[[Groupe socialiste (Assemblée nationale)|<small>SOC</small>]]
+|[[Cécile Untermaier]]
+|
+|
+|
+|
+|
+|
+|-
+!<small>Cinquième</small>
+|
+|
+|
+| {{Infobox Parti politique français/couleurs|EM}} |
+|[[Groupe Renaissance|<small>RE</small>]]
+|[[Louis Margueritte|Louis Marguerite]]
+|
+|
+|
+|
+|
+|
+|}
+=== Grands espaces de coopération intercommunale ===
+La région compte deux [[pôle métropolitain|pôles métropolitains]] : le [[pôle métropolitain Centre Franche-Comté]], composé des agglomérations de [[Grand Besançon Métropole|Besançon]], [[Communauté d'agglomération du Grand Dole|Dole]], [[Espace communautaire Lons Agglomération|Lons-le-Saunier]], [[Communauté de communes du Grand Pontarlier|Pontarlier]], [[Communauté d'agglomération de Vesoul|Vesoul]] et [[Communauté de communes du Val de Morteau|Morteau]], totalise {{Unité|362000|habitants}}.
+
+Le [[pôle métropolitain Nord Franche-Comté]] s'organise autour du [[Grand Belfort]] et du [[Pays de Montbéliard Agglomération|Pays de Montbéliard]] et intègre également les trois [[Communauté de communes|communautés de commune]] des [[Communauté de communes des Vosges du Sud|Vosges du Sud]], du [[Communauté de communes du Sud Territoire|Sud Territoire]] du [[Communauté de communes du pays d'Héricourt|Pays d'Héricourt]]. Il comptait {{Unité|306000|habitants}} en 2017.
+
+== Population et société ==
+=== Démographie ===
+{{Article détaillé|Démographie de la Bourgogne-Franche-Comté}}
+
+Le département le plus peuplé est la [[Saône-et-Loire]]. Après le plus petit département, le [[Territoire de Belfort]] ({{unité|609|km|2}}, {{Unité|{{Population de France/densité||nom=Territoire de Belfort}}|hab./km2}}) qui fait exception, le [[Doubs (département)|Doubs]] est le département le plus dense de la région, avec une densité proche de la moyenne métropolitaine ({{Unité|{{Population de France/densité||nom=Doubs (département)}}|hab./km2}}). Les autres départements sont beaucoup moins denses. La superficie du territoire de Bourgogne-Franche-Comté représente 9 % du territoire national, soit la {{5e}} région française, mais la densité de population est deux fois moindre que la moyenne : la région compte {{Unité|2.8|millions}} d'habitants soit 4,4 % de la population nationale<ref name=":1" />.
+
+==== Évolution de la population régionale ====
+{{Évolution de la population en Bourgogne-Franche-Comté}}<!-- Pour modifier les données : [[Modèle:Évolution de la population en Bourgogne-Franche-Comté]] -->
+<center>
+{{Courbe d'évolution de la population en Bourgogne-Franche-Comté}}<!-- Pour modifier les données : [[Modèle:Courbe d'évolution de la population en Bourgogne-Franche-Comté]] -->
+</center>
+
+==== Évolution récente par département ====
+Au {{date-|1er janvier 2020}}, les trois départements les plus peuplés, respectivement la [[Saône-et-Loire]], le [[Doubs (département)|Doubs]] et la [[Côte-d'Or]] qui dépassent tous les trois les {{unité|500000|habitants}}, représentaient largement plus de la moitié (58 %) de la population régionale totale.
+
+Sur la période de 1968 à 2020, l'évolution démographique est proche de la moyenne nationale (+31 %) dans deux départements : la Côte-d'Or (+27 %) et le Doubs (+28 %). La hausse est plus modérée dans le [[Territoire de Belfort]] (+18 %) et dans l'[[Yonne (département)|Yonne]] (+18 %). Elle est trois fois moindre dans le [[Jura (département)|Jura]] et la [[Haute-Saône]] avec un taux d'évolution de +11 % et +9 % dans ces deux départements. La population est restée stable en Saône-et-Loire tandis qu'elle a baissé continuellement dans la [[Nièvre (département)|Nièvre]] qui a perdu 18 % de ses habitants depuis 1968.
+
+Depuis le début du {{s-|XXI}} (période 1999-2020), tous les départements de la région connaissent une évolution démographique inférieure à la moyenne nationale (+11 %). Le département du Doubs est celui dont la population a le plus augmenté sur cette période (+9 %), suivi de la Côte-d'Or (+6 %), du Jura (+3 %), du Territoire de Belfort (+2 %), de la Haute-Saône (+2 %) et la Saône-et-Loire (+1 %). L'évolution du nombre d'habitants est quasiment nulle dans l'Yonne (+0,3 %) tandis que la Nièvre connaît une baisse marquée (-10 %).
+
+On remarque ainsi que la dynamique démographique est très inégale sur le territoire des deux régions : à l'ouest d'une ligne Dijon-Mâcon, la population vieillit et diminue. À l'est, elle est plus jeune et sa croissance est plus soutenue (notamment dans les aires urbaines de [[Besançon]] et [[Dijon]], ainsi que sur la bande frontalière avec la [[Suisse]]). La [[Franche-Comté]] comporte dans l'ensemble une population plus jeune et dynamique que la [[Bourgogne (ancienne région administrative)|Bourgogne]].
+
+{{Évolution de la population de la Bourgogne-Franche-Comté par département}}<!-- Pour modifier les données : [[Modèle:Évolution de la population de la Bourgogne Franche-Comté par département]]-->
+
+==== Aires d'attraction ====
+La région compte treize aires d'attraction de plus de {{Nombre|50000|habitants}}, près d'un quart de la population régionale étant concentrée dans celles de [[Aire d'attraction de Besançon|Besançon]] et de [[Aire d'attraction de Dijon|Dijon]].
+
+{| class="wikitable sortable" |border="0" style="border: 1px solid #999; background-color:#FFFFFF"
+|- align="center" bgcolor="#cccccc"
+! || Aire urbaine || Nombre de<br>communes<br>(2020) || Population<br>(2019) || Variation<br>moyenne<br>annuelle<br>2008-2019
+! Pop.<br>(2008) || Variation<br>1999-2008 || Pop.<br>(1999) || Variation<br>1990-1999 || Pop.<br>(1990) || Variation<br>1982-1990 || Pop.<br>(1982)
+|- align="right"
+| 1 || align="left" | [[Aire d'attraction de Dijon|Dijon]] || 333 || {{Unité|412189}} || {{Unité|0.40|%}} {{Augmentation}} || {{Unité|394820}} || {{Unité|0.44|%}} {{Augmentation}} || {{Unité|379625}} || {{Unité|0.44|%}} {{Augmentation}} || {{Unité|365025}} || {{Unité|0.78|%}} {{Augmentation}} || {{Unité|343608}}
+|- align="right" bgcolor="#efefef"
+| 2 || align="left" | [[Aire d'attraction de Besançon|Besançon]] || 310 || {{Unité|280868}} || {{Unité|0.42|%}} {{Augmentation}} || {{Unité|268491}} || {{Unité|0.79|%}} {{Augmentation}} || {{Unité|250615}} || {{Unité|0.76|%}} {{Augmentation}} || {{Unité|234595}} || {{Unité|0.72|%}} {{Augmentation}} || {{Unité|221772}}
+|- align="right"
+| 3 || align="left" | [[Aire d'attraction de Montbéliard|Montbéliard]] || 137 || {{Unité|180026}} || {{Unité|-0.15|%}} {{Diminution}} || {{Unité|183073}} || {{Unité|-0.01|%}} {{Stagnation}}|| {{Unité|183156}} || {{Unité|-0.23|%}} {{Diminution}} || {{Unité|187051}} || {{Unité|-0.61|%}} {{Diminution}} || {{Unité|196577}}
+|- align="right" bgcolor="#efefef"
+| 4 || align="left" | [[Aire d'attraction de Chalon-sur-Saône|Chalon-sur-Saône]] || 109 || {{Unité|154950}} || {{Unité|0.25|%}} {{Augmentation}} || {{Unité|150814}} || {{Unité|0.44|%}} {{Augmentation}} || {{formatnum:145092}} || {{Unité|0.18|%}} {{Augmentation}} || {{Unité|142774}} || {{Unité|0.30|%}} {{Augmentation}} || {{Unité|139409}}
+|- align="right"
+| 5 || align="left" | [[Aire d'attraction de Mâcon|Mâcon]] || 105 || {{Unité|137435}} || {{Unité|0.64|%}} {{Augmentation}} || {{Unité|128341}} || {{Unité|0.83|%}} {{Augmentation}} || {{Unité|119443}} || {{Unité|0.22|%}} {{Augmentation}} || {{Unité|117141}} || {{Unité|0.37|%}} {{Augmentation}} || {{Unité|113816}}
+|- align="right" bgcolor="#efefef"
+| 6 || align="left" | [[Aire d'attraction de Belfort|Belfort]] || 91 || {{Unité|133038}} || {{Unité|-0.03|%}} {{Stagnation}} || {{Unité|133417}} || {{Unité|0.46|%}} {{Augmentation}} || {{Unité|127939}} || {{Unité|0.32|%}} {{Augmentation}} || {{Unité|124394}} || {{Unité|0.06|%}} {{Stagnation}} || {{Unité|122176}}
+|- align="right"
+| 7 || align="left" | [[Aire d'attraction de Nevers|Nevers]] || 93 || {{Unité|114731}} || {{Unité|-0.52|%}} {{Diminution}} || {{Unité|121733}} || {{Unité|-0.23|%}} {{Diminution}} || {{formatnum:124253}} || {{Unité|-0.16|%}} {{Diminution}} || {{Unité|126079}} || {{Unité|0.11|%}} {{Augmentation}} || {{Unité|125497}}
+|- align="right" bgcolor="#efefef"
+| 8 || align="left" | [[Aire d'attraction d'Auxerre|Auxerre]] || 104 || {{Unité|112151}} || {{Unité|-0.19|%}} {{Diminution}} || {{Unité|114510}} || {{Unité|0.36|%}} {{Augmentation}} || {{Unité|110957}} || {{Unité|0.22|%}} {{Augmentation}} || {{Unité|108822}} || {{Unité|0.43|%}} {{Augmentation}} || {{Unité|105208}}
+|- align="right"
+| 9 || align="left" | [[Aire d'attraction de Sens|Sens]] || 65 || {{Unité|81240}} || {{Unité|0.29|%}} {{Augmentation}} || {{Unité|78700}} || {{Unité|0.49|%}} {{Augmentation}} || {{Unité|75370}} || {{Unité|0.60|%}} {{Augmentation}} || {{Unité|71520}} || {{Unité|0.99|%}} {{Augmentation}} || {{Unité|66290}}
+|- align="right" bgcolor="#efefef"
+| 10 || align="left" | [[Aire d'attraction de Lons-le-Saunier|Lons-le-Saunier]] || 139 || {{Unité|71347}} || {{Unité|0.08|%}} {{Stagnation}} || {{Unité|70758}} || {{Unité|0.55|%}} {{Augmentation}} || {{Unité|67397}} || {{Unité|0.14|%}} {{Augmentation}} || {{Unité|66561}} || {{Unité|0.07|%}} {{Stagnation}} || {{Unité|66215}}
+|- align="right"
+| 11 || align="left" | [[Aire d'attraction de Dole|Dole]] || 87 || {{Unité|69486}} || {{unité|0.10|%}} {{Augmentation}} || {{Unité|68767}} || {{Unité|0.52|%}} {{Augmentation}} || {{Unité|65677}} || {{Unité|-0.05|%}} {{Stagnation}} || {{Unité|65980}} || {{Unité|0.33|%}} {{Augmentation}} || {{Unité|64270}}
+|- align="right" bgcolor="#efefef"
+| 12 || align="left" | [[Aire d'attraction de Vesoul|Vesoul]] || 158 || {{Unité|67216}} || {{Unité|-0.07|%}} {{Stagnation}} || {{Unité|67747}} || {{Unité|0.34|%}} {{Augmentation}} || {{Unité|65751}} || {{Unité|0.04|%}} {{Stagnation}} || {{Unité|65533}} || {{Unité|0.17|%}} {{Augmentation}} || {{Unité|64648}}
+|- align="right"
+| 13 || align="left" | [[Aire urbaine de Beaune|Beaune]] || 64 || {{Unité|50493}} || {{Unité|-0.13|%}} {{Diminution}} || {{Unité|51243}} || {{Unité|0.60|%}} {{Augmentation}} || {{Unité|48635}} || {{Unité|0.39|%}} {{Augmentation}} || {{Unité|46992}} || {{Unité|0.77|%}} {{Augmentation}} || {{Unité|44251}}
+
+|}
+
+==== Unités urbaines ====
+{| class="wikitable sortable" |border="0" style="border: 1px solid #999; background-color:#FFFFFF"
+|- align="center" bgcolor="#cccccc"
+! || Unité urbaine || Nombre de<br>communes<br>(2020) || Population<br>(2020) || Variation<br>annuelle<br>2010-2020 || Population<br>(2010) || Variation<br>annuelle<br>1999-2010 || Population<br>(1999) || Variation<br>annuelle<br>1990-1999 || Population<br>(1990)
+|- align="right"
+| 1 || align="left" | [[Unité urbaine de Dijon|Dijon]] || 15 || {{Nombre|248466}}|| {{augmentation}} 0,48 % ||{{formatnum:237117}} || {{stagnation}} 0,01 % ||{{formatnum:236953}} || {{augmentation}} 0,31 % ||{{formatnum:230451}}
+|- align="right" bgcolor="#efefef"
+| 2 || align="left" | [[Unité urbaine de Besançon|Besançon]] || 13 || {{Nombre|140290}}|| {{Augmentation}} 0,17 % ||{{Nombre|137896}}|| {{stagnation}} 0,07 % ||{{Nombre|136902}}|| {{augmentation}} 0,46 % ||{{Nombre|131484}}
+|- align="right"
+| 3 || align="left" | [[Unité urbaine de Montbéliard|Montbéliard]] || 25 || {{Nombre|112848}}|| {{diminution}} -0,21 % ||{{Nombre|115301}}|| {{diminution}} -0,27 % ||{{Nombre|118868}}|| {{diminution}} -0,39 % ||{{Nombre|123152}}
+|- bgcolor="#efefef" align="right"
+| 4 || align="left" | [[Unité urbaine de Chalon-sur-Saône|Chalon-sur-Saône]]|| 13 || {{Nombre|79701}}|| {{augmentation}} 0,21 % ||{{Nombre|78051}}|| {{diminution}} -0,20 % ||{{Nombre|79764}}|| {{diminution}} -0,19 % ||{{Nombre|81144}}
+|- align="right"
+| 5 || align="left" | [[Unité urbaine de Belfort|Belfort]]|| 16 || {{Nombre|77788}}|| {{Diminution}} -0,42 % ||{{formatnum:81167}}|| {{augmentation}} 0,13 % ||{{formatnum:80049}}|| {{augmentation}} 0,24 % ||{{formatnum:78387}}
+|- bgcolor="#efefef" align="right"
+| 6 || align="left" | [[Unité urbaine de Mâcon|Mâcon]]|| 16 || {{Nombre|61497}}|| {{Augmentation}} 0,43 % ||{{Nombre|58981}}|| {{augmentation}} 0,37 % ||{{Nombre|56673}}|| {{diminution}} -0,22 % ||{{Nombre|57811}}
+|- align="right"
+| 7 || align="left" | [[Unité urbaine de Nevers|Nevers]]|| 7 || {{Nombre|58231}}|| {{diminution}} -0,55 % ||{{formatnum:61647}}|| {{diminution}} -0,62 % ||{{formatnum:66162}}|| {{diminution}} -0,28 % ||{{formatnum:67891}}
+|- bgcolor="#efefef" align="right" 
+| 8 || align="left" | [[Unité urbaine d'Auxerre|Auxerre]] || 3 || {{Nombre|41486}}|| {{diminution}} -0,46 % ||{{formatnum:43467}} || {{diminution}} -0,34 % ||{{formatnum:45171}} || {{diminution}} -0,26 % ||{{formatnum:46244}}
+|- align="right"
+| 9 || align="left" | [[Unité urbaine de Sens|Sens]]|| 6 || {{Nombre|38784}}|| {{augmentation}} 0,70 % ||{{formatnum:36243}}|| {{diminution}} -0,40 % ||{{formatnum:37931}}|| {{augmentation}} 0,15 % ||{{formatnum:37440}}
+|- bgcolor="#efefef" align="right"
+| 10 || align="left" | [[Unité urbaine de Montceau-les-Mines|Montceau-les-Mines]]|| 5 || {{Nombre|37046}}|| {{diminution}} -0,81 % ||{{formatnum:40301}}|| {{diminution}} -0,46 % ||{{formatnum:42458}}|| {{diminution}} -0,93 % ||{{formatnum:46338}}
+|- align="right"
+| 11 || align="left" | [[Unité urbaine du Creusot|Le Creusot]] || 6 || {{Nombre|31848}}|| {{diminution}} -0,72 % ||{{formatnum:34316}} || {{diminution}} -0,96 % ||{{formatnum:38349}} || {{diminution}} -0,89 % ||{{formatnum:41681}}
+|- bgcolor="#efefef" align="right" 
+| 12 || align="left" | [[Unité urbaine de Dole|Dole]] || 8 || {{Nombre|30373}}|| {{diminution}} -0,16 % ||{{formatnum:30872}} || {{stagnation}} 0,06 % ||{{formatnum:30686}} || {{diminution}} -0,53 % ||{{formatnum:32223}}
+|- align="right"
+| 13 || align="left" | [[Unité urbaine de Vesoul|Vesoul]] || 8 || {{Nombre|28310}}|| {{diminution}} -0,29 % ||{{formatnum:29155}} || {{diminution}} -0,23 % ||{{formatnum:29916}} || {{augmentation}} 0,10 % ||{{formatnum:29647}}
+|- bgcolor="#efefef" align="right" 
+| 14 || align="left" | [[Unité urbaine de Lons-le-Saunier|Lons-le-Saunier]] || 11 || {{Nombre|26488}}|| {{diminution}} -0,25 % ||{{formatnum:27161}} || {{diminution}} -2,3 % ||{{formatnum:27658}} || {{diminution}} -1,8 % ||{{formatnum:28175}}
+|- align="right"
+| 15 || align="left" | [[Unité urbaine de Pontarlier|Pontarlier]] || 4 || {{Nombre|22898}}|| {{Augmentation}} 0,12 % ||{{formatnum:22634}} || {{augmentation}} 0,30 % ||{{formatnum:21922}} || {{augmentation}} 0,57 % ||{{formatnum:20850}}
+|- bgcolor="#efefef" align="right" 
+| 16 || align="left" | [[Unité urbaine de Beaune|Beaune]] || 1 || {{Nombre|20122}}|| {{diminution}} -1,01 % ||{{formatnum:22394}} || {{augmentation}} 0,20 % ||{{formatnum:21923}} || {{augmentation}} 0,33 % ||{{formatnum:21289}}
+|}
+
+{{Début de carte|style table=font-size:80%; line-height:1.1em;}} [[Fichier:{{Géolocalisation/Bourgogne-Franche-Comté|image}}|600px]]
+{{G|Bourgogne-Franche-Comté|47.32|5.04|Dijon{{!}}Dijon|Ville|1|n}}
+{{G|Bourgogne-Franche-Comté|47.24|6.02|Besançon{{!}}Besançon|Ville|1|s}}
+{{G|Bourgogne-Franche-Comté|47.51|6.80|Montbéliard{{!}}Montbéliard|Ville|1|o}}
+{{G|Bourgogne-Franche-Comté|47.64|6.86|Belfort{{!}}Belfort|Ville|2|e}}
+{{G|Bourgogne-Franche-Comté|46.78|4.85|Chalon-sur-Saône{{!}}Chalon-sur-S.|Ville|2|e}}
+{{G|Bourgogne-Franche-Comté|46.99|3.16|Nevers{{!}}Nevers|Ville|2|e}}
+{{G|Bourgogne-Franche-Comté|46.40|4.87|Mâcon{{!}}Mâcon|Ville|2|o}}
+{{G|Bourgogne-Franche-Comté|47.80|3.57|Auxerre{{!}}Auxerre|Ville|3|s}}
+{{G|Bourgogne-Franche-Comté|46.67|4.37|Montceau-les-Mines{{!}}Montceau-les-M.|Ville|3|e}}
+{{G|Bourgogne-Franche-Comté|48.20|3.28|Sens (Yonne){{!}}Sens|Ville|3|n}}
+{{G|Bourgogne-Franche-Comté|46.80|4.44|Le Creusot{{!}}Le Creusot|Ville|3|o}}
+{{G|Bourgogne-Franche-Comté|47.09|5.50|Dole (Jura){{!}}Dole|Ville|3|e}}
+{{G|Bourgogne-Franche-Comté|47.62|6.16|Vesoul{{!}}Vesoul|Ville|3|o}}
+{{G|Bourgogne-Franche-Comté|46.68|5.55|Lons-le-Saunier{{!}}Lons-le-Saunier|Ville|3|e}}
+{{G|Bourgogne-Franche-Comté|47.03|4.84|Beaune{{!}}Beaune|Ville|3|n}}
+{{G|Bourgogne-Franche-Comté|46.91|6.36|Pontarlier{{!}}Pontarlier|Ville|3|o}}
+{{G|Bourgogne-Franche-Comté|46.95|4.30|Autun{{!}}Autun|Ville|4|n}}
+{{G|Bourgogne-Franche-Comté|47.41|2.93|Cosne-Cours-sur-Loire{{!}}Cosne-Cours-sur-L.|Ville|4|e}}
+{{G|Bourgogne-Franche-Comté|47.82|6.38|Luxeuil-les-Bains{{!}}Luxeuil-les-B.|Ville|4|n}}
+{{G|Bourgogne-Franche-Comté|47.58|6.76|Héricourt (Haute-Saône){{!}}Héricourt|Ville|4|o}}
+{{G|Bourgogne-Franche-Comté|47.68|6.50|Lure{{!}}Lure|Ville|4|o}}
+{{G|Bourgogne-Franche-Comté|46.39|5.86|Saint-Claude (Jura){{!}}Saint-Claude|Ville|4|n}}
+{{G|Bourgogne-Franche-Comté|46.63|5.22|Louhans{{!}}Louhans|Ville|4|s}}
+{{G|Bourgogne-Franche-Comté|47.97|3.52|Migennes{{!}}Migennes|Ville|4|s}}
+{{G|Bourgogne-Franche-Comté|47.51|7.00|Delle{{!}}Delle|Ville|4|n}}
+{{G|Bourgogne-Franche-Comté|47.06|6.61|Morteau{{!}}Morteau|Ville|4|o}}
+{{G|Bourgogne-Franche-Comté|46.75|5.91|Champagnole{{!}}Champagnole|Ville|5|n}}
+{{G|Bourgogne-Franche-Comté|47.45|5.59|Gray (Haute-Saône){{!}}Gray|Ville|5|n}}
+{{G|Bourgogne-Franche-Comté|47.98|3.40|Joigny{{!}}Joigny|Ville|5|n}}
+{{G|Bourgogne-Franche-Comté|46.45|4.12|Paray-le-Monial{{!}}Paray-le-M.|Ville|5|s}}
+{{G|Bourgogne-Franche-Comté|47.49|6.93|Beaucourt{{!}}Beaucourt|Ville|5|s}}
+{{G|Bourgogne-Franche-Comté|46.52|6.02|Hauts de Bienne{{!}}Hauts de Bienne|Ville|5|o}}
+{{G|Bourgogne-Franche-Comté|47.04|5.41|Tavaux{{!}}Tavaux|Ville|5|e}}
+{{G|Bourgogne-Franche-Comté|46.48|3.98|Digoin{{!}}Digoin|Ville|5|n}}
+{{G|Bourgogne-Franche-Comté|46.83|3.46|Decize{{!}}Decize|Ville|5|n}}
+{{G|Bourgogne-Franche-Comté|47.19|5.39|Auxonne{{!}}Auxonne|Ville|5|n}}
+{{G|Bourgogne-Franche-Comté|46.60|4.06|Gueugnon{{!}}Gueugnon|Ville|5|n}}
+{{G|Bourgogne-Franche-Comté|47.71|6.68|Champagney (Haute-Saône){{!}}Champagney|Ville|5|no}}
+{{G|Bourgogne-Franche-Comté|46.91|4.75|Chagny (Saône-et-Loire){{!}}Chagny|Ville|5|e}}
+{{G|Bourgogne-Franche-Comté|47.49|3.91|Avallon{{!}}Avallon|Ville|5|n}}
+{{G|Bourgogne-Franche-Comté|47.26|5.94|Pouilley-les-Vignes{{!}}Pouilley-les-V.|Ville|5|n}}
+{{G|Bourgogne-Franche-Comté|47.39|6.77|Pont-de-Roide-Vermondans{{!}}Pont-de-Roide|Ville|5|s}}
+{{G|Bourgogne-Franche-Comté|47.74|6.83|Giromagny{{!}}Giromagny|Ville|5|e}}
+{{G|Bourgogne-Franche-Comté|46.56|4.91|Tournus{{!}}Tournus|Ville|5|n}}
+{{G|Bourgogne-Franche-Comté|47.52|5.12|Is-sur-Tille{{!}}Is-sur-Tille|Ville|5|n}}
+{{G|Bourgogne-Franche-Comté|47.15|6.35|Valdahon{{!}}Valdahon|Ville|5|e}}
+{{G|Bourgogne-Franche-Comté|47.14|4.95|Nuits-Saint-Georges{{!}}Nuits-St-G.|Ville|5|n}}
+{{G|Bourgogne-Franche-Comté|47.62|4.34|Montbard{{!}}Montbard|Ville|5|e}}
+{{G|Bourgogne-Franche-Comté|47.86|4.57|Châtillon-sur-Seine{{!}}Châtillon-sur-S.|Ville|5|s}}
+{{G|Bourgogne-Franche-Comté|47.24|5.22|Genlis{{!}}Genlis|Ville|5|n}}
+{{G|Bourgogne-Franche-Comté|47.86|3.97|Tonnerre (Yonne){{!}}Tonnerre|Ville|5|s}}
+{{G|Bourgogne-Franche-Comté|48.09|3.29|Villeneuve-sur-Yonne{{!}}Villeneuve-sur-Y.|Ville|5|n}}
+{{G|Bourgogne-Franche-Comté|47.35|6.36|Baume-les-Dames{{!}}Baume-les-D.|Ville|5|n}}
+{{G|Bourgogne-Franche-Comté|46.75|4.47|Montchanin{{!}}Montchanin|Ville|5|e}}
+{{Fin de carte}}
+<div class="thumbcaption">
+
+Localisation des agglomérations de Bourgogne-Franche-Comté de plus de {{unité|5000|habitants}}.</div>
+{{Classement fin
+|titre=Légende :
+|couleur1=
+|article1=
+|abréviations=
+[[Fichier:City locator 1.svg]] Agglomération de plus de {{Unité|100000|hab.}}
+
+[[Fichier:City locator 2.svg]] Agglomération de {{Unité|50000}} à {{Unité|100000|hab.}}
+
+[[Fichier:City locator 3.svg]] Agglomération de {{Unité|20000}} à {{Unité|50000|hab.}}
+
+[[Fichier:City locator 4.svg]] Agglomération de {{Unité|10000}} à {{Unité|20000|hab.}}
+
+[[Fichier:City locator 5.svg]] Agglomération de {{Unité|5000}} à {{Unité|10000|hab.}}
+}}
+
+=== Éducation et enseignement ===
+La région Bourgogne-Franche-Comté englobe les académies de [[Académie de Besançon|Besançon]] et de [[Académie de Dijon (éducation)|Dijon]].
+
+Elle compte, à la rentrée 2013, {{Unité|270000|écoliers}}, {{Unité|220000|collégiens}} et lycéens et {{Unité|75000|étudiants}} de l’université ou des classes post-baccalauréat. Parmi eux, un peu moins de {{Unité|20000|jeunes}} suivent une formation en apprentissage<ref>{{Lien web|langue=fr|url=https://www.insee.fr/fr/statistiques/2019806?sommaire=2019815&q=Bourgogne+franche-comt%C3%A9%20%C3%A9ducation|titre=Portrait de la Bourgogne Franche-Comté, conditions de vie, éducation et formation|jour=28|mois=4|année=2016|site=insee.fr|consulté le=24 novembre 2016}}.</ref>.
+
+Conséquence d’une démographie régionale atone, les effectifs scolarisés dans le premier degré ont diminué au cours des dernières années,
+
+La répartition des étudiants par type d’études dans l’enseignement supérieur est proche de la structure métropolitaine mais la région Bourgogne-Franche-Comté est parmi les régions qui comptent le moins de diplômés du supérieur parmi les 25-34 ans. À l’inverse la proportion de titulaires d’un CAP ou équivalent place la région au deuxième rang des régions métropolitaines.
+
+{|class="wikitable"
+|+Effectif scolarisé
+!
+!Total
+!Dont
+apprentissage
+!évolution 2013 / 2008
+(en %)
+|-
+|'''{{1er}} degré'''
+|align="right" |{{formatnum:269931}}
+|
+|align="right" | -1,4
+|-
+|'''{{2e}} degré'''
+|
+|
+|
+|-
+| {{1er}} cycle
+|align="right" |{{formatnum:131415}}
+|
+|align="right" |2,1
+|-
+| {{2e}} cycle général et technologique
+|align="right" |{{formatnum:57100}}
+|
+|align="right" |3,1
+|-
+| {{2e}} cycle professionnel
+|align="right" |{{formatnum:41963}}
+|align="right" |{{formatnum:14740}}
+|align="right" |-11,4
+|-
+| Enseignement adapté
+|align="right" |{{formatnum:4636}}
+|
+|align="right" |4,0
+|-
+|'''Total {{2e}} degré'''
+|align="right" |{{formatnum:235114}}
+|align="right" |{{formatnum:14740}}
+|align="right" | -1,0
+|-
+|'''Enseignement supérieur'''(1)
+|align="right" |{{formatnum:80142}}
+|align="right" |{{formatnum:5030}}
+|align="right" |4,3
+|-
+|'''Total'''
+|align="right" |{{formatnum:585187}}
+|align="right" |{{formatnum:19770}}
+| align="right" |-0,5
+|}
+(1) y compris classes post-baccalauréat BTS et CPGE<br>sources : MESR-DGESUP-DGRI-SES ; ESA DEPP
+
+==== Enseignement supérieur ====
+Les deux établissements d'enseignement supérieur principaux, l'[[université de Bourgogne]] et l'[[université de Franche-Comté]], se sont rassemblés en 2015 au sein d'une [[communauté d'universités et établissements]], l'[[université Bourgogne - Franche-Comté]] (UBFC), dont le siège est à [[Besançon]]. Rassemblant un total d'environ {{Unité|56000|étudiants}}, elle est répartie sur {{Unité|22|sites}} (par ordre décroissant d'effectif estudiantin) : Dijon, Besançon, Belfort, Montbéliard, Le Creusot, Auxerre, Nevers, Châlons-sur-Saône, Mâcon, Vesoul et Lons-le-Saunier. Elle comprend les établissements suivants, qui gardent leur autonomie juridique<ref>{{lien web|url=http://france3-regions.blog.francetvinfo.fr/fusion-bourgogne-franche-comte/2014/11/21/acte-de-naissance-de-luniversite-bourgogne-franche-comte.html|titre=Acte de naissance de l’université Bourgogne-Franche-Comté|site=Chronique d'une fusion annoncée}} de [[France 3 Franche-Comté]].</ref> :
+* l'[[université de Bourgogne]],
+* l'[[université de Franche-Comté]],
+* l'[[Université de technologie de Belfort-Montbéliard]],
+* [[Institut national supérieur des sciences agronomiques, de l'alimentation et de l'environnement|AgroSup Dijon]],
+* l'[[École nationale supérieure de mécanique et des microtechniques]] de Besançon,
+* l'École supérieure des technologies et des affaires de Belfort,
+* l'[[École supérieure de commerce de Dijon-Bourgogne]],
+* l'ENSAM Cluny<ref name=":1" />.
+
+{{référence nécessaire|Une des caractéristiques notables de la région est la « fuite » de ses diplômés : 49 % des étudiants ou natifs diplômés du supérieur de la région choisissent après leurs études de vivre dans une autre région.}}
+
+=== Santé ===
+'''L'[[espérance de vie à la naissance]]''' est, en 2013, proche de la moyenne nationale : {{Unité|78|ans}} pour les hommes et {{Unité|85|ans}} pour les femmes<ref name=":0">{{Lien web|langue=fr|titre=Portrait de la Bourgogne-Franche-Comté ; Conditions de vie - Accès aux soins de santé|url=https://www.insee.fr/fr/statistiques/2019809?sommaire=2019815|site=insee.fr|date=|consulté le=23 novembre 2016}}</ref>.
+
+'''Les causes de mortalité sont d'abord :''' les cancers qui constituent la première cause de mortalité (28 %) suivis par les maladies cardiovasculaires (26 %)<ref name=":0" />.
+
+'''Offre libérale de soins<ref name=":0" /> :''' La population bénéficie d’une offre libérale de soins de premier recours reposant sur près de {{Unité|5600|[[Médecine générale|médecins généralistes]]}}, {{Unité|6400|[[infirmier]]s}}, {{Unité|5700|[[Physiothérapie|masseurs-kinésithérapeutes]]}} et {{Unité|2600|[[Chirurgien-dentiste|chirurgiens-dentistes]]}}. Ceux-ci interviennent en amont et en aval du secteur hospitalier. Ces professionnels de santé sont relativement peu nombreux. La région est déficitaire pour l’offre libérale de soins de premier recours, avec des densités en professionnels (nombre pour {{Unité|10000|habitants}}) faibles comparées à celles des autres régions françaises : elle compte ainsi {{Unité|10|infirmiers}} pour {{Unité|10000|habitants}} soit {{Unité|2.5|points}} de moins que la moyenne nationale. Cet écart est de {{Unité|1.3|point}} pour les dentistes et de {{Unité|2.6|points}} pour les masseurs-kinésithérapeutes. La région comprend {{Unité|9.3|médecins}} généralistes pour {{Unité|10000|habitants}}, une densité inférieure de {{Unité|0.5|point}} à la moyenne nationale.{{Section vide ou incomplète}}
+
+=== Sports ===
+{{...}}
+La Bourgogne-Franche-Comté compte 7 700 clubs de sports rassemblant 600 000 licenciés (21,4 % de la population, trois points en dessous de la moyenne nationale), mais avec une part plus élevée de femmes dans les licenciés (37,14 %).
+
+Les 5 disciplines les plus pratiquées en Bourgogne-Franche-Comté sont :
+* le football (101 000 licenciés) ;
+* le tennis (36 000 licenciés) ;
+* l'équitation (34 000 licenciés) ;
+* le judo (25 000 licenciés) ;
+* le handball (18 000 licenciés).
+
+La région compte également 7 clubs professionnels (3 clubs de football, 2 de basket, 2 de handball féminin), 12 pôles de haut niveau, le [[Centre de ressources, d'expertise et de performance sportives|CREPS]] et le Centre national de ski nordique et de moyenne montagne (CNSNMM) de [[Prémanon]]<ref name=":1" />.
+
+==== Clubs ====
+'''Basket''' :
+* [[Jeanne d'Arc Dijon Basket|JDA Dijon Basket]]
+* [[Élan sportif chalonnais]]
+
+'''Football''' :
+
+Ligue 1
+* [[Association de la jeunesse auxerroise]] (AJA)
+Ligue 2
+* [[Dijon Football Côte-d'Or]] (DFCO)
+* [[Football Club Sochaux-Montbéliard]] (FCSM)
+
+National 2 :
+* [[Racing Besançon]]
+* [[Association sportive municipale belfortaine football club|ASM Belfort]]
+
+'''Rugby''' :
+* [[USON Nevers rugby]]
+* [[Racing Tango Chalonnais]]
+* [[Olympique de Besançon Rugby]]
+* [[Stade dijonnais Côte d'Or]]
+* [[Club Sportif Beaunois]]
+
+'''Handball :'''
+* [[Entente sportive bisontine féminin]]
+* [[Grand Besançon Doubs Handball]]
+* [[Jeanne d’Arc Dijon Handball]]
+* [[Dijon Métropole Handball]]
+
+=== Médias ===
+{{...}}
+
+La grande région est couverte par le réseau local des antennes de [[France 3]] : ainsi, [[France 3 Bourgogne]] et [[France 3 Franche-Comté]] se sont associées pour former [[France 3 Bourgogne-Franche-Comté]] ; les rédactions de chacune des antennes gardent cependant leur indépendance et les journaux télévisés sont séparés.
+
+Le réseau local de [[France Bleu]] est également présent ([[France Bleu Auxerre]], [[France Bleu Besançon]], [[France Bleu Bourgogne]], [[France Bleu Belfort Montbéliard]]).
+
+La presse écrite varie d'un département à l'autre : ainsi, ''[[L'Est républicain]]'' est distribué en [[Franche-Comté]] sauf dans le [[Jura (département)|Jura]], où c'est ''[[Le Progrès (Lyon)|Le Progrès]]'' qui est implanté. Le quotidien ''[[Le Bien public]]'' est distribué en [[Côte d'Or]], à [[Chalon-sur-Saône]] est basé ''[[Le Journal de Saône-et-Loire]]'' et à [[Auxerre]] ''[[L'Yonne républicaine]]''.
+
+=== Religion ===
+{{...}}
+
+== Environnement ==
+{{...}}
+
+=== Production d'énergies renouvelables ===
+{| class="wikitable"
+|+ Production d'électricité renouvelable (GWh) par filière
+|- align="center" bgcolor="#ffdead"
+| '''ktep'''
+| '''2008'''
+| '''2010'''
+| '''2012'''
+| '''2015'''
+| '''2016'''
+| '''2017'''
+|'''2018'''
+|'''2019'''
+|'''2020'''
+|'''2021'''
+| '''% 2021'''
+|- align="right"
+| align="left" | Éolien || 64 || 141 || 271 || {{formatnum:695.4}}|| {{formatnum:779.4}}|| {{formatnum:1101.6}}
+|{{Nombre|1310.8}}
+|{{Nombre|1769.7}}
+|{{Nombre|1943.3}}
+|{{Nombre|1921.3}}|| 52,7 %
+|- align="right"
+| align="left" | Hydraulique ren<ref group="Note">L'hydraulique renouvelable exclut les productions des centrales de [[pompage-turbinage]].</ref>.|| {{formatnum:1000.5}}|| {{formatnum:877.4}}|| {{formatnum:1050.4}}|| {{formatnum:727.6}}|| {{formatnum:944.2}}|| {{formatnum:620.8}}
+|{{Nombre|803.1}}
+|{{Nombre|862.2}}
+|{{Nombre|704.1}}
+|{{Nombre|982.5}}|| 26,9 %
+|- align="right"
+|align="left"| Solaire || {{formatnum:1.1}} || {{formatnum:19.6}} || {{formatnum:102.2}}|| {{formatnum:219.6}} || {{formatnum:215.5}} || {{formatnum:235.1}}
+|{{Nombre|291.7}}
+|{{Nombre|367.2}}
+|{{Nombre|385.1}}
+|{{Nombre|409.5}}|| 11,2 %
+|- align="right"
+|align="left"| Bioénergies || {{formatnum:47.8}} || {{formatnum:74.7}} || {{formatnum:89.7}} || {{formatnum:122.4}} || {{formatnum:125.8}} || {{formatnum:137.1}} 
+|{{Nombre|206.4}}
+|{{Nombre|229.3}}
+|{{Nombre|308.8}}
+|{{Nombre|333.8}}|| 9,2 %
+|- align="right"
+|align="left"| '''Total''' || '''{{formatnum:1113.4}}''' || '''{{formatnum:1112.7}}''' || '''{{formatnum:1513.3}}''' || '''{{formatnum:1765}}''' || '''{{formatnum:2064.9}}''' || '''{{formatnum:2094.6}}''' 
+|'''{{Nombre|2612.0}}'''
+|'''{{Nombre|3228.4}}'''
+|'''{{Nombre|3341.3}}'''
+|'''{{Nombre|3647.2}}'''|| '''100,0 %'''
+|-
+! colspan="13" |<small>Sources : Ministère de l'Écologie (base de données Pégase)</small><ref name="Pégase">[https://www.data.gouv.fr/fr/datasets/production-regionale-annuelle-des-energies-renouvelables-2008-a-2017-4/ Base de données Pégase]</ref>
+|}
+
+=== Qualité de l'environnement ===
+{{...}}
+
+=== Faune et flore ===
+{{...}}
+La région compte plusieurs réserves naturelles où sont protégées la faune et la flore :
+{{colonnes|taille=30|1=
+* [[Réserve naturelle nationale des Ballons comtois]]
+* [[Réserve naturelle nationale du Bois du Parc]]
+* [[Réserve naturelle nationale de la combe Lavaux-Jean Roland]]
+* [[Réserve naturelle nationale de la grotte de Gravelle]]
+* [[Réserve naturelle nationale de la grotte du Carroussel]]
+* [[Réserve naturelle nationale de l'île du Girard]]
+* [[Réserve naturelle nationale de La Truchère-Ratenelle]]
+* [[Réserve naturelle nationale du lac de Remoray]]
+* [[Réserve naturelle nationale du ravin de Valbois]]
+* [[Réserve naturelle nationale du Sabot de Frotey]]
+* [[Réserve naturelle nationale du val de Loire]]
+* [[Réserve naturelle régionale de la basse vallée de la Savoureuse]]
+* [[Réserve naturelle régionale de la côte de Mancy]]
+* [[Réserve naturelle régionale du Crêt des Roches]]
+* [[Réserve naturelle régionale du gouffre du creux à Pépé]]
+* [[Réserve naturelle régionale de la grotte de Beaumotte]]
+* [[Réserve naturelle régionale de la grotte de la Baume]]
+* [[Réserve naturelle régionale de la grotte de la Baume noire]]
+* [[Réserve naturelle régionale des grottes du Cirque]]
+* [[Réserve naturelle régionale de la Loire bourguignonne]]
+* [[Réserve naturelle régionale des Mardelles de Prémery]]
+* [[Réserve naturelle régionale de la seigne des Barbouillons]]
+* [[Réserve naturelle régionale de la tourbière de la Grande Pile]]
+* [[Réserve naturelle régionale des tourbières de Frasne-Bouverans]]
+* [[Réserve naturelle régionale des tourbières du Morvan]]
+* [[Réserve naturelle régionale du Val-Suzon]]
+* [[Réserve naturelle régionale du vallon de Fontenelay]]}}
+
+=== Parcs naturels ===
+{{article détaillé|Parc national de forêts|Parc naturel régional du Haut-Jura|Parc naturel régional du Morvan|Parc naturel régional des Ballons des Vosges|Parc naturel régional du Doubs Horloger}}
+
+La région Bourgogne-Franche-Comté compte un [[Parc national (France)|parc national]], le [[parc national de forêts]] et quatre parcs naturels régionaux (PNR) : le [[parc naturel régional du Morvan]], le [[parc naturel régional des Ballons des Vosges]], le [[parc naturel régional du Haut-Jura]] et le [[parc naturel régional du Doubs Horloger]].
+== Économie ==
+{{Article détaillé|Économie de la Bourgogne|Économie de la Franche-Comté}}
+
+<gallery mode="packed">
+Fichier:Dijon Place Jean BOUHEY Tramway 01.jpg|Le quartier d'affaires Clemenceau à [[Dijon]].
+</gallery>
+
+Selon [[France Stratégie]], la fusion des deux régions était économiquement cohérente pour cinq départements sur huit tandis que trois départements (le [[Territoire de Belfort]] mais également la [[Nièvre (département)|Nièvre]] et la [[Saône-et-Loire]]) seraient davantage soumis à l'attraction d'autres régions<ref>{{Lien web|auteur=Jean-Laurent Cassely|titre=Ces départements n'appartiennent pas vraiment à leur nouvelle région quand on étudie l'économie et les déplacements domicile-travail|url=http://www.slate.fr/story/101707/grandes-regions-departements|site=[[Slate (magazine)|Slate]]|date=18 mai 2015|consulté le=01-09-2018}}.</ref>{{,}}<ref>{{Lien web|auteur1=Claire Bernard|auteur2=Anne Épaulard|auteur3=Arno Amabile|titre=Réforme territoriale et cohérence économique régionale|url=http://www.strategie.gouv.fr/publications/reforme-territoriale-coherence-economique-regionale|site=[[France Stratégie]]|consulté le=01-09-2018}}.</ref>.
+
+Les deux régions partageaient déjà des liens économiques avant leur projet de fusion, notamment dans l'enseignement et la recherche comme la [[communauté d'universités et établissements]] de [[Université Bourgogne - Franche-Comté|Bourgogne-Franche-Comté]]<ref>{{lien web|url=http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023240637|titre=Décret du 15 décembre 2010 portant approbation des statuts de la fondation de coopération scientifique dénommée « PRES Bourgogne Franche-Comté »|site=[[Légifrance]]}}.</ref>.
+
+L'économie bourguignonne et franc-comtoise est tournée vers l'export : la région génère en 2016 le {{2e}} meilleur excédent commercial français, sur 5 secteurs principaux :
+* les produits liés à l'automobile ;
+* la sidérurgie ;
+* la production de machines ;
+* la production de matériel électrique ;
+* la production de boissons.
+
+=== Revenus de la population et fiscalité ===
+{{Section vide ou incomplète}}
+
+=== Emploi ===
+{{Unité|1.1|million}} d’emplois sont situés dans la région à la fin {{date-|2013}} soit 4,1 % de l'emploi national<ref>{{Lien web |langue=fr |auteur=Audrey Mirault, Insee Bourgogne-Franche-Comté |titre=Bourgogne Franche-Comté L’axe Rhin-Rhône, colonne vertébrale d’une région qui conserve un profil rural et industriel |url=https://www.insee.fr/fr/statistiques/2019642 |site=insee.fr |consulté le=25 novembre 2016}}.</ref>.
+
+La région possède deux villes métropoles, [[Besançon]] et [[Dijon]], et il existe sept aires urbaines peu distantes les unes des autres : Chalon-sur-Saône, Beaune, Dijon, Dole, Besançon, Montbéliard et Belfort. Ces sept aires constituent un arc urbain de {{Unité|1.1|million}} d’habitants et de {{Unité|486000|emplois}}. Quatre autres zones significatives existent : Mâcon, Nevers, Sens et Auxerre. Mâcon est davantage tournée vers la métropole lyonnaise. L’aire urbaine de Nevers est isolée du reste de la région par sa position excentrée. L’agglomération de Sens, excentrée elle aussi, se situe dans le prolongement de l’aire d’influence de Paris. L’aire urbaine d’Auxerre est également relativement isolée bien qu'au cœur urbain de la région.
+
+En tout, 25 zones d'emploi sont identifiées dans la région, même si cinq d'entre-elles rassemblent en 2016 56 % des emplois de la région : Dijon (193 050), Belfort-Montbéliard-Héricourt (133 730), Besançon (125 400), Auxerre (81 030), Châlon-sur-Saône (73 570)<ref name=":1" />.
+
+La région a un profil davantage industriel ({{1re}} région de France en part d'emploi industriel) et agricole ({{2e}} région en création de valeur ajoutée) comparée aux autres régions françaises, même si le secteur tertiaire concentre la grande majorité des emplois (71,7 % de l'emploi).
+
+{| class="wikitable"
+|+Répartition de l'emploi par secteur d'activité (en 2016)<ref name=":1" />
+|Tertiaire marchand
+|38,8 %
+|-
+|Tertiaire non marchand
+|32,9 %
+|-
+|Industrie
+|17,3 %
+|-
+|BTP
+|6.9 %
+|-
+|Agriculture
+|4,1 %
+|}
+
+=== Industries ===
+L'industrie, qui s'est développée dès le {{s-|XIX}} (charbon de [[Montceau-les-Mines]], sidérurgie du Creusot, mines de La Machine), a connu un nouvel essor après 1945, particulièrement dans la vallée de la Saône (Mâcon, Chalon-sur-Saône), à Dijon et dans l'Yonne, mais n'a pas été épargnée par la crise. Parmi les entreprises internationales implantées en Bourgogne peuvent être citées [[Amora Maille]] (groupe [[Unilever]]), dont les usines d'[[Appoigny]] (Yonne) et de [[Dijon]] (Côte-d'Or) ont fermé fin août 2009, les laboratoires pharmaceutiques URGO à [[Chenôve]] et [[Chevigny-Saint-Sauveur]], l'usine Fulmen, plus gros employeur d'Auxerre (usine fermée), les [[Laboratoires Vendôme]] (Le petit Marseillais…) à [[Quetigny]] ([[Dijon Métropole]]) et l'usine historique du [[groupe SEB]] à [[Selongey]].
+
+En revanche, le nord de la région, pauvre en grandes entreprises, a profité de l'installation d'industries moins lourdes, plus diversifiées : parachimie, industrie pharmaceutique, électronique, plasturgie, papeterie, industries mécaniques et automobiles, agroalimentaire.
+
+Rassemblant 17,3 % des emplois régionaux (170 390 postes), l'industrie contribue à la création de 18,5 % de la valeur ajoutée de la Région. 4 secteurs rassemble 60 % des emplois industriels :
+* la métallurgie et fabrication de produits métalliques (19 %, 33 930 emplois),
+* la fabrication de matériel de transports (15 %, 25 820 emplois),
+* l'agro-alimentaire (14 %, 21 540 emplois),
+* fabrication de produits en caoutchouc (10 %, 18 650 emploi)
+
+C'est naturellement ce secteur qui supporte la majeure partie des dépenses en recherche et développement (78 % des dépenses R&D de la région)<ref name=":1" />.
+
+==== Pôles de compétitivité ====
+{{Section vide ou incomplète}}
+Depuis 2005, la Bourgogne affiche la présence de deux pôles de compétitivité : le Pôle Nucléaire Bourgogne et Vitagora Goût-Nutrition-Santé (agroalimentaire).
+
+La Bourgogne a créé la Super Cocotte [[SEB|Seb]], les avions [[Jodel (avions)|Jodel]] et les collants [[Dim (lingerie)|Dim]] dans les années 1950. Désormais, elle fabrique le cœur des [[Centrale nucléaire|centrales nucléaires]], les bogies du [[TGV]], les pansements [[Laboratoire Urgo|Urgo]] et les cosmétiques des [[Laboratoires Vendôme]].
+
+==== Fleurons industriels ====
+Le site industriel [[Usine PSA de Sochaux|Peugeot - Citroën Sochaux]] est le premier de France avec {{Unité|7000|salariés}} en septembre 2019. Il produit actuellement les [[Peugeot 308 I]] et [[Peugeot 308 II|II]], [[Peugeot 3008 I|Peugeot 3008]], [[Peugeot 5008 I|Peugeot 5008]] et la [[DS 5|Citroën DS5]]. L'[[usine PSA de Vesoul]] du même groupe compte plus de trois mille salariés. La famille [[Peugeot]] est originaire de Franche-Comté où se sont développées les premières entreprises portant ce nom.
+
+Le [[Fromageries Bel|groupe Bel]], fabricant de produits laitiers tels que [[La vache qui rit]], [[Babybel|Mini Babybel]], [[Kiri (marque fromagère)|Kiri]], [[Leerdammer]], [[Boursin (marque)|Boursin]], est originaire du Jura et possède des usines à [[Dole (Jura)|Dole]] et [[Lons-le-Saunier]].
+
+Le groupe chimique belge [[Solvay (entreprise)|Solvay]] possède à [[Tavaux]], à côté de [[Dole (Jura)|Dole]], [[Usine Solvay de Tavaux|son plus grand site]], couvrant près de {{Unité|300|hectares}}.
+
+À [[Belfort]] se situent les usines [[Alstom]] spécialisées dans la production ferroviaire, notamment pour les [[TGV]], ainsi que l'ingénierie et les ateliers de [[General Electric]] construisant des alternateurs, des [[turbine à vapeur|turbines à vapeur]] et des [[turbine à gaz|turbines à combustion]] industriels.
+
+Au [[Le Creusot|Creusot]] se trouve l'ancien site industriel de [[Creusot-Loire]] aujourd'hui composé de [[Orano|Areva Creusot-Forge]], Industeel ([[ArcelorMittal]]), Thermodyn ([[General Electric]]) et [[Alstom|Alstom Transport]], ainsi que d'usines plus récentes, comme [[Safran Aircraft Engines|Snecma]] ([[Safran (entreprise)|Safran]]).
+
+À [[Chalon-sur-Saône]] et [[Saint-Marcel (Saône-et-Loire)|Saint-Marcel]], à l'est de Chalon-sur-Saône, sont implantées deux usines [[Orano|Areva]] avec environ mille salariés chacune.
+
+Parmi les entreprises internationales implantées en Bourgogne peuvent aussi être citées [[Amora Maille]] (groupe [[Unilever]]), dont les usines d'[[Appoigny]] (Yonne) et de [[Chevigny-Saint-Sauveur]] (Côte-d'Or) (usines fermées), le [[laboratoire Urgo|groupe Urgo]] (produits pharmaceutiques) à [[Chenôve]] et Chevigny-Saint-Sauveur, l'usine Fulmen, plus gros employeur d'Auxerre (usine fermée), les [[Laboratoires Vendôme]] (Le petit Marseillais…) à [[Quetigny]] ([[Dijon Métropole]]) et l'usine historique du [[groupe SEB]] à [[Selongey]].
+
+=== Agriculture ===
+Avec 43 000 emplois (4,1 % du total), l'agriculture contribue à 4 % de la valeur ajoutée régionale (2 points de plus que la moyenne française), grâce notamment à des filières d'excellence (vin, fromages d’appellation, broutard charolais et volailles de Bresse). On distingue 4 grandes filières<ref name=":1" /> :
+* l'élevage bovin-laitier à l'est,
+* l'élevage allaitant au sud-ouest,
+* les grandes cultures au Nord
+* la viticulture sur des secteurs localisés
+
+La part d'[[Agriculture biologique en France|agriculture biologique]] s'élève en 2018 à 7 % de la [[surface agricole utile]] (SAU), ce qui en fait la {{8e}} région de France sur la production engagée en bio<ref>{{Lien web |langue=français |format=pdf |auteur=Région BFC - DRAAF BFC |titre=Comité régional de l’Agriculture Biologique24 janvier 2020 |url=http://draaf.bourgogne-franche-comte.agriculture.gouv.fr/IMG/pdf/20200124_diaporama_cle865463.pdf |site=http://draaf.bourgogne-franche-comte.agriculture.gouv.fr/ |date=24 janvier 2020 |consulté le=1er novembre 2020}}</ref>.
+
+==== Productions végétales ====
+* '''[[Céréale]]s''' : les céréales sont présentes dans l'ensemble de la région, elles sont utilisées pour le bétail ou pour des produits alimentaires.
+* '''[[Colza]]''' : ces exploitations se trouvent majoritairement dans l'Yonne et sont typiquement régionales.
+
+==== Productions animales ====
+* [[Charolais de Bourgogne]] ([[Indication géographique protégée|IGP]])
+* '''[[Poule de Bresse|Volaille de Bresse]] (4 [[Appellation d'origine protégée|AOP]])''' : le poulet de Bresse, poularde et chapon de Bresse, [[Agriculture|produit agricole]] destiné à l'alimentation humaine et dont l'[[appellation d'origine]] bénéficie d'une [[appellation d'origine contrôlée]] (AOC) depuis 1957. Elle est élevée en lignée pure par des éleveurs sélectionneurs, afin d'en préserver son [[patrimoine génétique]] et d'en améliorer ses qualités tout en sélectionnant les sujets conformes au standard. Depuis une loi de [[1957]], volaille de Bresse, poulet de Bresse, chapon de Bresse, poularde de Bresse sont des [[Appellation d'origine|appellations d'origine]] préservées grâce à une [[appellation d'origine contrôlée]] (AOC) [[France|française]] désignant des pratiques d'élevage et une origine. Cette loi confirme l'aire de production déterminée par un jugement du tribunal civil de [[Bourg-en-Bresse]] de 1936 : la volaille de Bresse est produite dans un [[terroir]] à la superficie assez limitée ({{Unité|100|km}} sur {{Unité|40|km}}) située sur les départements de l'[[Ain (département)|Ain]], de [[Saône-et-Loire]] et du [[Jura (département)|Jura]]. Les villes les plus importantes dans l'élevage de la volaille de Bresse sont [[Bourg-en-Bresse]], [[Louhans]], [[Pont-de-Vaux]] et [[Montrevel-en-Bresse]].
+*'''Fromages''' : 14 AOP/AOC dont le [[Bleu de Gex|bleu de Gex Haut-Jura]], le [[Chaource (fromage)|chaource]], le [[Charolais (fromage)|charolais]], le [[Crottin de Chavignol|chavignol]], le [[Comté (fromage)|comté]], l'[[Époisses (fromage)|époisse]], le [[Langres (fromage)|langres]], le [[Mâconnais (fromage)|mâconnais]], le [[Mont d'Or (fromage)|mont d'or]], le [[Morbier (fromage)|morbier]] et deux IGP, [[Emmental français est-central|emmental grand cru Est-Central]] et [[Gruyère français|gruyère de France]].
+* '''Salaisons''' : [[saucisse de Montbéliard]], [[saucisse de Morteau]]
+
+==== Production viticole ====
+{{article détaillé|Vignoble de Bourgogne|Vignoble du Jura}}
+* '''[[Vignoble de Bourgogne]]''' (100 AOC, 5 IGP): il s'étend sur {{unité|29500|[[hectare]]s}} en [[2008]], dont {{unité|25000|ha}} classés en [[Appellation d'origine contrôlée|AOC]], ces appellations étant au nombre de 84. La Bourgogne produit des [[Vin rouge|vins rouges]], à base des [[cépage]]s [[Pinot noir (cépage)|pinot noir]] et [[gamay]], et des [[Vin blanc|vins blancs]], à bases de [[cépage]]s [[Chardonnay (cépage)|chardonnay]] et [[aligoté]]. Il est produit plus de vins blancs que de vins rouges, soit 60,5 % de vins blancs, 31,5 % de vins rouges et rosés et 8 % de [[crémant]].
+* '''[[Vignoble du Jura]]''' : le vignoble du Jura s'étend sur {{Unité|2050|hectares}} dont {{Unité|1850|hectares}} produisent les {{Unité|4|AOC}} géographiques : [[Arbois (AOC)|Arbois]], [[Côtes-du-jura]], [[L'étoile (AOC)|l’Étoile]] et [[Château-chalon (AOC)|Château-Chalon]] et deux AOC produits : [[Crémant-du-jura|crémant-du-Jura]] et [[Macvin-du-jura|macvin du Jura]].
+
+==== Autres productions ====
+* '''Sylviculture'''
+
+Avec trois grands massifs forestiers (Morvan, Jura, Vosges) la Bourgogne-Franche-Comté dispose d'importantes ressources forestières (1,75 million d'hectares), cependant parfois d'accès difficile. 6 000 établissements sont recensés dans ce secteur<ref name=":1" />.
+
+* '''Cassis de Bourgogne''' : d'après les statistiques du ministère de l'Agriculture de 1927, la Côte d'Or était leader de la production avec 40 % des tonnages. En 2001, à [[Nuits-Saint-Georges]] au sud de [[Dijon]], s'est ouvert le Cassissium, musée consacré à l'étude du cassis qui propose une documentation spécialisée sur cette baie, ainsi qu'une visite guidée de liquoristerie.
+
+=== Industrie ===
+=== Les services marchands ===
+De 2003 à 2015 les emplois dans les services marchands ont, au total, progressé de 5,4 % (de 12,5 % en moyenne pour la France de province)<ref>{{Lien web|langue=fr|url=https://www.insee.fr/fr/statistiques/2019657|titre=Bourgogne franche-Comté - L'emploi dans les services marchands hors interim décroche en Bourgogne-Franche-Comté depuis les années 2000|auteur=Stéphane Adrover, Marie Léger, Émilie Vivas, Insee Bourgogne-Franche-Comté|jour=20|mois=06|année=2016|site=insee.fr|consulté le=25 novembre 2016}}.</ref>.
+
+{| class="wikitable"
+|+Part et évolution de l'emploi dans les services marchands (hors intérim)
+|-
+!Secteurs
+!Nombre d'emplois en 2003
+!Nombre d'emplois en 2015
+|Évolution en % 2015/2003
+|-
+|Transports et entreposage
+|align="right" |{{formatnum:55535}}
+|align="right" |{{formatnum:51503}}
+|align="right" | -7,3
+|-
+|Hébergement et restauration
+|align="right" |{{formatnum:29460}}
+|align="right" |{{formatnum:30127}}
+|align="right" |2,3
+|-
+| Information et communication
+|align="right" |{{formatnum:9874}}
+|align="right" |{{formatnum:8190}}
+|align="right" |-17,1
+|-
+| Activités financières et d'assurances
+|align="right" |{{formatnum:22819}}
+|align="right" |{{formatnum:23314}}
+|align="right" |2,2
+|-
+|Activités immobilières
+|align="right" |{{formatnum:6801}}
+|align="right" |{{formatnum:6950}}
+|align="right" |2,2
+|-
+| Services aux entreprises (1)
+|align="right" |{{formatnum:51665}}
+|align="right" |{{formatnum:64361}}
+|align="right" |24,6
+|-
+|Autres services (2)
+|align="right" |{{formatnum:26513}}
+|align="right" |{{formatnum:29220}}
+|align="right" | 2,2
+|-
+|'''Total'''
+|align="right" |{{formatnum:202667}}
+|align="right" |{{formatnum:213665}}
+| align="right" |+ 5,4
+|}
+(1) activités spécialisées, scientifiques et techniques, activités administratives et de soutien<br>(2) divers services aux particuliers, activités récréatives et culturelles
+
+Le commerce et les services tiennent une place importante en Bourgogne ([[Avallon]] est le siège du groupe de distribution [[Schiever]]).
+
+=== Tourisme ===
+Le secteur du tourisme (4,1 % de l'emploi régional total, 42 100 emplois en 2015) contribue pour 5,7 % du [[Produit intérieur brut|PIB]] régional<ref>{{Lien web|langue=fr|url=http://observatoire.franche-comte.org/bilans/CHIFFRES-CLES-BOURGOGNE-FRANCHE-COMTE-2016-1470138926.pdf|titre=Bourgogne - Franche-Comté ; Chiffres clés du tourisme 2015|site=observatoire.franche-comte.org|éditeur=Observatoire du tourisme, CRT|consulté le=26 novembre 2016}}.</ref> mais souffre de sa faible capacité d'accueil (une des régions les moins denses de France en termes de capacité d'accueil), mais bénéficie d'une importante clientèle étrangère (30 % des nuitées, un des taux les plus élevés de France métropolitaine)
+
+Parmi les nombreuses activités contribuant au tourisme dans la région figure le [[vélorail]], {{cita|moyen de transport original et ludique}} qui a le {{cita|vent en poupe}}<ref>"LE TOP 5 DES VÉLO-RAILS" le 15 juin 2022 dans ''La lettre du cheminot'' [https://www.lettreducheminot.fr/voyage/le-top-5-des-velo-rails/]</ref>. En Bourgogne-Franche-Comté, le [[vélorail]] se pratique depuis la gare de Cordesse (Saône-et-Loire), à partir de laquelle deux parcours vont dans le département voisin de Côte-d'Or<ref name=Oùfaire/>, initiés par un passionné de train, fils de cheminot<ref name=Oùfaire/>, mènent l'un vers Barnay (8 km aller-retour), l'autre vers Manlay (22 km aller-retour)<ref name=Oùfaire/>. Pour franchir le dénivelé (120 m entre le point de départ et d'arrivée), les machines bénéficient d'une assistance électrique<ref name=Oùfaire/> et on succédé au dernier train de voyageurs, en décembre 2011, sur la ligne Autun-Avallon<ref name="Oùfaire">"Où faire du vélorail dans votre région ?" par Jean-Marc De Jaeger le 01/06/202 ''[[Le Figaro]]'' [https://www.lefigaro.fr/voyages/ou-faire-du-velorail-dans-votre-region-1-20200601] </ref>.
+==== Le Comité du tourisme régional ====
+Un Comité du tourisme régional unique pour la Bourgogne et la Franche-Comté est créé en 2016<ref>{{Lien web|langue=fr|url=http://www.voixdujura.fr/un-comite-du-tourisme-regional-unique-pour-la-bourgogne-et-la-franche-comte_17810/|titre=Les comités régionaux du tourisme de Bourgogne et Franche-comté ont fusionné pour n'en faire qu'un|auteur=Laurent Villette|jour=29|mois=3|année=2016|site=lavoixdujura.fr|consulté le=26 novembre 2016}}.</ref>, résultant de la fusion des deux entités précédentes. Les deux sites de Besançon et de Dijon sont conservés. Le nouveau conseil d’administration du CRT Bourgogne-Franche-Comté est composé de {{Unité|35|membres}} (conseillers régionaux, professionnels du tourisme ou représentants des collectivités locales). Il existe {{Unité|122|[[Office de tourisme|offices de tourisme]]}} dans la région.
+
+Il dispose d'un Observatoire du tourisme qui publie les chiffres et données relatives au tourisme.
+
+== Patrimoine régional ==
+=== Sites classés au patrimoine mondial ===
+La Bourgogne-Franche-Comté abrite plusieurs monuments inscrits au [[patrimoine mondial]] de l'[[Organisation des Nations unies pour l'éducation, la science et la culture|UNESCO]] :
+* l'[[abbaye de Fontenay]],
+* la [[Basilique Sainte-Marie-Madeleine de Vézelay|basilique de Vézelay]],
+* la [[chapelle Notre-Dame du Haut]] de [[Ronchamp]] créée par [[Le Corbusier]],
+* les [[Climat (viticulture)|climats]] du [[vignoble de Bourgogne]], qui comprend aussi des villages de la [[Côte-d'Or]], la ville de [[Beaune]] et le [[centre-ville de Dijon]],
+* la [[citadelle de Besançon]], l’[[Histoire de la fortification bisontine#Enceinte urbaine|enceinte urbaine]] et le [[fort Griffon]], dans le cadre du [[Fortifications de Vauban inscrites à l'Unesco|réseau des sites majeurs de Vauban]],
+* la [[saline royale d'Arc-et-Senans]] et les [[salines de Salins-les-Bains]],
+* les [[Sites palafittiques préhistoriques autour des Alpes|sites palafittiques préhistoriques]] du [[lac de Chalain]] et du [[Le Grand Lac de Clairvaux|grand lac de Clairvaux]],
+* le [[prieuré Notre-Dame de La Charité-sur-Loire]] et l'[[église Saint-Jacques-le-Majeur d'Asquins]], faisant partie des [[chemins de Compostelle en France]]. 
+
+<gallery mode="packed" caption="Sites du patrimoine mondial en Bourgogne-Franche-Comté.">
+Fichier:Citadelle Besançon.jpg|La [[citadelle de Besançon]].
+Fichier:France arc et senas saline royal main building 1.jpg|La [[saline royale d'Arc-et-Senans]].
+Fichier:00 Basilique Ste-Marie-Madeleine de Vézelay - Tour et côté sud.JPG|La [[Basilique Sainte-Marie-Madeleine de Vézelay|basilique de Vézelay]].
+Fichier:ID1862 Abbaye de Fontenay PM 48225.jpg|L'[[abbaye de Fontenay]].
+Fichier:Saline de Salins-les-Bains 007.jpg|Les [[salines de Salins-les-Bains]].
+Fichier:Domaine de la Romanée-conti 010.JPG|Les [[Climat (viticulture)|climats]] du [[vignoble de Bourgogne]].
+Fichier:2012-Chapelle Notre-Dame-du-Haut.jpeg|La [[Chapelle Notre-Dame-du-Haut]] à [[Ronchamp]].
+</gallery>
+
+<gallery mode="packed">
+Dijon banner.jpg|Le [[centre-ville de Dijon]].
+</gallery>
+
+=== Sites historiques et architecturaux remarquables ===
+Se trouvent également dans la région :
+* le [[site archéologique d'Alésia]],
+* [[Bibracte]] sur le [[Mont Beuvray]], labellisé [[Label Grand Site de France|Grand Site de France]]<ref name="Grand Site">{{Lien web|titre=Le label Grand Site de France et les sites labellisés|url=http://www.grandsitedefrance.com/fr/label.html|site=grandsitedefrance.com|consulté le=27 janvier 2016}}.</ref>.
+* le [[Temple de Janus (Autun)|temple de Janus d'Autun]],
+* La [[Cathédrale Saint-Lazare d'Autun|cathédrale Saint-Lazare]].
+* les [[théâtre antique de Mandeure|théâtres antiques de Mandeure]] et d'[[Théâtre romain d'Autun|Autun]],
+* le château de [[Guédelon]],
+* les [[Hospices de Beaune]],
+* la [[citadelle de Belfort]] conçue par [[Sébastien Le Prestre de Vauban|Vauban]] et [[Raymond Adolphe Séré de Rivières|Séré de Rivières]], et où se trouve le [[Lion de Belfort|Lion]] de [[Auguste Bartholdi|Bartholdi]],
+* l'[[abbaye de Cluny]],
+* le [[Château de la Clayette|château de La Clayette]].
+
+<gallery mode="packed">
+Autun TempleJanus JPM.JPG|Le [[Temple de Janus (Autun)|temple de Janus]] à [[Autun]].
+Cathédrale Autun 02.JPG|La [[Cathédrale Saint-Lazare d'Autun|Cathédrale d'Autun]].
+Château de Guédelon (France) en mai 2014 et moutons.jpg|Le château de [[Guédelon]].
+Beaune hospice cour ass 1.jpg|Les [[Hospices de Beaune|Hospices]] de [[Beaune]].
+2014-09-15 16-14-55 lion-belfort.jpg|Le [[Lion de Belfort]].
+Château de la Clayette vu de la rive du lac.jpg|Le [[château de La Clayette]].
+</gallery>
+
+=== Grands sites naturels ===
+La région compte parmi les plus vertes de France, avec un patrimoine naturel important : forêts recouvrant 36 % du territoire, montagnes, cours d'eau, parcs naturels, bocages. Elle dispose de plusieurs sites naturels classés ou remarquables :
+* le [[ballon d'Alsace]], classé au titre de la [[Loi ayant pour objet de réorganiser la protection des monuments naturels et des sites de caractère artistique, historique, scientifique, légendaire ou pittoresque|loi de 1930 sur les sites et paysages]] ;
+* le [[Région des Mille étangs|plateau des Mille étangs]] dans les [[Vosges saônoises]] ;
+* [[Lac des Settons|le lac des Settons]].
+* le [[lac de Saint-Point]], l'un des plus grands lacs naturels de France ;
+* le [[lac de Vouglans]], troisième retenue artificielle française avec {{nobr|620 millions}} de mètres cubes ;
+* la [[reculée de Baume-les-Messieurs]] ;
+* l'[[Arboretum de Pézanin|Arboretum Domanial de Pézanin]], l'un des plus riches de France, créé en 1903 ;
+* le [[Saut du Doubs]] à [[Villers-le-Lac]] (Doubs) ;
+* les [[Roche de Solutré|roches de Solutré]] et [[Vergisson]], labellisées [[Label Grand Site de France|Grand Site de France]]<ref name="Grand Site"/> ;
+* la [[forêt de Chaux]], la seconde plus vaste forêt feuillue de France.
+* le [[gouffre de Poudrey]] (Doubs) ;
+* la [[Loue|source de la Loue]] (Doubs) ;
+* la [[Lison (rivière)|source du Lison]] (Doubs) ;
+* les [[cascades du Hérisson]] (Jura).
+* les [[gorges du Flumen]] (Jura)
+* le [[lac de Lamoura]] (Jura)
+
+<gallery mode="packed">
+Settons.png|Lac des Settons.
+Lac de Vouglans3.JPG|Lac de Vouglans.
+Baume les messieurs.JPG|La reculée de Baume-les-Messieurs.
+Cret Pela.jpg|Le [[Crêt Pela]].
+Arboretum, lac de Pezanin.jpeg|Le lac et l'[[Arboretum de Pézanin]].
+</gallery>
+
+== Identité visuelle ==
+=== Logotype ===
+La région utilise un [[logotype]] provisoire de sa création le {{date-|1 janvier 2016}}, à la fin {{date-|novembre 2016}}. Il comporte seulement les trois mots (dont un mot composé avec trait d'union) en majuscules {{citation|Région Bourgogne Franche-Comté}} en orange sur deux lignes.
+
+<gallery caption="Logos officiels successifs.">
+Logo Bourgogne-Franche-Comté 2016-01.png|De janvier à novembre 2016.
+Bourgogne-Franche-Comté 2016.svg|Depuis novembre 2016.
+Logo BFC jaune.svg|Variante à fond jaune utilisée sur les nouvelles rames TER régionales présentées le {{1er}} juillet 2018<ref>[http://www.info-chalon.com/articles/bourgogne/2018/07/18/38669/presentation-de-la-premiere-rame-ter-regiolis-habillee-aux-couleurs-de-la-region-et-de-la-marque-mobigo-bourgogne-franche-comte/ Présentation de la première rame TER Régiolis].</ref>.
+</gallery>
+
+==== Polémique ====
+Un nouveau logo est mis en place le {{date-|24 novembre 2016}}, sans annonce, sur le site internet de la région et des brochures de communication. Ce nouveau logo, créé par l'agence de communication Dartagnan<ref>{{lien web |titre=Agence Dartagnan communication<!-- Vérifiez ce titre --> |url=http://agencedartagnan.com/ |site=agencedartagnan.com |consulté le=27-10-2021}}.</ref>, implantée à [[Paris]], [[Besançon]] et [[Dijon]], est formé de quatre mots en majuscules {{citation|Région Bourgogne Franche Comté}}, superposés et intercalés entre quatre traits jaunes formant les accents et les traits d'union. Ce logo a été commandé dans le but d'offrir une {{citation|approche simple et épurée}} et de rester politiquement neutre. Il est cependant vivement critiqué pour sa simplicité, sa non-représentativité du territoire, son esthétique et son coût de {{unité|18000|€}} par des internautes, des habitants et les élus d’opposition régionaux et départementaux ([[Union des démocrates et indépendants|UDI]]-[[Les Républicains|LR]], [[Front national (parti français)|FN]], [[Debout la France|DLF]], [[Mouvement démocrate (France)|MoDem]] et un ex-[[Socialisme|socialiste]]). Ces derniers dénoncent également un manque de concertation et de communication<ref>{{lien web|url=http://france3-regions.blog.francetvinfo.fr/politiquefranchecomte/2016/11/25/la-region-bourgogne-franche-comte-devoile-son-nouveau-logo.html#more-21784|titre=La Région Bourgogne Franche-Comté dévoile son nouveau logo|site-[[France 3 Franche-Comté]]|auteur=Jérémy Chevreuil|date=25 novembre 2016}}.</ref>{{,}}<ref>{{lien web|url=http://france3-regions.blog.francetvinfo.fr/politiquefranchecomte/2016/11/26/avalanche-de-critiques-sur-le-logo-de-la-region-bourgogne-franche-comte.html|titre=Avalanche de critiques sur le logo de la Région Bourgogne Franche-Comté|site-[[France 3 Franche-Comté]]|auteur=Jérémy Chevreuil|date=26 novembre 2016}}.</ref>{{,}}<ref>{{lien web|url=https://france3-regions.francetvinfo.fr/bourgogne/grande-region-nouveau-logo-vent-contestation-1142833.html|titre=Grande Région : le nouveau logo suscite la contestation|site-[[France 3 Franche-Comté]]|auteur=F.L.|date=28 novembre 2016}}.</ref>. Une [[Pétition en ligne|pétition]] est mise en ligne par l'Union de la droite et du centre pour demander son retrait et lancer un concours à l'intention des lycéens pour le remplacer<ref>{{lien web|url=https://france3-regions.francetvinfo.fr/franche-comte/doubs/grand-besancon/besancon/petition-ligne-lancee-contre-nouveau-logo-region-bourgogne-franche-comte-1142829.html|titre=Une pétition en ligne lancée contre le nouveau logo de la Région Bourgogne Franche-Comté|site-[[France 3 Franche-Comté]]|auteur=Jean-Christophe Galeazzi|date=28 novembre 2016}}.</ref>.
+
+=== Emblèmes ===
+{{Article détaillé|Armoiries de la Bourgogne-Franche-Comté}}
+Le {{date-|12 juillet 2017}}, la région se dote d'armoiries mêlant celles des anciennes régions sous la forme d'un blason et d'un drapeau<ref>[https://www.bourgognefranchecomte.fr/Des-armoiries-pour-la-Bourgogne-Franche-Comte,1102,11426]</ref>. Les armoiries sont présentes sur les plaques d'immatriculation depuis 2018 en remplacement du logo.
+
+La [[croix de Bourgogne]] a été l'emblème des ducs-comtes de Bourgogne (puis des [[Pays-Bas (région historique)|Pays-Bas]] ainsi que des Habsbourg d'Espagne et leur empire) à partir de Jean {{Ier}} de Bourgogne, dit ''[[Jean Ier de Bourgogne|Jean sans Peur]]'', [[Liste des ducs de Bourgogne|duc de Bourgogne]], [[Comté de Flandre|comte de Flandre]], d'[[Artois]], [[Liste des comtes palatins de Bourgogne|comte palatin de Bourgogne]] (c'est-à-dire de [[Comté de Bourgogne|Franche-Comté]]) (° {{date|28|mai|1371}} à [[Dijon]] - † {{Date|10|septembre|1419}}). La [[croix de Bourgogne]] est fréquente dans l'héraldique espagnole (connue sous le nom de ''cruz de Borgoña''), et a fait partie des [[Armoiries du roi d'Espagne|armes du roi d'Espagne]] jusqu'en 2014. En tant qu'emblème de ses anciens [[Liste des comtes palatins de Bourgogne|comtes Valois et Habsbourg]], elle est aussi fréquemment employée en [[Franche-Comté]].
+
+<gallery>
+Flag of the region Bourgogne-Franche-Comté (fixed).svg|Drapeau de la région.
+Blason région fr Bourgogne-Franche-Comté.svg|Blason de la région, présent sur les plaques d'immatriculation.
+Blason fr Bourgogne.svg|Blason de la Bourgogne historique.
+Blason fr Franche-Comté.svg|Blason de la Franche-Comté historique.
+Cross of Burgundy (Template).svg|Croix de Bourgogne.
+</gallery>
+
+== Notes et références ==
+=== Notes ===
+{{Références|groupe="Note"}}
+
+=== Références ===
+{{Références}}
+
+== Voir aussi ==
+{{Autres projets|commons=Category:Bourgogne-Franche-Comté|wiktionary=Bourgogne-Franche-Comté}}
+
+=== Articles connexes ===
+* [[Bourgogne (ancienne région administrative)|Bourgogne]]
+* [[Franche-Comté]]
+* [[Région française]]
+
+=== Liens externes ===
+* {{Autorité}}
+* {{Dictionnaires}}
+* {{Bases}}
+* [https://www.bourgognefranchecomte.fr/ Conseil régional]
+* [http://www.prefectures-regions.gouv.fr/bourgogne-franche-comte Préfecture de région]
+
+{{Palette|Régions et territoires de France|Géographie des régions et territoires français}}
+{{Portail|Bourgogne|Franche-Comté|régions de France}}
+
+[[Catégorie:Bourgogne-Franche-Comté|*]]
+[[Catégorie:Division administrative fondée en 2016]]
+

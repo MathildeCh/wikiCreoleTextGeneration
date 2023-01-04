@@ -1,0 +1,1169 @@
+{{Redirect|Île de Beauté|homonymie=Île de Beauté (ferry)|autres=le navire}}
+{{Voir homonymes|Corse (homonymie)}}
+{{Infobox Subdivision administrative
+ | modèle                   = non
+ | nom                      = Corse
+ | autres noms              =
+ | couleur                  = BBDEFD
+ | image                    = Logo_Collectivité_Corse_2018.svg
+ | légende                  = Logo de la collectivité de Corse.
+ | taille image             = 170
+ | blason                   = Blason de Corse.svg
+ | légende blason           = Blason
+ | drapeau                  = Flag of Corsica.svg
+ | légende drapeau          = [[Drapeau de la Corse]]
+<!-- Administration     --> | pays                     = France
+ | nom de division          = Statut
+ | division                 = [[Collectivité territoriale unique]]
+ | nom de division2         = [[Préfecture]]
+ | division2                = [[Ajaccio]]
+ | nom de division3         = [[Département français|Circonscriptions départementales]]
+ | division3                = [[Haute-Corse]] (2B)<br/>[[Corse-du-Sud]] (2A)
+ | nom de division4         = [[Arrondissement français|Arrondissements]]
+ | division4                = 5
+ | nom de division5         = [[Canton français|Cantons]]
+ | division5                = 26
+ | nom de division6         = [[Commune (France)|Communes]]
+ | division6                = 360
+ | titre autorité           = [[Conseil exécutif de Corse|Président du Conseil exécutif]]
+ | autorité                 = [[Gilles Simeoni]] ([[Femu a Corsica|FaC]])
+ | mandat autorité          = 
+ | titre autorité2          = [[Assemblée de Corse|Présidente de l’Assemblée]]
+ | autorité2                = [[Marie-Antoinette Maupertuis ]] ([[Femu a Corsica|FaC]])
+ | mandat autorité2         = 
+ | titre autorité3          = [[Assemblée délibérante]]
+ | autorité3                = [[Assemblée de Corse]]
+ | titre autorité4          = [[Préfet de région|Préfet]]
+ | autorité4                = [[Amaury de Saint-Quentin]]
+<!-- Démographie        --> | gentilé                  = [[Corses|Corse(s)]]
+ | nom_pop                  = [[Recensement de la population|Population]]
+ | population               = {{Population de France/dernière_pop}}<!-- Insertion automatique, ne pas modifier -->
+ | année_pop                = {{Population de France/dernière_année}}<!-- Insertion automatique, ne pas modifier -->
+ | nom divers démographie   = [[Langues régionales ou minoritaires de France|Langues régionales]]
+ | divers démographie       = [[Corse (langue)|corse]]<br>[[ligure]] ([[bonifacien]], [[calvais]])
+<!-- Géographie         --> | coord titre              = oui
+ | superficie               = 8722
+<!-- Divers             --> | alt maxi                 = 2706
+ | titre divers             = Divers
+ | nom divers               = [[Monnaie]]
+ | divers                   = [[Euro]]
+ | nom divers2              = [[Fuseau horaire]]
+ | divers2                  = [[UTC+01:00|+1]] ([[Heure normale d'Europe centrale|HNEC]], heure d'hiver)<br>[[UTC+02:00|+2]] ([[Heure d'été d'Europe centrale|HAEC]], heure d’été)
+ | nom divers3              = [[Domaine de premier niveau|Domaine internet]]
+ | divers3                  = [[.corsica]]
+ | nom divers4              = [[Liste des indicatifs téléphoniques internationaux par pays|Indicatif téléphonique]]
+ | divers4                  = 33
+ | nom divers6              = [[ISO 3166-2|Code ISO 3166-2]]
+ | divers6                  = FR-COR
+ | nom divers7              = Site web
+ | divers7                  = {{URL|https://www.isula.corsica/}}
+ | rang population          = {{16e}} sur 18
+ | rang superficie          = {{14e}} sur 18
+
+<!-- Localisation       --> | imageloc                 = Corse region locator map2.svg
+ | légende imageloc         = <!-- Liens              -->
+ | url                      = 
+ | nom site                 = 
+ | source1                  = 
+ | source2                  = 
+ | source3                  = 
+ | source4                  = 
+}}
+[[Fichier:Sardinia, Tabula Peutingeriana.jpg|vignette|droite|Selon la [[table de Peutinger]].]]
+
+La '''Corse''' (en [[Corse (langue)|corse]] et {{en langue|it|Corsica}} ; en [[ligure]] : {{Langue|lij|''Còrsega''}}) est une [[île]] située en [[mer Méditerranée]] et une [[collectivité territoriale unique]] [[France|française]].
+
+[[Mer Méditerranée#Îles méditerranéennes|Quatrième île de la mer Méditerranée]] par sa superficie, la Corse a été rattachée durant près de quatre siècles à la [[République de Gênes]] avant une brève [[Indépendance (politique)|indépendance]] comme [[Royaume de Corse]] du {{date-|15|avril|1736}} au mois de {{date-|décembre 1740}}. En 1755, elle adopte la [[Constitution corse|première constitution démocratique]] de l'histoire moderne et donne pour la première fois en partie le [[Droit de vote des femmes|droit de vote aux femmes]]. Le {{date-|15|mai|1768}}, elle est cédée par la [[République de Gênes]] à la France, bien que Gênes n'ait qu'une emprise limitée sur l'île depuis la déclaration d'indépendance de la [[République corse]] en 1755. Elle est conquise militairement par le [[Royaume de France]] lors de la [[bataille de Ponte-Novo]], le {{date-|9|mai|1769}}.
+[[Corse (département)|Département unique]] à la création des départements en 1790, la Corse est [[Bidépartementalisation|divisée en deux]] en 1793 avec la création des départements du [[Golo (département)|Golo]] et du [[Liamone (département)|Liamone]]. Elle redevient partiellement indépendante sous protectorat britannique de 1794 à 1796 avec la création du [[Royaume de Corse (1794-1796)|Royaume anglo-corse]]. En 1796, la Corse est définitivement française puis réunifiée en 1811 en un unique département, puis de nouveau divisée en 1975 avec la création des départements de [[Haute-Corse]] et de [[Corse-du-Sud]]. La région Corse est créée en 1982 (en tant que collectivité) et acquiert en 1991, à la suite des revendications locales, un statut de [[collectivité à statut particulier]] dénommée « [[collectivité territoriale de Corse]] ».
+	
+Enfin, depuis le {{Date-|1er|janvier|2018}}, en application de la [[loi portant nouvelle organisation territoriale de la République|loi portant sur la nouvelle organisation territoriale de la République]] du {{Date-|7|août|2015}}, la Corse est une collectivité à statut particulier au sens de l’article 72 de la Constitution, de type [[collectivité territoriale unique]], dénommée « [[collectivité de Corse]] » et instituée en lieu et place de la collectivité territoriale de Corse et des départements de Corse-du-Sud et de Haute-Corse (en tant que collectivités). Les [[Administration territoriale de la France|circonscriptions administratives]] départementales de Corse-du-Sud et de Haute-Corse, territoires d'exercice des compétences de l'État, restent inchangées, avec les préfectures respectivement à [[Ajaccio]] et [[Bastia]].
+	
+La Corse compte {{unité|350000|habitants}} au 1er Janvier 2022 d'après les estimations de l'[[Insee]] bien que le dernier nombre officiel soit de {{nombre|340440|habitants}} en date du {{date-|1 janvier 2019}}. Cette faible démographie fait de l'île le territoire le moins peuplé de la [[France métropolitaine]].
+
+Dotée d'un riche patrimoine culturel et d'une puissante chaîne de montagne culminant à plus de 2700 mètres d'altitude<ref>Le [[Monte Cinto]] est le plus haut sommet de Corse et culmine à 2 706 mètres d'altitude</ref>, qui complique les transports intérieurs, l'île a développé une [[tourisme en Corse|activité touristique réputée]], assurant un emploi sur six et {{nombre|5|millions}} de nuitées par an<ref name=Bleus>Tous modes d'hébergement confondus : hôtel, camping, location, gîte rural, résidence secondaire selon ''Corse'' - Guides Bleus Hachette - Année 2006 - (345 pages) {{ISBN|2-01-2402496}}</ref>, mais très concentrée sur le littoral et l'été. Les prémices de l'[[écotourisme ]], appelé aussi [[tourisme durable]], [[Agritourisme|agrotourisme]] ou [[tourisme équitable]], également [[tourisme en Sardaigne|promu dans l'île proche de Sardaigne]]<ref name="Boyer">" En Sardaigne, un tourisme soucieux de partage" par Paula Boyer, envoyée spéciale, dans ''[[La Croix]]''  le 6 janvier 2022 [https://theworldnews.net/fr-news/en-sardaigne-un-tourisme-soucieux-de-partage]</ref> pour mettre en valeur la richesse de l'intérieur de ces îles montagneuses<ref name=paoli> {{Lien web |langue=fr |auteur=Jean-Christophe Paoli, Alessandro Fiori, Romain Melot |titre=L'aménagement du littoral à l'épreuve de la décentralisation. Conflits et concertation en Corse et Sardaigne. |url=https://www.cairn.info/journal-pole-sud-2008-1-page-143.htm |site=CAIRN}}</ref>{{,}}<ref>{{Lien web |langue=anglais |auteur=Francesco Garutti |titre=Darkness, Silence, and Nature as a Political Plan |url=https://www.cca.qc.ca/en/articles/issues/27/will-happiness-find-us/68434/darkness-silence-and-nature-as-a-political-plan |site=CCA}}</ref>{{,}}<ref>{{Lien web |langue=italien |auteur=Regione Autònoma de Sardigna |titre=Legge Regionale 25 novembre 2004, n. 8 – Norme urgenti di provvisoria salvaguardia per la pianificazione paesaggistica e la tutela del territorio regionale. |url=http://www.regione.sardegna.it/j/v/80?v=2&t=1&c=72&s=1538 |site=Regione Autònoma de Sardigna}}</ref> et prévenir la pollution dont souffre ailleurs la [[Méditerranée]]<ref name=paoli/>, ont vu le jour avec la [[randonnée dans les îles de Méditerranée|randonnée en climat méditerranéen]] dès les [[années 1970]].
+
+== Toponymie : « Corsica » et « Cyrnos » ==
+Bien des légendes existent sur l'origine du nom donné à l'île de Corse. Parmi les plus tenaces, celle qui veut que les Grecs l'aient appelée Kallistê (en grec ancien Καλλίστη : « la plus belle ») et dont on sait maintenant qu'elle est fausse<ref group="N">Le nom grec de la Corse dans l'Antiquité étant Κυρνός ou Κυρνή : « Kurnos » ou « Kurnè ». Lire ''Corsica Classa'' et ''Non, les Grecs ne l'appelaient pas Kallisté'' d'Olivier Jehasse.</ref>.
+
+Des historiens ont écrit :
+* {{Citation|De vieux auteurs l'assurent et, dans la légende qu'ils nous ont transmise, une réalité précise apparaît sans doute. Une femme de la côte de [[Ligurie]], voyant une génisse s'éloigner à la nage et revenir fort grasse, s'avisa de suivre l'animal dans son étrange et longue course. Sur le récit qu'elle fit de la terre inconnue qu'elle venait de découvrir, les Liguriens y firent passer beaucoup de leurs compagnons. Cette femme s'appelait Corsa, d'où vint le nom de Corse. C'est la légende éponyme que nous retrouvons à l'origine de toutes les cités antiques ; mais elle est de formation récente, car le premier nom de l'île est '''Cyrnos''' et non pas '''Corsica'''.
+
+: La difficulté n'était point pour embarrasser les vieux chroniqueurs, grands amateurs de merveilleux et habitués à ne douter de rien. Il y a d'autres légendes, et plus prestigieuses, sinon moins fantaisistes. Un fils d'[[Héraclès]], Cyrnos, aurait colonisé la Corse en lui donnant son nom. [[Giovanni della Grossa]] croit que la Corse a été peuplée par un chevalier troyen, appelé Corso ou Cor, et une nièce de [[Didon]], nommée Sica, que Corso a bâti les villes de l'île et leur a donné les noms de ses fils et de son neveu, Aiazzo, Alero, Marino, Nebbino. C'est ainsi que la Grande-Bretagne a eu son Brut, la France son Francus et que la Corse a son Corso, neveu d'[[Enée]]}}<ref name="Cesari-Rocca">[https://archive.org/stream/histoiredecorse00colouoft#page/n5/mode/2up] [[Pierre-Paul Raoul Colonna de Cesari Rocca|Colonna De Cesari-Rocca]] et [[Louis Villat]] in ''Histoire de Corse'' - Ancienne librairie Furne Boivin & Cie, Éditeurs, 5 rue Palatine Paris {{VIe}} 1916.</ref>.
+
+* {{Citation|L'île de Corse, nommée '''Cyrnos''' par les Grecs, était baignée au nord par la [[mer de Ligurie]] (''Ligusticum mare''), à l'est par la [[mer Tyrrhénienne]], au sud par le détroit Taphros ou Gallicum qui la séparait de la [[Sardaigne]] (''Sardinia''), à l'ouest par la mer Ibérique}}<ref name="X. Poli">[https://archive.org/stream/lacorsedanslant00poligoog/lacorsedanslant00poligoog_djvu.txt] [[Xavier Poli]] in ''La Corse dans l'Antiquité et dans le Haut Moyen Âge'' Librairie Albert Fontemoing Paris 1907.</ref>.
+
+: Plus loin, dans son étude sur l'occupation de l'île, [[Xavier Poli]] écrit : {{Citation|L'unique texte sur lequel nous pouvons nous appuyer, pour avancer que les Libyens ont occupé la Corse, est tiré de la [[Phocide]] de [[Pausanias le Périégète|Pausanias]], qui écrivait au {{s-|II|e}} de notre ère : « À peu de distance de la Sardaigne il est une île appelée par les Grecs '''Cyrnos''' et par les [[Libyens]] qui l'habitent '''Corsica'''}}. Une partie non minime de la population, écrasée dans une sédition, passa de cette île dans celle de Sardaigne et se tailla dans la montagne un territoire où elle s'établit. Les [[Sardes (peuple)|Sardes]] nomment ces émigrés du nom qu'ils ont apporté de leur pays, Corses »<ref>[[Phocide]], 1. X, c. VII, §8 ; éd. Didot-Dindorf. ''{{lang|la|texte=Deinceps sûnt insulte Gymnesiœ ; prope lias Busus ac potentissima Sardinia et amabilis in mari Cyrnus, quam quidem indigense homines Corsicam appellant ; silvis autem tantum quantum illa abunat nulla. Dyonisii, Orbis descriptio, v. 457-460}}''. (en note de bas de page).</ref>.
+:{{Citation|La légende est plus précise, Sardus fils d'[[Héraclès|Hercule]] et fondateur mythique de la Sardaigne aurait eu un frère Cyrnos. À la tête d'une nombreuse armée de Libyens, l'un et l'autre auraient quitté l'Afrique pour venir s'installer, le premier en Sardaigne, le second en Corse, donnant leurs noms aux deux îles}}<ref name="X. Poli"/>.
+
+: Selon [[Claude Ptolémée|Ptolémée]] {{Citation|L'île de Cyrnos, qui est aussi appelée '''Corsica''' (variantes : ''Corsa, Corsi, Corsia''), est bornée au nord et à l'ouest par la [[mer de Ligurie]], à l'est par la mer Tyrrhénienne, au sud par la mer qui la sépare de l'île de [[Sardaigne]]…}}<ref name="X. Poli"/>.
+
+: Et Xavier Poli de conclure : {{Citation|C'est de [[Chalcis]], principale ville de l'[[Eubée]], que partit la plus ancienne colonie que la Grèce envoya vers l'Occident ; elle alla fonder [[Cumes]] entre le {{-s2|XI|e|VIII|e}}. Nous savons qu'un des points du territoire de [[Carystos]], une des plus jolies villes de l'[[Eubée]], portait le nom de Cyrnos. Il semblerait donc vraisemblable que '''Corsica''' fut baptisée '''Cyrnos''' par les colons de Cumes ; mais il convient aussi de dire que Cyrnos est un nom propre d'homme que nous trouvons dans [[Hérodote]] et dans Stobée}}<ref name="X. Poli"/>.
+
+* Pour sa part, dans son ouvrage ''Histoire de la Corse depuis les temps les plus anciens jusqu'à nos jours'' édité en 1839, Camille De Friess-Colonna exprime ainsi : {{citation|Aucun historien n'a jusqu'à ce jour donné une étymologie satisfaisante des noms de ''Cyrnos'' et de ''Corse''. Les uns assurent que Cyrnos était un fils d'Hercule, qui donna son nom au pays que nous connaissons. Les autres, et Samuel Bochard est de ce nombre, prétendent que le nom de Cyrne voulant dire, en [[Phénicien|langue phénicienne]], ''couvert de forêts'', ce nom dut être imposé à la Corse d'aujourd'hui par les voyageurs phéniciens, qui furent frappés de la richesse de ses forêts.
+: Quant au nom de Corse, il y a également des historiens qui veulent qu'il ait été donné à la Corse par ''Corsus'', fils d'[[Hercule]] ; Bochart le fait dériver d'un mot phénicien, qui voudrait dire ''cornue'', nom qui lui aurait été imposé à cause des nombreux promontoires qui s'avancent en pointe dans la mer, et des pics élevés qu'on aperçoit de loin, avant de l'atteindre. [[Anton Pietro Filippini|Filippini]] rapporte deux versions, que nous croyons devoir transcrire ici, pour faire voir jusqu'où peut aller la manie des étymologies. Voici la première : une femme de Ligurie, appelée ''Corsica'', ayant suivi un taureau qui se rendait à la nage dans une terre inconnue, fut rejointe par ses parents, qui, étant arrivés sur ses traces dans un pays de très belle apparence, et où les pâturages étaient excellents, s'y établirent et appelèrent ce pays Corsica, du nom de la femme qui les y avait attirés. La seconde est qu'un neveu d'[[Énée]] appelé ''Corsus'', ayant enlevé une nièce de Didon, appelée ''Sica'', s'enfuit dans l'île à laquelle il donna le nom de ''Corsica''.}}<ref>Camille De Friess-Colonna : ''L'Univers ou Histoire et Description de tous les Peuples - Histoire de la Corse depuis les temps les plus anciens jusqu'à nos jours'' in ''Île de Sardaigne'' par M. le chevalier G. de Gregory - Paris Firmin Didot Frères, Éditeurs 1839.</ref>{{,}}<ref>{{BNF|bpt6k30772c}}.</ref>.
+
+* Du géographe grec [[Strabon]]<ref>[[Lucien Auguste Letteron]] in ''Histoire de la Corse'' Tome I, Bulletin de la Société des sciences historiques & naturelles de la Corse – Imprimerie et Librairie Veuve Eugène Ollagnier - Bastia, 1888.</ref> :
+{{citation bloc|L'île de '''Cyrnos''', que les Romains appellent '''Corsica''', est un pays affreux à habiter, vu la nature âpre du sol et le manque presque absolu de routes praticables, qui fait que les populations confinées dans les montagnes et réduites à vivre de brigandages, sont plus sauvages que les bêtes fauves. C'est ce qu'on peut, du reste, vérifier sans quitter Rome, car il arrive souvent que les généraux romains fassent des descentes dans l'île, attaquent à l'improviste quelques-unes des forteresses de ces barbares et enlèvent ainsi un grand nombre d'esclaves ; on peut alors observer de près la physionomie étrange de ces hommes farouches comme les bêtes des bois ou abrutis comme les bestiaux, qui ne supportent pas de vivre dans la servitude, ou qui, s'ils se résignent à ne pas mourir, lassent par leur apathie et leur insensibilité les maîtres qui les ont achetés, jusqu'à leur faire regretter le peu d'argent qu'ils leur ont coûté. Il y a cependant certaines portions de l'île, qui sont à la rigueur habitables, et où l'on trouve même quelques petites villes, telles que Blésinon, Charax, Eniconiæ et Vapanes.|Strabon, liv. V, ch. II, 7. - Traduction d'Amédée Tardieu}}
+
+== Géographie ==
+{{Article détaillé|Géographie de la Corse}}
+
+[[Fichier:Corsica-geographic map-fr.svg|vignette|Carte géographique de la Corse.]]
+[[Fichier:Corsica (Landsat 7).png|vignette|upright=0.7|Photo satellite de la Corse ([[NASA]]).]]
+Elle mesure 180 km de long du nord au sud et 82 km dans sa plus grande largeur. Sa superficie est de {{unité|8680|km|2}}.
+=== Site et situation ===
+La Corse est située dans le bassin occidental de la [[mer Méditerranée]], entre {{Unité|11 km}} à {{Unité|13 km}} au nord de la [[Sardaigne]], à {{Unité|83 km}} à l'ouest de la [[Toscane]] et à {{Unité|171 km}} au sud-est de [[Menton (Alpes-Maritimes)|Menton]], sur la [[Côte d'Azur]]. Île plutôt boisée et montagneuse, sa côte méridionale est formée de hautes falaises ([[Bonifacio]]).
+
+[[Fichier:Brando-Lavasina hameau-1.jpg|vignette|Marine de Lavasina, à [[Brando (Haute-Corse)|Brando]] ([[Brando (piève)|Brando]]).]]
+[[Fichier:Speloncato general view.jpg|vignette|Vue du village de [[Speloncato]] ([[Tuani]]).]]
+
+La distance la plus courte entre la France continentale et l'île, du [[cap Martin]] (Alpes-Maritimes) à la pointe de [[Calvi#La presqu'île de la Revellata|la Revellata]] (près de Calvi), est de {{Unité|164 km}}. L'île est située à {{Unité|83 km}} de l'Italie continentale et à {{Unité|27 km}} des îles de l'[[archipel toscan]] ([[Île de Capraia|Capraia]]).
+
+Faisant partie de la [[Italie (région géographique)|région géographique italienne]], la Corse se situe avec la [[Sardaigne]] sur une microplaque continentale. C'est au cours de l'[[Oligocène|Oligo]]-[[Miocène]] (au milieu du [[Cénozoïque]] entre environ 22 à 25 millions d'années) que le bloc corso-sarde et la lanière continentale s'écartent progressivement du bloc ibérique, ouvrant derrière eux le [[Bassin algéro-provençal|bassin provençal]], la [[mer d'Alboran]], le [[Bassin algéro-provençal|bassin algérien]] et la [[mer Tyrrhénienne]]<ref>[http://www.earth-of-fire.com/article-le-cap-scandola-un-morceau-de-l-esterel-en-corse-101437964.html Cartes tirées de Durand, B., L. Jolivet, F. Horváth, and M. Séranne, The Mediterranean Basins : Tertiary extension within the Alpine Orogen, vol. Special Publication 156, The Geological Society, London, 1999].</ref>. La dynamique cesse avec le blocage de l'arc contre les domaines externes, [[Apulie (plaque tectonique)|apulien]] et [[Plaque africaine|africain]]<ref name="bionomie benthique">[http://paleopolis.rediris.es/benthos/MED/Geol-Med.html Géologie de la mer Méditerranée: origine des bassins], sur le site paleopolis.rediris.es.</ref>{{,}}<ref>[http://pedagogie.ac-montpellier.fr/svt/litho/mediterranee/mediterranee.htm Ouverture de la Méditerranée occidentale], sur le site pedagogie.ac-montpellier.fr.</ref>.
+
+La distance<ref>Ettori f et alii, Corse, éd Bonneton, 1992.</ref> entre le point nord ([[Giraglia|île de la Giraglia]]) et le point sud ([[îles Lavezzi]]) de la Corse est de {{unité|184 kilomètres}}<ref>[http://www.e-voyageur.com/carnet-voyage/corse/mare-e-monti.htm Présentation de la Corse] sur e-voyageur.com.</ref>{{,}}<ref name="bionomie benthique" />. Elle est de {{unité|83 kilomètres}} entre les extrémités est ([[San-Giuliano|Alistro]]) et ouest ([[île de Gargalo]]).
+
+Ci-après les principales villes et bourgs de l'île :
+{| class="wikitable"
+! Nom corse    ||    Nom français
+|--
+|Aiacciu          || [[Ajaccio]]
+|--
+|Aleria           || [[Aléria]]
+|--
+|Bastìa           || [[Bastia]]
+|--
+|Bunifaziu        || [[Bonifacio]]
+|--
+|Calvi            || [[Calvi]]
+|--
+|Cervioni         || [[Cervione]]
+|--
+|Corti            || [[Corte]]
+|--
+|Lìsula<ref>{{pdf}} J. Chiorboli, [http://maxia-mail.doomby.com/medias/files/atti-convegno-palau.pdf-4-.compressed.pdf ''Ciurrata di la lingua gadduresa''], {{p.|136}}.</ref>{{,}}<ref>Pascal Marchetti, ''L'usu corsu'', Ed. Alain Piazzola.</ref> || [[L'Île-Rousse]]
+|--
+|Portivechju      || [[Porto-Vecchio]]
+|--
+|Prupià           || [[Propriano]]
+|--
+|Ruglianu         || [[Rogliano]]
+|--
+|San Fiurenzu     || [[Saint-Florent (Haute-Corse)|Saint-Florent]]
+|--
+|Sartè            || [[Sartène]]
+|--
+|Vicu             || [[Vico (Corse-du-Sud)|Vico]]
+|}
+
+=== Climat ===
+{{article détaillé|Étages de végétation en Corse}}
+
+Le [[climat]] de la corse littorale est dit méditerranéen d'après la classification de [[Wladimir Peter Köppen|Köppen]]. Dans l'intérieur des terres et dans les principaux massifs montagneux le climat va de [[climat montagnard|montagnard]] à [[climat alpin|alpin]] du fait de la topographie insulaire accidentée.
+
+=== Environnement ===
+{{Article détaillé|Liste des sites Natura 2000 de la Haute-Corse|Liste des sites Natura 2000 de la Corse-du-Sud}}
+[[Fichier:Porto Golfe1JPG.jpg|vignette|Le [[golfe de Porto]], patrimoine mondial de l'UNESCO.]]
+
+Bien que de nombreuses [[Endémisme en Corse|espèces endémiques]] aient disparu lors de la Préhistoire ou peu après, comparativement au continent et aux îles bretonnes, la Corse bénéficie d'un [[environnement]] relativement préservé, tant sur terre que sur la [[Côte (géographie)|côte]] et en [[mer]].
+
+L'île abrite un [[Réserve naturelle des Bouches de Bonifacio|parc marin international]], des réserves naturelles (de [[Réserve naturelle de Scandola|Scandola]], [[Réserve naturelle des îles Finocchiarola|Finocchiarola]], [[Réserve naturelle de l'Étang de Biguglia|Biguglia]], [[Réserve naturelle des îles Cerbicale|Cerbicale]], [[Réserve naturelle des Bouches de Bonifacio|Bouches de Bonifacio]] et [[Réserve naturelle des Tre Padule de Suartone|Tre Padule de Suartone]]) et le [[parc naturel régional de Corse]], et des [[Zone importante pour la conservation des oiseaux|zones communautaires pour les oiseaux]]. Un observatoire conservatoire des insectes de Corse vise à conserver les espèces patrimoniales et de la biodiversité ordinaire.
+
+Le risque d'[[incendie]] constitue une menace pour la [[biodiversité]], alors que (en 2006) plus de 50 % des dégâts découleraient de 12 % des mises à feu liées aux pratiques d'entretien de pâturages ou chemins et zones de chasse. 15 % des incendies seraient dus à la foudre, mais n'étant responsables que de 1 % des destructions (en surface). Durant la canicule de 2003, près de {{unité|20000 ha}} ont brûlé avec environ 500 mises à feu<ref>[http://www.oec.fr/catalog_repository/uploads/36/2-BILAN_incendies_06_REGION_-Dp_2A_-Dp_2B.pdf Bilan 2006 des incendies sur l'ensemble de la région corse] - Office de l'Environnement de la Corse {{pdf}}.</ref>, le problème des incendies pourrait croître avec le [[réchauffement climatique]]. La forêt couvre {{Unité|402000 hectares}} en Corse.
+
+En [[1972]], s'est déroulée l'[[affaire des boues rouges]], impliquant la société italienne [[Montedison]] qui déversa du [[dioxyde de titane]] au large du [[Cap Corse]] et qui provoqua une importante pollution marine de [[Boue rouge|boues rouges]]<ref>[http://www.ina.fr/video/CAF89044016 La pollution des boues rouges en Corse], {{date-|30 juillet 1972}}, [[Institut national de l'audiovisuel]].</ref>.
+
+L'[[Assemblée de Corse]] (loi du {{date-|13 mai 1991}}) bénéficie d'une compétence particulière en environnement, avec un [[Office de l'environnement de la Corse]]<ref>[http://www.oec.fr/ Site de l'Office de l'environnement de la Corse].</ref> et un [[observatoire de l'environnement]].
+
+À la suite de l'adoption du [[SDAGE]] le {{date-|18 septembre 2015}} par l'[[Assemblée de Corse]] pour la période 2016-2021, le comité de bassin et la collectivité territoriale de Corse indiquent dans un communiqué commun que {{citation|la Corse affiche le meilleur score de [[rivière]]s en bon état en France}} mais que {{citation|certains habitants ruraux attendent encore une eau potable de qualité et un assainissement performant}}<ref >[http://www.actu-environnement.com/ae/news/eau-schema-Sdage-2016-2021-Corse-adoption-25295.php4 La Corse adopte son schéma de gestion des eaux pour 2016-2021], ''Actu-Environnement'', {{date-|21 septembre 2015}}.</ref>.
+
+Régulièrement, d'importantes concentrations de déchets plastiques flottant en mer parfois estimées à plusieurs milliers de tonnes se forment dans le [[canal de Corse]] avant d'être dispersées par les courants<ref>{{Lien web|langue=fr|nom1=Privé|prénom1=Marie|titre=Au large de la Corse, des déchets plastiques ont formé une île de plusieurs dizaines de kilomètres|url=https://www.geo.fr/environnement/au-large-de-la-corse-des-dechets-plastiques-ont-forme-une-ile-de-plusieurs-dizaines-de-kilometres-195754|site=Geo.fr|date=2019-05-23|consulté le=2019-05-24}}</ref>.
+
+==== Pollutions ====
+En 2021, alors que une enquête déterminant les causes de la pollution, vraisemblablement liée au dégazage illégal d'un navire, les plages du Sud ont été touchées par cette pollution. Des navires spécialisés de la marine nationale ont effectué le repêchage de plus de 3 tonnes d'hydrocarbures en mer<ref>{{Lien web |langue=fr |prénom=La |nom=rédaction |titre=Pollution aux hydrocarbures en Corse : plusieurs plages restent fermées |url=https://www.corsenetinfos.corsica/Pollution-aux-hydrocarbures-en-Corse-plusieurs-plages-restent-fermees_a58310.html |site=corsenetinfos.corsica|consulté le=2021-06-17}}</ref>.
+
+== Histoire ==
+{{Article détaillé|Histoire de la Corse|Révoltes et épisodes révolutionnaires en Corse}}
+
+=== Préhistoire ===
+Dans son étude sur la Corse, de ses origines à l'expulsion des [[Sarrasins]]<ref name="X. Poli"/>, Xavier Poli se propose de remonter aux sources, de réunir tous les textes des écrivains grecs et romains, et toutes les inscriptions intéressant la Sardinia en général, et la Corsica en particulier. Il commence son ouvrage avec ces propos :
+
+{{Citation|Les savantes recherches du capitaine Ferton, du commandant Caziot, des docteurs Deperet et Caujolle, du professeur Testut nous font faire connaissance avec le squelette de l'homme de ces temps reculés et posent des bases sûres à une question qui ne peut manquer de passionner les esprits que l'histoire de la Corse intéresse.
+
+La race néolithique corse aurait été d'assez grande taille. Par son crâne allongé et sous-dolichocéphale, par la ligne âpre et assez saillante de son fémur incarné, par son tibia remarquablement platycnémique, le squelette retrouvé présente les caractères principaux de la race néolithique de l'Europe occidentale.
+
+Cet homme, ajoute M. Ferton, utilisait pour la confection de ses armes et de ses outils, non seulement les roches du pays : le silex, le quartz et diverses roches des terrains granitiques, mais aussi les os d'animaux, et une roche étrangère à la Corse, l'obsidienne, qu'il devait recevoir du Monte-Arci, en Sardaigne… Les relations de commerce entretenues à Bonifacio, avec les peuplades de la Sardaigne, l'emploi coûteux qu'on y faisait de l'obsidienne, bien que le silex du pays, d'égale valeur, fût connu et utilisé, permettent de supposer que le Bonifacien des temps néolithiques était un immigré venu de la Sardaigne, peut-être originaire de l'Afrique.}}
+
+Et de poursuivre : {{Citation|La conclusion du capitaine Ferton serait sans réplique s'il était prouvé, après de sérieuses recherches, que l'[[obsidienne]] ne se trouve pas en Corse où l'on constate des roches d'origine volcanique.}}
+
+La fréquentation de l'île par des hommes est estimée à -10 000. Vers -6500 la présence humaine sur l'ensemble de l'île laisse des traces a avec ''la Dame de [[Bonifacio]]'', et au Cap Corse à [[Pietracorbara]]. La civillisation proto-corse débute en -5000, elle est issue de peuplements dont l'origine reste encore incertaine. La Corse aurait à cette époque connu l'influence et le peuplement de [[Ligures]] et d'[[Ibères]]. Certains évoquent également la présence possible de populations venues d'Afrique du Nord ([[libyens|Libyques]]) durant cette période. En -1500/-1300 la [[Culture torréenne|civilisation torréenne]] débute et les [[Corses (ethnie nuragique)|Korsi]] développent la construction de [[statue-menhir|statues-menhirs]] ( site de [[Filitosa]]) et de tours.
+
+=== Antiquité ===
+==== Au VIIe siècle av. J.-C., les Étrusques s'installent en Corse ====
+En {{date-|||-660}}, les [[Étrusques]], installés en Toscane en -780, commercent avec les Vanacini, peuplade du [[Cap Corse]] qui travaillaient le fer et cultivaient la vigne et le blé. Près de cinquante ans plus tard, en {{date-|||-616}}, les [[Carthage|Carthaginois]] installent des comptoirs en Corse, commerçant avec [[Cagnano]]. En {{date-|||-565}}, C'est au tour des [[Phocée]]ns de s'établir en fondant [[Alalia (Aleria)|Alalia]], la cité du sel (actuelle [[Aléria]]). Trente ans plus tard, en {{date-|||-535}}, les Étrusques de [[Toscane]] alliés aux Carthaginois chassent les Phocéens de la Corse après [[Bataille d'Alalia|une longue bataille navale]] où les Phocéens perdent environ soixante de leurs navires. Cette bataille marque l'effondrement de la thalassocratie phocéenne. Les [[Corses]] utilisent l'alphabet qu'ils apportent.
+
+==== Au Ve siècle av. J.-C., les Grecs s'installent en Corse ====
+En {{date-|||-453}}, les [[Syracuse|Syracusains]] de [[Sicile]] menés par [[Gélon]] chassent les Étrusques. Apelles, amiral de Syracuse, fonde ''Syracusenus Portus'' (actuel [[Porto-Vecchio]]). En {{date-|||-384}}, [[Denys l'Ancien|Denys (Dionysos) {{Ier}}]], tyran de Syracuse et successeur de Gélon, décide d'anéantir les prétentions puniques sur toute la mer Tyrrhénienne. Pour cela il occupe les petites îles, les points forts de la côte orientale et fait de ''Syracusenus Portus'' une base avancée dont il se sert pour surveiller les régions alentour. Un siècle après ({{date-|||-280}}), les Carthaginois, appuyés par des mercenaires [[Culture torréenne|torréens]] servant déjà dans les rangs de l'armée depuis le {{-s-|V|e}}, chassent les Syracusains.
+
+==== Au IIIe siècle av. J.-C., les Romains conquièrent la Corse ====
+En {{date-|||-259}}, à la suite d'une décision prise cinq ans plus tôt au début de la [[première guerre punique]], les [[Rome antique|Romains]] entreprennent la conquête de la Corse. À la tête d'une importante flotte, [[Lucius Cornelius Scipio (consul en -259)|Lucius Cornelius Scipio]], surprend ''[[Bataille d'Alalia|Alalia]]'' de nuit. À l'époque, il semblerait que la cité était libre, peuplée à la fois d'Étrusques et de Carthaginois. Scipion la brûle et la rebaptise ''[[Aléria|Aleria]]''.
+
+En {{date-|||-238}}, lors d'une seconde expédition romaine menée par [[Gracques|Tiberius Gracchus]], la Corse est réunie à la [[Sardaigne]] et devient la province romaine de [[Corse-Sardaigne]]. Les Corses traités en vaincus et non en « libérés » s'insurgent. Trois ans après, une cinquième expédition romaine en Corse est dirigée par [[Spurius Carvilius Maximus Ruga]]. D'après les ''Annales romaines'', un jeune Romain nommé Cristinus aurait donné la victoire à Carvilius en {{date-|||-232}}. En {{date-|||-227}}, nouvelle révolte. Cette période de guerre se termine en {{date-|||-162}} avec la « [[Pax Romana|paix romaine]] ».
+
+La cité de [[Mariana (cité romaine)|Mariana]] (au sud de l'actuelle [[Bastia]]) est fondée en 105 avant J.-C.
+
+==== Sources ====
+Lorsqu'ils évoquent la Corse, les écrivains antiques sont unanimes à y représenter l'homme {{incise|à l'image de la nature qui l'environne}} comme hostile<ref>Strabon, ''Géographie'', V, II, 7.</ref> :
+{{citation bloc|L'île de Cyrnos est connue des Romains sous le nom de Corsica. La vie y est partout misérable, la terre n'est que rocs, la plus grande partie du pays totalement impénétrable. Aussi les bandits qui occupent ces montagnes et vivent de rapines sont-ils plus sauvages que des bêtes fauves. Parfois les généraux romains y font des incursions, et après les avoir vaincus ramènent de très nombreux esclaves, et Rome voit alors avec stupéfaction à quel point ils tiennent du fauve et de la bête d'élevage. En effet, ils se laissent mourir par dégoût de la vie, ou excèdent à tel point leur propriétaire par leur apathie et leur insensibilité qu'ils lui font regretter son achat, si peu qu'il ait dépensé. Il y a cependant certaines portions de l'île qui sont, à la rigueur, habitables, et où l'on trouve même quelque petites villes, telles que Blésinon, Charax, Eniconiae et Vapanes|Strabon, ''Géographie'', V, II, 7}}
+
+=== Haut Moyen Âge ===
+[[Fichier:Bonifazio 19.JPG|vignette|Le port de [[Bonifacio]].]]En [[455]], l'invasion des [[Vandales]], qui ont conquis l{{'}}[[Afrique romaine]], marque la fin de l'[[Empire romain|occupation romaine]]. Apparaissent également les premières épidémies de [[Paludisme|malaria]]. Sous la [[Royaume vandale|domination vandale]] (455-534), la Corse sert de lieu de relégation pour les évêques d'Afrique hostiles aux Vandales qui sont exilés dans l'île pour couper du bois destiné aux constructions navales<ref>Olivier Jehasse, ''Corsica classica : la Corse dans les textes antiques du {{-s-|VII}} au {{s-|X}} de notre ère'', La Marge, 1986, {{p.|54}}.</ref>.
+
+Pendant l'avril [[534]], les [[Empire romain d'orient|troupes byzantines]]<ref group="N">Formées principalement de [[mercenaire]]s [[barbare]]s, notamment [[hérules]] et [[huns]].</ref> du général [[Bélisaire]], conquérant du [[royaume vandale]] d'Afrique, chassent les [[Vandales]] des îles de la Méditerranée occidentale, dont la Corse. Cette victoire byzantine commence l'occupation byzantine de l'île.
+
+En [[550]], les [[Ostrogoths]] du roi [[Totila]], en [[Guerre des Goths (535-553)|guerre]] contre l'[[Empire byzantin]], font plusieurs incursions dans l'île.
+
+Durant la période [[585]]-[[590]], l'île est intégrée à l'[[exarchat de Carthage]].
+
+Le [[pape]] [[Grégoire Ier|Grégoire le Grand]] s'oppose à la politique de l'empereur byzantin [[Maurice Ier (empereur byzantin)|Maurice {{Ier}}]] en Corse et Italie en [[590]], l'empereur étant hostile au rapprochement entre la [[Gouvernement de l'Église catholique romaine|Papauté]] et les [[Lombards]]<ref>''Dictionnaire encyclopédique du christianisme'', V. 1, Paris, Cerf, 1990, {{p.|1103}}.</ref>.
+
+Les [[Lombards]] envahissent l'île en [[725]] et la prennent ainsi aux byzantins. Les [[Lombards]] auraient introduit dans l'île la [[faide]], un système de [[vengeance privée]] d'origine germanique à l'origine de la ''[[vendetta]]''<ref>Pierre Da Passano, ''Histoire de l'annexion de la Corse'', cf. 3. « La société corse au début du deuxième millénaire », Horvath (Le Coteau), 1990.</ref>{{,}}<ref>[[René Sédillot]], ''La Grande aventure des Corses'', Fayard, 1969, {{p.|46}} (« Quand les Lombards importent la vendetta »).</ref>.
+
+Vers le milieu du {{s-|VIII}} les Lombards partent, l'[[Empire byzantin]], qui ne contrôle que la côte de l'île, en récupère le nord; dans le même temps les Sarrasins s'emparent du sud<ref>Hans-Erich Stier (dir.), « ''Grosser Atlas zur Weltgeschichte'' », Westermann 1985, {{ISBN|3-14-100919-8}}, {{p.|49, 54, 57}}.</ref>.
+
+La légende du prince [[Rome|romain]] [[Ugo Colonna]] se situe en [[771]], il aurait été envoyé sur l'île par le pape [[Étienne III (pape)|Étienne III]] avec {{unité|1000|fantassins}} et 200 cavaliers, et aurait expulsé les Sarrasins du « ''roi Negolone'' » après trente ans de lutte. Dans la même année, les garnisons de l'empereur romain d'Orient « ''[[Constantin V|Caballino]]'' » perdent définitivement la Corse du Nord au profit des [[Royaumes francs|Francs]] soutenus par les [[Gouvernement de l'Église catholique romaine|papes]].
+
+En [[774]], le roi des [[Francs]] [[Charlemagne]], devenu roi des Lombards, cède la Corse à la [[Gouvernement de l'Église catholique romaine|papauté]]. Si la papauté a théoriquement la suzeraineté de l'île, elle n'a pas les moyens d'en assurer la défense.
+
+L'année [[806]] marque une nouvelle incursion sarrasine : une flotte commandée par le comte franc de Gênes, Adhémar<ref>[[Jean-Baptiste-Pierre Jullien de Courcelles]], ''Histoire généalogique et héraldique des pairs de France : des grands dignitaires de la couronne, des principales familles nobles du royaume et des maisons princières de l'Europe, précédée de la généalogie de la maison de France'', chez Arthus Bertrand, Paris, 1824, tome 3, ''Famille d'Adhémar'', page 3 [https://books.google.fr/books?id=UAZUAAAAcAAJ&pg=PA3#v=onepage&q&f=false (''lire en ligne'')]</ref>{{,}}<ref>{{en}}[http://fmg.ac/Projects/MedLands/NORTHERN%20ITALY%20900-1100.htm#_Toc442430259 Medieval Lands : Conti di Genova]</ref> est envoyée par [[Pépin d'Italie]] pour défendre l'île. C'est de cette expédition victorieuse contre les Sarrasins que les Génois faisaient remonter leurs droits à la souveraineté sur la Corse.
+
+En [[807]] a lieu une incursion de [[Al-Andalus|musulmans venus d'Espagne]] ; ils sont délogés par un certain Burchard, un [[connétable]] envoyé par Charlemagne. Une bataille navale a lieu aux alentours de [[Porto-Vecchio]] coûtant treize navires et des milliers de morts aux envahisseurs.
+
+L'Annaliste de [[Bertin de Sithiu|Saint Bertin de Sithiu]] écrit que, en [[809]], les « Maures, partis d'Espagne, envahissent la Corse, et le samedi de Pâques détruisent une cité où ils ne laissent survivre que son évêque et quelques vieillards et infirmes ». Cette cité pourrait être [[Aléria]].
+
+L'empereur d'Occident [[Louis le Pieux]], l'un des fils de Charlemagne, envoie en Corse son fils [[Lothaire Ier|Lothaire]] en [[825]], puis en [[828]], le comte [[Boniface II de Toscane]], pour en chasser les Maures. Ce dernier, après avoir reconquis la quasi-totalité de l'île, pourchasse les Maures jusqu'en Afrique. C'est lui qui a fondé [[Bonifacio]] en [[830]].
+
+À cette époque, les moustiques [[anophèle]]s ayant été introduits dans les [[lagune]]s de l'île et véhiculant la [[paludisme|malaria]]<ref>Delvert J. : ''L'Expansion des moustiques Anopheles dans le bassin méditerranéen ({{Ve|s}}-{{s-|IX}}s) et ses conséquences démographiques et économiques'', ORSTOM, 1987.</ref>, les Corses fuient les côtes et rejoignent la montagne, d'autres s'embarquent pour l'Italie. Une bonne partie d'entre eux sont accueillis à la fin du {{s|IX}} par le pape [[Léon IV (pape)|Léon IV]] (845-857), qui les installe dans la ville fortifiée de Porto, à quelques centaines de mètres du port ensablé d'[[Ostie]], à l'embouchure du [[Tibre]]<ref>Philippe Pergola de l'{{lien|Institut pontifical d'archéologie chrétienne|trad=Pontificio Istituto di Archeologia Cristiana|lang=de}} à Rome in ''Archéologie et Société'' - Cervioni, août 1979.</ref>.
+
+En [[846]] : Abu Abbas Muhammad I, émir [[Aghlabides|aghlabide]] d'Afrique, envahit le sud de l'Italie et [[Sac de Rome (846)|pille Rome]]. Le sud de l'Italie, la Sicile, la Sardaigne et la Corse passent sous contrôle des [[Aghlabides]].
+
+Avec l'appui des [[Fatimides]], les [[Siciliens]] se révoltent et renversent l'État des Aghlabides en [[909]]. Ils déclarent leur obéissance aux Fatimides. L'état des Aghlabides subsistera seulement sur l’île de [[Malte (île)|Malte]].
+
+L'année [[1014]] marque la dernière incursion sarrasine de l'[[émir]] Abu Hosein Mogehid, battu par une flotte [[Pise|pisano]]-[[Gênes|génoise]].
+
+=== Période de Pise, d'Aragon et de Gênes ===
+{{article détaillé|Cinarca (château)#Les Cinarchesi{{!}}les ''Cinarchesi''}}
+[[Fichier:Pino-tour-2.jpg|vignette|Une [[tour génoise]] à [[Pino]] ([[Luri (piève)|Luri]]).]]
+
+Depuis le {{s-|X|e}} les marquis Obertenghi détiennent probablement des droits sur la Corse en raison de leur titre de comte de la cité de Luni à laquelle l'île est rattachée{{refnec}}. Le pape cède la Corse, moyennant une redevance annuelle de cinquante livres, monnaie de Lucques, à la [[république de Pise]]<ref>[[Prosper Mérimée]],''Notes d'un voyage en Corse'' - Imprimerie de H. Fournier et comp., 14 ''bis'' rue de Seine Paris 1840 {{p.|9}}.</ref>. En [[1018]], les [[marquis de Massa]] arrivent en Corse<ref>[[Lucien Auguste Letteron]] in ''Histoire de la Corse'' Tome I, Bulletin de la Société des sciences historiques & naturelles de la Corse – Imprimerie et Librairie Veuve Eugène Ollagnier - Bastia, 1888 - Note de bas de {{p.|143}}.</ref>.
+
+En [[1077]], [[Grégoire VII]] tente de reconquérir la Corse par son vicaire Landolfo, évêque de [[Pise]]. Il le charge de réorganiser les diocèses de l'île. De 1077 à 1092, dans le cadre de la réforme ecclésiastique, un maillage religieux du territoire par un réseau de [[piève (église)|pièves]] est mis en place.
+
+Puis, en [[1091]], le pape [[Urbain II]] inféode la Corse à l'un des successeurs de ce dernier, Daiberto. Urbain II nomme alors archevêque Daibertus évêque de Pise, en [[1092]], il devient métropolitain-suzerain des six diocèses corses : Nebbio, Mariana, Accia, Sagone, Ajaccio et Aléria.
+
+En [[1095]], le marquis Ugo apparaît avec le titre de marquis de Corse et exerce une autorité sur toute l'île<ref name="D.Istria">{{citation|Il est possible que le prélat cède à son tour une partie de ses droits au marquis Ugo en 1095. - [[Daniel Istria]] in ''Pouvoirs et fortifications dans le nord de la Corse : du {{s|XI|e}} au {{s|XIV|e}}'', Éditions Alain Piazzola, Ajaccio 2005.}}.</ref>, il meurt sans doute peu après [[1124]], sans descendance directe<ref name="D.Istria" />.
+
+Le [[catholicisme]] influe sur la Corse: la cathédrale de Mariana est en consacrée en [[1119]]. Sous l'influence de l'Église, les morts jusque-là enterrés aux bords des routes, sont inhumés autour et dans les églises à partir de [[1130]]. Puis, en [[1133]], les évêchés sont séparés en deux groupes (un pour Gênes et un pour Pise), Gênes obtient à cette occasion du pape [[Innocent II]] les diocèses de [[Diocèse du Nebbio|Nebbio]], [[Diocèse de Mariana|Mariana]], [[Diocèse d'Accia|Accia]], Pise conservant [[Diocèse de Sagone|Sagone]], [[Diocèse d'Ajaccio|Ajaccio]] et [[Diocèse d'Aléria|Aléria]].
+
+La période entre 1150 et 1250 environ, marque la naissance des seigneuries : profitant du déclin de l'autorité du marquis de Massa, l'aristocratie locale s'approprie leurs droits. Les premières fortifications privées sont construites durant cette même période où les [[République de Gênes|Génois]] s'installent à [[Bonifacio]], en [[1195]] plus précisément.
+
+En [[1268]], [[Sinucello Della Rocca]], dit « Giudice della Rocca » ou de [[Cinarca (château)|Cinarca]], est maître de toute la Corse sauf le [[Cap Corse]] et [[Bonifacio]], avec l'aide de Pise, Gênes porte alors la guerre en [[Balagne]] et s'installe à [[Calvi]], édifiant une citadelle. Cette guerre conduira à la [[Bataille de la Meloria (1284)|bataille navale de la Meloria]] où [[Famille Da Mare|Enrico Da Mare]] (fils d'Ansaldo, cosseigneur de [[Rogliano]], amiral de Gênes) défait la marine pisane en [[1284]]. Cette même année la Corse et toute la Ligurie deviennent la propriété de [[Gênes]] qui devient dominante en [[mer Méditerranée|Méditerranée]] : [[Pise]] est évincée.
+
+Le pape [[Boniface VIII]] crée le [[royaume de Sardaigne (1324-1713)|royaume de Sardaigne et de Corse]], concédé en zone inféodée à la couronne d'[[Royaume d'Aragon|Aragon]], ceci en [[1297]].
+
+L'année [[1336]] marque la mort de Jean Avogari (fils d'Oberto) ; son fief est donc partagé entre ses fils : [[Brando (Haute-Corse)|Brando]] à Piero, [[Nonza]] à Lucchino et [[Canari (Haute-Corse)|Canari]] à André.
+
+De [[1347]] à [[1348]], la peste noire qui touche toute l'Europe ne laisse en Corse que le tiers des habitants, aux dires du chroniqueur florentin [[Giovanni Villani]]<ref name="Cesari-Rocca" />.
+
+En [[1348]], survient la mort de Galeotto [[Famille Da Mare|Da Mare]] (dit Giachetto, arrière-petit-fils d'[[Ansaldo da Mare|Ansaldo]]) ; son fief est partagé entre ses enfants : Babiano a tout sauf [[Centuri]] pour Crescione ; [[Morsiglia]] va à Nicolas (fils de Crescione) mais il est peu après aussi seigneur de Centuri ; [[Pino]] va à Bartolomeo (frère de Crescione).
+
+[[Sambucucciu d'Alandu]] dirige une révolte populaire en [[1358]], il chasse de leurs fiefs les seigneurs, qui sont remplacés par des Caporali. Tous les châteaux sont démolis, à part 6 dont ceux de [[Nonza]] et [[Rogliano#Castello San Colombano|San Colombano]]. Le peuple s'administre et les communes émancipées s'unissent en une confédération de la ''{{lang|it|texte=Terra del Comune}}'', opposée au [[Cap Corse]] et à la [[Corse-du-Sud|''{{lang|it|texte=Terra dei Signori}}'']]. Le territoire compris entre [[Brando (Haute-Corse)|Brando]] et [[Aléria]], [[Corte]] et la mer, libéré, s'allie à la république de Gênes en [[1359]].
+
+L'année [[1363]] a été marquée par la persécution des [[Giovannali|Ghjuvannali]]. {{unité|20000}} personnes sont excommuniées.
+* [[1372]] : l'Aragon réalise ses droits sur la Corse. Il aide [[Arrigo Della Rocca]], descendant de [[Sinuccelli Della Rocca|Giudice]], comte de Corse. Gênes inféode l'île à des gentilshommes génois. Arrigo s'entend avec eux pour fonder la société de la Maona et être gouverneur de la Rocca.
+* [[1378]] : 27 août, Gênes afferma l'île à une société industrielle et financière, composée de six membres et désignée sous le nom de « [[Maona]] ».
+* [[1383]] : fondation de [[Bastia]] par [[Gênes]].
+* [[1394]] : Arrigo Della Rocca chasse tous les seigneurs de leurs châteaux et se déclara seigneur de l'île tout entière pour former la principauté italienne de Corse, au même titre que les autres régions-états d'Italie.
+* [[1397]] : Arrigo, maître de presque toute la Corse durant douze ans, est vaincu par Gênes et les Corses qui se soulèvent contre lui.
+* [[1401]] : mort du comte de Corse Arrigo Della Rocca. Son fils passe dans le camp de Gênes car il s'aperçoit des intentions d'invasion étrangère, sur la Corse en particulier, de la France et du royaume d'Aragon.
+* [[1420]] : intervention, avec sa flotte, du roi [[Alphonse V d'Aragon]]. [[Vincentello d'Istria]] prend Bastia, échoue après son siège à [[Bonifacio]] dont la population subira la famine, et ne peut conserver longtemps [[Calvi]]. Le roi d'Aragon veut conquérir les îles italiennes de Corse, de Sardaigne et de Sicile.
+* [[1430]] : rejetant la tutelle de Vincentello, les ''{{lang|it|texte=caporali de Terra del Comune}}'' proclament Simon {{1er}} [[da Mare]], frère d'Urbain, gouverneur général de la Corse. Ce dernier d'abord battu à Biguglia, bloque Vincentello dans Bastia en 1433.
+* [[1434]] : le comte et vice-roi de Corse Vincentello d'Istria est décapité à Gênes sur demande du peuple corse qu'il aura affamé dans sa tyrannie et ses guerres.
+* [[1434]] : Simon {{Ier}} Da Mare se retrouve comte de Corse, mais ne règne durant quelques années que sur les deux tiers de l'île, malgré l'appui de Gênes, des Caporali et de son fils Carlo.
+* [[1439]] : mort de Simon {{1er}} [[da Mare]].
+* [[1453]] : à la demande des Corses, l'île est gérée par l'[[Office de Saint Georges]] avec l'assentiment du pape. La domination génoise devient fondée en droit.
+* [[1454]] : le château de Petralerata est cédé à l'Office de Saint Georges par son occupant, Carlo di Luciano, suivant une convention ratifiée par l'Office le 13 février.
+* [[1455]] : après la prise de [[Constantinople]] par les Turcs en 1453, les [[Barbaresques]] commencent à razzier les côtes (ils le feront durant environ trois siècles). Les villages côtiers commencent à être abandonnés. Pour rassurer les populations, Gênes impose la construction de [[Tour génoise|tours littorales]] aux frais des pievi et communautés pour protéger la population de l'île qui subit des razzias des maures.
+* [[1457]] : Gênes conçoit le projet de construire une forteresse à Ajaccio.
+* [[1460]] : devant la Cortès catalane, Jean d'Aragon jure l'union perpétuelle de la Sicile et de la Sardaigne à la couronne. Il n'est plus question de la Corse. C'est la reconnaissance tacite de la souveraineté génoise.
+* [[1464]] : Francesco Maletta vient prendre possession de la Corse au nom du duc de Milan ; Polo della Rocca et les seigneurs du Cap Corse lui font leur soumission.
+* [[1481]] : Rinuccio di Leca soulève le peuple et offre la Corse à Appiano IV, seigneur de [[Piombino (Italie)|Piombino]], qui envoie immédiatement son frère Gherardo, comte de Montegna, sur l'île où on l'acclame comte de Corse.
+* [[1483]] : De nombreux personnages corses prêtent serment de fidélité devant Matteo de Flisco, capitaine général de l'île de Corse, représentant de l'Office de Saint Georges<ref name="Société des Sciences">Bull. de la Société des Sciences historiques et naturelles de la Corse 1884 - Serment de fidélité prêté par divers personnages corses... .</ref>.
+* [[1492]] : la citadelle d'Ajaccio est en construction. Le 2 mai 1492, Alfonso d'Ornano à qui ont été confiés les travaux, écrit aux Protecteurs de San-Giorgio que les murailles de la ville étaient assez avancées pour « couper les jambes à toute espèce d'ennemis »<ref name="Cesari-Rocca" />.
+* [[1511]] : toute l'île passe sous le contrôle direct de Gênes
+* [[1515]] : mort en exil à Rome du dernier [[Liste des comtes de Corse|comte de Corse]], [[Giovan Paolo di Leca]]
+* [[1525]] : début d'une période d'épidémie de [[peste]] qui dure quatre ans<ref name="Ceccaldi">[[Marc' Antonio Ceccaldi]] in ''Histoire de la Corse, Chronique'', traduction de l'[[Lucien Auguste Letteron|Abbé Letteron]] - Tome II, {{p.|4}}.</ref>.
+* [[1540]] : les [[Frères mineurs capucins|capucins]] vinrent pour la première fois dans l'île ; ils y bâtirent six monastères, à Bastia, à Brando, à Luri, en Balagne, dans le Nebbio et en Casinca.
+:Les Génois conduits par Giovanni d'Oria et la flotte du prince [[Andrea Doria]] son oncle, capturent à [[Osani#Girolata|Girolata]] [[Dragut]], amiral turc et l'un des corsaires les plus célèbres de l'Empire ottoman, avec neuf galères ou galiotes.
+:L'Office de Saint Georges permet aux Niolins de rentrer dans leur pays, à condition qu'ils n'y bâtiraient que des maisons très basses<ref name="Ceccaldi"/>.
+* [[1541]] : Dragut racheta sa liberté, puis, avec une flotte plus considérable que la première fois, il pilla et brûla Castellare, en Casinca, Monticello, en Balagne, Sarla, (dans le Delà des Monts), ainsi que beaucoup d'autres villages qu'il rencontra sur son passage<ref name="Ceccaldi"/>.
+* [[1544]] : l'[[Office de Saint Georges]] fait fortifier en toute hâte [[Calvi]] où il transporte la résidence du gouverneur Niccolò Imperiale.
+* [[1545]] : un certain nombre de familles prises dans toutes les localités de l'île, vont établir à Portovecchio et au Niolo.
+* [[1547]] : 3 septembre, Jacopo [[da Mare]] renouvelle tous les engagements pris par son aïeul envers l'Office de Saint Georges<ref name="Société des Sciences"/>.
+* [[1551]] : [[Sampiero Corso]] occupe la Corse avec les [[Turquie|Turcs]] pour le [[Alliance franco-ottomane|compte de la France]]
+* [[1553]] : [[Paul de La Barthe de Thermes]] commande les troupes envoyées par le roi [[Henri II (roi de France)|Henri II]] pour conquérir la Corse avec l'aide de [[Sampiero Corso]] et les condottiere italiens [[Pierre Strozzi]] et [[Giordano Orsini (1525-1564)|Giordano Orsini]]. Ils se sont alliés aux Turcs commandés par [[Dragut]] qui ravagent [[Bonifacio]], et le [[Cap Corse]]. Le corsaire turc Acarèse base ses [[Galiote (navire)|galiote]]s dans [[Rogliano|l'anse d'Agnellu]] et occupe durant plusieurs années le pays d'[[Ersa]]. Les Génois interviendront et les chasseront.
+* [[1559]] : [[traités du Cateau-Cambrésis|traité du Cateau-Cambrésis]]. La Corse est rendue à [[Gênes]]
+* [[1563]] : le pape [[Pie IV]] réunit le [[diocèse d'Accia]] à celui de [[Diocèse de Mariana|Mariana]]. Il supprime Accia.
+* [[1569]] : Gênes dote l'île de « Statuts civils et criminels » (en vigueur presque jusqu'en 1789).
+* [[1571]] : octobre - Ambroise de Negroni et quatre [[felouque]]s cap-corsines construites à [[Luri#Santa Severa|Santa Severa]] participent à la [[Bataille de Lépante|victoire de Lépante]] (les [[Empire ottoman|Ottomans]] perdent leur légendaire invincibilité et 117 navires).
+* [[1573]] : le [[drapeau de la Corse]] apparaît pour la première fois. Dans un atlas des possessions de [[Philippe II d'Espagne|Philippe II]] roi d'Espagne avec des armoiries pour chaque province qu'il établit en 1573, le géographe italien Mainaldi Galerati décide d'y faire figurer la Corse. Comme il n'en connaît pas les armes, il décide d'y mettre une tête de maure<ref>[http://www.uribombu.com/bandera.htm Les origines du drapeau corse U Ribombu].</ref>.
+* [[1579]] : épidémie de peste à Gênes et en Corse.
+* [[1583]] à [[1590]] : famine et misère en Corse. Les [[Barbaresque]]s razzient toutes les côtes de l'île. Des personnes sont enlevées, 76 villages sont ruinés ou abandonnés dans le sud, 21 dans le nord. Gènes ne parvient pas à cette période à protéger entièrement l'île car affaiblie par les guerres européennes.
+* [[1590]] : Orazio Lanfranchi en appelle au Sénat de Gênes contre le tarif des remboursements des dettes contractées par les agriculteurs fixé par le commissaire d'Ajaccio.
+* [[1594]] : parution de la première histoire de la Corse
+* [[1633]] : Gênes refuse à Simon Francesco Lanfranchi la concession pour repeupler et exploiter la région de Valle di Prunu.
+* [[1676]] : [[14 mars]], arrivent des exilés Grecs à qui les Génois accordent le territoire de Paomia pour protéger les [[Chrétiens d'Orient]].
+{{Article détaillé|Exode des Grecs en Corse}}
+* [[1715]] : les Corses obtiennent l'interdiction des armes moyennant une imposition supplémentaire de deux seini par feu
+* [[1725]] : naissance de [[Pascal Paoli]].
+* [[1726]] : Alessandro Saluzzo est élu gouverneur.
+* [[1728]] : Felice Pinelli qui lui succède, surexcite les Corses par sa maladresse et sa rigueur.
+
+=== La grande révolte des Corses et l’avènement de la république Corse (1729-1816) ===
+* [[1729]] : premier soulèvement des Corses contre Gênes à la suite de mauvaises récoltes et de nouvelles taxes dont l'élément déclencheur est attribué à Anton Francescu Lanfranchi<ref>{{Ouvrage|langue=Français|auteur1=Pierre Antonetti|titre=Histoire de la Corse|passage=p.305|lieu=Paris|éditeur=Robert Laffont|date=1973}}</ref>
+* [[1730]] : juin, arrivées du nouveau gouverneur Giovanni Francesco Gropallo, et du commissaire Camillo Doria chargé des pleins pouvoirs militaires.
+* [[1730]] : en décembre, consulte de Saint-Pancrace et rébellion des Corses contre Gênes ; la Corse déclare son indépendance
+* [[1731]] : à la demande de [[Gênes]], des troupes [[Saint-Empire romain germanique|impériales]] commandées par le baron de Wachtendonck arrivent en Corse.
+* [[1732]] : [[14 janvier]], le colonel de Vins avec six cents soldats allemands tente d'occuper [[Calenzana]] et subit une lourde défaite
+* [[1732]] : [[26 mars]], Paolo Battista Rivarola est nommé commissaire général
+* [[1732]] : [[7 avril]], Le [[Liste des souverains de Wurtemberg|prince de Wurtemberg]] arrive à [[Calvi]] avec de nouvelles troupes allemandes.
+* [[1732]] : paix de [[Corte]] qui ne sera pas respectée.
+* [[1733]] : Wachtendonck et les dernières troupes allemandes quittent la Corse
+[[Fichier:Pasquale Paoli by W Beckey.jpg|vignette|[[Pascal Paoli]].]]
+* [[1733]] : juillet, Paolo Geronimo Pallavicini commissaire général en remplacement de Rivarola
+* [[1733]] : deuxième soulèvement des Corses contre Gênes.
+* [[1734]] : début septembre, Ugo Fieschi et Pier Maria Giustiniani, sénateurs, sont nommés commissaires généraux, en remplacement de Pallavicini. Ils s'annoncent comme messagers de paix
+* [[1735]] : [[30 janvier]], adoption d'un règlement qui entérine la première déclaration d'indépendance de la Corse par la consulta d'[[Orezza]] (la "consulte" de Sébastien Costa)
+* [[1735]] : [[2 mai]], Gênes envoie un commissaire général pour l'Au-delà des monts, Ottavio Grimaldi. Felice Pinelli revient en Corse comme commissaire général de l'En-deçà des monts.
+* [[1736]] : fin janvier, arrive le commissaire général Rivarola.
+* [[1736]] : un aventurier, [[Théodore de Neuhoff]], ex-espion en [[Écosse]] pour étudier le rétablissement des [[Maison Stuart|Stuart]], devient ''roi des Corses''.
+* [[1737]] : [[10 novembre]] à Fontainebleau, convention entre la [[France]] et [[Gênes]] pour l'envoi de troupes en Corse.
+* [[1737]] : décembre, le marquis Giovan Battista de Mari est nommé commissaire général en remplacement de Rivarola.
+* [[1738]] : février, [[Louis de Frétat de Boissieux|Louis de Frétat]], comte de Boissieux, maréchal de camp, chef du corps expéditionnaire français arrive en Corse. Il vient négocier, suivant les ordres reçus, et refuse d'ouvrir les hostilités comme le lui demandent les Génois.
+* [[1738]] : [[24 septembre]], Frédéric de Neuhoff, neveu du roi Théodore, débarque à Ajaccio et Sagone pour tenter de soulever la Corse occidentale.
+* [[1738]] : [[18 octobre]], ratification à Fontainebleau, entre la France et Gênes, d'un Règlement de gouvernement de la Corse.
+* [[1738]] : [[14 décembre]], les Français qui se dirigent vers le [[Borgo|Borgu]], sont attaqués. Le détachement installé dans le village réussit à se dégager. Ils battent en retraite avec des pertes.
+* [[1739]] : [[13 janvier]], le lieutenant-général Jean-Baptiste-François des Marets, marquis de Maillebois, reçoit les instructions pour aller commander l'armée du Roi en Corse, en remplacement de Boissieux malade (il meurt dans la nuit du {{1er}} au 2 février).
+* [[1739]] : avril, Maillebois organise en Balagne, des compagnies de volontaires corses au service de la France. Ces compagnies constituent les premiers noyaux du futur [[régiment Royal-Corse]].
+* [[1739]] : mai, les pieve de Casinca, Ampugnani, Campulori, ainsi que Corte et le Nebbiu, fournissent des compagnies de volontaires corses à Maillebois, qui disposera avec les six bataillons d'infanterie, des hussards et de l'artillerie débarqués à Bastia, d'une armée de {{nombre|16}} bataillons à {{nombre|510}} hommes chacun, deux escadrons de hussards à {{nombre|100}} hommes et {{nombre|60}} [[miquelet]]s. Avec les troupes génoises, les effectifs s'élèvent à dix ou onze mille soldats.
+* [[1739]] : décembre, l'île est en grande partie soumise. Les troupes françaises commencent à réembarquer.
+* [[1740]] : juin, le marquis Domenico Maria Spinola, ancien doge, est nommé commissaire général en remplacement de Giovan Battista de'Mari.
+* [[1740]] : [[3 octobre]], Frédéric de Neuhoff qui s'est soumis, et sa suite quittent la Corse.
+* [[1741]] : fin juin, publication du dénombrement de la population commandé par Maillebois (promu maréchal le 11 février) : la Corse compte {{nombre|339}} paroisses, {{nombre|427}} villages, {{unité|26854}} feux, {{unité|120389}} habitants
+* [[1741]] : 6 septembre, les dernières troupes françaises quittent Calvi pour Antibes.[[Fichier:Bombardement de Bastia en 1745.jpg|vignette|Le bombardement de [[Bastia]] lors de la [[guerre de Succession d'Autriche]] en 1745.]]
+* [[1742]] : pour faire face à une agitation naissante, les Génois envoient de nouvelles troupes sur l'île.
+* [[1743]] : {{1er février}}, [[Théodore de Neuhoff|Théodore]] réapparaît à bord d'un vaisseau anglais devant [[L'Île-Rousse]].
+* [[1743]] : [[22 février]], mort à [[Bastia]] du commissaire Spinola. Gian Benedetto Speroni prend la suppléance.
+* [[1743]] : 28 février, Théodore est dans le [[golfe d'Ajaccio]] avec cinq navires anglais. L'escadre attaque un navire espagnol placé sous la protection des canons génois. Il compte s'emparer d'Ajaccio. Ses partisans commencent le blocus de la ville que la population est autorisée à quitter. La flotte anglaise en repartira le 5 mars.
+* [[1743]] : dans la nuit du 16 au 17 mars, le ''Folkestone'' dépose Théodore à l'embouchure de l'[[Arno (fleuve)|Arno]] en Toscane. Le roi a quitté la Corse pour toujours.
+* [[1747]] : seconde intervention française : le commandement supérieur est exercé par le colonel Choiseul-Beaupré ; il est renforcé en 1748 par le marquis de Cursay, colonel du [[régiment de Tournaisis]].
+
+==== Le Gouvernement de Pascal Paoli (1755-1769) | République Corse ====
+{{Article détaillé|République corse}}
+
+* [[1755]] : avril, au [[Castifao#L'ancien couvent de Caccia|couvent San Francescu de Caccia]], la Cunsulta de [[Caccia (piève)|Caccia]], assemblée de députés convoqués par [[Pascal Paoli]], jette les bases de la Constitution de la future Corse indépendante.
+* [[1755]] : [[14 juillet]], Pascal Paoli est proclamé ''général de la Nation'' par la consulte de [[Couvent Saint-Antoine de Casabianca|Casabianca]].
+* [[1755]] : [[Constitution corse]], initiée par Pascal Paoli, elle est souvent considérée comme la première constitution démocratique de l'histoire moderne.
+* [[1756]] : novembre, troisième intervention française. Six bataillons français débarquent en Corse, commandés par le marquis de Castries qui installe son QG à Calvi. Il sera remplacé par le [[Noël de Jourda|comte de Vaux]] (1757-59).
+* [[1764]] : quatrième intervention française sous le commandement supérieur de [[Charles Louis de Marbeuf|Marbeuf]] (1764).
+* [[1765]] : ouverture de l'[[Université de Corse-Pascal-Paoli|Université de Corse]].
+* [[1767]] : [[Étienne-François de Choiseul|Choiseul]] refuse la donation de l'île proposée par la République de Gênes.
+* [[1768]] : le 15 mai, Choiseul négocie un traité qui comporte un transfert de souveraineté mais aussi un article par lequel ''le Roi s'engage à conserver sous son autorité et administration toutes les parties de la Corse qui seront occupées par les troupes françaises jusqu'à ce que la République en demande à la France la restitution''<ref>La grande révolte des Corses contre Gênes (1729-1769) Chronologie recueillie par Antoine-Dominique Monti ADECEC 1979</ref>.
+* [[1768]] : [[15 mai]], par le [[traité de Versailles (1768)|traité de Versailles]] Gênes cède provisoirement l'administration de la Corse, que dans les faits elle ne contrôle plus, à la France. [[Louis XV]], qui refuse à dessein de reconnaître la [[République corse]] comme légitime, envoie son armée dans le but de prendre possession de l'île.
+* [[1768]] : 18 mai, le [[Bernard-Louis Chauvelin|marquis de Chauvelin]] reçoit le commandement des troupes françaises.
+* [[1768]] : 15 août, Louis XV proclame officiellement la réunion de la Corse à la France<ref>{{Ouvrage|auteur1=Paul Louis Albertini|auteur2=Joseph Marinetti|titre=Corse|éditeur=Éditions G. L. D.|année=1969|passage=221}}</ref>.
+* [[1768]] : [[9 octobre]], les troupes paolistes mettent en déroute l'armée française à [[Borgo]].
+* [[1769]] : 20 février, [[Noël de Jourda|De Vaux]] est nommé commandant en chef des troupes françaises en Corse.
+* [[1769]] : [[9 mai]], les troupes de [[Pascal Paoli]] perdent la [[bataille de Ponte-Novo]]. La Corse passe sous administration française. Des philosophes des Lumières, tels que Rousseau et Voltaire, s'indignent de l'injustice de cette guerre qui vient détruire une nation démocratique.
+
+=== La Corse française ===
+[[Fichier:Ingres, Napoleon on his Imperial throne.jpg|vignette|Napoléon {{Ier}}.]]
+
+* [[1769]] : [[13 juin]], Pascal Paoli quitte la Corse pour la [[Grande-Bretagne (royaume)|Grande-Bretagne]].
+* [[1769]] : [[15 août]], naissance de [[Napoléon Ier|Napoléon Bonaparte]] à [[Ajaccio]].
+* [[1769]] : Fermeture de l'université de [[Corte]] par [[Louis XV]].
+* [[1773]] : [[Charles Louis de Marbeuf|Marbeuf]], noble breton, commandant en chef des troupes françaises et gouverneur de l'île, accorde aux Grecs le droit de s'installer à [[Cargèse]]
+* [[1774]] : [[Niolo]], [[Talcini]] et [[Vallerustie]] se soulèvent. La ferme répression du général Narbonne saccage le Niolo, et six cents Corses sont envoyés au terrible bagne de [[Toulon]].
+* [[1786]] : Une enfant de [[Corbara (Haute-Corse)|Corbara]], [[Marthe Franceschini]], enlevée par des pirates en 1778, attire le Sultan alawite du [[Maroc]]. Elle deviendra Davia et « impératrice » du Maroc.
+* [[1789]] : avril, la Corse compte 11 juridictions royales (Aiacciu, Aleria, Bastia, Bonifaziu, Calvi et Balagna, Capicorsu, Corti, A Porta d'Ampugnani, Nebbiu, Sartè, Vicu) et 65 [[Liste des pievi de Corse|pievi]].
+* [[1789]] : [[30 novembre]], le [[Réunion de la Corse à la France|décret de réunion de la Corse à la France]] est adopté par l'[[Assemblée constituante de 1789|Assemblée nationale constituante]], sur la proposition de [[Christophe Saliceti]], à la suite de la lecture des lettres de la commune de Bastia et d'habitants d'Ajaccio, réitérant les [[Cahier de doléances|cahiers de doléances]].
+* [[1789]] : [[22 décembre]], la [[Assemblée constituante de 1789|Constituante]] divise la France en [[Liste des départements français de 1790|83 départements]].
+* [[1790]] : [[21 janvier]], dernière réaction des Génois avec une lettre de protestation du doge Pallavicini lue à l'Assemblée nationale. Les anciennes communautés ou paroisses prennent le nom de communes.
+* [[1790]] : [[26 février]], par décret la Corse qui était divisée en onze juridictions royales (Aiacciu, Aleria, Bastia, Bonifaziu, Calvi et Balagna, Capicorsu, Corti, A Porta d'Ampugnani, Nebbiu, Sartè et Vicu), est partagée en neuf districts (ex-juridictions) : Bastia, Oletta, A Porta, Cervioni, Corti, l'Isula Rossa, Aiacciu, Tallà et Vicu. Le district est partagé en cantons (ex-pievi), le canton en communes. Le Conseil supérieur, créé en 1768, est supprimé.
+* [[1790]] : [[4 mars]], lettres patentes du roi sur le décret du 26 février : « L'île de Corse ne formera provisoirement qu'un seul département. L'assemblée des électeurs se tiendra dans la pieve d'Orezza ».
+* [[1790]] : [[7 juillet]], l'Assemblée nationale décide que la Corse n'aura qu'un seul évêque comme les autres départements. Le siège est fixé à Bastia. La Corse comptait auparavant cinq diocèses : Aiacciu, Aleria, Bastia, Mariana et Nebbiu.
+* [[1790]] : [[14 juillet]], après avoir été accueilli à Paris, Paoli amnistié rentre en Corse via Macinaggio avec le commandement militaire insulaire.
+* [[1790]] : [[24 septembre]], Bastia est choisi provisoirement comme chef-lieu du département, avec possibilité pour le Conseil de se réunir ailleurs suivant les besoins.
+* [[1790]] : 30 septembre au 14 octobre, à Bastia, première session du premier Conseil général chargé de l'administration du département. Pasquale Paoli est élu président à l'unanimité.
+* [[1791]] : [[27 mai]], le département de la Corse obtient six députés pour la prochaine législature.
+* [[1791]] : [[28 juin]], l'Assemblée nationale confirme la décision du Directoire du département concernant le transfert du gouvernement de l'île à Corti et fixe le siège provisoire de l'évêché à Aiacciu.
+* [[1791]] : septembre, les [[élections législatives françaises de 1791|élections]] envoient à l'[[Assemblée nationale législative (Révolution française)|Assemblée nationale législative]] les candidats désignés par Pascal Paoli dont [[Marius Peraldi]] et [[Charles André Pozzo di Borgo|Pozzo di Borgo]].
+* [[1791]] : [[29 septembre]], en vertu du décret de la Constitution du 18 juin, l'Assemblée fixe le chef-lieu du département à Corti et le siège de l'évêché à Aiacciu.
+* [[1791]] : {{1er juillet}}, décret de la Convention : « 8° L'île de Corse sera divisée en deux départements, l'un en deçà et l'autre en delà des monts ; le Comité de division fera sans délai son rapport sur l'emplacement des chefs-lieux et sur la division en districts et en cantons ».
+* [[1792]] : 8-9 avril, pendant les fêtes de Pâques, à Ajaccio, affrontements entre des soldats la garde nationale qui viennent d'élire Napoléon Bonaparte lieutenant-colonel en second, et des habitants d'Ajaccio.
+* [[1792]] : septembre, Pascal Paoli malade n'ayant pu présider aux [[Élections législatives françaises de 1792|opérations électorales]], ses candidats à la [[Convention nationale]] sont battus par les partisans de la France : [[Christophe Saliceti]], [[Angelo Chiappe]], [[Luc-Julien-Joseph Casabianca|Luigi Casabianca]] et le vicaire épiscopal Multedo.
+* [[1793]] : [[11 août]], séparation de la Corse en deux départements, le [[Liamone (département)|Liamone]] (chef-lieu : Aiacciu, districts : Aiacciu, Vicu et Sartè), et le [[Golo (département)|Golo]] (chef-lieu : Bastia, districts : Bastia, Calvi et Corti).
+* [[1794]] : Horrifié par la [[Terreur (Révolution française)|Terreur]], [[Pascal Paoli]] négocie avec les Anglais pour la création d'un Royaume Corse sous la protection de la [[Grande-Bretagne (royaume)|Grande-Bretagne]], après en avoir chassé les Français. [[Samuel Hood (1er vicomte Hood)|Hood]] aide Paoli à occuper Saint-Florent, Patrimonio, Bastia, Calvi. Mais Hood saccage [[Centuri]] et [[Rogliano|Macinaggio]]. Les Anglais chassent les Français. Dernier bastion français, Calvi se rendra le 20 août. Mise en place du [[Royaume de Corse (1794-1796)|Royaume de Corse]] (communément appelé royaume anglo-corse) avec le vice-roi [[Gilbert Elliot-Murray-Kynynmound (1er comte de Minto)|Gilbert Elliot]]<ref>[https://www.persee.fr/doc/ahrf_0003-4436_1995_num_301_1_1800]</ref>.
+{{Article détaillé|Royaume de Corse (1794-1796)}}
+* [[1796]] : les troupes françaises reprennent l'île qui a été évacuée par les Britanniques.
+* [[1796]] : la Corse compte {{unité|150000}} habitants.
+* [[1797]] ; le rétablissement des lois contre le clergé provoque en [[Castagniccia]] l'insurrection de « La Crucetta » écrasée par le général [[Claude Henri Belgrand de Vaubois|Vaubois]]. Le général Augustin Giafferi, 80 ans, chef des insurgés, est fusillé à Bastia.
+* [[1801]] : tous les diocèses corses sont incorporés au [[diocèse d'Ajaccio]]. Le général [[Joseph Morand]] est chargé de ''pacifier'' l'île.
+* [[1804]] : [[Napoléon|Napoléon Bonaparte]] devient empereur des Français.
+* [[1805]] : Décret de sur-séance qui accorde un délai pour l'emploi de la langue française dans les actes publics en Corse, région de [[italien|langue italienne]] jusqu'en 1858.
+* [[1807]] : février, mort de [[Pascal Paoli]] à Londres.
+* [[1808]] : à [[Isolaccio-di-Fiumorbo|Isolaccio]], dans le [[Fiumorbo (région)|Fiumorbo]] le général Joseph Morand fait arrêter {{nombre|167}} hommes, en fusille 9 et envoie au [[bagne de Toulon]] les autres<ref>[http://www.tarrano-bonicardo.com/histoire/0_corse_histoire.htm] L'Histoire de la Corse par les dates.</ref>.
+* [[1811]] : Golo et Liamone sont réunis, le département de Corse est restauré avec [[Ajaccio]] pour chef-lieu.
+* [[1812]] : Chaque paroisse ouvre un cimetière, les morts ne sont plus inhumés dans les églises.
+* [[1814]] : Napoléon {{Ier}} abdique ; il devient souverain de l'[[île d'Elbe]]. Les Anglais occupent un mois durant [[Bastia]], [[Calvi]], [[Ajaccio]], [[Bonifacio]]. Napoléon de retour au pouvoir à Paris, puis battu à nouveau en juin 1815 à [[Bataille de Waterloo|Waterloo]] par l'Europe coalisée, est déporté, cette fois sur l'[[île de Sainte-Hélène]].
+* [[1815]] : Le [[Charles François Riffardeau de Rivière|marquis de Rivière]] fut appelé, en novembre, au commandement de la {{23e}} [[division militaire]] (la Corse). {{Citation|Sa prudence et sa fermeté}} dissipèrent les troubles insurrectionnels qui désolaient cette île<ref>{{Courcelles-pairs |notice=De RIVIÈRE, (Charles-François ''marquis'', puis ''duc'') |lire en ligne=<!--Adresse URL où on trouve le texte intégral de la notice (facultatif)-->}} {{Ouvrage|titre=Histoire généalogique et héraldique des pairs de France, des grands|volume=VIII|année=1827|pages totales=378|passage=181-184|lire en ligne=https://books.google.fr/books?id=zKVBAAAAcAAJ&pg=PA181&dq=De+RIVI%C3%88RE%2C+%28Charles-Fran%C3%A7ois+marquis%2C+puis+duc%29%2C+issu+d%27une+noble+et+ancienne+famille+%C3%A9tablie+en+Bourbonnais+d%C3%A8s+l%27ann%C3%A9e|id=Courcelles1827}}.</ref>.
+* [[1816]] : mille Fium'Orbais s'insurgent contre [[Louis XVIII]] anti-bonapartiste ; {{unité|8000}} soldats ne peuvent les soumettre. Le général [[Amédée Willot]] réconcilie tout le monde.
+* [[1821]] : [[Napoléon Ier|Napoléon Bonaparte]] meurt à [[Sainte-Hélène (île)|Sainte-Hélène]].
+* [[1830]] : les cantons ne portent plus les noms des anciennes [[piève (circonscription)|pieves]] mais ceux des chefs-lieux.
+* [[1840]] : voyage de [[Prosper Mérimée]] dans l'île.
+* [[1849]] : 10 août, nomination du premier « Monsieur Corse » de l'histoire de l'île. [[Louis-Napoléon Bonaparte]] alors président de la République donne mission à [[Jacques Pierre Abbatucci (ministre)|Jacques Pierre Abbatucci]] (futur garde des Sceaux) de faire un rapport sur les besoins de la Corse, et le charge du suivi des dossiers relatifs à l'Île auprès des différents ministères concernés.
+
+Le [[coup d'État du 2 décembre 1851]] de [[Napoléon III]] est largement soutenu en Corse, département catholique, conservateur et [[monarchie|monarchiste]] ; elle fait même partie des quatre départements où aucun opposant n'est arrêté<ref>[[Jacques-Olivier Boudon|Jacques Olivier Boudon]], ''Les Bonaparte : regards sur la France impériale''. La Documentation photographique, dossier 8073, janvier-février 2010, {{p.|11}} (carte de [[Gilles Pécout]]).</ref>.
+* [[1859]] : 4 août, la Cour de cassation réaffirme que la langue française est la seule langue officielle en Corse<ref>[https://books.google.fr/books?id=abit8Yd6J-cC&pg=PA113&dq=4+ao%C3%BBt,+la+langue+fran%C3%A7aise+devient+la+seule+langue+officielle+en+Corse&hl=fr&sa=X&ei=0F2tUJPVFNSZ0QWmr4G4Aw&ved=0CDMQ6AEwAA#v=onepage&q=4%20ao%C3%BBt%2C%20la%20langue%20fran%C3%A7aise%20devient%20la%20seule%20langue%20officielle%20en%20Corse&f=false ''Le français et les langues historiques de la France'', par Hervé Abalain, Éditions Jean-Paul Gisserot, p. 113], {{isbn|2877478815}}.</ref>, {{refnec|l'italien étant jusqu'alors la langue la plus utilisée dans l'île}}. La langue italienne est désormais interdite dans l'administration{{Référence nécessaire}} (la langue corse n'étant pas encore écrite et considérée comme une forme de l'italien.)
+* [[1880]] : construction du [[gouvernail de la Corse]] par le génie militaire à Bonifacio ; il s'agissait d'un site de surveillance du port<ref>{{Lien web |langue=fr|titre=Le Gouvernail à Bonifacio |url=https://www.bonifacio.fr/visite-decouverte/le-gouvernail/ |site=Office de tourisme de Bonifacio |consulté le=2021-06-19}}</ref>.
+* [[1881]] : la Corse compte {{unité|273000}} habitants.
+* [[1890]] : en l'espace d'un siècle la population de l'île a presque doublé.
+* [[1918]] : avec 9800 (réf. site ''Mémoire des hommes'' regroupant toutes les fiches des "morts pour la France") au terme de quatre ans de guerre, la Corse est l'un des départements qui paye, proportionnellement à sa population, le plus lourd tribut en vies humaines, le département se situe au 31e rang métropolitain (entre la Haute-Saône et la Meuse) avec un taux de mortalité de 3,6 % (décès dus à la guerre par rapport à la population)
+* [[1921]] : le 15 mai à 2 heures, le paquebot délabré ''Rion'' venant de Constantinople, arrive dans la baie d'Ajaccio avec à son bord {{unité|3422}} réfugiés Russes. Après une mise en quarantaine sanitaire, les passagers débarquent. Certains restent définitivement, faisant souche sur l'île. {{Article détaillé|Exode des Russes blancs en Corse}}
+* [[1939]] : interdiction du journal ''[[Petru Rocca|A Muvra]]'', considéré comme pro-italien.
+
+==== La Première Guerre mondiale ====
+[[Fichier:Marignana-monument.jpg|vignette|Monument aux morts à [[Marignana]] ([[Sevidentro]]).]]
+
+{{unité|48000 hommes}} sont mobilisés en Corse, outre les {{unité|9000 hommes}} déjà sous les drapeaux au moment où le conflit éclate. Ce chiffre relativement élevé s'explique par le fait que l'île a le statut de « place forte », qui permet l'enrôlement dans l'armée territoriale et dans sa réserve de soldats plus âgés ({{nobr|37 ans}} au minimum et {{nobr|48 ans}} au maximum). La mission de l'infanterie territoriale est la protection des côtes et places fortes, et non l'engagement en première ligne. Toutefois, dans la confusion des premiers mois de guerre, certains soldats plus âgés sont envoyés sur le front continental, ce qui engendre en avril 1915 des protestations à l'[[Assemblée nationale (France)|Assemblée nationale]].
+
+La mobilisation des conscrits corses obéissait à des règles plus sévères que celles en vigueur en France continentale, ainsi que le déclara le Premier ministre [[Michel Rocard]] devant l'Assemblée nationale, lors de la séance de questions au gouvernement du {{date-|12 avril 1989}}{{note|« Je veux qu'à travers ma réponse, chacun, là-bas, sache que le Gouvernement connaît l'histoire, sait la souffrance de cette terre, et notamment que, pendant la guerre de 1914-1918, à la différence de la Seconde Guerre mondiale, les critères de mobilisation n'étaient pas les mêmes sur tout le territoire : la Corse fut la seule à voir mobiliser jusqu'aux pères de six enfants. Elle y a perdu, par millier d'habitants, deux fois plus de ses fils que n'importe quel département de la France continentale, et elle ne s'en est pas remise du point de vue de l'activité agricole. »<ref>{{Lien web|langue=fr|auteur institutionnel=[[Assemblée nationale (France)|Assemblée nationale]]|titre=Constitution Du 4 octobre 1958|mois=juillet|année=2008|url=http://archives.assemblee-nationale.fr/9/cri/1988-1989-ordinaire2/007.pdf|site=archives.assemblee-nationale.fr|format=pdf|consulté le=1 mai 2018}}.</ref>.}}.
+
+Selon Sébastien Ottavi, agrégé d'histoire au lycée Fesch d'Ajaccio, ce nombre est situé dans « une fourchette de {{formatnum:12000}} à {{unité|15000 tués}} », dont {{unité|10000 morts}} natifs de Corse. Jean-Paul Pellegrinetti et Georges Ravis-Giordani estiment que le nombre de Corses morts au cours de cette guerre est compris entre {{formatnum:10000}} et {{unité|12000 soldats}} insulaires<ref>Jean-Paul Pellegrinetti et Georges Ravis-Giordani, ''Les monuments aux morts de la Première Guerre mondiale en Corse'', Cahiers de la Méditerranée, 81-2010, {{p.|239-251}}.</ref>. Le nombre officiel de Corses [[morts pour la France]] est de {{formatnum:9751}}<ref group=N>Sur la [[borne de la Terre sacrée]] érigée en 1936 sur la plage de Vignola - route des Sanguinaires à [[Ajaccio]], il est indiqué {{unité|48000 morts}} corses.</ref>. Selon le site Mémoire des Hommes du Ministère des Armées, la base de données indique 9 849 morts nés en Corse<ref>{{Lien web |langue=fr |titre=Base de données des morts pour la France du site Mémoire des hommes du Ministère des Armées |url=https://www.memoiredeshommes.sga.defense.gouv.fr/fr/arkotheque/client/mdh/base_morts_pour_la_france_premiere_guerre/ |accès url=libre |site=Mémoiredeshommes.sga.defense.gouv.fr |consulté le=17 mars 2022}}</ref>.
+
+Ces chiffres ramènent la proportion de pertes chez les Corses à « un pourcentage un peu supérieur à celui enregistré au niveau national, soit 18,2 % contre 16,8 % »<ref>{{Lien web|auteur=Sébastien Pisani|titre=Ajaccio La Corse en première ligne a payé un lourd tribut à la Grande Guerre|année=2008|mois=novembre|jour=11|url=https://www.corsematin.com/article/corse/ajaccio-la-corse-en-premiere-ligne-a-paye-un-lourd-tribut-a-la-grande-guerre|site=[[Corse-Matin]]|consulté le=1 mai 2018}}.</ref>.
+
+Parmi les combattants corses de la [[Première bataille de la Marne|Marne]], de [[bataille de Verdun (1916)|Verdun]] et d'autres batailles meurtrières, se sont illustrés : le {{173e|régiment}} de ligne « Aio Zitelli », le général [[Grossetti]] et les aviateurs [[Jean Casale]] et [[Jean-Paul Ambrogi]].
+
+L'arrivée irrégulière des bateaux entraîne de graves problèmes de ravitaillement : pain, sucre, pétrole sont rationnés. La pénurie est aggravée par l'hébergement de {{unité|2000 prisonniers}} de guerre allemands, cantonnés dans les couvents et pénitenciers, puis utilisés comme main-d'œuvre dans les campagnes. De plus, la Corse devient une terre d'asile pour les réfugiés ({{unité|4000 [[Serbie|Serbes]]}} et [[Syrie]]ns). Pour subvenir aux besoins de la population, les terres abandonnées à la friche sont remises en culture suivant les pratiques traditionnelles. En [[septembre 1918]], la [[grippe espagnole]] ravage certains villages et oblige le [[Préfet (France)|préfet]] à prendre des mesures pour limiter l'épidémie (cercueil plombé, ensevelissement profond).
+
+L'[[armistice de 1918]] est accueilli dans l'allégresse et l'anxiété du retour des blessés. Des souscriptions locales permettront d'élever dans chaque village des monuments en l'honneur des morts. En [[1933]], la ''[[Borne de la Terre sacrée]]'' est inaugurée à [[Ajaccio]]. Ces pertes humaines affecteront durablement la vitalité de l'île, ce qui accentuera le déclin économique.
+
+==== La Seconde Guerre mondiale ====
+[[Fichier:Bigorno-Mnt-Morts-1.jpg|vignette|Monument aux morts à [[Bigorno]] ([[Costiera]]).]]
+* [[1941]] : à la demande de l'Italie, l'armée allemande regroupe les prisonniers de guerre corses dans des camps spéciaux : le [[Stalag V-B|Stalag VB]] et l'Oflag VC.
+* [[Seconde Guerre mondiale : novembre 1942|novembre 1942]] - [[septembre 1943 (guerre mondiale)|septembre 1943]] : la Corse est occupée par les troupes italo-allemandes. À partir de novembre 1942, {{nombre|80000|soldats}} italiens envahissent la Corse.
+* 14 décembre 1942 : La [[mission secrète Pearl Harbour]] débarque par le sous-marin ''[[Casabianca (Q183)|Casabianca]]'' en baie de Topiti ([[Piana]]).
+* mars 1943 : [[Fred Scamaroni]], prisonnier à la Citadelle d'Ajaccio, se suicide afin de ne pas livrer ses compagnons sous la torture.
+* août 1943 : exécution de [[Pierre Griffi]] le 18 août et de [[Jean Nicoli (résistant)|Jean Nicoli]] le 31 août à Bastia.
+* {{date-|8|septembre|1943}} : à la suite de la [[Royaume d'Italie (1861-1946)#La période fasciste|chute du régime fasciste]] à Rome, les troupes allemandes occupent l'île.
+{{Article détaillé|Libération de la Corse}}
+* {{date-|9|septembre|1943}} au {{date|5|octobre|1943}} : la population se soulève, les Italiens ({{unité|80000}} soldats) rallient les partisans locaux ({{unité|1000}} combattants) et environ {{unité|4000}} soldats français pour combattre la [[Wehrmacht]]. Ajaccio devient la première ville française à être libérée. Plus de {{unité|700}} soldats italiens auront été tués, mais les troupes italiennes laissent à l'armée française l'honneur d'entrer en premier à Bastia.
+* {{date-|5|octobre|1943}} : {{unité|13000}} Allemands fuient l'île, repoussés vers la mer.
+* {{date-|8|octobre|1943}} : le général [[Charles de Gaulle|de Gaulle]] proclame à Ajaccio : {{Citation|''Nous devons sur le champ tirer la leçon de la page d'histoire que vient d'écrire la Corse française.... La Corse a la fortune et l'honneur d'être le premier morceau libéré de la France. Ce qu'elle a fait éclater de ses sentiments et de sa volonté, à la lumière de sa libération, démontre que ce sont les sentiments et la volonté de la Nation tout entière.''}}<ref>[http://www.mediaslibres.com/tribune/post/2010/10/25/Discours-de-Gaulle-Octobre-1943 ''Medias libres'', Discours de Gaulle, octobre 1943.].</ref>
+* [[1944]] : l'île devient une base importante - surnommée l'{{USS|Corsica}}, le « porte-avion » - pour la poursuite des [[Campagne d'Italie (Seconde Guerre mondiale)|opérations en Italie]] puis pour le [[débarquement en Provence]] (août 1944).
+* [[1944]] : l'armée américaine éradique le [[paludisme]], présent en Corse depuis le {{s|XIII|e}}, par épandages de [[Dichlorodiphényltrichloroéthane|DDT]].{{référence nécessaire}}
+* [[1945]] : procès contre les irrédentistes. Condamnation de [[Petru Rocca]] à 15 ans de prison pour collaborationnisme.
+
+==== La Corse contemporaine ====
+La Corse voit s'installer au milieu des années 1950 des "villages de toile" au bord des plages, dès 1949 à Calvi puis en 1955 à [[Porto-Vecchio]] pour le [[Club Polynésie]] et [[Propriano]] pour le "Club Corsaire", sur le modèle des [[villages magiques]] fondés pour les lectrices du ''[[Elle (magazine)|magazine Elle]]'' et qui [[Tourisme en Sardaigne#Les débuts dans les années 1950|font connaitre les paysages et le potentiel touristique de l'Italie du sud]] auprès de la clientèle des jeunes touristes français.
+
+Peu après, la création du [[Mouvement du 29 novembre]] 1959, contre la vie chère et l'abandon du chemin de fer, marque une nouvelle ère de la Corse contemporaine, soucieuse d'assurer un développement harmonieux et d'échapper à la désertification.
+
+Ce [[Mouvement du 29 novembre]] obtient par des manifestations l'abandon rapide du projet de site d'expérimentation nucléaire à l'Argentella annoncé en mai 1960 par le Premier ministre [[Michel Debré]] puis en automne 1961 un statut fiscal pour les petites entreprise mais maintient le 13 décembre 1961 son mot d'ordre de [[Mouvement du 29 novembre|grève générale des Corses]].
+
+C'est seulement au début des [[années soixante]] que s'amorce une remontée démographique<ref name= Viénot />, tandis que la dépopulation précédente s'était révélée moins forte que dans le Lot, la Creuse, la Corrèze ou l'Ariège<ref name= Viénot />. Entre 1962 et 1975, les naissances l'emportent sur décès de 5100<ref name= Viénot /> et les arrivées du continent sur les départs de 2900<ref name= Viénot />, l'apport principal étant les 43000 personnes venues hors de métropole, avec un nombre des étrangers passé de 7 000 à 30 000 : la Corse est celle des régions françaises qui en accueille le plus<ref name= Viénot />.
+
+L'économie vit une douzaine d'années de transformation rapide dans la décennie qui suit. Environ {{unité|30000|emplois}} sont créés de 1962 à 1975, soit une progression de 59 %<ref name= Viénot /> et le trafic de marchandises double, à plus de 1 million de tonnes<ref name= Viénot />. L'agriculture en est le coeur: le nombre d'exploitations a diminué de 40 %, au même rythme que la moyenne nationale de 45 %<ref name= Viénot />, mais la surface agricole moyenne a augmenté de près de 35 %, avec dans la plaine d'Aléria, où le DDT des Américains a éradiqué la malaria entre 1943 et 1945, et où le maquis est défriché à partir de 1957 pour implanter des vergers d'agrumes et du vignoble<ref name= Viénot />. C'est l'émergence de grandes exploitations à capitaux importants, en monoculture intensive, employant une main-d'œuvre principalement nord-africaine<ref name= Viénot />. En 20 ans, la production annuelle de vin décuple pour atteindre vers 1977 les 2 millions d'hectolitres<ref name= Viénot /> alors que la surface vinicole a seulement quintuplé<ref name= Viénot />, à {{unité|28000|hectares}} dont {{unité|17000}} sur le littoral<ref name= Viénot />, causant une surproduction dont pâtissent les vins de qualité du vignoble traditionnel (Cap Corse, Nebbio, Sartène, Figari, Ajaccio, etc.<ref name= Viénot />), qui ne pèse plus que 5 % de la production agricole corse<ref name= Viénot />.
+
+La récolte de clémentines, exportée à 85% malgré les risques de dépréciation des prix de vente, causés par une solide concurrence internationale<ref name= Viénot />, notamment espagnole, grimpe d'une tonne seulement en 1955 à 20800 tonnes en 1977 puis {{unité|30000|tonnes}} en 1979<ref name= Viénot /> mais ne pèse toujours que 4,5 % de la production agricole corse<ref name= Viénot />. Les autres vergers se limitent à 2000 hectares dont 800 de pêchers et de nectariniers<ref name= Viénot />.
+
+Le cheptel corse chute de 40% en deux décennies, passant de {{unité|440000}} têtes en 1955 à {{unité|270000}} en 1978<ref name= Viénot />. Il est divisé par deux pour les moutons, tombant de 217 000 à 131 000 têtes<ref name= Viénot />, et par quatre pour les chèvres (de 145 000 à 46 000)<ref name= Viénot />, sans que le reste compense: de 37 000 à 43 000 têtes pour les bovins et de 40 000 à 49 000 côtés porcs<ref name= Viénot />.
+
+La baisse est beaucoup moins forte mais réelle pour les fournisseurs des [[Caves de Roquefort|fromageries de Roquefort]]<ref name= Viénot />, qui n'achètent plus en 1978 que la moitié des 86000 hectolitres de lait de brebis corses<ref name= Viénot /> alors que c'était plus de 90 % des 98000 hectolitres de 1962 <ref name="Viénot">Nadine Salkazanov et Alain Viénot, « La Corse en mutation », ''Économie et statistique'', 1980 [https://www.persee.fr/doc/estat_0336-1454_1980_num_123_1_4366]</ref>.
+
+* [[1957]] : création de le SETCO (Société pour l'Équipement Touristique de la Corse) afin de favoriser la réalisation de complexes touristiques (hôtels, villages de vacances, etc.). Création de la [[Société d'économie mixte pour la mise en valeur de la Corse|SOMIVAC]] (Société pour la mise en valeur agricole de la Corse). 90 % des terres ayant été promises auparavant aux [[paysan]]s corses seront réservées aux [[rapatrié]]s d'[[Algérie]]. La Corse en accueille 6 000 environ avant 1962 et, on l'a vu, 8 000 après<ref name= Viénot />.
+* [[1957]] : arrivée massive de [[rapatrié]]s d'[[Algérie]] (jusqu'en [[1965]]); attribution de vastes terres agricoles aux [[agriculteur]]s pieds-noirs rapatriés, au détriment des agriculteurs locaux.
+* [[1959]] : fondation du [[Mouvement du 29 novembre]].
+* [[1960]] : en avril, le gouvernement Debré décide de créer un centre d'expérimentations nucléaires souterraines dans les mines désaffectées de l'Argentella, au sud de [[Calvi]] : manifestation de protestation unanime. Le Gouvernement recule. Les essais nucléaires, qui ne peuvent plus se faire en Algérie, se feront désormais en Polynésie.
+* de [[1965]] à mi-[[1970]] : radicalisation des revendications d'abord régionalistes puis autonomistes et enfin nationalistes. L'île est dans un état d'isolement et de retards techniques considérables : peu de routes, des communications difficiles et coûteuses avec le continent, des installations sanitaires médiocres, une carte scolaire déplorable, pas d'université.
+* [[1970]] : la Corse est administrativement détachée de [[Provence-Alpes-Côte d'Azur|Provence-Côte d'Azur]] et devient la {{22e}} [[Région française|région métropolitaine]] (décret du 9 janvier 1970).
+* [[1972]] : « [[affaire des boues rouges]] » de la [[Montedison]], déversements de produits toxiques au large du [[Cap Corse]]. Après diverses manifestations, un commando clandestin dynamitera le navire pollueur.
+* [[1975]], [[21 août]] : « [[Événements d'Aléria|affaire d'Aléria ]]» : une douzaine d'hommes armés de fusils de chasse, représentée par le docteur [[Edmond Simeoni]], occupe la ferme d'un viticulteur rapatrié accusé d'être mêlé à un scandale financier. En réaction, {{formatnum:1200}} gendarmes et CRS, des blindés et hélicoptères cernent les bâtiments. Bilan : deux gardes mobiles tués et un militant gravement blessé. Cet événement tragique est considéré comme l'acte de renaissance du [[nationalisme corse]].
+* [[1975]] : à la suite de cette affaire, entre le 23 et le 26 août, des manifestations nocturnes ont lieu à Bastia. [[Michel Poniatowski]], ministre de l'Intérieur, envoie les blindés sur Bastia. La ville connaît alors des scènes de guerre civile faisant un mort du côté des forces de l'ordre. C'est le début d'une longue période de troubles dont l'île n'émergera qu'au début du {{S-|XXI}}. La loi du 15 mai 1975 portant réorganisation de la Corse divise l'île en [[Histoire des départements français#La Cinquième République depuis l'indépendance de l'Algérie (depuis 1962)|deux départements]].
+* [[1976]] : le [[5 mai]], au cours d'une [[Nuit bleue (expression)|nuit bleue]] création du [[Front de libération nationale corse|FLNC]] réclamant la reconnaissance des droits nationaux du peuple corse, le droit à l'[[Droit des peuples à disposer d'eux-mêmes|autodétermination]] et un pouvoir populaire démocratique en Corse.
+* [[1976]] : mise en place de la « bidépartementalisation » : l'île est organisée en deux départements, la [[Haute-Corse]] et la [[Corse-du-Sud]].
+* [[1981]] : ouverture de l'[[Université de Corse Pascal-Paoli]] à [[Corte]].
+* [[1981]] : naissance du premier média audiovisuel indépendant de Corse, radio [[Alta Frequenza]], à [[Ajaccio]].
+* [[1982]] : les lois du [[2 mars]] et [[30 juillet]] donnent un statut particulier à la région corse et la première [[assemblée de Corse]] est élue au suffrage universel direct le [[8 août]]. Les nationalistes jugent ces mesures insuffisantes, le [[Front de libération nationale corse|FLNC]] reprend ses actions.
+* [[1989]] : entre mars et avril, la Corse est paralysée par une grève des fonctionnaires sans précédent, visant à dénoncer, entre autres, la cherté de la vie sur l'île<ref>https://www.universalis.fr/evenement/15-30-mars-1989-greve-des-fonctionnaires-en-corse/</ref>.
+* [[1989]]-[[1990]] : Le mouvement nationaliste connaît ses premières divisions internes qui aboutissent à des scissions.
+* [[1991]] : statut [[Pierre Joxe]] voté, l'assemblée de Corse dispose de compétences élargies, et en particulier d'un [[Conseil exécutif de Corse|Conseil exécutif]].
+* [[1992]] : aux élections territoriales, les nationalistes (toutes tendances confondues : [[Corsica Nazione]], [[Mouvement pour l'autodétermination|MPA]], etc.) dépassent 25 % des voix.
+* [[1992]] : le 5 mai, [[catastrophe de Furiani]].
+* [[1995]]/[[1996]] : les deux principales branches issues du [[Front de libération nationale corse|FLNC]] de l'époque, le [[FLNC Canal Historique]] et le [[FLNC-Canal Habituel]], se livrent à des règlements de comptes « fratricides » qui font plus d'une quinzaine de morts.
+* [[1996]] : Plusieurs centaines de militants du [[FLNC Canal Historique]] tiennent une conférence de presse à [[Tralonca]] pour annoncer un cessez-le-feu. Cette manifestation, qui ressemble plus à une démonstration de force qu'à un message pacifique, en raison de l'arsenal présent (lance-roquettes, fusil d'assaut, etc.) et du nombre impressionnant de militants, provoque l'incompréhension et la stupéfaction générale. [[Jean-Louis Debré]], le ministre de l'Intérieur de l'époque, sera par la suite critiqué pour avoir laissé faire et écarté du « dossier corse » par le gouvernement.
+* [[1998]] : assassinat du préfet [[Claude Érignac]].
+{{Article détaillé|Assassinat du préfet Érignac}}
+* [[1999]] : [[affaire des paillotes]]. La paillote « Chez Francis », construite illégalement, est incendiée tout aussi illégalement par les gendarmes du GPS au cours d'une action clandestine sur ordre du préfet [[Bernard Bonnet]].
+* [[2000]] : en août, le premier ministre [[Lionel Jospin]] propose un nouveau statut pour la Corse connu sous le nom de « processus de Matignon » qui est voté par l'Assemblée nationale le [[4 décembre]].
+* [[2002]] : loi élargissant à nouveau les compétences de la collectivité territoriale de Corse et lui confiant notamment de nouvelles responsabilités dans des domaines tels la gestion des ports et aéroports, la carte des formations ou la préservation des monuments historiques.
+* [[2003]] : 6 juillet : rejet par une majorité d'électeurs habitant sur l'île du projet de collectivité unique. Marquant une victoire des républicains anti-nationalistes conduits par [[Émile Zuccarelli]], ce référendum est, selon ces derniers, un tournant décisif dans l'histoire politique récente avec l'arrêt provisoire des réformes institutionnelles.
+* [[2007]] : lors de l'[[Élection présidentielle française de 2007|élection présidentielle]], la Corse est l'une des régions de France qui votent le plus massivement en faveur de [[Nicolas Sarkozy]] (plus de 61 % des voix), candidat élu.
+* [[2008]] : 12 janvier: à la suite d'une manifestation nationaliste, ceux-ci, qui devaient initialement se diriger vers la préfecture, occupent l'Assemblée territoriale corse pendant près de trois heures (s'ensuit un incendie qui ravage des bureaux dont celui du président de l'Assemblée).
+* [[2009]] : le [[Plan d'aménagement et de développement durable de la Corse]] (PADDUC) initié par la majorité [[Union pour un mouvement populaire|UMP]] de l'Assemblée de Corse suscite la polémique sur l'île. Accusé, entre autres, d'être basé sur le tout-tourisme, de ne pas respecter assez l'environnement et d'empêcher le développement de l'agriculture, le projet rencontre une vive opposition. Il est finalement repoussé, et figure parmi les enjeux des [[Élection territoriale corse de 2010|élections territoriales de 2010]].
+* [[2010]] : la gauche, menée par [[Paul Giacobbi (homme politique, 1957)|Paul Giacobbi]], remporte pour la première fois depuis 24 ans les élections territoriales. Les nationalistes, toute tendances confondues ([[Femu a Corsica]], autonomiste, et [[Corsica Libera]], indépendantiste), atteignent le score historique 36 % des voix et se positionnent au centre du débat politique. Dans les mois qui suivent, l'Assemblée de Corse jette les bases d'une nouvelle politique foncière et évoque des mesures qui devront s'insérer dans un nouveau statut de la Corse, que l'Assemblée devra négocier avec l'État. La gauche y est majoritairement favorable, tout comme les partis nationalistes. La gauche républicaine aujourd'hui minoritaire, y reste hostile. La droite, elle, s'abstient. Le débat institutionnel est relancé.
+* [[2012]] : novembre : à la suite des assassinats de l'avocat [[Antoine Sollacaro]] et du Président de la Chambre de Commerce de Corse-du-Sud Jacques Nacer, le gouvernement français reconnait pour la première fois l'existence d'une [[criminalité organisée corse|mafia en Corse]], et promet des mesures judiciaires spécifiques.
+* [[2013]]-[[2014]]: L'Assemblée de Corse vote plusieurs propositions allant dans le sens d'une nouvelle évolution institutionnelle et d'une autonomie élargie pour la Corse. Le 17 mai 2013, au terme d'un vote largement majoritaire (36 voix sur 51, soit 70 % des votants), elle vote l'adoption d'un statut de coofficialité pour la langue corse, assorti d'un programme de revitalisation linguistique. L'opinion corse, de son côté, est quasi unanimement favorable au bilinguisme et à la réintroduction de la langue (90 % des personnes interrogées, selon un sondage Opinion of Corsica publié en avril 2013)<ref>https://www.corsematin.com/article/assemblee-de-corse/la-coofficialite-de-la-langue-votee-par-lassemblee-de-corse.994161.html.</ref>. Le 27 septembre de la même année, les élus corses se prononcent pour une nouvelle évolution des institutions de l'île par le biais de l'inscription d'une mention spécifique à la Corse dans la Constitution (à 46 voix sur 51)<ref>https://www.corsematin.com/article/france/lassemblee-de-corse-pour-inscrire-lile-dans-la-constitution.1158002.html.</ref>. Le 25 avril 2014, à l'issue d'un vote majoritaire de 29 voix sur 51, les conseillers territoriaux proposent l'adoption d'un statut de résident permanent d'au moins cinq ans pour devenir propriétaire dans l'île afin de contrer la flambée des prix et la spéculation foncière et immobilière<ref>https://www.corsematin.com/article/derniere-minute/corse-il-faudra-resider-depuis-au-moins-cinq-ans-pour-devenir-proprietaire.1356246.html.</ref>. Le 31 octobre, un nouveau [[Plan d'aménagement et de développement durable de la Corse|PADDUC]] (initié cette fois-ci par la majorité territoriale de gauche), est adopté par l'Assemblée de Corse. Plus consensuel que le précédent, le projet fait cependant l'objet de longues et intenses discussions. Le texte est adopté à une large majorité, voté par 38 élus sur 51. Et enfin, le 12 décembre 2014, l'Assemblée de Corse adopte à 42 voix sur 51 un projet de réforme institutionnelle visant à faire de la Corse une [[collectivité territoriale unique|collectivité unique]], projet qui prévoit notamment la fusion de la Collectivité territoriale de Corse et des deux conseils départementaux (Haute Corse et Corse du Sud). À la suite de ces nouvelles propositions, un timide dialogue s'ouvre à nouveau entre les élus corses et le gouvernement français. S'il est ouvert sur la question de la [[collectivité territoriale unique|collectivité unique]] (le Ministre de l'Intérieur d'alors, [[Bernard Cazeneuve]], donne son feu vert au projet à l'occasion d'une visite dans l'ile début 2015<ref>{{lien web |titre=Le "chiche" de Bernard Cazeneuve à la Corse |url=https://www.francebleu.fr/infos/politique/le-chiche-de-bernard-cazeneuve-la-corse-1423224291 |site=Francebleu.fr |date=06-02-2015 |consulté le=16-07-2020}}.</ref>), le gouvernement se montre cependant beaucoup plus réticent concernant les autres propositions.
+* [[2014]] : 25 juin : dans un communiqué envoyé à la presse locale, le [[Front de libération nationale corse|FLNC]] annonce l'abandon de la lutte armée. L'organisation déclare « sans préalable et sans équivoque aucune » avoir décidé « unilatéralement d'enclencher un processus de démilitarisation et une sortie progressive de la clandestinité » et estime qu'il est temps « de passer à une phase nouvelle : celle de la construction d'une force politique pour gouverner la Corse et la conduire à l'indépendance »<ref>https://www.corsematin.com/article/derniere-minute/le-flnc-corse-annonce-labandon-de-la-lutte-armee.1428059.html.</ref>. L'annonce est historique, et accueillie positivement par la classe politique insulaire qui y voit le début d'une nouvelle ère dans les rapports politiques en Corse.
+* [[2015]] : {{1er}} juillet : l’[[Assemblée nationale (France)|Assemblée nationale]] adopte le projet de [[collectivité territoriale unique|collectivité unique]] pour la Corse, voté un an plus tôt par les élus corses. L'entrée en vigueur de ce nouveau statut pour l'île est prévue pour le {{1er}} janvier 2018.
+* [[2015]] : 13 décembre : Victoire des nationalistes à l'issue du second tour des [[Élection territoriale de 2015 en Corse|élections territoriales]], la liste unie "Pè a Corsica" (fusion des autonomistes de [[Femu a Corsica]] et des indépendantistes de [[Corsica Libera]]) menée par [[Gilles Simeoni]] arrive en tête avec plus de 35 % des voix. Pour la première fois depuis la création de la [[Collectivité territoriale de Corse]] les nationalistes accèdent aux responsabilités territoriales.
+* [[2017]] : 10 décembre : La coalition nationaliste [[Pè a Corsica]] est réélue à une large majorité (plus de 56 % des voix) à l'issue du second tour des [[Élections territoriales de 2017 en Corse|élections territoriales]] (ces élections ont lieu seulement deux ans après celles de 2015, en raison de la mise en place de la Collectivité unique au {{1er}} janvier 2018). Pour la première fois une force politique obtient la majorité absolue à l'Assemblée de Corse. Forts de cette victoire, les nationalistes espèrent l'ouverture d'un dialogue avec l'État en vue d'une véritable autonomie pour la Corse et d'une solution politique globale<ref>{{lien web |titre=Gilles Simeoni appelle à "un véritable dialogue" avec Paris |url=http://www.rtl.fr/actu/politique/corse-nationaliste-gilles-simeoni-dialogue-paris-7791350111 |site=RTL.fr |consulté le=16-07-2020}}.</ref>.
+* [[2018]] : {{1er}} janvier : Entrée en vigueur officielle de la [[collectivité territoriale unique|collectivité unique]], baptisée [[Collectivité de Corse]].
+* [[2022]] : plusieurs manifestations pour Yvan Colonna, militant indépendantiste corse mortellement agressé en prison, ont dégénéré en violents affrontements<ref>{{lien web|langue=fr|url=https://www.france24.com/fr/france/20220404-en-corse-nouvelles-violences-lors-d-une-manifestation-pour-yvan-colonna|titre=En Corse, nouvelles violences lors d'une manifestation pour Yvan Colonna|auteur=|date=4 avril 2022|consulté le=4 avril 2022|site=[[france24.com]]}}.</ref>.
+
+== Politique ==
+{{Article détaillé|Politique en Corse}}
+
+La vie politique est dominée jusqu'à la [[Seconde Guerre mondiale]] par le [[Parti radical (France)|Parti radical]] (centre-gauche) de [[Adolphe Landry]] et l'[[Alliance démocratique (France)|Alliance démocratique]] (droite) de [[François Piétri|François Pietri]]. Le [[Parti communiste français|Parti communiste]] de Corse vient bouleverser cette situation à la [[Libération de la Corse|Libération]], tirant un prestige considérable de son action dans la résistance et, dès la fin de l'année 1943, dispose d'une influence politique majeure sur l'île. Il est à la tête de la préfecture et administre 260 municipalités sur 320, tandis que ses militants sont près de {{formatnum:10000}} en 1946. Le [[général de Gaulle]] décide alors de reprendre la main et favorise le retour en grâce des anciennes gloires politiques insulaires, dont notamment [[Paul Giacobbi (homme politique, 1896-1951)|Paul Giacobbi]], qui sera élu premier président du conseil départemental de l'après-guerre<ref name=":1">{{Lien web |langue=fr |titre=Parti communiste corse : un siècle de lutte |url=https://france3-regions.francetvinfo.fr/corse/longs-formats-parti-communiste-corse-siecle-lutte-1907218.html |site=France 3 Corse ViaStella |date=2020-12-23 }}</ref>. L'influence communiste décline progressivement par la suite, notamment en raison de son soutien à l'indépendance de l'[[Algérie]] alors que de nombreux colons corses étaient installés dans ce pays et envoyaient de l'argent à leurs proches restés sur l'ile<ref name=":1" />.
+
+Les partis nationalistes, opposés à une économie uniquement axée sur le tourisme, réalisent une percée historique aux [[Élections territoriales de 2010 en Corse|élections territoriales de mars 2010]].
+
+Le {{date-|30 mars 2014}}, l'avocat [[Gilles Simeoni]] devient le premier maire nationaliste de [[Bastia]]. Lors des [[Élections territoriales de 2015 en Corse|territoriales de décembre 2015]], il est élu président de la Collectivité territoriale de Corse, grâce à l'alliance ''[[Pè a Corsica]]'' entre les autonomistes (''[[Femu a Corsica]]'') {{incise|auxquels il appartient}} et les indépendantistes (''[[Corsica libera]]'').
+
+== Administration ==
+=== Administration avant la Révolution française ===
+{{Article détaillé|Liste des pievi de Corse}}
+
+Avant que soit voté à l'[[Assemblée constituante de 1789|Assemblée nationale constituante]] « L'Île de Corse est déclarée partie intégrante de l'empire français » le {{date-|30 novembre 1789}}, l'île, sous domination des cités marchandes italiennes de l'époque (Rome, Pise, Gênes), était divisée en diocèses, [[piève (circonscription)|pievi]] (paroisses), communautés et fiefs. Elles étaient administrées par des évêques, piévans ou coévêques, des ''caporali'' (tribuns) et des seigneurs locaux (jusqu'en 1641).
+
+Le {{date-|14 décembre 1789}}, les communautés et paroisses deviennent des communes par la loi d'organisation municipale votée par la [[Assemblée constituante de 1789|Constituante]].
+
+=== Administration de 1789 à 1982 ===
+Lorsque les circonscriptions d'action régionale (CAR), équivalent des [[région française|régions]] actuelles, sont organisées en 1960, la Corse fait partie de la CAR de Provence-Côte d'Azur-Corse. Elle en est détachée par un décret de 1970<ref>[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000505391 Décret {{numéro}}70-18 du 9 janvier 1970 modifiant le décret {{numéro}}60-516 du 2 juin 1960 portant harmonisation des circonscriptions administratives], [[Journal officiel de la République française|JORF]] {{numéro}}8 du 10 janvier 1970, {{p.}}395-6, sur [[Légifrance]].</ref>. En 1974, la Corse devient l'un des vingt-deux établissements publics régionaux et est dotée d'un conseil régional et d'un comité économique régional. En 1982, l'établissement public devient collectivité territoriale.
+
+En 1975, en application de la loi du 25 mai<ref>[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000521934 Loi {{numéro}}75-356 du 25 mai 1975 portant réorganisation de la Corse], [[Journal officiel de la République française|JORF]] {{numéro}}113 du 16 mai 1975, {{p.}}4947-9, sur [[Légifrance]].</ref>, la Corse est divisée en deux [[département français|départements]], la [[Corse-du-Sud|Corse du Sud]], avec Ajaccio pour chef-lieu, et la [[Haute-Corse]], avec Bastia pour chef-lieu.
+
+=== Administration depuis 1982 ===
+{{Article détaillé|Politique en Corse#Collectivité de Corse}}
+
+La Corse constitue la "Collectivité territoriale de Corse" (CTC), statut particulier institué en vertu de la loi du {{date-|13|mai|1991}}. Cette loi a substitué ce nouveau statut de collectivité territoriale de la République, qui lui confère plus de pouvoir, à l'ancien statut de région.
+
+La Corse est donc dotée d'une organisation institutionnelle originale, unique en France métropolitaine, mais comparable à celle de la plupart des autres régions européennes largement décentralisées. Il est également comparable à celle des collectivités régies par l'article 73 de la Constitution française. Le statut de la Corse est ainsi très proche de celui de la Martinique, toutes les deux administrées par une collectivité territoriale comprenant un Conseil exécutif, une assemblée et un conseil consultatif. La spécificité de la Corse dans la République a en effet été reconnue par le pouvoir national puis traduite dans plusieurs réformes statutaires (1982, 1991, 2002 et 2015) à partir d'un double fondement : favoriser l'expression du débat politique dans le cadre d'une démocratie locale rénovée, permettre la recherche de solutions adaptées aux problèmes insulaires à travers l'octroi de compétences étendues en matière d'identité et de développement.
+
+Ainsi la collectivité territoriale de Corse apparaît à l'avant-garde de la « République décentralisée » : par ses responsabilités accrues mais aussi une organisation rationalisée et des moyens plus importants, parmi lesquels le statut fiscal.
+
+La fonction de président du [[Conseil exécutif de Corse|conseil exécutif]] est la plus haute fonction de la [[collectivité territoriale de Corse]] il exerce le pouvoir exécutif, détenu dans les autres régions par le président du [[Conseil régional (France)|conseil régional]].
+
+La collectivité territoriale de Corse comprend trois organes :
+* le [[Conseil exécutif de Corse]]
+* l'[[Assemblée de Corse]]
+* le [[Conseil économique, social et culturel de Corse]] (CESC).
+
+Au {{1er}} janvier 2018, elle fusionne avec les deux conseils départementaux pour former la Collectivité unique de Corse, dotée des mêmes organes que la CTC.
+
+== Démographie ==
+{{Article détaillé|Démographie de la Corse}}
+
+La Corse comptait {{unité|294118 habitants}} au {{date-|1 janvier 2006}}<ref>Insee, {{Lien brisé|url=http://insee.fr/fr/themes/document.asp?reg_id=6&ref_id=14811 |titre=La Corse en bref - Population}}, 2009.</ref> et {{formatnum:302966}} au {{date-|1 janvier 2008}}.
+
+Au {{date-|1 janvier 2012}}, l'[[Institut national de la statistique et des études économiques|INSEE]] recense une population légale 2009 de {{unité|305674 habitants}}<ref>Insee, [http://www.citypopulation.de/France-Agglo.html résumé statistique pour la Corse], 2012.</ref>.
+
+Au {{date-|1 janvier 2014}}, l'INSEE recense une population légale 2011 de {{Unité|323092 habitants}},
+
+Au {{Date|1|janvier|2019}}, l'INSEE recense une population légale 2016 de {{Unité|330455|habitants}}, soit une forte croissance depuis 30 ans, mais comparable à la Sardaigne, cinq fois plus peuplée avec {{nobr|1,66 million}} d'habitants, et moins peuplée que les Baléares ({{nobr|1,11 million}}) ou la Sicile ({{nobr|5 millions}}). La Corse est donc la {{4e|île}} la plus peuplée de Méditerranée occidentale, dont les habitants insulaires sont près de {{nobr|9 millions}}. La Corse est aussi la {{4e|île}} française la plus peuplée après la Réunion (près de {{Unité|850000 habitants}} en 2015), la Guadeloupe (plus de {{Unité|400000 habitants}} en 2015), la Martinique (environ {{Unité|380000 habitants}} en 2015), et devant la Polynésie française (près de {{Unité|280000 habitants}} en 2015), la Nouvelle-Calédonie (près de {{Unité|270000 habitants}} en 2015) et Mayotte (environ {{Unité|230000 habitants}} en 2015).
+
+=== Immigration ===
+Au recensement de 2018, seuls 55,7 % des résidents de la Corse étaient natifs de Corse, tandis que 29,8 % étaient des natifs de la France métropolitaine continentale, 0,3 % des natifs de la [[France d'outre-mer]], 4,2 % des Français de naissance natifs de l'étranger (dont les [[pieds-noirs]]) et 9,9 % des immigrés (natifs de l'étranger sans nationalité française à la naissance)<ref>{{Lien web|url=https://www.insee.fr/fr/statistiques/6023301?sommaire=2414232 |titre=Données harmonisées des recensements de la population 1968–2018 |site=[[Institut national de la statistique et des études économiques|INSEE]] |consulté le=2022-03-14}}</ref>. La majorité des immigrés en Corse viennent du [[Maghreb]] (particulièrement du [[Maroc]], 29,1 % de tous les immigrés en 2018) et d'Europe du Sud (particulièrement du [[Portugal]] et d'[[Italie]], respectivement 24,0 % et 12,4 % de tous les immigré en 2018)<ref>{{Lien web|url=https://www.insee.fr/fr/statistiques/5397751?sommaire=5397790&geo=REG-94|site=insee.fr|titre=IMG1B - Population immigrée par sexe, âge et pays de naissance en 2018 - Région de Corse (94)|consulté le= 2022-03-14}}</ref>.
+
+En [[2009]], la Corse comptait {{unité|28961 immigrés}} (nés étrangers à l'étranger) soit 9,5 %<ref>[http://www.recensement.insee.fr/tableauxDetailles.action?zoneSearchField=CORSE&codeZone=94-REG&idTheme=9&idTableauDetaille=25&niveauDetail=1 Région : Corse - 94 IMG1B - Les immigrés par sexe, âge et pays de naissance], Insee 2009,.</ref>, dont {{formatnum:13319}} nés au Maghreb soit 4,3%, sur une population de {{formatnum:305674}}.
+
+31,2 % des nouveau-nés en [[2011]] en Corse, soit 962 sur {{formatnum:3084}}, ont au moins un parent né à l'étranger (quelle que soit sa nationalité), soit la plus forte proportion après la région [[Île-de-France]] (46,3 %) et la région [[Provence-Alpes-Côte d'Azur]] (32,6 %)<ref>Insee, [http://www.insee.fr/fr/themes/detail.asp?ref_id=ir-sd20111 Données détaillées des statistiques d'état civil sur les naissances en 2011], 2012.</ref>. Parmi ces nouveau-nés, 17,6 % ont un père né au [[Maghreb]], soit la plus forte proportion au niveau des régions, devant les régions [[Provence-Alpes-Côte d'Azur]] (14,9 %), [[Languedoc-Roussillon]] (14,1 %) et [[Île-de-France]] (13,1 %)<ref>Insee, [http://www.insee.fr/fr/ppp/bases-de-donnees/irweb/sd20111/dd/excel/sd20111_n6dbis_fe.xls Enfants nés vivants suivant le pays de naissance du père par département et région de domicile de la mère], 2012.</ref>.
+
+=== Résidents étrangers ===
+Au {{date-|1 janvier 2015}}, on recensait en Corse {{unité|33526 étrangers}}<ref>Étrangers/Immigrés en 2015 - Région de Corse : [https://www.insee.fr/fr/statistiques/3569310?sommaire=3569330&geo=REG-94 Population immigrée par sexe, âge et pays de naissance en 2015], sur ''insee.fr'' (consulté le 16 janvier 2019).</ref> déclarés sur une population totale de {{unité|327283 habitants}}<ref>Étrangers/Immigrés en 2015 - Région de Corse : [https://www.insee.fr/fr/statistiques/3569308?sommaire=3569330&geo=REG-94 Population par sexe, âge et situation quant à l'immigration en 2015], sur ''insee.fr'' (consulté le 16 janvier 2019).</ref>, soit 10,24 % de la population.
+
+{| class="wikitable" border="1" cellspacing="0" cellpadding="5"
+!Pays de naissance
+!Population<br />{{date-|1 janvier 2015}}
+|-
+|{{MAR}}
+| align="right" |{{formatnum:10566}}
+|-
+|{{POR}}
+| align="right" |{{formatnum:8179}}
+|-
+|{{ITA}}
+| align="right" |{{formatnum:3962}}
+|-
+|{{TUN}}
+| align="right" |{{formatnum:2052}}
+|-
+|{{ALG}}
+| align="right" |{{formatnum:1335}}
+|-
+|{{SPA}}
+| align="right" |737
+|-
+|{{TUR}}
+| align="right" |22
+|-
+|Autres pays de l'Union européenne
+| align="right" | {{formatnum:4147}}
+|-
+|Autres pays d'Europe
+| align="right" |673
+|-
+|Autres pays d'Afrique
+| align="right" |696
+|-
+|Autres pays (Asie, Amérique, Océanie)
+| align="right" | {{formatnum:1157}}
+|-
+|'''Total'''
+| align="right" |'''{{formatnum:33526}}'''
+|-
+|}
+
+== Économie ==
+{{Article détaillé|Économie de la Corse}}
+
+=== Présentation ===
+La proportion de chercheurs d'emplois était de 10,6 % en [[2002]], relativement stable, mais près de 20 % des habitants vivent dans la pauvreté<ref name=":0">{{Article |langue=fr |titre=En Corse, le mal larvé de la pauvreté |périodique=Le Monde |date=2019-01-04 |lire en ligne=https://www.lemonde.fr/societe/article/2019/01/04/en-corse-le-mal-larve-de-la-pauvrete_5404991_3224.html}}</ref>, avec beaucoup de retraités pauvres. Vieillissante, la population est plus faiblement active qu'ailleurs, d'où une surreprésentation du secteur tertiaire, notamment non marchand et public. L'économie corse est composée en très grande partie de très petites entreprises avec peu ou pas de salariés. Les plus grandes sont dans la distribution et le BTP. Reflet d'une industrialisation très modeste, le [[Produit intérieur brut|PIB]] par habitant, {{unité|24232 euros}} en [[2008]] et {{unité|26554 euros}} en 2012, était 18 % de moins que la moyenne nationale, mais en rattrapage de 3 % en {{nobr|4 ans}}. 
+
+Le secteur primaire, principalement agricole, rassemble 5,30 % des actifs et le secondaire 15,30 %, contre 20% en moyenne en France<ref>"Les grands secteurs de production : primaire, secondaire et tertiaire", par Vie Publique, 3 septembre 2019 [https://www.vie-publique.fr/fiches/269995-les-grands-secteurs-de-production-primaire-secondaire-et-tertiaire#:~:text=Selon%20l'enqu%C3%AAte%20Emploi%2C%20en,le%20secteur%20primaire%202%2C6.]</ref>. Le secteur tertiaire, qui assure 79,40 % des emplois de l'île, est marqué par la prépondérance de la fonction publique d'État et des collectivités territoriales, le [[tourisme en Corse]] générant aussi beaucoup d'emplois dans les activités sportives et de loisirs. La population active corse était d'environ {{unité|122300 habitants}} au {{date-|31 décembre 2014}}, en hausse de {{formatnum:13000}} en {{nobr|7 ans}} (2007).
+
+=== Secteur primaire ===
+==== Agriculture ====
+[[Fichier:Murzo chèvres.jpg|vignette|Chèvres corses en Corse.]]
+
+L'[[agriculture]] a été marquée par l'histoire agraire de l'île. Les systèmes vivriers traditionnels alliaient des céréales dans les coteaux aménagés en terrasses avec jachère biennale, voire sur la [[Agriculture sur brûlis|culture sur brûlis]] en cas de crise alimentaire, à des cultures d'appoint jardinées (jardins, vignes, vergers) et à un élevage pastoral alliant terres de plaine d'hivernage et d'altitude l'été, autour de village de montagne ([[Niolo]], [[Alta Rocca]], [[Vallée d'Asco|Asco]], etc.). Ils disparaissent au début du vingtième siècle, des tarifs douaniers défavorables favorisant leur éviction par des céréales importées, les châtaigniers prenant parfois le relais.
+
+La [[Corse (race ovine)|brebis corse]] était une composante essentielle de cette agriculture vivrière de montagne grâce à sa rusticité et ses aptitudes mixtes en lait, viande et laine. À partir de la fin du {{s|XIX|e}}, l'arrivée des [[Industrie laitière|industriels laitiers]] de la filière [[Roquefort (fromage)|roquefort]] sur l'île bouleverse cette économie et fait passer progressivement ses éleveurs dans l'ère industrielle<ref>{{Lien web|url=http://www.races-montagnes.com/fr/races/corse.php|titre=Race laitière Corse |site=races-montagnes.com|éditeur=CORAM - Collectif des Races des Massifs|consulté le= 16 juillet 2012}}.</ref>.
+
+L'autre composante est la [[Corse (race caprine)|chèvre corse]], une race autochtone élevée en isolement des autres races, inscrite officiellement comme race caprine en 2003. Les produits laitiers corses sont usuellement des [[Fromage fermier|transformations fermières]] de [[lait cru]] de brebis et de chèvre.
+
+Au tournant de 1945, l'intérieur est ruiné, en pleine déprise rurale et agricole. Les propriétaires fonciers ont bien souvent émigré et en 1950 la Corse est à son minimum démographique: environ {{nombre|150000|habitants}}. 
+
+Puis deux phénomènes redessinent le paysage agricole : mise en valeur de la plaine orientale et reconquête de l'intérieur par l'agriculture et l'élevage pastoral.
+
+Face au marasme ambiant, le gouvernement entreprend de drainer la vaste plaine orientale, terre d'hivernage des bergers et de leurs brebis, pour y installer une agriculture « moderne » au sens des [[Edgard Pisani|lois Pisani]], c'est-à-dire industrialisée. À l'origine conçue pour les Corses, cette politique sert à accueillir les [[pieds-noirs]] de retour d'Algérie à partir de la fin des [[années 1950]], via les cultures permanentes (vignes, agrumes, kiwis, fruitiers) de grosses structures, à fort capital, grandes SAU, employeuse de main d'œuvre salariée souvent d'origine marocaine. 
+
+Cette nouvelle agriculture côtière à forte capitalisation est exposée à des difficultés répétitives, notamment à honorer les remboursements de l'endettement quand les prix de vente baissent, d'où les différents cycles qui se succèdent: vins de table, kiwis, agrumes. La vinification en cave particulière, qui requiert une certaine capitalisation, trouve un succès relatif via une production labellisée. 
+
+L'intérieur de l'île a au contraire a connu une certaine reprise agricole dans les années 1970 car il est resté attaché à des structures [[paysan]]nes à peu d'investissements, sur le slogan « ''campà in paese'' » (« vivre au pays »), d'élevages de petits ruminants de races rustiques organisés en systèmes de types pastoraux : surfaces vastes pour pallier le manque de productivité fourragère à l'hectare, résultats techniques modestes (« moyens » ou « médiocres » selon les standards de certains types d'agriculture. Malgré cela, de vastes zones de l'intérieur deviennent presque vides d'habitants<ref>{{Lien web |titre=Evolution de la répartition de la population en Corse |url=https://www.esrifrance.fr/iso_album/p8_mapbook2013.pdf. |date=décembre 2010 }}</ref>. 
+
+Parmi les autres secteurs agricoles en croissance, la « [[castanéiculture]] » et l'« [[oléiculture]] » ou les fromages, carcasses d'agneaux et de cabris, huile d'olive, viande de veau, salaisons, et miels, via une production-transformation fermière en [[vente directe]] pour valoriser la main-d'œuvre familiale. Cetta agriculture milite et démarche pour une reconnaissance du terme « fermier » et des [[appellation d'origine|appellations]] agricoles corses. Elle souligne les problèmes de maîtrise du foncier, de manque de repreneurs, de difficultés financières et de mises aux normes européennes des ateliers de [[Secteur agroalimentaire|transformation agroalimentaire]].
+
+Dans les années 1990 et 2000, la [[Corse (race ovine)|brebis corse]] connaît un renouveau grâce à l'intégration de lait dans le cahier des charges d'appellations d'origine contrôlées de [[fromage fermier de Corse]] comme le ''[[brocciu]]'' et d'autres<ref>{{Lien web|auteur=UPRA Brebis Corse|url=http://www.brg.prd.fr/brg/pages/rga/ovins/63|titre=Etude de la race ovine: Corse|année=2005|site=brg.prd.f|éditeur=Bureau des ressources génétiques|consulté le= 16 juillet 2012}}.</ref>.
+[[Fichier:Fromages Corse.jpg|vignette|Fromage corse dans un marché corse.]]
+
+==== Énergie ====
+La Corse est la plus développée des régions françaises en [[Énergie renouvelable|énergies renouvelables]]. L'énergie utilisée est pour 25 % d'origine [[Énergie hydraulique|hydraulique]] (7 centrales<ref name="corsematin">[https://www.corsematin.com/articles/le-plein-denergie-en-corse-hydraulique-solaire-eolien-lile-est-pleine-de-ressources-5516 Le plein d'énergie en Corse Hydraulique, solaire, éolien... l'île est pleine de ressources] [[Corse-Matin]]</ref> EDF pour {{unité|136|MW}}), mais aussi d'origine [[Énergie thermique|thermique]] ({{unité|303|MW}}, à Vazzio et [[Centrale thermique de Lucciana|Luciana]]<ref name="corsematin"/>, utilisant principalement du diesel et du fioul). L'[[Énergie éolienne|éolien]] se développe fortement avec un énorme potentiel, et notamment les fermes éoliennes du Cap Corse (3 fermes éoliennes<ref name="corsematin"/> pour {{unité|18|MW}}), l'une des zones les plus venteuses de l'île. Plusieurs fermes photovoltaïques ont vu le jour un peu partout dans l'île (Balagne, Cortenais dont celle sur le site de Pascialone à Poggio-di-Venaco). 93 % de l'énergie est aujourd'hui produite par EDF et EDF EN, qui ont investi en Corse près d'un milliard d'euros de leurs ressources entre 2006 et 2012, pour développer et moderniser le parc de production.
+
+=== Secteur secondaire ===
+[[Fichier:VP-nuit.jpg|vignette|Le vieux-port de [[Bastia]].]]
+L'industrie, comme partout en Europe, a un effet d'entrainement fort pour l'économie, avec 4 à 6 emplois tertiaires induits par chaque emploi industriel local.
+==== BTP ====
+Le secteur industriel est surtout développé dans le BTP, qui dépend pour ses carnets de commande des marchés publics de routes et de grands bâtiments pour les plus grosses entreprises et une demande locale de résidences et de maisons très diversifiée ou touristique pour les PME et TPE de 0 à 3 salariés. 
+==== Agro-alimentaire ====
+Les industries agro-alimentaires s'appuient sur des entreprises de transformation des céréales, vignes, laits, fromages, viandes, huiles, poissons, produits de façon locale, avec la biscuiterie Torra produisant selon des recettes locales, la conserverie de Casatorra, soupes de poissons, tripes et plats cuisinés corses, les fromageries et laiteries semi-industrielles, ou la charcuterie, dont une partie ne bénéficie d’aucune appellation d’origine contrôlée (AOC)<ref>"Le figatellu, produit emblématique de la charcuterie Corse, ne bénéficie d’aucune Appellation d’origine contrôlée (AOC), entraînant de nombreuses dérives" par Annick Berger sur BFM le 25/10/2019 [https://www.capital.fr/conso/attention-la-charcuterie-corse-nest-pas-forcement-corse-1353657]</ref>. Le secteur des eaux minérales de qualité (Saint Georges, Zilia, Orezza) et autres boissons (notamment la brasserie Pietra qui développe outre les bières, les sodas et limonades) a en partie réussi à contenir la concurrence de produits du continent.
+
+D'autres ressources sont exploitées, mais de façon plus marginale (bois, lauze, pierres ornementales ou de construction).
+
+=== Secteur tertiaire ===
+[[Fichier:Porto Ajacio.JPG|vignette|alt=Un port de plaisance à l'avant-plan, Ajaccio derrière|Vue du port de plaisance d'[[Ajaccio]].]]
+==== Distribution ====
+Même si la grande distribution est considéré comme un des premiers employeurs en Corse, le mouvement indépendantiste mais aussi les petits commerçants corses dénoncent "la politique des grands groupes financiers qui imposent des contrats d'emplois précaires, prennent en otage l'agriculture corse et détruisent le commerce de proximité"<ref name=Serreri/>. Ils sont de plus en plus attentifs à l'arrivée de "franchises" de l'agroalimentaire se dissimulant derrière "noms corsisés"<ref name=Serreri/>. Des débats houleux ont par exemple accueilli un projet d'aménagement de plus de 10 000 mètres carrés, en bord de route à la sortie sud de Bastia, qui se présente comme adossé à la chaîne d'alimentation spécialisée "Grand Frais"<ref name="Serreri">"Le Rinnovu vent debout contre un projet de halle commerciale", par Kael Serreri, dans ''[[Corse-Matin]]'' le 18 mai 2017 [https://www.corsematin.com/articles/le-rinnovu-vent-debout-contre-un-projet-de-halle-commerciale-72832]</ref>.
+
+==== Tourisme ====
+{{Article détaillé|Tourisme en Corse}}
+Avec le commerce, c'est le secteur le plus dynamique, grâce au statut de [[Tourisme en Corse|destination touristique réputée]], qui assure un emploi sur six et {{nombre|5|millions}} de nuitées par an<ref name=Bleus/>, mais un grand nombre d'emplois offerts sont peu qualifiés et saisonniers. L'activité du secteur touristique cependant tend à s'étendre en arrière et pré-saison<ref>{{Lien web|url=http://www.corse.fr/Tourisme-strategies-et-lignes-d-actions_a454.html |titre=Tourisme : stratégies et lignes d'actions |site=Collectivité Territoriale de Corse|année= 2014|consulté le= 18 décembre}}.</ref>. Le tourisme d'affaire<ref>{{Lien web|url=http://corse-incentive.com/dmc_en_corse_Corse_DMC-25.php|titre=DMC en Corse |site=Corse Incentive |auteur=corse Incentive |année= 2014|consulté le= 18 décembre}}.</ref>. Le tourisme international ou thématique (sportif, gastronomique…)<ref>{{Lien web|url=https://www.corsematin.com/article/france/le-tourisme-agroalimentaire-en-plein-boom.1483610.html |titre=Tourisme : Le tourisme agroalimentaire en plein boom |site=Corse Matin|année= 2014|consulté le= 18 décembre}}.</ref> vise à répartir les flux sur l'ensemble de l'année.
+
+En Corse, le succès de la [[randonnée dans les îles de Méditerranée]] dans les [[années 1970]], a contribué à l'essor de la notion d'[[écotourisme ]], appelé aussi [[tourisme durable]], [[Agritourisme|agrotourisme]] ou [[tourisme équitable]], également [[tourisme en Sardaigne|promu dans l'île proche de Sardaigne]] un peu plus tard.
+
+Dans les années 1970, {{cita|années charnières, de revendications régionalistes, environnementales et culturelles}}<ref name=loiseau/> et période où {{cita|va naître le [[Parc naturel régional de Corse]]}}<ref name=loiseau/> (PNRC) le 15 mai 1972, une étude a par ailleurs montré la conservation d'un important tourisme familial interne à la Corse: sur {{nombre|100000|personnes}} environ habitant les deux principales agglomérations corses, [[Bastia]] et [[Ajaccio]], près de 12000 « montent au village » tous les dimanches, tandis que 18500 y vont au printemps et près de 35000 pendant les vacances<ref>"La Corse" par  Janine Renucci, en 2001 aux Presses universitaires de France, cité par  Mathilde Woillez  dans "Construction d’une gouvernance partagée pour une gestion durable du tourisme dans les territoires insulaires"[https://tel.archives-ouvertes.fr/tel-02022993/document]</ref>.
+
+Homologué en 1971, mais imaginé dès 1952 par [[Jean Loiseau]] dans « Itinéraires de Corse », le [[Sentier de grande randonnée 20|GR20]], réputé comme le plus difficile  des GR français<ref name=loiseau/>, a vu ensuite la fréquentation de ses refuges plus que décupler entre 1993 et 2003 pour culminer à près de 400 000 nuitées officielles<ref name="loiseau">Histoire du GR20 et hommage à Jean Loiseau [http://www.randonnee-corse-gr20.fr/histoire-du-gr20/]</ref>.
+
+La Corse dispose de trois toutes petites stations de ski alpin, surtout utilisés en fin de semaine, mais le ski de fond est considéré comme mieux adapté aux conditions locales<ref name="Richez">"Les activités sportives de pleine nature dans l'espace rural corse" par Gérard Richez et Josy Richez-Battesti, dans la revue ''Méditerranée'' en 1991 [https://www.persee.fr/doc/medit_0025-8296_1991_num_72_1_2702]</ref>. Sur les côtes, depuis 1976, un établissement public, le Conservatoire du littoral, a acquis des pans entiers de terrain<ref name="1septembre2002_lexpansion.lexpress.fr" />, jusqu'à détenir 20 % du littoral, soit {{unité|14690|hectares}}, protégés un quart de siècle après<ref name="1septembre2002_lexpansion.lexpress.fr" />.
+
+=== Fiscalité ===
+{{Article détaillé|Statut fiscal de la Corse}}
+
+La Corse bénéficie depuis le [[Consulat (histoire de France)|Consulat]] d'un [[Statut fiscal de la Corse|régime fiscal dérogatoire]] motivé par son insularité et son développement moindre par rapport à la France continentale. La dernière mesure législative qui régit le statut fiscal particulier de l'Île de Beauté date de 1994.
+
+Des avantages fiscaux dont bénéficient les entreprises touchent notamment à l'[[impôt sur les sociétés]] dans les zones franches, et à la [[taxe professionnelle]], réduite sur toute l'île.
+
+Les particuliers bénéficient d'avantages en matière de [[Taxe sur la valeur ajoutée|TVA]], de [[taxe foncière]] sur les propriétés non bâties (pour préserver certains secteurs de l'île), de [[Taxe intérieure sur les produits pétroliers|TIPP]]. Ils sont par ailleurs exonérés totalement de droits de succession (avantage limité à partir du {{1er}} janvier 2012). Toutefois sur ce dernier point, il est bon de préciser qu'en France continentale, 95 % des héritiers sont « de fait » également exonérés de droits de succession<ref>Marianne {{numéro|678}}, p. 25.</ref>.
+
+L'État reverse au profit des collectivités le manque à gagner sur les taxes locales. Le coût brut est réduit : le manque à gagner en matière de recette fiscale du fait de ce statut dérogatoire était de 230 millions d'euros en 2004.
+
+Depuis [[1976]], la Corse bénéficie également du concept de [[continuité territoriale]]. Elle a bénéficié de [[subvention]]s au titre des [[fonds structurels européens]] relevant de l'objectif 1 (qui concerne les régions dont le PIB est inférieur à 75 % de la moyenne européenne).
+
+La Corse, qui ne fabriquait pas de produits manufacturés, était, par exception, autorisée à en importer hors taxe d'[[Italie]] ; pour éviter que l'île serve d'entrée aux produits italiens sans taxe, on a donc taxé les exportations vers la France continentale. En revanche, les produits agricoles corses étaient vendus en France continentale hors taxe<ref>[[GEO (magazine)|GEO]] {{numéro|381}}, novembre 2010, {{p.|14}}.</ref>.
+
+== Criminalité ==
+{{Article détaillé|Crime organisé corse}}
+{{Article détaillé|Liste de personnes assassinés en Corse}}
+
+La Corse est la région française ayant structurellement le taux d'homicide le plus élevé. Au cours de l'année 2010, {{unité|682 homicides}} volontaires ont été commis en France<ref>{{Lien brisé|auteur=|titre=Chute du nombre d'homicides en France|année=2010|mois=août|jour=2|url=http://www.france-info.com/france-justice-police-2010-08-02-chute-du-nombre-d-homicides-en-france-472154-9-11.html|site=Franceinfo|consulté le=1 mai 2018}}.</ref>, dont 28 en Corse<ref>[http://questions.assemblee-nationale.fr/q13/13-77565QE.htm 28 homicides et 17 tentatives d'homicide ont été recensés en Corse, ce qui fait passer la Corse devant la Sicile en nombre de crimes de sang], sur le site questions.assemblee-nationale.fr, {{date-|27 novembre 2010}}.</ref>{{refins}}. Le taux d'homicide volontaire s'établit ainsi à un pour {{unité|10800 habitants}} sur l'île, contre un pour {{unité|95000 habitants}} sur le continent.
+
+En avril 2014, avec {{nombre|371|personnes}} tuées depuis près de trente ans, le taux de meurtre par habitant en Corse est devenu plus élevé qu'en [[Sicile]] (région pourtant berceau de la [[Mafia sicilienne|mafia]]) et le plus élevé d'[[Europe]]. C'est aussi la région de [[France]] où le plus de représentants de l'Administration (maires, préfets…) ont été victimes d’assassinat, 11 au total<ref>{{Lien brisé|url=https://www.lejdd.fr/Societe/Faits-divers/Corse-la-region-la-plus-sanglante-d-Europe-489552-3223847}}</ref>.
+
+L'emprise de la criminalité organisée sur l'économie et la société corse présente des similitudes avec les [[mafia|mafias]] du [[Mezzogiorno|sud de l'Italie]]. Toutefois l'île ne présente pas de structures mafieuses pérennes<ref>https://www.liberation.fr/france/2017/12/10/le-grand-banditisme-corse-rattrape-par-ses-vieux-demons_1615763</ref>. La spécificité corse se caractérise par l'existence de groupes criminels à la durée de vie limitée, se disputant pendant plusieurs années le contrôle de l'économie de micro-régions (par exemple la [[Balagne]], la région [[Ajaccio|ajaccienne]] ou le [[Valinco]]) au travers d'activités légales et illégales. Le phénomène du [[pizzo (mafia)|racket]] est présent, mais reste difficile à quantifier.
+
+Les divers groupes disparaissent avec la mort de leurs fondateurs, contrairement aux clans mafieux italiens dont la structure perdure à travers les générations. Leurs héritiers se dispersent en sous-groupes, s'allient avec d’anciens groupes rivaux, ou font face à l'apparition de nouvelles bandes<ref>https://www.cairn.info/revue-pouvoirs-2010-1-page-91.htm</ref>.
+
+== Transports ==
+{{Article détaillé|Transport en Corse}}
+
+=== Transport ferroviaire ===
+{{Article détaillé|Chemins de fer de la Corse}}
+
+La Corse possède un réseau ferroviaire de deux lignes seulement : [[Gare de Bastia|Bastia]] - [[Gare d'Ajaccio|Ajaccio]] et [[Gare de Calvi|Calvi]] - [[Gare de Ponte-Leccia|Ponte-Leccia]] (qui sert d'interconnexion entre les 2 lignes). Ce réseau est géré par les [[Chemins de fer de Corse|CFC]] (Chemins de fer de la Corse) et est à [[voie métrique]].
+
+=== Transport maritime ===
+[[Fichier:PLota22082018AJ.jpg|vignette|Le ''[[Pascal Lota]]'' de la compagnie [[Corsica Ferries]] à Ajaccio.]]
+[[Fichier:Jean Nicoli - Corsica Linea.png|vignette|Le ''[[Jean Nicoli (navire)|Jean Nicoli]]'' de [[Corsica Linea]] à Porto-Vecchio.]]
+[[Fichier:Giro22072018AJ.jpg|vignette|Le ''[[Girolata (navire)|Girolata]]'' de [[La Méridionale]] à Ajaccio.]]
+[[Fichier:Bateau Moby Aki Port - Bastia (FR2B) - 2021-09-12 - 4.jpg|vignette|Le ''[[Moby Aki]]'' de [[Moby Lines]] à Bastia.]]
+
+Les liaisons maritimes entre la Corse et le continent européen sont assurées toute l'année grâce aux ports :
+* de Bastia (51,2 % du trafic passagers en Corse en 2011 et (2022 ferme nice)
+* d'Ajaccio (26,5 % du trafic passagers de la Corse en 2011)
+* de Porto Vecchio (9 % du trafic passagers de la Corse en 2011)
+* de Île Rousse (8,2 % du trafic passagers de la Corse en 2011)
+* de Bonifacio italie (5,4 % du trafic passagers de la Corse en 2011)
+* de Propriano (2,2 % du trafic passagers de la Corse en 2011)
+
+qui relient l'île à :
+* Marseille ([[Corsica Linea]] et [[La Méridionale]] vers et depuis Bastia, Ajaccio, L'Île-Rousse, Porto-Vecchio et Propriano)
+* Toulon ([[Corsica Ferries]] vers et depuis Bastia, Ajaccio, L'Île-Rousse et Porto-Vecchio)
+* Nice (Corsica Ferries et [[Moby Lines]] vers et depuis Bastia)
+* Savone (Italie - Corsica Ferries vers et depuis Bastia et Porto-Vecchio)
+* Gênes (Italie - [[Moby Lines]] vers et depuis Bastia)
+* Livourne (Italie - Corsica Ferries et Moby Lines vers et depuis Bastia)
+
+par les compagnies de transport maritime :
+* [[Corsica Ferries - Sardinia Ferries]], entreprise privée franco-italienne, appartenant à Pierre Mattei,
+* [[Corsica Linea]], entreprise privée détenue par un consortium d'entrepreneurs corses, succédant à la [[SNCM]] depuis 2016,
+* [[La Méridionale]], marseille société du [[groupe STEF-TFE]],
+* [[Moby Lines]], groupe Onorato
+* Ichnusa Line, entreprise privée italienne,
+
+=== Transport aérien ===
+Les liaisons aériennes sont notamment assurées par deux compagnies aériennes, [[Air France]] et [[Air Corsica]], qui proposent des liaisons régulières. D'avril à octobre, et surtout pendant l'été, de nombreuses liaisons de ''charters'' relient sans escale la Corse à de grandes villes européennes.
+
+La Corse possède quatre aéroports :
+* [[Aéroport d'Ajaccio Napoléon Bonaparte]] à {{Unité|5 km}} à l'est d'[[Ajaccio]].
+* [[Aéroport de Bastia Poretta]] à {{Unité|16 km}} au sud de [[Bastia]]
+* [[Aéroport de Calvi-Sainte-Catherine]] à {{Unité|8 km}} au sud-est de [[Calvi]]
+* [[Aéroport de Figari Sud Corse]] à {{Unité|4 km}} au nord-ouest de [[Figari]]
+
+=== Transport routier ===
+{{Article détaillé|Réseau routier de Corse-du-Sud|Réseau routier de la Haute-Corse|Signalisation bilingue#Corse{{!}}Signalisation bilingue en Corse}}
+
+==== Transport en commun ====
+{{Article détaillé|Société des autobus bastiais|Muvistrada|A Citadina}}Le manque de transport en commun rend les habitants dépendants de leur voiture<ref name=":0" />.
+
+==== Cyclisme ====
+Le réseau ''[[Grande Traversée 20]]'' (GT20, en corse, « ''A traversata Maiò'' »), est un itinéraire cyclable qui lie Bastia au Nord à Bonifacio à la pointe Sud en 12 étapes<ref>{{lien web| url=https://www.visit-corsica.com/Magazine/Quoi-de-neuf/Actualites-sport-et-nature/Inauguration-de-la-grande-traversee-cycliste-A-Traversata-Maio| titre=Inauguration de la grande traversée cycliste "A Traversata Maiò|auteur=Vanessa|date=7 août 2019}}</ref>
+
+== Culture ==
+{{Article détaillé|Culture de la Corse}}
+
+=== Langue corse ===
+{{Article détaillé|Corse (langue)}}
+[[Fichier:CorsicaMountains.jpg|vignette|Les montagnes corses vues d'avion.]]
+
+À l'époque romaine, les habitants de l'île parlaient un latin encore très proche de celui du continent. Pour schématiser : on retiendra que la [[Corse (langue)|langue corse]] est une [[langue romane]] étroitement apparentée au [[toscan]], appartenant au groupe [[italo-roman]] et très proche des [[dialecte]]s d'[[Italie centrale]]. Ceci fait que l'intercompréhension avec les Italiens parlant l'italien standard est excellente, mais reste plus compliquée avec d'autres dialectes italiens tels que le vénitien ou  le piémontais. L'hymne corse ''{{Langue|it|[[Dio vi salvi Regina]]}}'' est d'ailleurs écrit en italien standard et chanté en corse sans que de grandes modifications soient perceptibles entre l'écrit et l'oral ; la seule différence est que le -''o'' italien devient un -''u'' latin en corse (même dans le titre qui est parfois ''{{Langue|co|Dìu vi salvi Regina}}''. Ce phénomène de l'interchangeabilité du -''u'' et du -''o'' n'est cependant pas un phénomène proprement corse puisqu'on le retrouve en [[sicilien]], en [[sarde]], en [[calabrais]], en [[occitan]] et en [[catalan]]. Toutefois, les variétés de la langue corse dites « taravaise » ou « sartenaise » sont plus éloignées du [[toscan]], mais nettement plus proches des langues [[sicilien]]ne ou [[gallurais]]e.
+
+Chaque micro-régions de l'île possède ses spécificités linguistiques Ainsi, l'extrême sud est resté davantage soumis à l'influence du bas latin. Cela se révèle notamment dans la forme des pluriels masculins (issus du neutre latin dans l'extrême sud) et dans la forme initiale de termes restés proches du latin tels ''u casgiu'' pour le fromage directement issu de ''caseus'' en latin<ref group="N">Le mot « fromage » vient du latin « caseus formaticus » ; le français et l'italien avec ''fromage'' et ''formaggio'' ont utilisé la deuxième partie du mot ; d'autres langues ont utilisé la première : ''queso'' en espagnol, ''queijo'' en portugais, ''cheese'' en anglais, ''Käse'' en allemand.</ref>. Les linguistes décrivent ces différentes variétés comme une forme de polynomie. Les différentes variétés sont intercommunicantes mais variées.
+
+La langue corse est le véhicule de la culture corse, riche de ses chants, ses polyphonies, ses proverbes, et de ses expressions.
+
+Elle est l'objet de nombreuses revendications concernant sa protection et son enseignement. L'État malgré une non volonté politique de promouvoir l'enseignement de la langue et de la culture corse, à accordé aux revendications la mise en place d'un enseignement facultatif d'un maximum de deux heures par semaine, géré par les professeurs des écoles dans le primaire. Ces mesures sont vues par certains comme trop faibles, comparées à ce qui est fait en Espagne pour le [[catalan]], le [[basque]] et le galicien par exemple. En 2011, la majorité de gauche au pouvoir a annoncé dans l'enceinte de l'Assemblée son intention d'aller vers un statut officiel de la langue corse, qui pourrait permettre sa réintroduction généralisée dans la société, à l'instar de ce qui a été fait en Catalogne espagnole. Cette officialisation passe cependant par une révision de la Constitution<ref>[https://www.lesechos.fr/journal20110729/lec1_derniere/0201536984911-vers-l-officialisation-de-la-langue-corse-199923.php Vers l'officialisation de la langue corse], sur le site lesechos.fr du 29 juillet 2011.</ref>, qui est rejetée par l'Académie française<ref> {{lien web |langue=fr |titre=L'Académie française ne veut pas des langues régionales dans la Constitution |url=https://www.lemonde.fr/societe/article/2008/06/17/l-academie-francaise-ne-veut-pas-des-langues-regionales-dans-la-constitution_1059211_3224.html |date=17 juin 2008 |site=[[Le Monde|Lemonde.fr]] }}.</ref>.
+
+De fait, la langue corse est considérée par l'[[Organisation des Nations unies pour l'éducation, la science et la culture|Unesco]] comme une langue en voie de disparition.
+
+Une partie des patronymes corses se retrouvent en Italie, souvent parce qu'ils sont issus d’une assignation, d'une « traduction » ou « italianisation » datant de l’époque de l’administration pisane ou génoise (qui utilisaient déjà le toscan comme langue officielle)<ref>{{lien web |titre=LES NOMS DE FAMILLE CORSES EXISTENT-ILS? |url=http://chiorboli-corsica.blogspot.fr/2012/05/les-noms-de-famille-corses-existent-ils.html |site=Blogspot.fr |consulté le=16-07-2020}}.</ref>. Une autre partie des patronymes proviennent directement de la péninsule. C'est le cas, notamment de Benigni, patronyme qui trouve son origine en Toscane, ou de [[Maison Bonaparte|Bonaparte]] qui vient de Ligurie.
+
+Autrefois langue orale, la langue corse est actuellement codifiée et structurée par l'université de Corse et défendue par de nombreuses associations insulaires. Elle doit son statut de langue au fait paradoxal que la Corse fait partie de la France, ce qui lui vaut d'être séparée des autres dialectes italiens.
+
+=== Autres langues parlées en Corse ===
+{{colonnes|taille=30|
+* [[Français]]
+* [[Italien]]
+* [[Grec (langue)|Grec]]
+* [[Ligurien|Ligure]] ([[Bonifacien]])
+* [[Gallurais]]
+}}
+
+=== Chants et polyphonie ===
+{{colonnes|taille= 13|
+* [[Alte Voce]]
+* [[Jean-Paul Poletti]]
+* [[A Filetta (groupe)|A Filetta]]
+* [[Chœur de Sartène]]
+* [[Jacky Micaelli]]
+* [[Felì]]
+* [[L'Arcusgi]]
+* [[Barbara Furtuna]]
+* [[Canta U Populu Corsu]]
+* [[Antoine Ciosi]]
+* [[Ceccè Lanfranchi]]
+* [[Giramondu]]
+* [[I Chjami Aghjalesi]]
+* [[I Muvrini]]
+* [[Orizonte]]
+* [[Tino Rossi]]
+* [[Battista Acquaviva]]
+* [[Patrizia Gattaceca]] en solo
+* [[Petru Guelfucci]]
+* [[Voce Ventu]]
+* Jean Charles Papi
+* Christophe Mondoloni
+* [[Patrick Fiori]]
+}}
+
+=== Cinéma en langue corse ===
+En 2004 sort ''[[Le Silence (film, 2004)|Le Silence]]'', un film dramatique réalisé par [[Orso Miret]]. L'histoire d'un Corse de la diaspora qui vient passer ses vacances d'été sur l'Île de Beauté avec sa compagne enceinte de trois mois, il va être l'unique témoin d'un meurtre.
+
+De 2006 à 2014, la [[série télévisée]] ''[[Mafiosa]]'' créée par [[Hugues Pagan]] est diffusée sur [[Canal+]].
+
+En 2007, [[Robin Renucci]] réalise ''[[Sempre vivu !]]''son premier long-métrage en Corse dans le village de [[Olmi-Cappella]]. Le film est tourné en [[langue corse]] et raconte des petites histoires et confrontations entre villageois (''paisani'').
+
+En [[2008 au cinéma|2008]] sort ''[[Un prophète]]'', un [[film français]] réalisé par [[Jacques Audiard]]. Présenté en compétition officielle lors du [[Festival de Cannes 2009]], il y a obtenu le [[Grand prix du jury (Festival de Cannes)|Grand prix du jury]]. Quelques mois plus tard, il reçoit le [[Prix Louis-Delluc]]. Lors de la cérémonie des [[César du cinéma 2010]], il gagne neuf récompenses dont celles du [[César du meilleur film|meilleur film]] et du [[César du meilleur réalisateur|meilleur réalisateur]]. Il est sorti en salles le {{date|26|août|2009|au cinéma}} et a comptabilisé {{nombre|1249000|entrées}}<ref>Cinéfeed, [http://www.cinefeed.com/box-office/nombre-entrees-un-prophete.html Box Office 2009].</ref>. Le film est tourné en partie en [[langue corse]].
+
+En [[2011 au cinéma|2011]] sort ''I Tercani'', un [[film français]] tourné entièrement en langue corse, réalisé par Magà Ettori et présenté en avant-première mondiale à Florence lors des ''50 Giorni di Cinema Internazionale a Firenze''<ref>[http://www.odeon.intoscana.it/news_view.php?id=227 50 Giorni di Cinema Internazionale a Firenze].</ref>{{,}}<ref name="Lien 2">[http://info.club-corsica.com/italia_146_001.html article I Tercani de Magà Ettori - Magazine Corsica, décembre 2011].</ref>.
+
+Conseiller cinéma auprès du Conseil Économique Social et Culturel Corse<ref>[http://www.corse.fr/Le-Conseil-economique-social-et-culturel-de-Corse-CESC-de-Corse_a409.html Conseil Économique Social et Culturel Corse].</ref> (CESCC), [[réalisateur]] et président de l'Institut Régional du Cinéma et de l'Audiovisuel - Corse (IRCA)<ref name="Lien 3">[http://www.corsicacinema.com Site officiel de l'Institut Régional du Cinéma et de l'Audiovisuel (IRCA)].</ref>, Magà Ettori est considéré comme le chef de file du Cinéma Corse Néo Contemporain<ref name="Lien 4">[http://www.corsenetinfos.fr/2011/12/18/rencontres-du-cinéma-corse-néo-contemporain-le-succès-du-laboratoire-de-la-création-insulaire/ Les Rencontres du Cinéma corse Néo Contemporain].</ref>.
+
+En [[2013 au cinéma|2013]], le réalisateur [[Thierry de Peretti]] coécrit et réalise le film ''[[Les Apaches]]'' présenté à la [[quinzaine des réalisateurs]] au [[Festival de Cannes 2013]]. Ce drame est basé sur un fait divers, l'assassinat d'un jeune issu de l'immigration à [[Porto-Vecchio]], sur fond de dérive mafieuse.
+
+En [[2017 au cinéma|2017]], Thierry de Peretti réalise ''[[Une vie violente (film, 2017)|Une vie violente]]'' qui raconte les affrontements entre bandes nationalistes corses rivales dans les années 1990. Le film est sélectionné dans le cadre de la Semaine de la critique au [[Festival de Cannes 2017]]. Le film est tourné en partie en [[langue corse]].
+
+Le Cinéma corse néo contemporain est le nom du mouvement cinématographique qui fait son apparition en Corse en 2008. La principale caractéristique de ce courant est de présenter le quotidien en l'état, en adoptant une position moyenne entre scénario, réalité et documentaire et en se servant à la fois de gens de la rue et d'acteurs professionnels pour apporter un maximum de réalisme et de véracité<ref name="Lien 5">[http://www.corsenetinfos.fr/2011/10/26/le-cin%C3%A9ma-corse-aux-50-journ%C3%A9es-internationales-de-florence/ Le Cinéma Corse Néo Contemporain pour la première fois dans un festival international].</ref>.
+
+=== Écrivains ===
+==== Écrivains en langue française ====
+{{colonnes|taille=30|
+* Paul Antonietti, ''I. F. F. (I Francesi Fora)''.
+* Anne-Xavier Albertini, ''Le Bar à tisanes''.
+* Daniel Arnaud, auteur de ''La Corse et l'idée républicaine'' et de ''Dernières nouvelles du front''.
+* [[Frédéric Bertocchini]], auteur d'ouvrages historiques, d'essais et scénariste de nombreuses bandes dessinées ou films.
+* Paule Calliste, ''Quand les pierres essaient de parler'', ''Les échos du casone'', ''D comme mensonge''.
+* [[Roger Caratini]], auteur de la Bordas Encyclopédie.
+* Xavier Casanova, auteur du ''Codex Corsicæ'' et des "Analecta Corsicæ".
+* Marie-Josée Cesarini-Dasso, ''L'Univers criminel féminin en Corse au {{s-|XVIII|e}}'', ''Brigida Médecin au {{s-|XVII|e}}'', ''La Bandite''.
+* [[Pierre-Paul Raoul Colonna de Cesari Rocca]], auteur de ''Histoire de la Corse'' avec [[Louis Villat]].
+* Gabriel Xavier Culioli, auteur de ''la Terre des Seigneurs'', ''Le Complexe corse'', ''Terres de Corse'', ''Les Pierres de l'apocalypse'', ''Le Chant des Saisons'', ''Le Grand Voyage'', ''Légendaire corse'', ''Bandits de Corse''.
+* [[Jacques Denis]], auteur de ''Forçats corses, déportations au bagne de Toulon, 1748-1873'', éditions Privat, Toulouse, 2011, ''Brève histoire des Cunsulte de Corse'', édition Fior di Carta, coauteur ''Des Jurassiens à la conquête de la Corse''.
+* [[Jean-Toussaint Desanti]], philosophe, auteur de ''Les idéalités mathématiques''.
+* [[Michel Ferracci-Porri]], ''La Môme Moineau'', ''Beaux Ténèbres, La Pulsion du Mal d'Eugène Weidmann.'', ''L'Affaire du Fantôme de Heilbronn'', ''Joyeuse encyclopédie anecdotique de la gastronomie''.
+* [[Marie Ferranti]]
+* [[Jérôme Ferrari]]
+* [[Marie-Hélène Ferrari]], auteur notamment de la série ''[[Les Aventures du commissaire Pierucci]]''.
+* Dom [[Jean Baptiste Gaï]], écrivain régionaliste.
+* [[Nicolas Giudici]]
+* [[Daniel Istria]], auteur de ''Pouvoirs et fortifications dans le nord de la Corse {{sp-|XI|e|-|XIV|e}}''.
+* Evelyne Luciani, Louis Belgodere et [[Dominique Taddéi]], auteurs de ''Trois prêtres Balanins au cœur de la révolution Corse''
+* abbé [[Mathieu Orsini]]
+* [[Thierry Ottaviani]], essayiste, auteur notamment de ''La Corse pour les Nuls''.
+* [[François de Negroni]]
+* [[Paul-François Paoli]]
+* [[Jean Pasqualini]], ''[[Prisonnier de Mao. Sept ans dans un camp de travail en Chine]]''.
+* Joachim Pierucci, auteur de nouvelles, poèmes et chansons
+* [[Pierre Piobb]]
+* Michel Poli, ''Le cimetière des éléphants''.
+* Moune Poli, ''la Corse au poing''.
+* [[Xavier Poli]], ''La Corse dans l'Antiquité et dans le haut Moyen Âge'' (1907).
+* [[Pierre Poggioli]], auteur de plusieurs livres sur l'histoire contemporaine corse et le nationalisme.
+* [[Angelo Rinaldi]]
+* [[Jean-Claude Rogliano]]
+* Dominique Sampieri, auteur de ''Les Châtaigniers de Bocognano'', ''La Faux et le fusil''
+* Jeanne-Hélène Sampieri, auteur de ''À propos d'Ajaccio...''
+* [[Jean-Pierre Santini]]
+* [[Petr'Anto Scolca]]
+* [[Marie Susini]]
+* [[Jean Venturini]] poète français d'origine corse<ref>Cf. l'article Jean-Bernard Venturini, dans ''Le Dictionnaire des Lettres françaises'', (vol. 6: Le {{s-|xx}}), Paris, LGF-Pochothèque, {{p.|1135}}.</ref>
+* Gilles Zerlini, auteur de ''Mauvaises nouvelles'' (2012), ''Chutes'' (2016), ''Sainte Julie de Corse et autres nouvelles'' (2019).Epuration (2021) Lettre à mes fantômes (2022).
+* [[Michel Zévaco]], auteur de romans de cape et d'épée dont la série des ''Pardaillan''.
+* [[François Luciani]], réalisateur, scénariste et écrivain.
+}}
+
+==== Écrivains en langue corse ====
+[[Fichier:Ajaccio Sanguinaires 1.jpg|vignette|[[Archipel des Sanguinaires|Les îles Sanguinaires]], à proximité d'[[Ajaccio]].]]
+
+* [[Marcu Biancarelli]] (1968-)
+* [[Santu Casanova]]
+* [[Ignace Colombani]] (1908-1988)
+* [[Jean-Joseph Flori]]
+* [[Don-Joseph Giansily]]
+* [[Petru Rocca]]
+
+==== Écrivains en langue italienne ====
+* [[Petru Giovacchini]]
+* [[Salvatore Viale]]
+
+Il existe des écrivains en langue corse, notamment depuis le {{s-|XIX|e}}, alors que jusqu'alors il avait plutôt existé une littérature corse en italien très importante. L'italien en Corse comme dans les autres régions italiennes était la langue écrite par les lettrés et cela jusqu'à la conquête française.
+
+==== Écrivains en langue corse et en français ====
+* Prete Gentili (Anghjulu-stefanu), de [[Calacuccia]] (avec ''Pascura'', un recueil de contes et proverbes)
+* [[Pierre Simon Cristofini#Activités de son épouse Marta Renucci|Marta Renucci Cristofini]]
+* Antoine Trojani, d'[[Asco]], a écrit de nombreux livres en corse et en français dont une histoire du « Sage d'Asco ».
+* [[Pierre Rossi]]
+* [[Ceccè Lanfranchi]]
+
+==== Poètes ====
+* Ghjuvanteramu Rocchi
+* [[Patrizia Gattaceca]]
+* [[Natale Sarocchi]] dit ''Natellulu di Rusiu''
+* Olivier Ancey
+
+==== Écrivains non corses ayant écrit à propos de la Corse ====
+* [[James Boswell]], ''Account of Corsica''
+* [[Honoré de Balzac]], ''La Vendetta''.
+* [[Alexandre Dumas]], ''Les Frères corses''.
+* [[Gustave Flaubert]], ''Voyage en Corse''.
+* [[Guy de Maupassant]], ''Un bandit corse'' et ''Une vendetta'' (dans ''Contes du jour et de la nuit'').
+* [[Prosper Mérimée]], ''Colomba et 10 autres nouvelles''.
+* [[Didier Daeninckx]], ''Têtes de Maures'' (2013).
+* [[Rorcha|Jérôme Magnier-Moreno]], ''Le Saut oblique de la truite'' (2017).
+
+== Religion ==
+=== Christianisme ===
+{{Article détaillé|Diocèse d'Ajaccio}}
+
+La [[religion]] dominante de la Corse est le [[catholicisme]] où 91,7 % des habitants se déclarent catholiques. Le diocèse d'Ajaccio comprenait en 2015, 434 [[paroisse]]s, et 71 [[Prêtre catholique|prêtres]]<ref>[http://www.catholic-hierarchy.org/ ''The Hierarchy of the Catholic Church''. Current and historical information about its bishops and dioceses].</ref>.
+
+Un pèlerinage important a lieu, à chaque 8 septembre, à Notre-Dame de [[Pancheraccia]]<ref>France SAMPIERI, ''Marie, Reine de Corse'', [[Éditions de Paris]], 2012, 326 pages.</ref> où la [[Pancheraccia#Histoire|Vierge Marie apparut]] à une enfant perdue et assoiffée au {{s|XVIII|e}}.
+
+À l'instar des gardes suisses, il exista aussi une [[Garde corse]] pour le Vatican. De nos jours, la liturgie est célébrée en français bien que des offices y soient aussi menés ponctuellement en latin ; en outre, la réalisation d'un missel en [[Corse (langue)|corse]] est à l'étude. Plusieurs archiconfréries contribuent aussi à la vie catholique de l'île. [[Sainte Dévote]] est la [[Saint patron|sainte patronne]] de l'île.
+
+=== Croyances et superstitions ===
+Les croyances populaires en Corse sont encore aujourd'hui très largement imprégnée de cultures et coutumes païennes, probablement héritières de cultes antérieurs au christianisme. La pratique de l'''Ochju'' (rituel consistant à chasser le mauvais œil), et le [[mazzérisme]] en sont les exemples les plus célèbres.
+
+==== Le mazzérisme ====
+Le [[mazzérisme]] est un don hypothétique de prophétie funèbre exercé la nuit par des individus pendant la période des rêves. Au cours de cette activité, le mazzeru part chasser et tuer des animaux. On le surnomme « le Chasseur d'âmes » ou encore « le Messager de la Mort ». Certains auteurs estiment que le mazzérisme est une invention de romanciers et n'a jamais existé en Corse<ref>Bernard Biancarelli et Christine Bonardi, ''De quelques monstres anthropologiques insulaires'', ''Ethnologie Française'' {{numéro|3}}, 2008 {{ISBN|978-2-13-056600-7}}.</ref>.
+
+==== Les jours des morts ====
+Le {{1er}} novembre sont célébrés « ''I Santi'' » (Les Saints), jour de recueillement où les cimetières s’animent vivement afin d'honorer les ancêtres et d'établir un contact avec les morts. Pour repousser les ténèbres et ouvrir la voie aux défunts, on recouvre les tombes de fleurs et de bougies.
+
+Pendant la nuit de la [[Toussaint]], on sonne les cloches pour réveiller les morts ; ceux-ci sont alors supposés revenir là où ils ont vécu. La coutume veut qu’on ajoute un couvert pour le défunt et qu'avant d'aller dormir, on pose sur la table ou au rebord de la fenêtre, un pain et de l’eau, ou bien du lait et des châtaignes. À [[Bonifacio]], on laisse en offrande le célèbre « ''Pane di i morti'' » (Pain des Morts). La négligence de ces rituels déclencherait la colère des défunts, qui en conséquence perturberaient allègrement les familles en provoquant une tourmente nommée « ''a timpesta di i morti'' » (la tempête des morts).
+
+=== Franc-maçonnerie ===
+{{refnec|Les plus anciennes loges de Corse datent de 1902 (l'Étoile de Cyrnos), puis de 1903 (l'Émancipation Ajaccienne). Au début de la seconde guerre mondiale la [[franc-maçonnerie]] a pratiquement disparu de Corse. À partir des années 1970, elle reprend force et vigueur.}} Dans une interview donnée à un magazine local, René Lotta, un haut dignitaire de la [[Grande Loge nationale française]] (GLNF) affirme même qu'un Corse sur 100 serait franc-maçon<ref>{{Lien web| url = http://info.club-corsica.com/soc_107_006.html | titre = Un Corse sur 100 est franc-maçon| auteur = [[Antoine Albertini]]| année= 2008 | mois = août| site = [http://info.club-corsica.com/ Corsica] | consulté le = {{date-|23|juillet|2011}}}}.</ref>.
+
+== Internet ==
+La Corse fait partie des {{Nombre|75|régions}}, villes ou territoires dans le monde à disposer de son propre [[domaine de premier niveau]].
+[[.corsica]] est une extension internet (au même titre que [[.fr]], ou [[.com]]) qui s’adresse aux institutions, entreprises, associations et personnes souhaitant mettre en avant leur attachement à la Corse dans leurs communications sur internet et leurs sites web. L'extension .corsica peut être utilisée pour leur [[site web]] et leur [[adresse électronique]]. Cette extension internet est commercialisée depuis septembre 2015.
+
+En France, seules quatre régions ou territoires ont obtenu de l'{{Langue|en|[[Internet Corporation for Assigned Names and Numbers]]}} (ICANN), l'organisme de régulation mondiale, la possibilité d'exploiter leur propre extension internet : la Corse ([[.corsica]]), la Bretagne ([[.bzh]]), l'Alsace ([[.alsace]]) et Paris ([[.paris]]).
+
+== Gastronomie ==
+{{Article détaillé|Cuisine corse}}
+
+La gastronomie corse est étroitement liée aux principaux produits du terroir : la culture des oliviers, de la vigne, de la [[châtaigne]] et des [[agrume]]s, la [[charcuterie]] de porc, le lait et le [[Fromages au lait de brebis|fromage de brebis]], comme celui de [[chèvre]].
+
+C'est traditionnellement une cuisine de montagnards même si les produits de la pêche sont devenus plus importants, essentiellement grâce à la disparition du [[paludisme]] des côtes et à la tradition corse d'[[Ostréiculteur|ostréiculture]] et de [[mytiliculture]] héritée des [[Empire romain|Romains]].
+
+Il existe en Corse deux types d'huiles d'olive. L'une est plus verte ; elle est produite en décembre et janvier, à partir d'oliviers jeunes et d'olives en début de maturation. L'autre est une huile jaune, propre à la culture corse ; elle est faite à partir des olives ramassées sous des arbres centenaires vers le mois de mai.
+
+[[Fichier:Cap Corse musée Bastia.jpg|vignette|Objets publicitaires pour le "Cap Corse Mattei".]]
+
+Parmi les spécialités, il faut noter :
+* les boissons alcoolisées, dont :
+** le Cap Corse, qui est un apéritif à base de vin et d'une plante médicinale, le [[quinquina jaune|quinquina]]. Les marques les plus connues sont le Cap Corse Mattei et le Cap Corse Damiani
+** le [[Pastis Dami]] ;
+** les digestifs : eau de vie, [[liqueur de myrte]], de châtaigne, [[cédratine|de cédrat]], d'arbouse, etc.
+** la bière corse à la châtaigne : la [[Brasserie Pietra|Pietra]] ;
+** le whisky corse [[Distillerie Mavela|P&M]] ;
+** les vins rouges ou blancs regroupés sous la dénomination [[vin de Corse (AOC)]] ;
+* la [[charcuterie corse]] : le [[prisuttu]], la [[coppa]], le [[lonzu]], le [[figatellu]], la salciccia, u salamu ;
+* les [[Liste de fromages corses|fromages corses]] : le [[Bastilicacciu]], le [[Calinzanincu]], le [[Niolo (fromage)|Niulincu]], le [[Sartinesu]], le [[Venaco (fromage)|Venachese]], la tomme corse ;
+* le [[brocciu]], fromage frais de brebis ;
+* les beignets (fritelli dans le Nord de l'île, friteddi dans le Sud) de [[brocciu]] (fromage de lait caillé de brebis) ;
+* le [[migliacciu]], préparation salée à base de fromage de chèvre ou de brebis ;
+* les sardines à la bastiaise ;
+* la pulenda, une [[polenta]] de farine de châtaigne ;
+* les nicci, crêpes à base de farine de châtaigne ;
+* le [[Chèvre|cabri]] en sauce (avec sa polenta de farine de châtaigne) ;
+* le [[civet de sanglier]] ;
+* les [[canistrelli]], biscuits parfumés au citron, à l'anis, à la châtaigne, à l'amande, au vin, ou nature ;
+* les oliose, biscuits à l'huile d'olive (Balagne)
+* la tourte de farine de châtaigne, les [[falculelle]], le [[fiadone]] ou le [[pastizzu]], les crustulle ;
+* le [[Pesto|pestu]] : sauce au basilic se mariant avec divers ingrédients selon les régions de Corse ;
+* l'anciulata est un chausson rectangle de pâte brisée fourré au confit d'oignons poivré ;
+* les aubergines farcies : demi-aubergines farcies de viande hachée et d'ail, gratinées au four et servies avec une sauce tomate et basilic, [[aubergines à la bonifacienne]] ;
+* les [[miel]]s [[Appellation d'origine contrôlée|AOC]] de Corse.
+
+Au temps des [[Rome antique|Romains]], {{citation|les Corses se nourrissent principalement de lait, de viande et de miel. Nous sommes dans un pays de simple culture… Le miel corse que les matrones romaines utilisaient pour faire disparaître les taches de rousseur devait être fourni, au lieu et place de la monnaie, pour le paiement des impôts}}<ref name="X. Poli"/>.
+
+== Sport ==
+* Le [[football]] est un sport populaire et très bien représenté en ligue professionnelle par rapport au poids démographique et économique de l'île. Pour la saison 2022-2023, le club de l'[[Athletic club ajaccien|AC Ajaccio]] est le porte-drapeau du football corse, évoluant en Ligue 1. C'est le premier club corse à avoir joué en Ligue 1 (1967) et le seul club à avoir réalisé cinq podiums dans un championnat professionnel (1967, 2002, 2011, 2018 et 2020). En National, évolue le club du [[Sporting Club de Bastia|SC Bastia]], club le plus titré de l'île ([[Coupe de France de football|Coupe de France]] en 1981 et une finale de [[Coupe UEFA]] en 1978). Le FC Bastia-Borgo évolue également en National. Le [[Gazélec Football Club Ajaccio|GFC Ajaccio]] évolue en National 2 lors de la saison 2020-2021. La principale rivalité sur l'île oppose le SCB à l'ACA, les deux clubs ayant un long passé en Ligue 1 (20 derbys en L1 entre les deux équipes). En National 3 enfin, nous retrouvons la réserve professionnelle de l'ACA, ainsi que Corte, Furiani et le Gallia Lucciana.
+* En [[rugby à XV]], un club (SC Bastia XV) évoluait en championnat national de fédérale 1 mais des raisons financières les ont relégués en fédérale3. Les autres clubs sont situés en Balagne (le CRAB XV Lumio), à Bastia (Bastia XV, Casinca XV), à Lucciana (RC Lucciana), Porto-Vecchio (ASPV XV et RCOPV XV) Ajaccio (RCA), à Ventiseri, à Propriano (Alta-Rocca XV) et à Corte. Henry Savary occupe actuellement le siège de président, André Giammarchi le poste de vice-président et Fabrice Orsini est secrétaire général. Le comité régional présente au niveau national des sélections corses dans toutes les catégories de jeunes, ainsi qu'en féminines.
+* En handball masculin, le [[GFC Ajaccio Handball]] évolue en Nationale 2 et le club du HB Corte en Nationale 3. En handball féminin, le Handball Ajaccio Club évolue en Nationale 2.
+* En [[volley-ball]], le [[GFC Ajaccio Volley-Ball|GFC Ajaccio]] accède en 2007 à la PRO A ; vainqueur de la [[Coupe de France de volley-ball masculin|Coupe de France]] en 2016 et 2017.
+* En basket-ball masculin, l'Étoile Filante Olympique de Bastia évolua en Nationale 4 de 1995 à 2002, année d'accession en Nationale 3, où il est ensuite resté jusqu'en 2005. Le club de Vescovato passa plusieurs saisons dans les championnats nationaux, sa dernière saison fut celle de 2012-2013. En basket-ball féminin, Furiani Basket Club, évolue en [[Championnat de France de basket-ball de Nationale féminine 3|Nationale 3]].
+* En [[compétition automobile]], le [[Tour de Corse]] est un des plus grands rendez-vous des rallyes sur asphalte. De plus, les pilotes corses sont réputés rapides à l'image d'[[Yves Loubet]], [[Pierre Orsini]] (Pierrot) triple vainqueur du Tour de Corse, [[Patrick Bernardini]] ou encore Paulu-Battistu Halter.
+* Il y a aussi 4 [[Station de sports d'hiver|stations de ski]] sur l'île : [[Asco-Stagnu]], le [[Val d'Ese]], le [[col de Vergio]] et [[Ghisoni-Capanelle]].
+* L'absence de grandes vagues due au fait que la Corse se situe en Méditerranée, ainsi que le vent fort et régulier en fait un lieu idéal pour la pratique de la [[nautisme (voile)|voile]] comme la [[planche à voile]] et le [[kitesurf]]. La baie de Figari s'est imposée comme un spot incontournable de l'île dans ce domaine.
+* En [[Nautisme (voile)|voile]], le Festival Nautic & Music regroupe plusieurs compétitions nautiques. Le Tour de Corse à la voile en équipage rassemble plusieurs dizaines de bateaux chaque année à la mi-octobre. Le Club de Voile de Bonifacio organise la régate de catamarans de sport lors du Raid des Bouches de Bonifacio. Il organise également le Défi Inter-Iles (mi-septembre), compétition de windsurf entre la Corse et la Sardaigne.
+* En [[cyclisme]], il existe un [[Tour de Corse cycliste]]. À noter que le tour de France 2013 est parti de Corse pour la première fois.
+* En [[Football en salle|futsal]], la Corse est présente depuis 2008 au sein de l'[[Union nationale des clubs de futsal]] (UNCFs). Deux de ses clubs ([[Bastia Agglo Futsal]] et l'USJ Furiani Futsal) sont présents dans les championnats nationaux pour la saison 2018-2019. La ligue corse a un club européen après sa troisième année d'existence. Il y a plus de 15 clubs en 2009, et 300 licenciés.
+* le [[Sentier de grande randonnée 20]], lieu réputé de la [[randonnée dans les îles de Méditerranée]], a un parcours très sportif et en altitude.
+
+=== Sportifs professionnels ===
+[[File:PortoVecchioport2020.jpg|vignette|Vue du port de commerce de [[Porto-Vecchio]].]]
+{{colonnes|taille=|nombre=2|
+* [[Morhad Amdouni]], né à [[Porto-Vecchio]]
+* [[Chahir Belghazouani]], né à [[Porto-Vecchio]]
+* [[Chaouki Ben Saada]], né à [[Bastia]]
+* [[Pascal Berenguer]], originaire de [[Corte]]
+* [[Rémy Cabella]], né à [[Ajaccio]]
+* [[Yannick Cahuzac]], né à [[Ajaccio]]
+* [[Laurent Casanova]], né à [[Bastia]]
+* [[Johan Cavalli]], né à [[Ajaccio]]
+* [[Gilles Cioni]], né à [[Bastia]]
+* [[Dominique Colonna]], né à [[Corte]]
+* [[Gary Coulibaly]], né à [[Bastia]]
+* [[Jean-Marie De Zerbi]], né à [[Bastia]]
+* [[Karim El Hany]], né à [[Sartène]]
+* [[Laurent Emmanuelli]], de [[Vescovato]]
+* [[Jean-François Exiga]], né à [[Ajaccio]]
+* [[Mathieu Flamini]], originaire de [[Guagno]]
+* [[Georges Franceschetti]], né à [[Bastia]]
+* [[Ludovic Giuly]], originaire de [[Zalana]]
+* [[Priscilla Gneto]], née à [[Porto-Vecchio]]
+* [[Wahbi Khazri]], né à [[Ajaccio]]
+* [[Jean-Louis Leca]], né à [[Bastia]]
+* [[Cécile Lignot]], né à [[Bastia]]
+* [[Anthony Lippini]], né à [[Bastia]]
+* [[Grégory Lorenzi]], né à [[Bastia]]
+* [[Vincent Marchetti]], né à [[Ajaccio]]
+* [[Paul Marchioni]], né à [[Corte]]
+* [[Jean Marcialis]], né à [[Ajaccio]]
+* [[Pierre Mignoni]], de [[Vescovato]]
+* [[François Modesto]], né à [[Bastia]]
+* [[Pascal Olmeta]], né à [[Bastia]]
+* [[Charles Orlanducci]], de [[Vescovato]]
+* [[Julian Palmieri]], originaire d'[[Omessa]]
+* [[Olivier Pantaloni]], né à [[Bastia]]
+* [[Claude Papi]], né à [[Porto-Vecchio]]
+* [[José Pasqualetti]], né à [[Bastia]]
+* [[Nicolas Penneteau]], originaire de [[Porto-Vecchio]]
+* [[Jean-Baptiste Pierazzi]], né à [[Ajaccio]]
+* [[Louis Poggi]], né à [[Bastia]]
+* [[Adil Rami]], né à [[Bastia]]
+* [[Bruno Rodriguez (football)|Bruno Rodriguez]], né à [[Bastia]]
+* [[Etienne Sansonetti]], né à [[Ajaccio]]
+* [[Paul Sinibaldi]], né à [[Montemaggiore]]
+* [[Paul Squaglia]], né à [[Bastia]]
+* [[Sébastien Squillaci]], originaire de [[Ghisonaccia]]
+* [[Jean-Claude Tosi]], né à [[Bastia]]
+* [[Matteo Tramoni]], né à [[Ajaccio]]
+}}
+
+== Notes et références ==
+=== Notes ===
+{{Références|groupe=N}}
+
+=== Références ===
+{{Références nombreuses|taille=30 | références=
+
+<ref name="1septembre2002_lexpansion.lexpress.fr">{{ lien web | titre=Littoral corse : propriété explosive" |auteur= Walter Bouvais | date=1 septembre2002 | site=[[L'Express]] | url=https://lexpansion.lexpress.fr/actualite-economique/littoral-corse-propriete-explosive_1329809.html }}.</ref>
+
+}}
+
+== Voir aussi ==
+{{Autres projets
+| commons           = Category:Corsica
+| commons titre     = Corse
+| wiktionary        = Corse
+| wiktionary titre  = Corse
+| wikiversity       = Département:Corse
+| wikiversity titre = Département de corse
+| wikibooks         = Enseignement du corse
+| wikibooks titre   = Cours de langue corse
+| wikisource        = Catégorie:Corse
+| wikisource titre  = Textes sur la Corse
+}}
+{{Interwiki|co|corse}}
+{{catégorie principale}}
+
+=== Bibliographie ===
+* {{Ouvrage |lang= fr |libellé= Antonetti 1990 |auteur1= Pierre Antonetti |titre= Histoire de la Corse |éditeur= [[Robert Laffont]] |date= 1990 |pages totales= 502 |isbn= 2221068629}}.
+* {{Ouvrage |libellé= Arrighi & Jehasse 2013 |auteur1= Jean-Marie Arrighi |lien auteur1= Jean-Marie Arrighi |auteur2= Olivier Jehasse |titre= Histoire de la Corse et des Corses |éditeur= Colonna Édition et Perrin |date= 2013 |pages totales= 564 |isbn= 2262042543}}.
+* {{Ouvrage |libellé= Arrighi & Pomponi 1992 |auteur1= Jean-Marie Arrighi |lien auteur1= Jean-Marie Arrighi |auteur2= Francis Pomponi |titre= Histoire de la Corse |éditeur= PUF |collection= ue Sais-Je |numéro dans collection= 262 |date= 1992 |pages totales= 128 |isbn= 978-2-13-053372-6 |présentation en ligne= {{Gallica|n=bpt6k1002327g}}}}.
+* {{Article |libellé= Casanova 1985 |auteur= Antoine Casanova |lien auteur= Antoine Casanova |titre= Caractères originaux et cheminements de la Révolution en Corse (1789-1797) |périodique= Annales historiques de la Révolution française |date= 1985 |numéro= 260 |pages= 140-172 |lire en ligne= https://www.persee.fr/doc/ahrf_0003-4436_1985_num_260_1_1108 |format= sur ''persee''}}.
+* {{chapitre |libellé= Colombani 2008 |auteur= Philippe Colombani |titre chapitre= Les relations entre la Corse et l'Aragon aux {{sp-|XIV|et|XV}}s |titre ouvrage= [https://cths.fr/ed/edition.php?id=1218 L'espace politique méditerranéen] |nature ouvrage= Actes du {{128e}} Congrès national des sociétés historiques et scientifiques, « Relations, échanges et coopération en Méditerranée », Bastia |collection= Actes des congrès nationaux des sociétés historiques et scientifiques |numéro dans collection= 128-3 |date= 2008 |lieu= Paris |éditeur= Éditions du CTHS |pages= 27-32 |lire en ligne= https://www.persee.fr/doc/acths_1764-7355_2008_act_128_3_1327 |format= sur ''persee''}}.
+* {{Ouvrage |libellé= Colonna & Villat 1916 |auteur1= Pierre Colonna |lien auteur1= Pierre-Paul Raoul Colonna de Cesari Rocca |auteur2= Louis Villat |lien auteur2= Louis Villat |titre= Histoire de Corse |lieu= Paris |éditeur= (Ancienne Librairie Furne) Boivin & Cie |date= 1916 |pages totales= 279 |isbn= 978-2-8240-0681-9}}.
+* {{Ouvrage |libellé= Costa 2004 |prénom1= Laurent-Jacques |nom1= Costa |titre= Corse préhistorique |lieu= Paris |éditeur= [[Éditions Errance]]|date= 2004 |présentation en ligne= https://www.persee.fr/doc/bspf_0249-7638_2004_num_101_4_13083}}.
+* {{Ouvrage |libellé= Cursay 2008 |prénom1= Marc |nom1= de Cursay |titre= Corse, la fin des mythes |éditeur= Éditions Lharmattan |collection= Questions contemporaines |lieu= Paris |date= 2008 |pages totales= 306 |isbn= 978-2-296-05539-1 |présentation en ligne= https://www.editions-harmattan.fr/livre-corse_la_fin_des_mythes_marc_de_cursay-9782296055391-25929.html}}.
+* {{Article |libellé= Franzini 2010 |langue= fr |auteur1= Antoine Franzini |titre= Les premières cartes chorographiques de la Corse à la fin du {{s-|XV}}, un outil de gouvernement |périodique= Mélanges de l'École française de Rome |tome= 122 |numéro= 2 |date= 2010 |pages= 347-377 |lire en ligne=https://journals.openedition.org/mefrm/611 |format= sur ''journals.openedition.org'' |consulté le= 10/2021}}.
+* {{Ouvrage |libellé= Grossa & Monteggiani |auteur1= Giovanni della Grossa |lien auteur1= Giovanni della Grossa |auteur2= Pier’ Antonio Monteggiani |titre= Chronique médiévale corse |nature ouvrage= Histoire de Corse écrite au {{s-|XV}} par un notaire d'un village du sud de l'île, dont il existe plusieurs versions (voir la présentation en ligne) |éditeur= |date= |présentation en ligne= https://journals.openedition.org/cem/17847}} :
+** {{Ouvrage |langue= fr |prénom1= Lucien Auguste |nom1= Letteron |lien auteur1= Lucien Auguste Letteron |titre= Le Croniche di Giovanni della Grossa e di Pier’ Antonio Monteggiani |lieu= Bastia |éditeur= impr. & libr. C. Piaggi |date= 1910 |pages totales= <small>XXIV</small>-548 |lire en ligne=}}.
+** {{Ouvrage |libellé= Giacomo-Marcellesi & Casanova 1998 |langue= fr |auteur1= Giovanni della Grossa |lien auteur1= Giovanni della Grossa |auteur2= abbé Letterron |responsabilité2= trad. |lien auteur2= Lucien Auguste Letteron |auteur3= Mathée Giacomo-Marcellesi |auteur4= Antoine Casanova |lien auteur4= Antoine Casanova |responsabilité4= éds. |titre= Chronique médiévale corse |nature ouvrage= éd. bilingue |lieu= Ajaccio |éditeur= édition La Marge |date= 1998 |pages totales= <small>XLV</small>-481 |isbn= 2-86523-130-5 |lire en ligne=}}.
+* {{Ouvrage |libellé= Gamisans & Marzocchi 1996 |auteur1= Jacques Gamisans |auteur2= Jean-François Marzocchi |titre= La flore endémique de la Corse |lieu= Aix-en-Provence |éditeur= Edisud |date= 1996 |pages totales= 208 |pages= 200 |isbn= 978-2-85744-777-1 }}.
+* {{Ouvrage |libellé= Gil 1984 |langue= fr |auteur1= José Gil |lien auteur1= José Gil |titre= La Corse - Entre la liberté et la terreur |éditeur= Éditions La Différence |date= 1984 |isbn= |lire en ligne=}}.
+* {{Ouvrage |libellé= Graziani & Vergé-Franceschi |auteur1= Antoine-Marie Graziani |lien auteur1= Antoine-Marie Graziani |auteur2= Michel Vergé-Franceschi |titre= Sampiero Corso |lieu= Ajaccio |éditeur= Éditions Alain Piazzola |date= pages totales= |isbn= }}.
+* {{Ouvrage |libellé= Ichter, Touroult & Dusoulier 2021 |langue= fr |auteur1= Jean Ichter |auteur2= Julien Touroult |auteur3= François Dusoulier |responsabilité3= coordinateurs du rapport |et al.= oui |titre= Bilan scientifique des expéditions terrestres 2020. Agriate, Capicorsu et Saint-Florent |éditeur= MNHN|nature ouvrage= Projet « ''La Planète revisitée - Un renouveau des grandes expéditions naturalistes'' ». Partie « ''La Planète Revisitée en Corse'' » |date= février 2021 |pages totales= 69 |lire en ligne= https://inpn.mnhn.fr/docs-web/docs/download/364029 |format= pdf sur ''inpn.mnhn.fr''}}.
+* {{Ouvrage |libellé= Istria 2005 |auteur1= Daniel Istria |lien auteur1= Daniel Istria |titre= Pouvoirs et fortifications dans le nord de la Corse du {{sp-|XI|au|XIV|}} |éditeur= Éditions Alain Piazzola |lieu= Ajaccio |date= 2005 |pages totales= 517 |isbn= 978-2-915410-14-3 }}.
+* {{Ouvrage |libellé= Jollivet 1892 |langue= fr |auteur1= Maurice Jollivet |titre=La « Révolution française » en Corse. Paoli - Bonaparte - Pozzo di Borgo (d'après des documents nouveaux) |lieu= Paris |éditeur= Revue de la France moderne |date= 1892 |pages totales= 224 |lire en ligne= https://archive.org/stream/larvolutionfran01jollgoog#page/n10/mode/2up |format= sur ''archive.org''}}.
+* {{Ouvrage |libellé= Letteron 1888 |prénom1= Lucien Auguste |nom1= Letteron |lien auteur1= Lucien Auguste Letteron |titre= Histoire de la Corse, comprenant la description de cette île d'après A. Giustiniani, les chroniques de Giov. Della Grossa & de Monteggiani remaniées par [[Marc' Antonio Ceccaldi|Ceccaldi]], la chronique de Ceccaldi et la chronique de Filippini |tome= I |lieu= Bastia |éditeur= Imprimerie et Librairie Veuve Eugène Ollagnier |date= 1888 |pages totales= 502 |lire en ligne= {{Gallica|n=bpt6k480065p}}}}.
+* {{Ouvrage |libellé= Letteron 1889 |prénom1= Lucien Auguste |nom1= Letteron |lien auteur1= Lucien Auguste Letteron |titre= Histoire de la Corse… |tome= II |lieu= Bastia |éditeur= Imprimerie et Librairie Veuve Eugène Ollagnier |date= 1889 |pages totales= 170 |lire en ligne= {{Gallica|n=bpt6k4800662}}}}.
+* {{Ouvrage |libellé= Letteron 1890 |prénom1= Lucien Auguste |nom1= Letteron |lien auteur1= Lucien Auguste Letteron |titre= Histoire de la Corse… |tome= III |lieu= Bastia |éditeur= Imprimerie et Librairie Veuve Eugène Ollagnier |date= 1890 |pages totales= 245 |lire en ligne= {{Gallica|n=bpt6k480067f}}}}.
+* {{Ouvrage |libellé= Massiani 1991 |auteur1= Stéphane Massiani |préface= Pr Pedinielli |titre= La Corse... et ses chapelles romanes |lieu= Marseille |éditeur= Imprimerie A. Robert |date= 1991 |pages totales= 154 }}.
+* {{Ouvrage |libellé= Massiani 1972 |auteur1= Stéphane Massiani |préface= vice-amiral d'escadre de Lachadenede, membre de l'Académie du Var |titre= La Corse... et ses merveilles |lieu= Marseille / Ollioules |éditeur= éds. Grand Large |date= 1972 |pages totales= 200 |présentation en ligne= https://www.association-asco.fr/l-asco/acheter-le-livre-la-corse-et-ses-chapelles-romanes/}}.
+* {{Ouvrage |libellé= Ottaviani 2010 |auteur1=Thierry Ottaviani |lien auteur1= Thierry Ottaviani |titre= La Corse pour les Nuls |lieu= Paris |éditeur= éd. First |date= 2010 |pages totales= 516 }}.
+* {{Ouvrage |libellé= Ottaviani 2013 |auteur= Thierry Ottaviani |titre= La Corse des écrivains |lieu= Paris |éditeur= éds. Alexandrines |date= 2013 |pages totales= 253 }}.
+* {{Ouvrage |libellé= Poli 1907 |auteur1= Xavier Poli |lien auteur1= Xavier Poli |titre= La Corse dans l'Antiquité et le Haut moyen Âge |lieu= Paris |éditeur= Librairie Albert Fontemoing |date= 1907}}.
+* {{Ouvrage |libellé= Perfettini 2014 |langue= fr |prénom1= Francescu-Maria |nom1= Perfettini |titre= Histoire de Corse : Le point de vue corse |éditeur= Yoran |date= 2014 |pages totales= 378 |isbn= 978-2-36747-008-5 }}.
+* {{Ouvrage |libellé= Pomponi 1979 |langue= fr |auteur1= Francis Pomponi |titre= Histoire de la Corse |éditeur= Hachette Littératures |date= 1979 |pages totales= 447 |isbn= 978-2-01-003859-4 |présentation en ligne= https://www.leslibraires.fr/livre/1303619-histoire-de-la-corse-francis-pomponi-hachette}}.
+* {{Chapitre |libellé= Pomponi 2001 |langue= fr |auteur1= Francis Pomponi |titre chapitre= Territoires et espaces d'appartenance en Corse |auteurs ouvrage= Christian Bromberger & Alain Morel |titre ouvrage= Limites floues, frontières vives |lieu= Paris |éditeur= Éditions de la Maison des sciences de l'homme |date= 2001 |passage= 163-182 |isbn= 978-2-73510908-1 |lire en ligne= http://books.openedition.org/editionsmsh/2919?lang=fr |format= sur ''books.openedition.org'' |consulté le= 10/2021}}.
+* {{Ouvrage |libellé= Ramelet-Stuart 2010 |auteur1= Desideriu Ramelet-Stuart |titre= Stuart of Corsica, l'origine dévoilée |lieu= Bastia |éditeur= éd. Stuart of Corsica |date= 2010 |pages totales= 80 |lire en ligne= http://stuart-corsica.com/stuartofcorsica.pdf |format= pdf sur ''stuart-corsica.com''}}.
+* {{Ouvrage |libellé= Scalfati 1994 |auteur1= Silio Scalfati |préface= [[Antoine-Marie Graziani]] |titre= La Corse médiévale |lieu= Ajaccio |éditeur= Association Pandetta Corsica / Éditions Alain Piazzola |date= 1994 |pages totales= 430 |isbn= |présentation en ligne= https://www.persee.fr/doc/bec_0373-6237_1995_num_153_2_450789_t1_0520_0000_001}}.
+* {{Ouvrage |libellé= Valery (Pasquin) 1837 |prénom1= Antoine Claude |nom1= Pasquin dit Valery |lien auteur1= Antoine Claude Pasquin |titre= Voyages en Corse, à l'île d'Elbe et en Sardaigne |tome= I |lieu= Paris |éditeur= librairie de L. Bourgeois-Maze |date= 1837 |pages totales= 425 |lire en ligne= {{Gallica|n=bpt6k208125g}}}}.
+* {{Ouvrage |libellé= Vergé-Franceschi 1996 |auteur1= Michel Vergé-Franceschi |lien auteur1= Michel Vergé-Franceschi |préface= [[Emmanuel Leroy-Ladurie]] |titre= Histoire de Corse, le pays de la grandeur |nature ouvrage= 2 tomes. T. 1 : ''Des origines au {{s-|XVII}}'', 581 p. ; t. 2 : ''Du {{s-|XVII}} à nos jours''. [https://www.lebouquetdesbibliotheques.fr/recherche/viewnotice/clef/HISTOIREDECORSE-LEPAYSDELAGRANDEUR-VERGEFRANCESCHIM-02-FELIN-1996-1/id/235098 Prix Hercule Catenacci] de l'[[Académie des Sciences morales et politiques]] |éditeur= Éditions du Félin |date= 1996 |réimpression= 2010, 2019 |pages totales= 585 |isbn= 978-2-86645-891-1 |présentation en ligne= https://www.persee.fr/doc/dhs_0070-6760_1999_num_31_1_2321_t1_0612_0000_3}}.Commentaire biblio|
+* {{Ouvrage |libellé= Guide 1994 |langue= fr|préface= [[Bernard Bosson]] |titre= Provence-Alpes-Côte d'azur : Corse, Guide de tourisme industriel et technique, Monuments, étapes et curiosités |lieu= Paris |éditeur= Électricité de France et Éditions Solar (Groupe de la cité) |collection= EDF – La France contemporaine |date= mai 1994 |pages totales= 151 |isbn= 2-263-01872-7 }}.
+* {{Ouvrage |libellé= Collectif 1976 |langue= fr|titre= Spécial Corse |nature ouvrage= textes par Louis Delacarte, Paul Carenco, Michèle Bergery, Bernard Saint-André |éditeur= |collection= Vie du rail |numéro dans collection= 1536 |date= 28 mars 1976 |pages totales= 59 |présentation en ligne= https://www.livre-rare-book.com/book/5472496/R110089703/en |lire en ligne=}}.
+
+=== Articles connexes ===
+{{colonnes|taille=30|
+* [[Histoire de la Corse]]
+* [[Géographie de la Corse]]
+* [[Parc naturel régional de Corse]]
+* [[Politique en Corse]]
+* [[Université de Corse Pascal-Paoli]]
+* [[Corse (langue)|Langue corse]]
+* [[Nationalisme corse]]
+* [[Crime organisé corse]]
+}}
+
+=== Liens externes ===
+* {{Autorité}}
+* {{Bases}}
+* {{Dictionnaires}}
+* [https://www.corse.fr/ Collectivité territoriale de Corse]
+* [https://emploi.corsica Emploi en Corse]
+* [http://www.prefectures-regions.gouv.fr/corse Préfecture de région]
+
+{{Palette|Massifs montagneux de France|Provinces historiques de France|Régions et territoires de France|Départements et métropole à statut de collectivité territoriale français}}
+{{Portail|îles|mer Méditerranée|Corse|régions de France}}
+
+[[Catégorie:Corse|*]]
+[[Catégorie:Chaîne pyrénéo-provençale]]
+[[Catégorie:Division administrative fondée en 1970]]
+
